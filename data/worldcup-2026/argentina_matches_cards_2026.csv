@@ -1,0 +1,15 @@
+﻿match_date,stage,team,opponent,yellow_cards,red_cards,fouls_committed,penalties_awarded,source_url
+2026-06-16,Group stage,Argentina,Algeria,0,0,13,0,https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760433
+2026-06-16,Group stage,Algeria,Argentina,0,0,8,0,https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760433
+2026-06-22,Group stage,Argentina,Austria,2,0,13,1,https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760456
+2026-06-22,Group stage,Austria,Argentina,2,0,13,0,https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760456
+2026-06-27,Group stage,Jordan,Argentina,3,0,13,0,https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760483
+2026-06-27,Group stage,Argentina,Jordan,0,0,7,1,https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760483
+2026-07-03,Round of 32,Argentina,Cape Verde,1,0,13,0,https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760500
+2026-07-03,Round of 32,Cape Verde,Argentina,1,0,12,0,https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760500
+2026-07-07,Round of 16,Argentina,Egypt,0,0,13,1,https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760509
+2026-07-07,Round of 16,Egypt,Argentina,4,0,11,0,https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760509
+2026-07-11,Quarterfinals,Argentina,Switzerland,3,0,14,0,https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760513
+2026-07-11,Quarterfinals,Switzerland,Argentina,1,1,18,0,https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760513
+2026-07-15,Semifinals,England,Argentina,1,0,11,0,https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760515
+2026-07-15,Semifinals,Argentina,England,3,0,15,0,https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760515

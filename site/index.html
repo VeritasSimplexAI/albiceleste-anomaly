@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Albiceleste Anomaly — World Cup officiating, 1930–2026</title>
+<style>
+:root {
+  color-scheme: light;
+  --paper: #f9f9f7; --surface: #fcfcfb;
+  --ink: #0b0b0b; --ink-2: #52514e; --muted: #898781;
+  --grid: #e1e0d9; --axis: #c3c2b7; --ring: rgba(11,11,11,.10);
+  --arg: #2a78d6; --de: #898781; --pos: #2a78d6; --neg: #e34948; --mid: #f0efec;
+  --s1:#2a78d6; --s2:#008300; --s3:#e87ba4; --s4:#eda100; --s5:#1baf7a; --s6:#eb6834; --s7:#4a3aa7; --s8:#e34948;
+  --serif: Georgia, 'Iowan Old Style', 'Times New Roman', serif;
+  --sans: system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:where(:not([data-theme="light"])) {
+    color-scheme: dark;
+    --paper: #0d0d0d; --surface: #1a1a19;
+    --ink: #ffffff; --ink-2: #c3c2b7; --muted: #898781;
+    --grid: #2c2c2a; --axis: #383835; --ring: rgba(255,255,255,.10);
+    --arg: #3987e5; --pos: #3987e5; --neg: #e66767; --mid: #383835;
+    --s1:#3987e5; --s2:#008300; --s3:#d55181; --s4:#c98500; --s5:#199e70; --s6:#d95926; --s7:#9085e9; --s8:#e66767;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --paper: #0d0d0d; --surface: #1a1a19;
+  --ink: #ffffff; --ink-2: #c3c2b7; --muted: #898781;
+  --grid: #2c2c2a; --axis: #383835; --ring: rgba(255,255,255,.10);
+  --arg: #3987e5; --pos: #3987e5; --neg: #e66767; --mid: #383835;
+  --s1:#3987e5; --s2:#008300; --s3:#d55181; --s4:#c98500; --s5:#199e70; --s6:#d95926; --s7:#9085e9; --s8:#e66767;
+}
+* { box-sizing: border-box; margin: 0; }
+body {
+  background: var(--paper); color: var(--ink);
+  font-family: var(--serif); line-height: 1.62; font-size: 17px;
+}
+.wrap { max-width: 1060px; margin: 0 auto; padding: 0 24px; }
+
+/* ---------- masthead ---------- */
+header.masthead { padding: 64px 0 40px; border-bottom: 3px double var(--axis); position: relative; }
+.kicker { font-family: var(--sans); font-size: 12px; letter-spacing: .22em; text-transform: uppercase; color: var(--ink-2); }
+h1.mast {
+  font-size: clamp(44px, 7.5vw, 84px); line-height: .98; font-weight: 700;
+  font-style: italic; letter-spacing: -0.015em; margin: 18px 0 22px; max-width: 15ch;
+}
+h1.mast .halftone { color: var(--arg); }
+.standfirst { font-size: 21px; max-width: 62ch; color: var(--ink-2); }
+.standfirst strong { color: var(--ink); }
+.mastmeta { display: flex; flex-wrap: wrap; gap: 8px 28px; margin-top: 26px;
+  font-family: var(--sans); font-size: 12.5px; color: var(--muted); }
+.mastmeta b { color: var(--ink-2); font-weight: 600; }
+#themeBtn { position: absolute; top: 26px; right: 0; font-family: var(--sans); font-size: 12px;
+  background: none; border: 1px solid var(--axis); color: var(--ink-2); border-radius: 999px;
+  padding: 6px 14px; cursor: pointer; }
+#themeBtn:hover { border-color: var(--ink-2); }
+
+/* ---------- KPI row ---------- */
+.kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(290px, 1fr)); gap: 14px; margin: 40px 0 8px; }
+.tile { background: var(--surface); border: 1px solid var(--ring); border-radius: 10px; padding: 18px 20px 16px; }
+.tile .lbl { font-family: var(--sans); font-size: 12.5px; color: var(--ink-2); }
+.tile .val { font-family: var(--sans); font-weight: 650; font-size: 40px; line-height: 1.15; margin: 2px 0; }
+.tile .sub { font-family: var(--sans); font-size: 12px; color: var(--muted); }
+.tile.hero .val { color: var(--arg); }
+
+/* ---------- exhibits ---------- */
+section.exhibit { margin: 64px 0; }
+.exh-head { display: flex; align-items: baseline; gap: 16px; border-top: 1px solid var(--axis); padding-top: 18px; }
+.exh-badge { font-family: var(--sans); font-weight: 700; font-size: 12px; letter-spacing: .18em;
+  text-transform: uppercase; color: var(--paper); background: var(--ink); padding: 4px 10px; border-radius: 3px; white-space: nowrap; }
+.exh-head h2 { font-size: 32px; font-style: italic; font-weight: 700; letter-spacing: -.01em; }
+.exh-lede { margin: 14px 0 6px; max-width: 68ch; color: var(--ink-2); }
+.exh-lede strong { color: var(--ink); }
+.note { font-family: var(--sans); font-size: 13px; color: var(--muted); max-width: 72ch; margin-top: 10px; }
+
+.card { background: var(--surface); border: 1px solid var(--ring); border-radius: 12px; padding: 22px 22px 16px; margin-top: 22px; }
+.card-head { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; flex-wrap: wrap; }
+.card-title { font-family: var(--sans); font-weight: 650; font-size: 15px; }
+.card-sub { font-family: var(--sans); font-size: 12.5px; color: var(--muted); margin-top: 2px; }
+.legend { display: flex; gap: 18px; font-family: var(--sans); font-size: 12.5px; color: var(--ink-2); flex-wrap: wrap; }
+.legend .key { display: inline-flex; align-items: center; gap: 7px; }
+.swatch { width: 12px; height: 12px; border-radius: 3px; display: inline-block; }
+.toggle { font-family: var(--sans); font-size: 12px; }
+.toggle button { background: none; border: 1px solid var(--axis); color: var(--ink-2); padding: 3px 10px; cursor: pointer; }
+.toggle button:first-child { border-radius: 5px 0 0 5px; }
+.toggle button:last-child { border-radius: 0 5px 5px 0; border-left: none; }
+.toggle button[aria-pressed="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+.scrolltable { max-height: 480px; overflow: auto; margin-top: 14px; border: 1px solid var(--grid); border-radius: 8px; }
+.scrolltable table.dv { margin-top: 0; }
+.scrolltable thead th { position: sticky; top: 0; background: var(--surface); cursor: pointer; user-select: none; white-space: nowrap; z-index: 2; }
+.scrolltable thead th:hover { color: var(--ink); }
+.scrolltable thead th .arr { color: var(--arg); font-size: 10px; }
+table.dv th { cursor: pointer; }
+table.dv th .sortarr { color: var(--arg); font-size: 10px; }
+.filters { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 12px; font-family: var(--sans); font-size: 12.5px; align-items: center; }
+.filters label { color: var(--muted); }
+.filters select, .filters input { background: var(--surface); color: var(--ink); border: 1px solid var(--axis); border-radius: 6px; padding: 5px 8px; font-size: 12.5px; font-family: var(--sans); }
+.rescount { font-family: var(--sans); font-size: 12px; color: var(--muted); margin-left: auto; }
+.plot { margin-top: 14px; overflow-x: auto; }
+.plot svg { display: block; }
+
+table.dv { width: 100%; border-collapse: collapse; font-family: var(--sans); font-size: 13px; margin-top: 14px; }
+table.dv th { text-align: left; font-weight: 600; color: var(--ink-2); border-bottom: 1px solid var(--axis); padding: 7px 10px; }
+table.dv td { border-bottom: 1px solid var(--grid); padding: 7px 10px; font-variant-numeric: tabular-nums; }
+table.dv td.hl { color: var(--arg); font-weight: 650; }
+table.dv tr.arg td { background: color-mix(in srgb, var(--arg) 7%, transparent); }
+
+.callout { border-left: 3px solid var(--arg); background: var(--surface); padding: 16px 20px; margin-top: 20px;
+  font-size: 15.5px; color: var(--ink-2); border-radius: 0 10px 10px 0; max-width: 74ch; }
+.callout.warn { border-left-color: var(--neg); }
+.callout b, .callout strong { color: var(--ink); }
+.grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
+@media (max-width: 840px) { .grid2 { grid-template-columns: 1fr; } }
+
+/* tooltip */
+#tip { position: fixed; pointer-events: none; z-index: 50; display: none;
+  background: var(--ink); color: var(--paper); font-family: var(--sans); font-size: 12.5px;
+  padding: 8px 11px; border-radius: 7px; max-width: 280px; line-height: 1.45; }
+#tip b { font-weight: 650; }
+
+/* sources / footer */
+.srcs { font-family: var(--sans); font-size: 13.5px; color: var(--ink-2); }
+.srcs a { color: var(--arg); text-decoration: none; border-bottom: 1px solid color-mix(in srgb, var(--arg) 40%, transparent); }
+.srcs li { margin: 6px 0; }
+footer { border-top: 3px double var(--axis); margin-top: 70px; padding: 26px 0 60px;
+  font-family: var(--sans); font-size: 12.5px; color: var(--muted); }
+h3.subhead { font-family: var(--sans); font-size: 14px; letter-spacing: .14em; text-transform: uppercase; margin: 30px 0 6px; }
+p + p { margin-top: 12px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header class="masthead">
+  <button id="themeBtn" aria-label="Toggle color theme">◐ theme</button>
+  <div class="kicker">A data dossier · FIFA World Cup officiating · 1930–2026</div>
+  <h1 class="mast">The <span class="halftone">Albiceleste</span> Anomaly</h1>
+  <p class="standfirst">For ninety-two years — from the first World Cup in 1930 to the eve of Qatar 2022 —
+  referees treated Argentina like anyone else. Every penalty in between says so; we checked them all. Then Qatar. Since then, the biggest calls in the game —
+  <strong>penalties and VAR</strong> — have gone Argentina's way at <strong>five times the going rate</strong>,
+  while the routine stuff stayed normal. And here's the twist: they were good enough to win without any of it.
+  The evidence, both ways, every source named.</p>
+  <div class="mastmeta" id="mastmeta"></div>
+</header>
+
+<div class="kpis" id="kpis"></div>
+
+<section class="exhibit" id="exhibit-record">
+  <div class="exh-head"><span class="exh-badge">Prologue</span><h2>The record</h2></div>
+  <p class="exh-lede">Nineteen World Cups. Ninety-five matches. Three titles — and a fourth final on Sunday.
+  Nobody here disputes Argentina are one of football's great nations. The question is narrower:
+  <strong>did the treatment change after 2022?</strong> Everything below hangs off this timeline.</p>
+  <div class="card" id="chart-record"></div>
+  <div class="card" id="table-matches"></div>
+</section>
+
+<section class="exhibit" id="exhibit-a">
+  <div class="exh-head"><span class="exh-badge">Exhibit A</span><h2>The penalty ledger</h2></div>
+  <p class="exh-lede">A penalty is the biggest call a referee makes. So count every one <strong>awarded</strong> —
+  scored or missed doesn't matter; the whistle is the decision. From 1930 through 2018 — seventeen tournaments
+  entered — Argentina got them at the normal rate. Bang average. Since 2022: <strong>8 penalties in 14 matches — five times the going
+  rate.</strong> Top of the penalty count in both tournaments; nobody else managed more than 2. Given against
+  them: two in 2022 (both in the final), none in 2026. The chance a fairly-treated team posts that run?
+  <strong>About 1 in 2,200.</strong></p>
+  <div class="card" id="chart-pens"></div>
+  <div class="card" id="table-pen-eras"></div>
+  <div class="card" id="table-pen-browser"></div>
+  <div class="card" id="table-robustness"></div>
+  <p class="exh-lede">Kill the obvious excuse first: <strong>"great attacking teams win more penalties."</strong> Fine. Then England, France, Brazil and Spain — same deep runs, same packed defenses, same superstar forwards — should post the same numbers. Every dot below is a deep-run team. <strong>Argentina's dot sits on its own. Twice.</strong></p>
+  <div class="card" id="chart-cohort"></div>
+  <p class="exh-lede" style="margin-top:26px">Rates are abstract; matches are not. Here are all 14 post-2022 games, call by call — <strong>the receipts</strong>. Ten of the fourteen carried at least one big decision going Argentina's way. The column for the other direction is nearly empty.</p>
+  <div class="card" id="table-receipts"></div>
+  <div class="card" id="table-impact"></div>
+  <div class="card" id="table-cohort"></div>
+</section>
+
+<section class="exhibit" id="exhibit-b">
+  <div class="exh-head"><span class="exh-badge">Exhibit B</span><h2>The VAR ledger</h2></div>
+  <p class="exh-lede">Since the video referee arrived in 2018: <strong>eight overturns for Argentina, one
+  against.</strong> In 2026 alone it's <strong>5–0</strong> — two opponent goals chalked off, two penalties given
+  on review, one opponent sent off. The odds of a 5–0 split falling to one team by luck: <strong>about 1 in
+  100.</strong> Only one side in the VAR era has a better per-match record, and they played half as many games.</p>
+  <div class="card" id="chart-var"></div>
+  <div class="card" id="table-var-incidents"></div>
+  <div class="card" id="table-var-browser"></div>
+  <div class="card" id="table-var-confirmed"></div>
+  <div class="callout">Why confirmed checks aren't merged into the bars above: FIFA's own numbers show more than
+  95% of VAR activity is never publicly itemised — a check only surfaces when a broadcaster or reporter happens
+  to log it, which happens most in the biggest matches. Count those and you inflate whoever plays finals.
+  Argentina's <b>9 recorded confirmed reviews in favour (2 against)</b> include four from the 2022 final alone —
+  that's coverage, not treatment. Overturns are the one class recorded completely for every team, so overturns
+  are the headline metric. The full confirmed-review record is below for transparency.</div>
+</section>
+
+<section class="exhibit" id="exhibit-c">
+  <div class="exh-head"><span class="exh-badge">Exhibit C</span><h2>The 2022 card anomaly</h2></div>
+  <p class="exh-lede">One number jumps out of half a century of card data:
+opponents of Argentina in Qatar picked up <strong>3.7 yellows a match — double the tournament rate.</strong>
+We tested every team, every metric, every era since 1970. Hundreds of comparisons. This is the
+<strong>only</strong> result that survives — roughly a 1-in-2,500 fluke if refs were even-handed.
+It never happened before 2022. It didn't happen again in 2026.</p>
+  <div class="card" id="chart-cards"></div>
+  
+  <div class="card" id="table-cards-browser"></div>
+  <div class="grid2">
+    <div class="card" id="chart-leniency"></div>
+    <div class="card" id="table-nulls"></div>
+  </div>
+  <div class="callout">The other side of it: Argentina took 17 yellows themselves,
+and one referee — Mateu Lahoz, the Netherlands quarter-final — handed out a record stack to both sides.
+The cleaner read is the difference: <b>+9 cards in Argentina's favor across seven matches</b>, against
+dead-even over the previous thirty years.</div>
+</section>
+
+<section class="exhibit" id="exhibit-refs">
+  <div class="exh-head"><span class="exh-badge">Exhibit D</span><h2>The referee carousel</h2></div>
+  <p class="exh-lede">Who gets given these games? Match crews have grown from three
+officials to eight — more judgment calls per match, more hands on the wheel. And one fact stands alone in 96
+years of appointments: <strong>Szymon Marciniak has refereed Argentina four times</strong> — the 2018 opener,
+the 2022 last-16, <strong>the 2022 final</strong>, and the 2026 opener — with the same VAR official on the last
+three. No referee–team pairing in World Cup history reaches four.</p>
+  <div class="grid2">
+    <div class="card" id="chart-crew"></div>
+    <div class="card" id="table-confmix"></div>
+  </div>
+  <div class="card" id="table-repeats"></div>
+  <div class="card" id="table-official-records"></div>
+  
+  <p class="exh-lede">And when we stress-tested the officials themselves — four independent methods, full write-ups in the analysis folder — <strong>no referee shows a fingerprint.</strong> The pairing pattern is real; the per-referee evidence is clean:</p>
+  <div class="card" id="table-forensics-verdicts"></div>
+  <div class="card" id="table-ref-residuals"></div>
+  <div class="callout">Fair reading: deep runs create repeat meetings — history has a few
+three-match pairings. Four is new. Country neutrality is spotless: in 1,066 matches, no referee has ever taken
+his own nation's game. But the European tilt is not a South American constant: since 1990, <b>UEFA referees take
+74% of Argentina's matches — the most of any CONMEBOL nation, nineteen points above Brazil (55%)</b>, who went
+just as deep just as often. Part of that is elite referees working elite knockout rounds; the size of the gap
+over their own neighbors is the part the innocent explanation strains to cover. The pattern is fact. What it
+means, the data can't say.</div>
+</section>
+
+<section class="exhibit" id="exhibit-draw">
+  <div class="exh-head"><span class="exh-badge">Exhibit E</span><h2>The draw</h2></div>
+  <p class="exh-lede">Favoritism can be baked in before kick-off — in who you're given to
+play. We scored every Argentina draw since 1930 three ways: opponents' ratings, their pots, their world
+rankings. The verdict cuts both ways. <strong>Group draws: soft for as long as records exist — no change at 2022.</strong>
+(2022's group was the easiest of the eight seeds'. So was 2014's. So was 1930's.) <strong>But the 2026 knockout
+road is the gentlest any contender has walked in this dataset</strong> — Cape Verde, then Egypt, and no fellow
+top seed until the semi-final. Spain fought through three.</p>
+  <div class="card" id="chart-groupdraw"></div>
+  <div class="grid2">
+    <div class="card" id="chart-kopaths"></div>
+    <div class="card" id="chart-hypopaths"></div>
+  </div>
+  <div class="callout">The projection cuts deepest: <b>at the draw, before a ball was kicked,
+Argentina's 2022 road ranked 7th-easiest of the eight seeds — and 2026 ranked 6th.</b> The 2022 run that felt
+brutal in hindsight (Netherlands, Croatia, France) was made hard by upsets, not by the bracket. Their genuinely
+nasty draws came earlier: 1994 and 2018 both projected hardest-of-all. Footnotes: pot sums can't vary in a
+modern draw, so an "easy group" means drawing the weakest name in each pot; and third-place slotting means the
+2026 projection uses the realized skeleton (flagged in the methods note).</div>
+</section>
+
+<section class="exhibit" id="exhibit-presidents">
+  <div class="exh-head"><span class="exh-badge">Exhibit F</span><h2>The presidents</h2></div>
+  <p class="exh-lede">Three long reigns at FIFA. Under <strong>Havelange</strong>: two
+Argentina titles, penalty balance +0.06 a match. Under <strong>Blatter</strong>: one final, dead level. Under
+<strong>Infantino</strong>: Argentina's best win rate ever (78%), a title, a second final pending — and a
+penalty balance of <strong>+0.28 a match, five times the Havelange-era figure.</strong> Correlation isn't
+causation, and this squad is genuinely great. But this is also the era of the FBI's probe into Argentina's FA
+(below). The overlay earns its place.</p>
+  <div class="card" id="chart-champions"></div>
+  <div class="card" id="table-presidents"></div>
+</section>
+
+<section class="exhibit" id="exhibit-tape">
+  <div class="exh-head"><span class="exh-badge">Exhibit G</span><h2>The tape</h2></div>
+  <p class="exh-lede">Numbers argue; footage settles. Every disputed call in an Argentina World Cup
+match we could source — <strong>26 of them since 1930: 17 for Argentina, 6 against, 3 genuinely tossed up.</strong>
+Where an official clip exists, it's linked — FIFA's own channels, nothing pirated. Watch the Hand of God,
+Codesal's penalty, Lahoz's card avalanche and the Egypt goal, and make your own call.</p>
+  <div class="card" id="table-tape"></div>
+  <div class="card" id="tape-submit"></div>
+  <div class="callout">Coverage honesty: 2018 onward is near-complete — the VAR era documents
+itself. 1966–2014 covers the famous cases. Before 1966 the record is thin; one 1930 incident made the bar.
+Nine incidents have sources that genuinely disagree about the right call — those are marked disputed, not
+settled by us. <b>Community submissions go through the same bar</b>: every suggested moment is checked against
+footage and press before it joins the index, and verified entries are marked as community-sourced.</div>
+</section>
+
+<section class="exhibit" id="exhibit-copa">
+  <div class="exh-head"><span class="exh-badge">Exhibit H</span><h2>The Copa control</h2></div>
+  <p class="exh-lede">The cleanest test in the file. Same squad, same era, same Messi — two
+organizers. In CONMEBOL's Copa América, which Argentina keep winning, their penalty rate is <strong>bang normal
+five editions running</strong>: 1.1x, 0.0x, 0.7x, 1.2x, 1.1x. In FIFA's World Cup since 2022:
+<strong>4.8x and 4.7x.</strong> If great teams naturally harvest penalties, the harvest should follow the team.
+It follows the organizer.</p>
+  <div class="card" id="chart-copa"></div>
+  <div class="card" id="table-copa-recent"></div>
+  <div class="callout">Caveats: FBref's pre-2018 Copa card counts run light (flagged in
+the data notes — penalty counts are sturdier); the 2021 fouls table survives only as a mid-tournament snapshot;
+and CONMEBOL has its own rows — Chile formally complained about the refereeing in their 2024 match
+<em>against</em> Argentina. The claim here is narrow: the World Cup penalty anomaly does not travel to the Copa.
+Argentina's dominance does. That's the point — they don't need the anomaly to win.</div>
+</section>
+
+<section class="exhibit" id="exhibit-whistle">
+  <div class="exh-head"><span class="exh-badge">Exhibit I</span><h2>The whistle study</h2></div>
+  <p class="exh-lede">828 players. Six tournaments. Every tackle, every whistle. If
+referees swallow whistles for Argentina, two things must show: their players give away fewer fouls per tackle
+than everyone else, and the same men get softer treatment at World Cups than at the Copa.
+<strong>Neither shows.</strong> Argentina's twelve cross-competition regulars got <strong>more</strong> fouls
+called on them at World Cups (1.15 per tackle) than at the Copa (0.94). The only lenient number in the whole
+study is Copa 2024 — and that's not FIFA's shop.</p>
+  <div class="card" id="chart-whistle"></div>
+  <div class="grid2">
+    <div class="card" id="table-whistle-pairs"></div>
+    <div class="card" id="table-whistle-context"></div>
+  </div>
+  <div class="card" id="table-whistle-players"></div>
+  <div class="card" id="chart-rope"></div>
+  <div class="callout warn"><b>The ghost: fouls that never got given.</b> A foul count is the
+referee's own output — the challenge he waves away never enters any spreadsheet. A ref swallowing his whistle
+makes a team look <em>normal</em>. That's the trap. The only cure is re-refereeing the tape, match by match.
+Until then, treat foul and card numbers as a record of decisions, not of contact. Penalties and VAR are safer
+ground — shots, goals and reviews don't vanish from the record.</div>
+  <div class="callout">Scope: “tackles won” is the only tackle stat published
+for all six tournaments, and nothing player-level exists before 2018. A referee ignoring shirt-pulls and
+off-ball holds is invisible here — only the tape reaches those. But inside everything measurable, this is the
+fourth straight all-clear on routine officiating. Whatever is happening to Argentina at World Cups, it isn't
+happening at the level of ordinary tackles and fouls.</div>
+</section>
+
+<section class="exhibit" id="exhibit-verdict">
+  <div class="exh-head"><span class="exh-badge">Verdict</span><h2>So — are Argentina getting helped?</h2></div>
+  <p class="exh-lede">Nine exhibits, three World Cups under the microscope. Here is where each one lands,
+  and then the only conclusion the numbers support.</p>
+  <div class="card" id="table-verdict"></div>
+  <div class="callout"><b>The verdict, in full.</b> In 2018 there is nothing — Argentina were carded harder than
+  average and went out in the round of 16. The break comes at Qatar 2022 and holds through 2026. Since then, the
+  two decisions referees have the most discretion over — <b>penalty awards (five times the going rate, about
+  1 in 2,200 by chance) and VAR overturns (8–1, and 5–0 in 2026)</b> — have swung to Argentina at rates without
+  precedent in ninety-six years of records. Meanwhile every channel that can be independently verified stayed
+  normal: fouls, tackles, cards-per-foul, each referee's own behavior, results against ratings — and the same
+  team in CONMEBOL's Copa América shows none of it. <b>That is the shape of the finding: a surplus confined to
+  exactly the calls that are hardest to audit, absent everywhere audit is easy.</b> One caveat belongs in the
+  verdict itself, not the footnotes: <b>fouls and cards carry survivorship bias</b> — a foul that should have
+  been given but wasn't is, by definition, never recorded anywhere. Every "clean" card number above counts
+  decisions made, not contact that happened; the whistle that stays in the pocket is invisible to all of it.
+  That is why this dossier leans on penalties and VAR, where the triggering events can't vanish from the
+  record — and why the tape section takes public submissions. What the data does NOT say:
+  that Argentina needed the help (they won 2022 performing below their rating — the only champion ever to do
+  so), who is responsible, or why. The FBI's investigation of their federation remains an unproven allegation.
+  If refereeing were a betting market, Argentina's post-2022 numbers are the pattern that gets an account
+  suspended pending review. That is the claim — no more, and no less. The final is tomorrow.</div>
+</section>
+
+<section class="exhibit" id="exhibit-money">
+  <div class="exh-head"><span class="exh-badge">Context</span><h2>The money, alleged</h2></div>
+  <p class="exh-lede">Running alongside all of this — reported, not proven:
+<strong>the FBI is investigating Argentina's football association</strong> over more than $300&nbsp;million
+moved through US banks via a Florida agent appointed months before Qatar 2022 — including FIFA's €42M in prize
+money, allegedly parked in shell companies. <strong>Nobody has been charged. All parties deny wrongdoing.
+Nothing in our numbers proves a connection.</strong> The statistics stand on their own; this is the backdrop
+they stand in front of.</p>
+  <ul class="srcs">
+    <li><a href="https://www.cbssports.com/soccer/news/fbi-investigates-argentina-football-association-alleged-money-laundering-in-u-s-2026/">CBS Sports — Why the AFA has reportedly been investigated for alleged money laundering in the U.S.</a></li>
+    <li><a href="https://www.inc.com/georgia-fearn/massive-us-fraud-probe-clouding-argentinas-world-cup-run/91371496">Inc. — Luxury yachts, private jets, and $300 million: the U.S. fraud probe clouding Argentina's World Cup run</a></li>
+    <li><a href="https://www.forbes.com/sites/conormurray/2026/07/15/fifas-princess-why-some-accuse-fifa-of-favoring-lionel-messi-in-world-cup/">Forbes — Why some accuse FIFA of favoring Argentina ahead of the World Cup final</a></li>
+    <li><a href="https://www.insideworldsoccer.com/2026/07/fbi-probe-argentina-fa-fifa-corruption-romain-molina.html">Inside World Soccer — FBI probe into Argentina FA sparks fresh FIFA corruption allegations</a></li>
+  </ul>
+</section>
+
+<section class="exhibit" id="method">
+  <div class="exh-head"><span class="exh-badge">Method</span><h2>How to read this dossier</h2></div>
+  <div class="exh-lede">
+    <h3 class="subhead">What we count</h3>
+    <p>Referee decisions. Never player execution. A penalty counts when it's given, not when it's scored —
+    the whistle is the referee's act; the kick is the player's problem. Same logic for cards, fouls and VAR.</p>
+    <h3 class="subhead">How to read the numbers</h3>
+    <p><strong>"5x the going rate"</strong> means Argentina got five penalties for every one a typical team got,
+    per match played. <strong>"About 1 in 2,200"</strong> is the chance a fairly-treated team would post that
+    run by pure luck — the smaller that number, the harder it is to call it coincidence. (Statisticians write
+    it as p&nbsp;=&nbsp;0.00045; the tables keep those values for anyone who wants them.) When we tested many
+    teams at once we raised the bar accordingly, so one team looking odd out of eighty isn't news — Argentina
+    clears the raised bar too. <strong>Elo</strong> is the standard strength rating for national teams: it says
+    how often a team <em>should</em> win given who they play. Beat it consistently and something beyond quality
+    is helping.</p>
+    <h3 class="subhead">Where the data comes from</h3>
+    <p>Results, cards and goals 1930–2022 from the standard academic World Cup dataset. Every penalty 1930–2010
+    checked one by one against match archives — three sources where they disagreed. Modern squad stats from
+    FBref, cross-checked against ESPN's own match records. VAR incidents from the ESPN and REFSIX decision
+    trackers. Officiating crews for all 1,066 matches, double-sourced. Every folder in the project carries its
+    own source notes.</p>
+    <h3 class="subhead">What we can't see</h3>
+    <p>Fourteen post-2022 matches is a small sample — the penalty finding is strong <em>despite</em> that, not
+    immune to it. Fouls don't exist in the data before 2014, cards before 1970, tackles before 2018. The foul
+    that never got given appears in no spreadsheet — only the tape reaches those. And a statistical pattern,
+    however loud, tells you <em>that</em> something is off — never, on its own, <em>who</em> or <em>why</em>.</p>
+  </div>
+</section>
+
+</div>
+<footer><div class="wrap" id="foot"></div></footer>
+<div id="tip" role="tooltip"></div>
+<script src="data.js?v=1784337503"></script>
+<script src="app.js?v=1784337503"></script>
+</body>
+</html>

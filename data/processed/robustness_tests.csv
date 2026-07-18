@@ -1,0 +1,8 @@
+test,argentina,rate,field_rate,ratio,p,note
+"Baseline: pens awarded, 2022+2026",8 in 14,0.571,0.113,5.05,0.00045,the headline result
+Excluding VAR-awarded penalties,4 in 14,0.286,0.069,4.13,0.02249,removes 4 ARG / 14 field VAR-review awards — on-field decisions only
+Excluding the 2022 final,7 in 13,0.538,0.107,5.02,0.00102,drops the most scrutinized match entirely
+2022 alone,5 in 7,0.714,0.149,4.8,0.00718,single-tournament
+2026 alone (through SF),3 in 7,0.429,0.091,4.69,0.03386,single-tournament
+2022 opponents' yellows minus the Lahoz QF,18 in 6,3.0,1.736,1.73,0.0398,removes the record-card Netherlands match entirely
+Pens awarded AGAINST Argentina 2022+2026,2 in 14,0.143,0.113,1.26,0.67456,the mirror stat — below field rate

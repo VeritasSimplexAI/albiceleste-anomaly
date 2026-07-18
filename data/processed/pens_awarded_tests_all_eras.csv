@@ -1,0 +1,9 @@
+era,metric,arg,arg_matches,arg_rate,field_rate,ratio,p,note
+1930-1986,awarded_for,5,41,0.122,0.126,0.96,1.0,archival per-incident compilation; missed-penalty records pre-1974 graded B/C
+1930-1986,awarded_against,5,41,0.122,0.126,0.96,1.0,archival per-incident compilation; missed-penalty records pre-1974 graded B/C
+1990-2018,awarded_for,6,40,0.15,0.146,1.02,0.8333,2014 ARG awarded-against uses 0 (converted-against=0; missed-against unverified)
+1990-2018,awarded_against,5,40,0.125,0.149,0.84,1.0,2014 ARG awarded-against uses 0 (converted-against=0; missed-against unverified)
+2022,awarded_for,5,7,0.714,0.149,4.8,0.0072,
+2022,awarded_against,2,7,0.286,0.149,1.92,0.2996,
+2026,awarded_for,3,7,0.429,0.091,4.69,0.0339,ARG against=0 verified per-match; field from PKatt symmetry
+2026,awarded_against,0,7,0.0,0.091,0.0,1.0,ARG against=0 verified per-match; field from PKatt symmetry

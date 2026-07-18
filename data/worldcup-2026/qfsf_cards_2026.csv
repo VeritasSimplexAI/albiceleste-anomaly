@@ -1,0 +1,13 @@
+﻿match_date,stage,team,opponent,yellow_cards,red_cards,fouls_committed,source_url
+2026-07-09,Quarterfinals,France,Morocco,0,0,10,https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760510
+2026-07-09,Quarterfinals,Morocco,France,1,0,13,https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760510
+2026-07-10,Quarterfinals,Spain,Belgium,2,0,13,https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760511
+2026-07-10,Quarterfinals,Belgium,Spain,2,0,18,https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760511
+2026-07-11,Quarterfinals,Norway,England,1,0,10,https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760512
+2026-07-11,Quarterfinals,England,Norway,0,0,8,https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760512
+2026-07-11,Quarterfinals,Argentina,Switzerland,3,0,14,https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760513
+2026-07-11,Quarterfinals,Switzerland,Argentina,1,1,18,https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760513
+2026-07-14,Semifinals,France,Spain,2,0,11,https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760514
+2026-07-14,Semifinals,Spain,France,1,0,12,https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760514
+2026-07-15,Semifinals,England,Argentina,1,0,11,https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760515
+2026-07-15,Semifinals,Argentina,England,3,0,15,https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760515

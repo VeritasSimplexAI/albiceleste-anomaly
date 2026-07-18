@@ -1,0 +1,321 @@
+tournament_year,team,pot,seeded,source_url
+1990,Italy,1,yes,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup
+1990,Argentina,1,yes,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup
+1990,Brazil,1,yes,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup
+1990,West Germany,1,yes,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup
+1990,Belgium,1,yes,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup
+1990,England,1,yes,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup
+1990,Cameroon,2,no,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup
+1990,Costa Rica,2,no,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup
+1990,Egypt,2,no,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup
+1990,South Korea,2,no,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup
+1990,United Arab Emirates,2,no,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup
+1990,United States,2,no,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup
+1990,Colombia,3,no,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup
+1990,Czechoslovakia,3,no,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup
+1990,Republic of Ireland,3,no,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup
+1990,Romania,3,no,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup
+1990,Sweden,3,no,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup
+1990,Uruguay,3,no,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup
+1990,Austria,4,no,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup
+1990,Netherlands,4,no,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup
+1990,Scotland,4,no,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup
+1990,Spain,4,no,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup
+1990,Soviet Union,4,no,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup
+1990,Yugoslavia,4,no,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup
+1994,United States,1,yes,https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+1994,Germany,1,yes,https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+1994,Argentina,1,yes,https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+1994,Italy,1,yes,https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+1994,Brazil,1,yes,https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+1994,Belgium,1,yes,https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+1994,Mexico,2,no,https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+1994,Cameroon,2,no,https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+1994,Morocco,2,no,https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+1994,Colombia,2,no,https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+1994,Nigeria,2,no,https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+1994,Bolivia,2,no,https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+1994,Spain,3,no,https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+1994,Russia,3,no,https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+1994,Republic of Ireland,3,no,https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+1994,Romania,3,no,https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+1994,Netherlands,3,no,https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+1994,Bulgaria,3,no,https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+1994,South Korea,4,no,https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+1994,Sweden,4,no,https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+1994,Greece,4,no,https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+1994,Norway,4,no,https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+1994,Switzerland,4,no,https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+1994,Saudi Arabia,4,no,https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+1998,Brazil,1,yes,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+1998,France,1,yes,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+1998,Germany,1,yes,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+1998,Italy,1,yes,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+1998,Spain,1,yes,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+1998,Argentina,1,yes,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+1998,Romania,1,yes,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+1998,Netherlands,1,yes,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+1998,Austria,2,no,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+1998,Belgium,2,no,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+1998,Bulgaria,2,no,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+1998,Croatia,2,no,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+1998,Denmark,2,no,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+1998,England,2,no,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+1998,Scotland,2,no,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+1998,Yugoslavia,2,no,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+1998,Norway,2,no,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+1998,Chile,3,no,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+1998,Colombia,3,no,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+1998,Iran,3,no,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+1998,Japan,3,no,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+1998,Paraguay,3,no,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+1998,Saudi Arabia,3,no,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+1998,South Korea,3,no,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+1998,Cameroon,4,no,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+1998,Jamaica,4,no,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+1998,Mexico,4,no,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+1998,Morocco,4,no,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+1998,Nigeria,4,no,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+1998,South Africa,4,no,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+1998,Tunisia,4,no,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+1998,United States,4,no,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+2002,France,1,yes,https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+2002,South Korea,1,yes,https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+2002,Japan,1,yes,https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+2002,Brazil,1,yes,https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+2002,Argentina,1,yes,https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+2002,Italy,1,yes,https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+2002,Germany,1,yes,https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+2002,Spain,1,yes,https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+2002,Belgium,2,no,https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+2002,Croatia,2,no,https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+2002,Denmark,2,no,https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+2002,England,2,no,https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+2002,Poland,2,no,https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+2002,Portugal,2,no,https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+2002,Republic of Ireland,2,no,https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+2002,Russia,2,no,https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+2002,Slovenia,2,no,https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+2002,Sweden,2,no,https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+2002,Turkey,2,no,https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+2002,China,3,no,https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+2002,Ecuador,3,no,https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+2002,Paraguay,3,no,https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+2002,Saudi Arabia,3,no,https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+2002,Uruguay,3,no,https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+2002,Cameroon,4,no,https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+2002,Costa Rica,4,no,https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+2002,Mexico,4,no,https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+2002,Nigeria,4,no,https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+2002,Senegal,4,no,https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+2002,South Africa,4,no,https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+2002,Tunisia,4,no,https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+2002,United States,4,no,https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+2006,Germany,1,yes,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+2006,Brazil,1,yes,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+2006,England,1,yes,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+2006,Spain,1,yes,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+2006,Mexico,1,yes,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+2006,France,1,yes,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+2006,Italy,1,yes,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+2006,Argentina,1,yes,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+2006,Paraguay,2,no,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+2006,Tunisia,2,no,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+2006,Ecuador,2,no,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+2006,Ivory Coast,2,no,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+2006,Australia,2,no,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+2006,Ghana,2,no,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+2006,Angola,2,no,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+2006,Togo,2,no,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+2006,Netherlands,3,no,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+2006,Sweden,3,no,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+2006,Croatia,3,no,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+2006,Czech Republic,3,no,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+2006,Portugal,3,no,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+2006,Poland,3,no,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+2006,Switzerland,3,no,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+2006,Ukraine,3,no,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+2006,United States,4,no,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+2006,South Korea,4,no,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+2006,Japan,4,no,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+2006,Costa Rica,4,no,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+2006,Saudi Arabia,4,no,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+2006,Iran,4,no,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+2006,Trinidad and Tobago,4,no,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+2006,Serbia and Montenegro,5,no,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+2010,South Africa,1,yes,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+2010,Brazil,1,yes,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+2010,Spain,1,yes,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+2010,Netherlands,1,yes,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+2010,Italy,1,yes,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+2010,Germany,1,yes,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+2010,Argentina,1,yes,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+2010,England,1,yes,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+2010,Australia,2,no,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+2010,Japan,2,no,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+2010,North Korea,2,no,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+2010,South Korea,2,no,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+2010,Honduras,2,no,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+2010,Mexico,2,no,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+2010,United States,2,no,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+2010,New Zealand,2,no,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+2010,Algeria,3,no,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+2010,Cameroon,3,no,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+2010,Ghana,3,no,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+2010,Ivory Coast,3,no,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+2010,Nigeria,3,no,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+2010,Chile,3,no,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+2010,Paraguay,3,no,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+2010,Uruguay,3,no,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+2010,Denmark,4,no,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+2010,France,4,no,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+2010,Greece,4,no,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+2010,Portugal,4,no,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+2010,Serbia,4,no,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+2010,Slovakia,4,no,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+2010,Slovenia,4,no,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+2010,Switzerland,4,no,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+2014,Brazil,1,yes,https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_seeding
+2014,Argentina,1,yes,https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_seeding
+2014,Colombia,1,yes,https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_seeding
+2014,Uruguay,1,yes,https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_seeding
+2014,Belgium,1,yes,https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_seeding
+2014,Germany,1,yes,https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_seeding
+2014,Spain,1,yes,https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_seeding
+2014,Switzerland,1,yes,https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_seeding
+2014,Algeria,2,no,https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_seeding
+2014,Cameroon,2,no,https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_seeding
+2014,Ghana,2,no,https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_seeding
+2014,Ivory Coast,2,no,https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_seeding
+2014,Nigeria,2,no,https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_seeding
+2014,Chile,2,no,https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_seeding
+2014,Ecuador,2,no,https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_seeding
+2014,Italy,2,no,https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_seeding
+2014,Australia,3,no,https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_seeding
+2014,Iran,3,no,https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_seeding
+2014,Japan,3,no,https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_seeding
+2014,South Korea,3,no,https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_seeding
+2014,Costa Rica,3,no,https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_seeding
+2014,Honduras,3,no,https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_seeding
+2014,Mexico,3,no,https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_seeding
+2014,United States,3,no,https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_seeding
+2014,Bosnia and Herzegovina,4,no,https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_seeding
+2014,Croatia,4,no,https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_seeding
+2014,England,4,no,https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_seeding
+2014,France,4,no,https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_seeding
+2014,Greece,4,no,https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_seeding
+2014,Netherlands,4,no,https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_seeding
+2014,Portugal,4,no,https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_seeding
+2014,Russia,4,no,https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_seeding
+2018,Russia,1,yes,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_seeding
+2018,Germany,1,yes,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_seeding
+2018,Brazil,1,yes,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_seeding
+2018,Portugal,1,yes,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_seeding
+2018,Argentina,1,yes,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_seeding
+2018,Belgium,1,yes,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_seeding
+2018,Poland,1,yes,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_seeding
+2018,France,1,yes,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_seeding
+2018,Spain,2,no,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_seeding
+2018,Peru,2,no,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_seeding
+2018,Switzerland,2,no,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_seeding
+2018,England,2,no,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_seeding
+2018,Colombia,2,no,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_seeding
+2018,Mexico,2,no,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_seeding
+2018,Uruguay,2,no,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_seeding
+2018,Croatia,2,no,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_seeding
+2018,Denmark,3,no,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_seeding
+2018,Iceland,3,no,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_seeding
+2018,Costa Rica,3,no,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_seeding
+2018,Sweden,3,no,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_seeding
+2018,Tunisia,3,no,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_seeding
+2018,Egypt,3,no,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_seeding
+2018,Senegal,3,no,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_seeding
+2018,Iran,3,no,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_seeding
+2018,Serbia,4,no,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_seeding
+2018,Nigeria,4,no,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_seeding
+2018,Australia,4,no,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_seeding
+2018,Japan,4,no,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_seeding
+2018,Morocco,4,no,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_seeding
+2018,Panama,4,no,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_seeding
+2018,South Korea,4,no,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_seeding
+2018,Saudi Arabia,4,no,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_seeding
+2022,Qatar,1,yes,https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_seeding
+2022,Brazil,1,yes,https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_seeding
+2022,Belgium,1,yes,https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_seeding
+2022,France,1,yes,https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_seeding
+2022,Argentina,1,yes,https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_seeding
+2022,England,1,yes,https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_seeding
+2022,Spain,1,yes,https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_seeding
+2022,Portugal,1,yes,https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_seeding
+2022,Mexico,2,no,https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_seeding
+2022,Netherlands,2,no,https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_seeding
+2022,Denmark,2,no,https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_seeding
+2022,Germany,2,no,https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_seeding
+2022,Uruguay,2,no,https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_seeding
+2022,Switzerland,2,no,https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_seeding
+2022,United States,2,no,https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_seeding
+2022,Croatia,2,no,https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_seeding
+2022,Senegal,3,no,https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_seeding
+2022,Iran,3,no,https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_seeding
+2022,Japan,3,no,https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_seeding
+2022,Morocco,3,no,https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_seeding
+2022,Serbia,3,no,https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_seeding
+2022,Poland,3,no,https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_seeding
+2022,South Korea,3,no,https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_seeding
+2022,Tunisia,3,no,https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_seeding
+2022,Cameroon,4,no,https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_seeding
+2022,Canada,4,no,https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_seeding
+2022,Ecuador,4,no,https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_seeding
+2022,Saudi Arabia,4,no,https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_seeding
+2022,Ghana,4,no,https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_seeding
+2022,Wales,4,no,https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_seeding
+2022,Costa Rica,4,no,https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_seeding
+2022,Australia,4,no,https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_seeding
+2026,United States,1,yes,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Mexico,1,yes,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Canada,1,yes,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Spain,1,yes,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Argentina,1,yes,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,France,1,yes,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,England,1,yes,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Brazil,1,yes,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Portugal,1,yes,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Netherlands,1,yes,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Belgium,1,yes,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Germany,1,yes,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Croatia,2,no,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Morocco,2,no,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Colombia,2,no,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Uruguay,2,no,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Switzerland,2,no,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Japan,2,no,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Senegal,2,no,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Iran,2,no,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,South Korea,2,no,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Ecuador,2,no,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Austria,2,no,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Australia,2,no,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Norway,3,no,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Panama,3,no,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Egypt,3,no,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Algeria,3,no,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Scotland,3,no,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Paraguay,3,no,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Tunisia,3,no,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Ivory Coast,3,no,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Uzbekistan,3,no,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Qatar,3,no,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Saudi Arabia,3,no,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,South Africa,3,no,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Jordan,4,no,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Cape Verde,4,no,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Ghana,4,no,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Curaçao,4,no,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Haiti,4,no,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,New Zealand,4,no,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Bosnia and Herzegovina,4,no,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Sweden,4,no,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Turkey,4,no,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Czech Republic,4,no,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,DR Congo,4,no,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw
+2026,Iraq,4,no,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw

@@ -1,0 +1,321 @@
+tournament_year,team,elo,rating_date,source_url
+1990,Argentina,1794,1990-06-07,https://www.eloratings.net/1990_World_Cup.tsv
+1990,Austria,1765,1990-06-07,https://www.eloratings.net/1990_World_Cup.tsv
+1990,Belgium,1844,1990-06-07,https://www.eloratings.net/1990_World_Cup.tsv
+1990,Brazil,1993,1990-06-07,https://www.eloratings.net/1990_World_Cup.tsv
+1990,Cameroon,1631,1990-06-07,https://www.eloratings.net/1990_World_Cup.tsv
+1990,Colombia,1801,1990-06-07,https://www.eloratings.net/1990_World_Cup.tsv
+1990,Costa Rica,1611,1990-06-07,https://www.eloratings.net/1990_World_Cup.tsv
+1990,Czechoslovakia,1855,1990-06-07,https://www.eloratings.net/1990_World_Cup.tsv
+1990,Egypt,1627,1990-06-07,https://www.eloratings.net/1990_World_Cup.tsv
+1990,England,1944,1990-06-07,https://www.eloratings.net/1990_World_Cup.tsv
+1990,Italy,1965,1990-06-07,https://www.eloratings.net/1990_World_Cup.tsv
+1990,Netherlands,2033,1990-06-07,https://www.eloratings.net/1990_World_Cup.tsv
+1990,Republic of Ireland,1891,1990-06-07,https://www.eloratings.net/1990_World_Cup.tsv
+1990,Romania,1894,1990-06-07,https://www.eloratings.net/1990_World_Cup.tsv
+1990,Scotland,1738,1990-06-07,https://www.eloratings.net/1990_World_Cup.tsv
+1990,South Korea,1746,1990-06-07,https://www.eloratings.net/1990_World_Cup.tsv
+1990,Soviet Union,1942,1990-06-07,https://www.eloratings.net/1990_World_Cup.tsv
+1990,Spain,1927,1990-06-07,https://www.eloratings.net/1990_World_Cup.tsv
+1990,Sweden,1952,1990-06-07,https://www.eloratings.net/1990_World_Cup.tsv
+1990,United Arab Emirates,1455,1990-06-07,https://www.eloratings.net/1990_World_Cup.tsv
+1990,United States,1586,1990-06-07,https://www.eloratings.net/1990_World_Cup.tsv
+1990,Uruguay,1893,1990-06-07,https://www.eloratings.net/1990_World_Cup.tsv
+1990,West Germany,1994,1990-06-07,https://www.eloratings.net/1990_World_Cup.tsv
+1990,Yugoslavia,1893,1990-06-07,https://www.eloratings.net/1990_World_Cup.tsv
+1994,Argentina,1915,1994-06-16,https://www.eloratings.net/1994_World_Cup.tsv
+1994,Belgium,1823,1994-06-16,https://www.eloratings.net/1994_World_Cup.tsv
+1994,Bolivia,1703,1994-06-16,https://www.eloratings.net/1994_World_Cup.tsv
+1994,Brazil,1963,1994-06-16,https://www.eloratings.net/1994_World_Cup.tsv
+1994,Bulgaria,1772,1994-06-16,https://www.eloratings.net/1994_World_Cup.tsv
+1994,Cameroon,1684,1994-06-16,https://www.eloratings.net/1994_World_Cup.tsv
+1994,Colombia,1943,1994-06-16,https://www.eloratings.net/1994_World_Cup.tsv
+1994,Germany,2009,1994-06-16,https://www.eloratings.net/1994_World_Cup.tsv
+1994,Greece,1688,1994-06-16,https://www.eloratings.net/1994_World_Cup.tsv
+1994,Italy,1986,1994-06-16,https://www.eloratings.net/1994_World_Cup.tsv
+1994,Mexico,1855,1994-06-16,https://www.eloratings.net/1994_World_Cup.tsv
+1994,Morocco,1665,1994-06-16,https://www.eloratings.net/1994_World_Cup.tsv
+1994,Netherlands,1990,1994-06-16,https://www.eloratings.net/1994_World_Cup.tsv
+1994,Nigeria,1735,1994-06-16,https://www.eloratings.net/1994_World_Cup.tsv
+1994,Norway,1851,1994-06-16,https://www.eloratings.net/1994_World_Cup.tsv
+1994,Republic of Ireland,1864,1994-06-16,https://www.eloratings.net/1994_World_Cup.tsv
+1994,Romania,1836,1994-06-16,https://www.eloratings.net/1994_World_Cup.tsv
+1994,Russia,1866,1994-06-16,https://www.eloratings.net/1994_World_Cup.tsv
+1994,Saudi Arabia,1637,1994-06-16,https://www.eloratings.net/1994_World_Cup.tsv
+1994,South Korea,1666,1994-06-16,https://www.eloratings.net/1994_World_Cup.tsv
+1994,Spain,1893,1994-06-16,https://www.eloratings.net/1994_World_Cup.tsv
+1994,Sweden,1906,1994-06-16,https://www.eloratings.net/1994_World_Cup.tsv
+1994,Switzerland,1873,1994-06-16,https://www.eloratings.net/1994_World_Cup.tsv
+1994,United States,1614,1994-06-16,https://www.eloratings.net/1994_World_Cup.tsv
+1998,Argentina,1893,1998-06-09,https://www.eloratings.net/1998_World_Cup.tsv
+1998,Austria,1714,1998-06-09,https://www.eloratings.net/1998_World_Cup.tsv
+1998,Belgium,1822,1998-06-09,https://www.eloratings.net/1998_World_Cup.tsv
+1998,Brazil,2091,1998-06-09,https://www.eloratings.net/1998_World_Cup.tsv
+1998,Bulgaria,1805,1998-06-09,https://www.eloratings.net/1998_World_Cup.tsv
+1998,Cameroon,1591,1998-06-09,https://www.eloratings.net/1998_World_Cup.tsv
+1998,Chile,1788,1998-06-09,https://www.eloratings.net/1998_World_Cup.tsv
+1998,Colombia,1778,1998-06-09,https://www.eloratings.net/1998_World_Cup.tsv
+1998,Croatia,1874,1998-06-09,https://www.eloratings.net/1998_World_Cup.tsv
+1998,Denmark,1882,1998-06-09,https://www.eloratings.net/1998_World_Cup.tsv
+1998,England,1974,1998-06-09,https://www.eloratings.net/1998_World_Cup.tsv
+1998,France,2002,1998-06-09,https://www.eloratings.net/1998_World_Cup.tsv
+1998,Germany,2058,1998-06-09,https://www.eloratings.net/1998_World_Cup.tsv
+1998,Iran,1637,1998-06-09,https://www.eloratings.net/1998_World_Cup.tsv
+1998,Italy,1971,1998-06-09,https://www.eloratings.net/1998_World_Cup.tsv
+1998,Jamaica,1645,1998-06-09,https://www.eloratings.net/1998_World_Cup.tsv
+1998,Japan,1744,1998-06-09,https://www.eloratings.net/1998_World_Cup.tsv
+1998,Mexico,1847,1998-06-09,https://www.eloratings.net/1998_World_Cup.tsv
+1998,Morocco,1726,1998-06-09,https://www.eloratings.net/1998_World_Cup.tsv
+1998,Netherlands,1959,1998-06-09,https://www.eloratings.net/1998_World_Cup.tsv
+1998,Nigeria,1703,1998-06-09,https://www.eloratings.net/1998_World_Cup.tsv
+1998,Norway,1902,1998-06-09,https://www.eloratings.net/1998_World_Cup.tsv
+1998,Paraguay,1742,1998-06-09,https://www.eloratings.net/1998_World_Cup.tsv
+1998,Romania,1879,1998-06-09,https://www.eloratings.net/1998_World_Cup.tsv
+1998,Saudi Arabia,1646,1998-06-09,https://www.eloratings.net/1998_World_Cup.tsv
+1998,Scotland,1777,1998-06-09,https://www.eloratings.net/1998_World_Cup.tsv
+1998,South Africa,1636,1998-06-09,https://www.eloratings.net/1998_World_Cup.tsv
+1998,South Korea,1750,1998-06-09,https://www.eloratings.net/1998_World_Cup.tsv
+1998,Spain,2039,1998-06-09,https://www.eloratings.net/1998_World_Cup.tsv
+1998,Tunisia,1632,1998-06-09,https://www.eloratings.net/1998_World_Cup.tsv
+1998,United States,1759,1998-06-09,https://www.eloratings.net/1998_World_Cup.tsv
+1998,Yugoslavia,1969,1998-06-09,https://www.eloratings.net/1998_World_Cup.tsv
+2002,Argentina,2020,2002-05-30,https://www.eloratings.net/2002_World_Cup.tsv
+2002,Belgium,1837,2002-05-30,https://www.eloratings.net/2002_World_Cup.tsv
+2002,Brazil,1867,2002-05-30,https://www.eloratings.net/2002_World_Cup.tsv
+2002,Cameroon,1804,2002-05-30,https://www.eloratings.net/2002_World_Cup.tsv
+2002,China,1699,2002-05-30,https://www.eloratings.net/2002_World_Cup.tsv
+2002,Costa Rica,1755,2002-05-30,https://www.eloratings.net/2002_World_Cup.tsv
+2002,Croatia,1881,2002-05-30,https://www.eloratings.net/2002_World_Cup.tsv
+2002,Denmark,1860,2002-05-30,https://www.eloratings.net/2002_World_Cup.tsv
+2002,Ecuador,1727,2002-05-30,https://www.eloratings.net/2002_World_Cup.tsv
+2002,England,1924,2002-05-30,https://www.eloratings.net/2002_World_Cup.tsv
+2002,France,2093,2002-05-30,https://www.eloratings.net/2002_World_Cup.tsv
+2002,Germany,1869,2002-05-30,https://www.eloratings.net/2002_World_Cup.tsv
+2002,Italy,2009,2002-05-30,https://www.eloratings.net/2002_World_Cup.tsv
+2002,Japan,1848,2002-05-30,https://www.eloratings.net/2002_World_Cup.tsv
+2002,Mexico,1832,2002-05-30,https://www.eloratings.net/2002_World_Cup.tsv
+2002,Nigeria,1764,2002-05-30,https://www.eloratings.net/2002_World_Cup.tsv
+2002,Paraguay,1731,2002-05-30,https://www.eloratings.net/2002_World_Cup.tsv
+2002,Poland,1735,2002-05-30,https://www.eloratings.net/2002_World_Cup.tsv
+2002,Portugal,1977,2002-05-30,https://www.eloratings.net/2002_World_Cup.tsv
+2002,Republic of Ireland,1873,2002-05-30,https://www.eloratings.net/2002_World_Cup.tsv
+2002,Russia,1801,2002-05-30,https://www.eloratings.net/2002_World_Cup.tsv
+2002,Saudi Arabia,1697,2002-05-30,https://www.eloratings.net/2002_World_Cup.tsv
+2002,Senegal,1698,2002-05-30,https://www.eloratings.net/2002_World_Cup.tsv
+2002,Slovenia,1745,2002-05-30,https://www.eloratings.net/2002_World_Cup.tsv
+2002,South Africa,1640,2002-05-30,https://www.eloratings.net/2002_World_Cup.tsv
+2002,South Korea,1735,2002-05-30,https://www.eloratings.net/2002_World_Cup.tsv
+2002,Spain,1963,2002-05-30,https://www.eloratings.net/2002_World_Cup.tsv
+2002,Sweden,1866,2002-05-30,https://www.eloratings.net/2002_World_Cup.tsv
+2002,Tunisia,1618,2002-05-30,https://www.eloratings.net/2002_World_Cup.tsv
+2002,Turkey,1757,2002-05-30,https://www.eloratings.net/2002_World_Cup.tsv
+2002,United States,1809,2002-05-30,https://www.eloratings.net/2002_World_Cup.tsv
+2002,Uruguay,1811,2002-05-30,https://www.eloratings.net/2002_World_Cup.tsv
+2006,Angola,1564,2006-06-08,https://www.eloratings.net/2006_World_Cup.tsv
+2006,Argentina,1922,2006-06-08,https://www.eloratings.net/2006_World_Cup.tsv
+2006,Australia,1798,2006-06-08,https://www.eloratings.net/2006_World_Cup.tsv
+2006,Brazil,2034,2006-06-08,https://www.eloratings.net/2006_World_Cup.tsv
+2006,Costa Rica,1724,2006-06-08,https://www.eloratings.net/2006_World_Cup.tsv
+2006,Croatia,1838,2006-06-08,https://www.eloratings.net/2006_World_Cup.tsv
+2006,Czech Republic,1971,2006-06-08,https://www.eloratings.net/2006_World_Cup.tsv
+2006,Ecuador,1700,2006-06-08,https://www.eloratings.net/2006_World_Cup.tsv
+2006,England,1972,2006-06-08,https://www.eloratings.net/2006_World_Cup.tsv
+2006,France,1971,2006-06-08,https://www.eloratings.net/2006_World_Cup.tsv
+2006,Germany,1895,2006-06-08,https://www.eloratings.net/2006_World_Cup.tsv
+2006,Ghana,1616,2006-06-08,https://www.eloratings.net/2006_World_Cup.tsv
+2006,Iran,1841,2006-06-08,https://www.eloratings.net/2006_World_Cup.tsv
+2006,Italy,1943,2006-06-08,https://www.eloratings.net/2006_World_Cup.tsv
+2006,Ivory Coast,1766,2006-06-08,https://www.eloratings.net/2006_World_Cup.tsv
+2006,Japan,1789,2006-06-08,https://www.eloratings.net/2006_World_Cup.tsv
+2006,Mexico,1838,2006-06-08,https://www.eloratings.net/2006_World_Cup.tsv
+2006,Netherlands,1994,2006-06-08,https://www.eloratings.net/2006_World_Cup.tsv
+2006,Paraguay,1779,2006-06-08,https://www.eloratings.net/2006_World_Cup.tsv
+2006,Poland,1822,2006-06-08,https://www.eloratings.net/2006_World_Cup.tsv
+2006,Portugal,1915,2006-06-08,https://www.eloratings.net/2006_World_Cup.tsv
+2006,Saudi Arabia,1554,2006-06-08,https://www.eloratings.net/2006_World_Cup.tsv
+2006,Serbia and Montenegro,1800,2006-06-08,https://www.eloratings.net/2006_World_Cup.tsv
+2006,South Korea,1743,2006-06-08,https://www.eloratings.net/2006_World_Cup.tsv
+2006,Spain,1965,2006-06-08,https://www.eloratings.net/2006_World_Cup.tsv
+2006,Sweden,1859,2006-06-08,https://www.eloratings.net/2006_World_Cup.tsv
+2006,Switzerland,1800,2006-06-08,https://www.eloratings.net/2006_World_Cup.tsv
+2006,Togo,1488,2006-06-08,https://www.eloratings.net/2006_World_Cup.tsv
+2006,Trinidad and Tobago,1567,2006-06-08,https://www.eloratings.net/2006_World_Cup.tsv
+2006,Tunisia,1703,2006-06-08,https://www.eloratings.net/2006_World_Cup.tsv
+2006,Ukraine,1790,2006-06-08,https://www.eloratings.net/2006_World_Cup.tsv
+2006,United States,1824,2006-06-08,https://www.eloratings.net/2006_World_Cup.tsv
+2010,Algeria,1539,2010-06-10,https://www.eloratings.net/2010_World_Cup.tsv
+2010,Argentina,1921,2010-06-10,https://www.eloratings.net/2010_World_Cup.tsv
+2010,Australia,1775,2010-06-10,https://www.eloratings.net/2010_World_Cup.tsv
+2010,Brazil,2109,2010-06-10,https://www.eloratings.net/2010_World_Cup.tsv
+2010,Cameroon,1694,2010-06-10,https://www.eloratings.net/2010_World_Cup.tsv
+2010,Chile,1886,2010-06-10,https://www.eloratings.net/2010_World_Cup.tsv
+2010,Denmark,1778,2010-06-10,https://www.eloratings.net/2010_World_Cup.tsv
+2010,England,2001,2010-06-10,https://www.eloratings.net/2010_World_Cup.tsv
+2010,France,1861,2010-06-10,https://www.eloratings.net/2010_World_Cup.tsv
+2010,Germany,1957,2010-06-10,https://www.eloratings.net/2010_World_Cup.tsv
+2010,Ghana,1687,2010-06-10,https://www.eloratings.net/2010_World_Cup.tsv
+2010,Greece,1735,2010-06-10,https://www.eloratings.net/2010_World_Cup.tsv
+2010,Honduras,1714,2010-06-10,https://www.eloratings.net/2010_World_Cup.tsv
+2010,Italy,1936,2010-06-10,https://www.eloratings.net/2010_World_Cup.tsv
+2010,Ivory Coast,1739,2010-06-10,https://www.eloratings.net/2010_World_Cup.tsv
+2010,Japan,1678,2010-06-10,https://www.eloratings.net/2010_World_Cup.tsv
+2010,Mexico,1898,2010-06-10,https://www.eloratings.net/2010_World_Cup.tsv
+2010,Netherlands,2043,2010-06-10,https://www.eloratings.net/2010_World_Cup.tsv
+2010,New Zealand,1527,2010-06-10,https://www.eloratings.net/2010_World_Cup.tsv
+2010,Nigeria,1713,2010-06-10,https://www.eloratings.net/2010_World_Cup.tsv
+2010,North Korea,1537,2010-06-10,https://www.eloratings.net/2010_World_Cup.tsv
+2010,Paraguay,1764,2010-06-10,https://www.eloratings.net/2010_World_Cup.tsv
+2010,Portugal,1876,2010-06-10,https://www.eloratings.net/2010_World_Cup.tsv
+2010,Serbia,1840,2010-06-10,https://www.eloratings.net/2010_World_Cup.tsv
+2010,Slovakia,1670,2010-06-10,https://www.eloratings.net/2010_World_Cup.tsv
+2010,Slovenia,1685,2010-06-10,https://www.eloratings.net/2010_World_Cup.tsv
+2010,South Africa,1593,2010-06-10,https://www.eloratings.net/2010_World_Cup.tsv
+2010,South Korea,1765,2010-06-10,https://www.eloratings.net/2010_World_Cup.tsv
+2010,Spain,2111,2010-06-10,https://www.eloratings.net/2010_World_Cup.tsv
+2010,Switzerland,1762,2010-06-10,https://www.eloratings.net/2010_World_Cup.tsv
+2010,United States,1785,2010-06-10,https://www.eloratings.net/2010_World_Cup.tsv
+2010,Uruguay,1845,2010-06-10,https://www.eloratings.net/2010_World_Cup.tsv
+2014,Algeria,1625,2014-06-11,https://www.eloratings.net/2014_World_Cup.tsv
+2014,Argentina,2018,2014-06-11,https://www.eloratings.net/2014_World_Cup.tsv
+2014,Australia,1708,2014-06-11,https://www.eloratings.net/2014_World_Cup.tsv
+2014,Belgium,1851,2014-06-11,https://www.eloratings.net/2014_World_Cup.tsv
+2014,Bosnia and Herzegovina,1785,2014-06-11,https://www.eloratings.net/2014_World_Cup.tsv
+2014,Brazil,2138,2014-06-11,https://www.eloratings.net/2014_World_Cup.tsv
+2014,Cameroon,1606,2014-06-11,https://www.eloratings.net/2014_World_Cup.tsv
+2014,Chile,1919,2014-06-11,https://www.eloratings.net/2014_World_Cup.tsv
+2014,Colombia,1922,2014-06-11,https://www.eloratings.net/2014_World_Cup.tsv
+2014,Costa Rica,1711,2014-06-11,https://www.eloratings.net/2014_World_Cup.tsv
+2014,Croatia,1818,2014-06-11,https://www.eloratings.net/2014_World_Cup.tsv
+2014,Ecuador,1836,2014-06-11,https://www.eloratings.net/2014_World_Cup.tsv
+2014,England,1931,2014-06-11,https://www.eloratings.net/2014_World_Cup.tsv
+2014,France,1896,2014-06-11,https://www.eloratings.net/2014_World_Cup.tsv
+2014,Germany,2073,2014-06-11,https://www.eloratings.net/2014_World_Cup.tsv
+2014,Ghana,1704,2014-06-11,https://www.eloratings.net/2014_World_Cup.tsv
+2014,Greece,1823,2014-06-11,https://www.eloratings.net/2014_World_Cup.tsv
+2014,Honduras,1668,2014-06-11,https://www.eloratings.net/2014_World_Cup.tsv
+2014,Iran,1715,2014-06-11,https://www.eloratings.net/2014_World_Cup.tsv
+2014,Italy,1887,2014-06-11,https://www.eloratings.net/2014_World_Cup.tsv
+2014,Ivory Coast,1772,2014-06-11,https://www.eloratings.net/2014_World_Cup.tsv
+2014,Japan,1785,2014-06-11,https://www.eloratings.net/2014_World_Cup.tsv
+2014,Mexico,1814,2014-06-11,https://www.eloratings.net/2014_World_Cup.tsv
+2014,Netherlands,1985,2014-06-11,https://www.eloratings.net/2014_World_Cup.tsv
+2014,Nigeria,1727,2014-06-11,https://www.eloratings.net/2014_World_Cup.tsv
+2014,Portugal,1942,2014-06-11,https://www.eloratings.net/2014_World_Cup.tsv
+2014,Russia,1848,2014-06-11,https://www.eloratings.net/2014_World_Cup.tsv
+2014,South Korea,1667,2014-06-11,https://www.eloratings.net/2014_World_Cup.tsv
+2014,Spain,2107,2014-06-11,https://www.eloratings.net/2014_World_Cup.tsv
+2014,Switzerland,1855,2014-06-11,https://www.eloratings.net/2014_World_Cup.tsv
+2014,United States,1857,2014-06-11,https://www.eloratings.net/2014_World_Cup.tsv
+2014,Uruguay,1918,2014-06-11,https://www.eloratings.net/2014_World_Cup.tsv
+2018,Argentina,1984,2018-06-13,https://www.eloratings.net/2018_World_Cup.tsv
+2018,Australia,1743,2018-06-13,https://www.eloratings.net/2018_World_Cup.tsv
+2018,Belgium,1935,2018-06-13,https://www.eloratings.net/2018_World_Cup.tsv
+2018,Brazil,2141,2018-06-13,https://www.eloratings.net/2018_World_Cup.tsv
+2018,Colombia,1927,2018-06-13,https://www.eloratings.net/2018_World_Cup.tsv
+2018,Costa Rica,1742,2018-06-13,https://www.eloratings.net/2018_World_Cup.tsv
+2018,Croatia,1853,2018-06-13,https://www.eloratings.net/2018_World_Cup.tsv
+2018,Denmark,1854,2018-06-13,https://www.eloratings.net/2018_World_Cup.tsv
+2018,Egypt,1639,2018-06-13,https://www.eloratings.net/2018_World_Cup.tsv
+2018,England,1947,2018-06-13,https://www.eloratings.net/2018_World_Cup.tsv
+2018,France,1986,2018-06-13,https://www.eloratings.net/2018_World_Cup.tsv
+2018,Germany,2076,2018-06-13,https://www.eloratings.net/2018_World_Cup.tsv
+2018,Iceland,1764,2018-06-13,https://www.eloratings.net/2018_World_Cup.tsv
+2018,Iran,1790,2018-06-13,https://www.eloratings.net/2018_World_Cup.tsv
+2018,Japan,1684,2018-06-13,https://www.eloratings.net/2018_World_Cup.tsv
+2018,Mexico,1849,2018-06-13,https://www.eloratings.net/2018_World_Cup.tsv
+2018,Morocco,1731,2018-06-13,https://www.eloratings.net/2018_World_Cup.tsv
+2018,Nigeria,1681,2018-06-13,https://www.eloratings.net/2018_World_Cup.tsv
+2018,Panama,1657,2018-06-13,https://www.eloratings.net/2018_World_Cup.tsv
+2018,Peru,1915,2018-06-13,https://www.eloratings.net/2018_World_Cup.tsv
+2018,Poland,1830,2018-06-13,https://www.eloratings.net/2018_World_Cup.tsv
+2018,Portugal,1968,2018-06-13,https://www.eloratings.net/2018_World_Cup.tsv
+2018,Russia,1676,2018-06-13,https://www.eloratings.net/2018_World_Cup.tsv
+2018,Saudi Arabia,1588,2018-06-13,https://www.eloratings.net/2018_World_Cup.tsv
+2018,Senegal,1746,2018-06-13,https://www.eloratings.net/2018_World_Cup.tsv
+2018,Serbia,1788,2018-06-13,https://www.eloratings.net/2018_World_Cup.tsv
+2018,South Korea,1713,2018-06-13,https://www.eloratings.net/2018_World_Cup.tsv
+2018,Spain,2043,2018-06-13,https://www.eloratings.net/2018_World_Cup.tsv
+2018,Sweden,1793,2018-06-13,https://www.eloratings.net/2018_World_Cup.tsv
+2018,Switzerland,1888,2018-06-13,https://www.eloratings.net/2018_World_Cup.tsv
+2018,Tunisia,1652,2018-06-13,https://www.eloratings.net/2018_World_Cup.tsv
+2018,Uruguay,1893,2018-06-13,https://www.eloratings.net/2018_World_Cup.tsv
+2022,Argentina,2143,2022-11-19,https://www.eloratings.net/2022_World_Cup.tsv
+2022,Australia,1720,2022-11-19,https://www.eloratings.net/2022_World_Cup.tsv
+2022,Belgium,2006,2022-11-19,https://www.eloratings.net/2022_World_Cup.tsv
+2022,Brazil,2169,2022-11-19,https://www.eloratings.net/2022_World_Cup.tsv
+2022,Cameroon,1607,2022-11-19,https://www.eloratings.net/2022_World_Cup.tsv
+2022,Canada,1775,2022-11-19,https://www.eloratings.net/2022_World_Cup.tsv
+2022,Costa Rica,1743,2022-11-19,https://www.eloratings.net/2022_World_Cup.tsv
+2022,Croatia,1926,2022-11-19,https://www.eloratings.net/2022_World_Cup.tsv
+2022,Denmark,1971,2022-11-19,https://www.eloratings.net/2022_World_Cup.tsv
+2022,Ecuador,1832,2022-11-19,https://www.eloratings.net/2022_World_Cup.tsv
+2022,England,1919,2022-11-19,https://www.eloratings.net/2022_World_Cup.tsv
+2022,France,2004,2022-11-19,https://www.eloratings.net/2022_World_Cup.tsv
+2022,Germany,1962,2022-11-19,https://www.eloratings.net/2022_World_Cup.tsv
+2022,Ghana,1564,2022-11-19,https://www.eloratings.net/2022_World_Cup.tsv
+2022,Iran,1798,2022-11-19,https://www.eloratings.net/2022_World_Cup.tsv
+2022,Japan,1788,2022-11-19,https://www.eloratings.net/2022_World_Cup.tsv
+2022,Mexico,1808,2022-11-19,https://www.eloratings.net/2022_World_Cup.tsv
+2022,Morocco,1764,2022-11-19,https://www.eloratings.net/2022_World_Cup.tsv
+2022,Netherlands,2040,2022-11-19,https://www.eloratings.net/2022_World_Cup.tsv
+2022,Poland,1813,2022-11-19,https://www.eloratings.net/2022_World_Cup.tsv
+2022,Portugal,2005,2022-11-19,https://www.eloratings.net/2022_World_Cup.tsv
+2022,Qatar,1680,2022-11-19,https://www.eloratings.net/2022_World_Cup.tsv
+2022,Saudi Arabia,1636,2022-11-19,https://www.eloratings.net/2022_World_Cup.tsv
+2022,Senegal,1684,2022-11-19,https://www.eloratings.net/2022_World_Cup.tsv
+2022,Serbia,1898,2022-11-19,https://www.eloratings.net/2022_World_Cup.tsv
+2022,South Korea,1786,2022-11-19,https://www.eloratings.net/2022_World_Cup.tsv
+2022,Spain,2049,2022-11-19,https://www.eloratings.net/2022_World_Cup.tsv
+2022,Switzerland,1901,2022-11-19,https://www.eloratings.net/2022_World_Cup.tsv
+2022,Tunisia,1705,2022-11-19,https://www.eloratings.net/2022_World_Cup.tsv
+2022,United States,1796,2022-11-19,https://www.eloratings.net/2022_World_Cup.tsv
+2022,Uruguay,1935,2022-11-19,https://www.eloratings.net/2022_World_Cup.tsv
+2022,Wales,1789,2022-11-19,https://www.eloratings.net/2022_World_Cup.tsv
+2026,Algeria,1772,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Argentina,2115,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Australia,1777,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Austria,1830,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Belgium,1894,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Bosnia and Herzegovina,1595,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Brazil,1991,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Canada,1788,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Cape Verde,1578,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Colombia,1982,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Croatia,1912,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Curaçao,1434,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Czech Republic,1740,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,DR Congo,1652,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Ecuador,1938,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Egypt,1696,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,England,2024,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,France,2063,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Germany,1932,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Ghana,1510,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Haiti,1548,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Iran,1772,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Iraq,1607,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Ivory Coast,1695,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Japan,1906,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Jordan,1680,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Mexico,1875,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Morocco,1827,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Netherlands,1948,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,New Zealand,1562,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Norway,1914,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Panama,1730,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Paraguay,1834,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Portugal,1989,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Qatar,1421,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Saudi Arabia,1576,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Scotland,1782,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Senegal,1860,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,South Africa,1518,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,South Korea,1758,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Spain,2157,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Sweden,1712,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Switzerland,1891,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Tunisia,1628,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Turkey,1911,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,United States,1726,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Uruguay,1892,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv
+2026,Uzbekistan,1714,2026-06-10,https://www.eloratings.net/2026_World_Cup.tsv

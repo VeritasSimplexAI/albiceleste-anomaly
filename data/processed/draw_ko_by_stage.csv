@@ -1,0 +1,553 @@
+year,team,stage,opp,opp_elo
+1930,Argentina,semi-finals,United States,1672
+1930,United States,semi-finals,Argentina,2073
+1930,Uruguay,semi-finals,Yugoslavia,1590
+1930,Yugoslavia,semi-finals,Uruguay,1968
+1930,Uruguay,final,Argentina,2073
+1930,Argentina,final,Uruguay,1968
+1934,Austria,round of 16,France,1626
+1934,France,round of 16,Austria,2050
+1934,Czechoslovakia,round of 16,Romania,1639
+1934,Romania,round of 16,Czechoslovakia,1847
+1934,Germany,round of 16,Belgium,1549
+1934,Belgium,round of 16,Germany,1799
+1934,Hungary,round of 16,Egypt,1707
+1934,Egypt,round of 16,Hungary,1829
+1934,Italy,round of 16,United States,1778
+1934,United States,round of 16,Italy,1975
+1934,Spain,round of 16,Brazil,1934
+1934,Brazil,round of 16,Spain,1936
+1934,Sweden,round of 16,Argentina,2062
+1934,Argentina,round of 16,Sweden,1731
+1934,Switzerland,round of 16,Netherlands,1707
+1934,Netherlands,round of 16,Switzerland,1615
+1934,Austria,quarter-finals,Hungary,1829
+1934,Hungary,quarter-finals,Austria,2050
+1934,Czechoslovakia,quarter-finals,Switzerland,1615
+1934,Switzerland,quarter-finals,Czechoslovakia,1847
+1934,Germany,quarter-finals,Sweden,1731
+1934,Sweden,quarter-finals,Germany,1799
+1934,Italy,quarter-finals,Spain,1936
+1934,Spain,quarter-finals,Italy,1975
+1934,Italy,quarter-finals,Spain,1936
+1934,Spain,quarter-finals,Italy,1975
+1934,Czechoslovakia,semi-finals,Germany,1799
+1934,Germany,semi-finals,Czechoslovakia,1847
+1934,Italy,semi-finals,Austria,2050
+1934,Austria,semi-finals,Italy,1975
+1934,Germany,third place,Austria,2050
+1934,Austria,third place,Germany,1799
+1934,Italy,final,Czechoslovakia,1847
+1934,Czechoslovakia,final,Italy,1975
+1938,Switzerland,round of 16,Germany,1830
+1938,Germany,round of 16,Switzerland,1670
+1938,Cuba,round of 16,Romania,1557
+1938,Romania,round of 16,Cuba,1543
+1938,France,round of 16,Belgium,1567
+1938,Belgium,round of 16,France,1630
+1938,Hungary,round of 16,Dutch East Indies,1468
+1938,Dutch East Indies,round of 16,Hungary,1929
+1938,Italy,round of 16,Norway,1731
+1938,Norway,round of 16,Italy,2053
+1938,Brazil,round of 16,Poland,1629
+1938,Poland,round of 16,Brazil,1904
+1938,Czechoslovakia,round of 16,Netherlands,1706
+1938,Netherlands,round of 16,Czechoslovakia,1822
+1938,Cuba,round of 16,Romania,1557
+1938,Romania,round of 16,Cuba,1543
+1938,Switzerland,round of 16,Germany,1830
+1938,Germany,round of 16,Switzerland,1670
+1938,Brazil,quarter-finals,Czechoslovakia,1822
+1938,Czechoslovakia,quarter-finals,Brazil,1904
+1938,Hungary,quarter-finals,Switzerland,1670
+1938,Switzerland,quarter-finals,Hungary,1929
+1938,Italy,quarter-finals,France,1630
+1938,France,quarter-finals,Italy,2053
+1938,Sweden,quarter-finals,Cuba,1543
+1938,Cuba,quarter-finals,Sweden,1652
+1938,Brazil,quarter-finals,Czechoslovakia,1822
+1938,Czechoslovakia,quarter-finals,Brazil,1904
+1938,Hungary,semi-finals,Sweden,1652
+1938,Sweden,semi-finals,Hungary,1929
+1938,Italy,semi-finals,Brazil,1904
+1938,Brazil,semi-finals,Italy,2053
+1938,Brazil,third place,Sweden,1652
+1938,Sweden,third place,Brazil,1904
+1938,Italy,final,Hungary,1929
+1938,Hungary,final,Italy,2053
+1954,Austria,quarter-finals,Switzerland,1673
+1954,Switzerland,quarter-finals,Austria,1866
+1954,Uruguay,quarter-finals,England,2019
+1954,England,quarter-finals,Uruguay,1877
+1954,Hungary,quarter-finals,Brazil,2031
+1954,Brazil,quarter-finals,Hungary,2146
+1954,West Germany,quarter-finals,Yugoslavia,1934
+1954,Yugoslavia,quarter-finals,West Germany,1949
+1954,Hungary,semi-finals,Uruguay,1877
+1954,Uruguay,semi-finals,Hungary,2146
+1954,West Germany,semi-finals,Austria,1866
+1954,Austria,semi-finals,West Germany,1949
+1954,Austria,third place,Uruguay,1877
+1954,Uruguay,third place,Austria,1866
+1954,West Germany,final,Hungary,2146
+1954,Hungary,final,West Germany,1949
+1958,Brazil,quarter-finals,Wales,1713
+1958,Wales,quarter-finals,Brazil,1976
+1958,France,quarter-finals,Northern Ireland,1735
+1958,Northern Ireland,quarter-finals,France,1839
+1958,Sweden,quarter-finals,Soviet Union,1888
+1958,Soviet Union,quarter-finals,Sweden,1803
+1958,West Germany,quarter-finals,Yugoslavia,1917
+1958,Yugoslavia,quarter-finals,West Germany,1926
+1958,Brazil,semi-finals,France,1839
+1958,France,semi-finals,Brazil,1976
+1958,Sweden,semi-finals,West Germany,1926
+1958,West Germany,semi-finals,Sweden,1803
+1958,France,third place,West Germany,1926
+1958,West Germany,third place,France,1839
+1958,Brazil,final,Sweden,1803
+1958,Sweden,final,Brazil,1976
+1962,Brazil,quarter-finals,England,1939
+1962,England,quarter-finals,Brazil,2103
+1962,Chile,quarter-finals,Soviet Union,2028
+1962,Soviet Union,quarter-finals,Chile,1740
+1962,Czechoslovakia,quarter-finals,Hungary,1939
+1962,Hungary,quarter-finals,Czechoslovakia,1977
+1962,Yugoslavia,quarter-finals,West Germany,1900
+1962,West Germany,quarter-finals,Yugoslavia,1983
+1962,Brazil,semi-finals,Chile,1740
+1962,Chile,semi-finals,Brazil,2103
+1962,Czechoslovakia,semi-finals,Yugoslavia,1983
+1962,Yugoslavia,semi-finals,Czechoslovakia,1977
+1962,Chile,third place,Yugoslavia,1983
+1962,Yugoslavia,third place,Chile,1740
+1962,Brazil,final,Czechoslovakia,1977
+1962,Czechoslovakia,final,Brazil,2103
+1966,England,quarter-finals,Argentina,1974
+1966,Argentina,quarter-finals,England,1993
+1966,Portugal,quarter-finals,North Korea,1778
+1966,North Korea,quarter-finals,Portugal,1832
+1966,Soviet Union,quarter-finals,Hungary,1955
+1966,Hungary,quarter-finals,Soviet Union,2002
+1966,West Germany,quarter-finals,Uruguay,1848
+1966,Uruguay,quarter-finals,West Germany,1958
+1966,West Germany,semi-finals,Soviet Union,2002
+1966,Soviet Union,semi-finals,West Germany,1958
+1966,England,semi-finals,Portugal,1832
+1966,Portugal,semi-finals,England,1993
+1966,Portugal,third place,Soviet Union,2002
+1966,Soviet Union,third place,Portugal,1832
+1966,England,final,West Germany,1958
+1966,West Germany,final,England,1993
+1970,Brazil,quarter-finals,Peru,1693
+1970,Peru,quarter-finals,Brazil,2011
+1970,Italy,quarter-finals,Mexico,1705
+1970,Mexico,quarter-finals,Italy,2007
+1970,Soviet Union,quarter-finals,Uruguay,1869
+1970,Uruguay,quarter-finals,Soviet Union,1936
+1970,West Germany,quarter-finals,England,2073
+1970,England,quarter-finals,West Germany,1997
+1970,Brazil,semi-finals,Uruguay,1869
+1970,Uruguay,semi-finals,Brazil,2011
+1970,Italy,semi-finals,West Germany,1997
+1970,West Germany,semi-finals,Italy,2007
+1970,West Germany,third place,Uruguay,1869
+1970,Uruguay,third place,West Germany,1997
+1970,Brazil,final,Italy,2007
+1970,Italy,final,Brazil,2011
+1974,Brazil,third place,Poland,1957
+1974,Poland,third place,Brazil,2117
+1974,Netherlands,final,West Germany,2112
+1974,West Germany,final,Netherlands,1843
+1978,Brazil,third place,Italy,1938
+1978,Italy,third place,Brazil,2081
+1978,Argentina,final,Netherlands,2092
+1978,Netherlands,final,Argentina,1927
+1982,Poland,semi-finals,Italy,1892
+1982,Italy,semi-finals,Poland,1958
+1982,West Germany,semi-finals,France,1880
+1982,France,semi-finals,West Germany,2110
+1982,Poland,third place,France,1880
+1982,France,third place,Poland,1958
+1982,Italy,final,West Germany,2110
+1982,West Germany,final,Italy,1892
+1986,Mexico,round of 16,Bulgaria,1844
+1986,Bulgaria,round of 16,Mexico,1840
+1986,Soviet Union,round of 16,Belgium,1823
+1986,Belgium,round of 16,Soviet Union,1940
+1986,Brazil,round of 16,Poland,1805
+1986,Poland,round of 16,Brazil,1916
+1986,Argentina,round of 16,Uruguay,1832
+1986,Uruguay,round of 16,Argentina,1874
+1986,Italy,round of 16,France,1995
+1986,France,round of 16,Italy,1883
+1986,Morocco,round of 16,West Germany,1940
+1986,West Germany,round of 16,Morocco,1642
+1986,England,round of 16,Paraguay,1812
+1986,Paraguay,round of 16,England,1989
+1986,Denmark,round of 16,Spain,1902
+1986,Spain,round of 16,Denmark,1893
+1986,Brazil,quarter-finals,France,1995
+1986,France,quarter-finals,Brazil,1916
+1986,West Germany,quarter-finals,Mexico,1840
+1986,Mexico,quarter-finals,West Germany,1940
+1986,Argentina,quarter-finals,England,1989
+1986,England,quarter-finals,Argentina,1874
+1986,Spain,quarter-finals,Belgium,1823
+1986,Belgium,quarter-finals,Spain,1902
+1986,France,semi-finals,West Germany,1940
+1986,West Germany,semi-finals,France,1995
+1986,Argentina,semi-finals,Belgium,1823
+1986,Belgium,semi-finals,Argentina,1874
+1986,Belgium,third place,France,1995
+1986,France,third place,Belgium,1823
+1986,Argentina,final,West Germany,1940
+1986,West Germany,final,Argentina,1874
+1990,Cameroon,round of 16,Colombia,1801
+1990,Colombia,round of 16,Cameroon,1631
+1990,Czechoslovakia,round of 16,Costa Rica,1611
+1990,Costa Rica,round of 16,Czechoslovakia,1855
+1990,Brazil,round of 16,Argentina,1794
+1990,Argentina,round of 16,Brazil,1993
+1990,West Germany,round of 16,Netherlands,2033
+1990,Netherlands,round of 16,West Germany,1994
+1990,Republic of Ireland,round of 16,Romania,1894
+1990,Romania,round of 16,Republic of Ireland,1891
+1990,Italy,round of 16,Uruguay,1893
+1990,Uruguay,round of 16,Italy,1965
+1990,Spain,round of 16,Yugoslavia,1893
+1990,Yugoslavia,round of 16,Spain,1927
+1990,England,round of 16,Belgium,1844
+1990,Belgium,round of 16,England,1944
+1990,Argentina,quarter-finals,Yugoslavia,1893
+1990,Yugoslavia,quarter-finals,Argentina,1794
+1990,Republic of Ireland,quarter-finals,Italy,1965
+1990,Italy,quarter-finals,Republic of Ireland,1891
+1990,Czechoslovakia,quarter-finals,West Germany,1994
+1990,West Germany,quarter-finals,Czechoslovakia,1855
+1990,Cameroon,quarter-finals,England,1944
+1990,England,quarter-finals,Cameroon,1631
+1990,Argentina,semi-finals,Italy,1965
+1990,Italy,semi-finals,Argentina,1794
+1990,West Germany,semi-finals,England,1944
+1990,England,semi-finals,West Germany,1994
+1990,Italy,third place,England,1944
+1990,England,third place,Italy,1965
+1990,West Germany,final,Argentina,1794
+1990,Argentina,final,West Germany,1994
+1994,Germany,round of 16,Belgium,1823
+1994,Belgium,round of 16,Germany,2009
+1994,Spain,round of 16,Switzerland,1873
+1994,Switzerland,round of 16,Spain,1893
+1994,Saudi Arabia,round of 16,Sweden,1906
+1994,Sweden,round of 16,Saudi Arabia,1637
+1994,Romania,round of 16,Argentina,1915
+1994,Argentina,round of 16,Romania,1836
+1994,Netherlands,round of 16,Republic of Ireland,1864
+1994,Republic of Ireland,round of 16,Netherlands,1990
+1994,Brazil,round of 16,United States,1614
+1994,United States,round of 16,Brazil,1963
+1994,Nigeria,round of 16,Italy,1986
+1994,Italy,round of 16,Nigeria,1735
+1994,Mexico,round of 16,Bulgaria,1772
+1994,Bulgaria,round of 16,Mexico,1855
+1994,Italy,quarter-finals,Spain,1893
+1994,Spain,quarter-finals,Italy,1986
+1994,Netherlands,quarter-finals,Brazil,1963
+1994,Brazil,quarter-finals,Netherlands,1990
+1994,Bulgaria,quarter-finals,Germany,2009
+1994,Germany,quarter-finals,Bulgaria,1772
+1994,Romania,quarter-finals,Sweden,1906
+1994,Sweden,quarter-finals,Romania,1836
+1994,Bulgaria,semi-finals,Italy,1986
+1994,Italy,semi-finals,Bulgaria,1772
+1994,Sweden,semi-finals,Brazil,1963
+1994,Brazil,semi-finals,Sweden,1906
+1994,Sweden,third place,Bulgaria,1772
+1994,Bulgaria,third place,Sweden,1906
+1994,Brazil,final,Italy,1986
+1994,Italy,final,Brazil,1963
+1998,Italy,round of 16,Norway,1902
+1998,Norway,round of 16,Italy,1971
+1998,Brazil,round of 16,Chile,1788
+1998,Chile,round of 16,Brazil,2091
+1998,France,round of 16,Paraguay,1742
+1998,Paraguay,round of 16,France,2002
+1998,Nigeria,round of 16,Denmark,1882
+1998,Denmark,round of 16,Nigeria,1703
+1998,Germany,round of 16,Mexico,1847
+1998,Mexico,round of 16,Germany,2058
+1998,Netherlands,round of 16,Yugoslavia,1969
+1998,Yugoslavia,round of 16,Netherlands,1959
+1998,Romania,round of 16,Croatia,1874
+1998,Croatia,round of 16,Romania,1879
+1998,Argentina,round of 16,England,1974
+1998,England,round of 16,Argentina,1893
+1998,Italy,quarter-finals,France,2002
+1998,France,quarter-finals,Italy,1971
+1998,Brazil,quarter-finals,Denmark,1882
+1998,Denmark,quarter-finals,Brazil,2091
+1998,Netherlands,quarter-finals,Argentina,1893
+1998,Argentina,quarter-finals,Netherlands,1959
+1998,Germany,quarter-finals,Croatia,1874
+1998,Croatia,quarter-finals,Germany,2058
+1998,Brazil,semi-finals,Netherlands,1959
+1998,Netherlands,semi-finals,Brazil,2091
+1998,France,semi-finals,Croatia,1874
+1998,Croatia,semi-finals,France,2002
+1998,Netherlands,third place,Croatia,1874
+1998,Croatia,third place,Netherlands,1959
+1998,Brazil,final,France,2002
+1998,France,final,Brazil,2091
+2002,Germany,round of 16,Paraguay,1731
+2002,Paraguay,round of 16,Germany,1869
+2002,Denmark,round of 16,England,1924
+2002,England,round of 16,Denmark,1860
+2002,Sweden,round of 16,Senegal,1698
+2002,Senegal,round of 16,Sweden,1866
+2002,Spain,round of 16,Republic of Ireland,1873
+2002,Republic of Ireland,round of 16,Spain,1963
+2002,Mexico,round of 16,United States,1809
+2002,United States,round of 16,Mexico,1832
+2002,Brazil,round of 16,Belgium,1837
+2002,Belgium,round of 16,Brazil,1867
+2002,Japan,round of 16,Turkey,1757
+2002,Turkey,round of 16,Japan,1848
+2002,South Korea,round of 16,Italy,2009
+2002,Italy,round of 16,South Korea,1735
+2002,England,quarter-finals,Brazil,1867
+2002,Brazil,quarter-finals,England,1924
+2002,Germany,quarter-finals,United States,1809
+2002,United States,quarter-finals,Germany,1869
+2002,Spain,quarter-finals,South Korea,1735
+2002,South Korea,quarter-finals,Spain,1963
+2002,Senegal,quarter-finals,Turkey,1757
+2002,Turkey,quarter-finals,Senegal,1698
+2002,Germany,semi-finals,South Korea,1735
+2002,South Korea,semi-finals,Germany,1869
+2002,Brazil,semi-finals,Turkey,1757
+2002,Turkey,semi-finals,Brazil,1867
+2002,South Korea,third place,Turkey,1757
+2002,Turkey,third place,South Korea,1735
+2002,Germany,final,Brazil,1867
+2002,Brazil,final,Germany,1869
+2006,Germany,round of 16,Sweden,1859
+2006,Sweden,round of 16,Germany,1895
+2006,Argentina,round of 16,Mexico,1838
+2006,Mexico,round of 16,Argentina,1922
+2006,England,round of 16,Ecuador,1700
+2006,Ecuador,round of 16,England,1972
+2006,Portugal,round of 16,Netherlands,1994
+2006,Netherlands,round of 16,Portugal,1915
+2006,Italy,round of 16,Australia,1798
+2006,Australia,round of 16,Italy,1943
+2006,Switzerland,round of 16,Ukraine,1790
+2006,Ukraine,round of 16,Switzerland,1800
+2006,Brazil,round of 16,Ghana,1616
+2006,Ghana,round of 16,Brazil,2034
+2006,Spain,round of 16,France,1971
+2006,France,round of 16,Spain,1965
+2006,Germany,quarter-finals,Argentina,1922
+2006,Argentina,quarter-finals,Germany,1895
+2006,Italy,quarter-finals,Ukraine,1790
+2006,Ukraine,quarter-finals,Italy,1943
+2006,England,quarter-finals,Portugal,1915
+2006,Portugal,quarter-finals,England,1972
+2006,Brazil,quarter-finals,France,1971
+2006,France,quarter-finals,Brazil,2034
+2006,Germany,semi-finals,Italy,1943
+2006,Italy,semi-finals,Germany,1895
+2006,Portugal,semi-finals,France,1971
+2006,France,semi-finals,Portugal,1915
+2006,Germany,third place,Portugal,1915
+2006,Portugal,third place,Germany,1895
+2006,Italy,final,France,1971
+2006,France,final,Italy,1943
+2010,Uruguay,round of 16,South Korea,1765
+2010,South Korea,round of 16,Uruguay,1845
+2010,United States,round of 16,Ghana,1687
+2010,Ghana,round of 16,United States,1785
+2010,Germany,round of 16,England,2001
+2010,England,round of 16,Germany,1957
+2010,Argentina,round of 16,Mexico,1898
+2010,Mexico,round of 16,Argentina,1921
+2010,Netherlands,round of 16,Slovakia,1670
+2010,Slovakia,round of 16,Netherlands,2043
+2010,Brazil,round of 16,Chile,1886
+2010,Chile,round of 16,Brazil,2109
+2010,Paraguay,round of 16,Japan,1678
+2010,Japan,round of 16,Paraguay,1764
+2010,Spain,round of 16,Portugal,1876
+2010,Portugal,round of 16,Spain,2111
+2010,Netherlands,quarter-finals,Brazil,2109
+2010,Brazil,quarter-finals,Netherlands,2043
+2010,Uruguay,quarter-finals,Ghana,1687
+2010,Ghana,quarter-finals,Uruguay,1845
+2010,Argentina,quarter-finals,Germany,1957
+2010,Germany,quarter-finals,Argentina,1921
+2010,Paraguay,quarter-finals,Spain,2111
+2010,Spain,quarter-finals,Paraguay,1764
+2010,Uruguay,semi-finals,Netherlands,2043
+2010,Netherlands,semi-finals,Uruguay,1845
+2010,Germany,semi-finals,Spain,2111
+2010,Spain,semi-finals,Germany,1957
+2010,Uruguay,third place,Germany,1957
+2010,Germany,third place,Uruguay,1845
+2010,Netherlands,final,Spain,2111
+2010,Spain,final,Netherlands,2043
+2014,Brazil,round of 16,Chile,1919
+2014,Chile,round of 16,Brazil,2138
+2014,Colombia,round of 16,Uruguay,1918
+2014,Uruguay,round of 16,Colombia,1922
+2014,Netherlands,round of 16,Mexico,1814
+2014,Mexico,round of 16,Netherlands,1985
+2014,Costa Rica,round of 16,Greece,1823
+2014,Greece,round of 16,Costa Rica,1711
+2014,France,round of 16,Nigeria,1727
+2014,Nigeria,round of 16,France,1896
+2014,Germany,round of 16,Algeria,1625
+2014,Algeria,round of 16,Germany,2073
+2014,Argentina,round of 16,Switzerland,1855
+2014,Switzerland,round of 16,Argentina,2018
+2014,Belgium,round of 16,United States,1857
+2014,United States,round of 16,Belgium,1851
+2014,France,quarter-finals,Germany,2073
+2014,Germany,quarter-finals,France,1896
+2014,Brazil,quarter-finals,Colombia,1922
+2014,Colombia,quarter-finals,Brazil,2138
+2014,Argentina,quarter-finals,Belgium,1851
+2014,Belgium,quarter-finals,Argentina,2018
+2014,Netherlands,quarter-finals,Costa Rica,1711
+2014,Costa Rica,quarter-finals,Netherlands,1985
+2014,Brazil,semi-finals,Germany,2073
+2014,Germany,semi-finals,Brazil,2138
+2014,Netherlands,semi-finals,Argentina,2018
+2014,Argentina,semi-finals,Netherlands,1985
+2014,Brazil,third place,Netherlands,1985
+2014,Netherlands,third place,Brazil,2138
+2014,Germany,final,Argentina,2018
+2014,Argentina,final,Germany,2073
+2018,France,round of 16,Argentina,1984
+2018,Argentina,round of 16,France,1986
+2018,Uruguay,round of 16,Portugal,1968
+2018,Portugal,round of 16,Uruguay,1893
+2018,Spain,round of 16,Russia,1676
+2018,Russia,round of 16,Spain,2043
+2018,Croatia,round of 16,Denmark,1854
+2018,Denmark,round of 16,Croatia,1853
+2018,Brazil,round of 16,Mexico,1849
+2018,Mexico,round of 16,Brazil,2141
+2018,Belgium,round of 16,Japan,1684
+2018,Japan,round of 16,Belgium,1935
+2018,Sweden,round of 16,Switzerland,1888
+2018,Switzerland,round of 16,Sweden,1793
+2018,Colombia,round of 16,England,1947
+2018,England,round of 16,Colombia,1927
+2018,Uruguay,quarter-finals,France,1986
+2018,France,quarter-finals,Uruguay,1893
+2018,Brazil,quarter-finals,Belgium,1935
+2018,Belgium,quarter-finals,Brazil,2141
+2018,Sweden,quarter-finals,England,1947
+2018,England,quarter-finals,Sweden,1793
+2018,Russia,quarter-finals,Croatia,1853
+2018,Croatia,quarter-finals,Russia,1676
+2018,France,semi-finals,Belgium,1935
+2018,Belgium,semi-finals,France,1986
+2018,Croatia,semi-finals,England,1947
+2018,England,semi-finals,Croatia,1853
+2018,Belgium,third place,England,1947
+2018,England,third place,Belgium,1935
+2018,France,final,Croatia,1853
+2018,Croatia,final,France,1986
+2022,Netherlands,round of 16,United States,1796
+2022,United States,round of 16,Netherlands,2040
+2022,Argentina,round of 16,Australia,1720
+2022,Australia,round of 16,Argentina,2143
+2022,France,round of 16,Poland,1813
+2022,Poland,round of 16,France,2004
+2022,England,round of 16,Senegal,1684
+2022,Senegal,round of 16,England,1919
+2022,Japan,round of 16,Croatia,1926
+2022,Croatia,round of 16,Japan,1788
+2022,Brazil,round of 16,South Korea,1786
+2022,South Korea,round of 16,Brazil,2169
+2022,Morocco,round of 16,Spain,2049
+2022,Spain,round of 16,Morocco,1764
+2022,Portugal,round of 16,Switzerland,1901
+2022,Switzerland,round of 16,Portugal,2005
+2022,Croatia,quarter-finals,Brazil,2169
+2022,Brazil,quarter-finals,Croatia,1926
+2022,Netherlands,quarter-finals,Argentina,2143
+2022,Argentina,quarter-finals,Netherlands,2040
+2022,Morocco,quarter-finals,Portugal,2005
+2022,Portugal,quarter-finals,Morocco,1764
+2022,England,quarter-finals,France,2004
+2022,France,quarter-finals,England,1919
+2022,Argentina,semi-finals,Croatia,1926
+2022,Croatia,semi-finals,Argentina,2143
+2022,France,semi-finals,Morocco,1764
+2022,Morocco,semi-finals,France,2004
+2022,Croatia,third place,Morocco,1764
+2022,Morocco,third place,Croatia,1926
+2022,Argentina,final,France,2004
+2022,France,final,Argentina,2143
+2026,South Africa,round of 32,Canada,1788
+2026,Canada,round of 32,South Africa,1518
+2026,Brazil,round of 32,Japan,1906
+2026,Japan,round of 32,Brazil,1991
+2026,Germany,round of 32,Paraguay,1834
+2026,Paraguay,round of 32,Germany,1932
+2026,Netherlands,round of 32,Morocco,1827
+2026,Morocco,round of 32,Netherlands,1948
+2026,Ivory Coast,round of 32,Norway,1914
+2026,Norway,round of 32,Ivory Coast,1695
+2026,France,round of 32,Sweden,1712
+2026,Sweden,round of 32,France,2063
+2026,Mexico,round of 32,Ecuador,1938
+2026,Ecuador,round of 32,Mexico,1875
+2026,England,round of 32,DR Congo,1652
+2026,DR Congo,round of 32,England,2024
+2026,Belgium,round of 32,Senegal,1860
+2026,Senegal,round of 32,Belgium,1894
+2026,United States,round of 32,Bosnia and Herzegovina,1595
+2026,Bosnia and Herzegovina,round of 32,United States,1726
+2026,Spain,round of 32,Austria,1830
+2026,Austria,round of 32,Spain,2157
+2026,Portugal,round of 32,Croatia,1912
+2026,Croatia,round of 32,Portugal,1989
+2026,Switzerland,round of 32,Algeria,1772
+2026,Algeria,round of 32,Switzerland,1891
+2026,Australia,round of 32,Egypt,1696
+2026,Egypt,round of 32,Australia,1777
+2026,Argentina,round of 32,Cape Verde,1578
+2026,Cape Verde,round of 32,Argentina,2115
+2026,Colombia,round of 32,Ghana,1510
+2026,Ghana,round of 32,Colombia,1982
+2026,Canada,round of 16,Morocco,1827
+2026,Morocco,round of 16,Canada,1788
+2026,Paraguay,round of 16,France,2063
+2026,France,round of 16,Paraguay,1834
+2026,Brazil,round of 16,Norway,1914
+2026,Norway,round of 16,Brazil,1991
+2026,Mexico,round of 16,England,2024
+2026,England,round of 16,Mexico,1875
+2026,Portugal,round of 16,Spain,2157
+2026,Spain,round of 16,Portugal,1989
+2026,United States,round of 16,Belgium,1894
+2026,Belgium,round of 16,United States,1726
+2026,Argentina,round of 16,Egypt,1696
+2026,Egypt,round of 16,Argentina,2115
+2026,Switzerland,round of 16,Colombia,1982
+2026,Colombia,round of 16,Switzerland,1891
+2026,France,quarter-finals,Morocco,1827
+2026,Morocco,quarter-finals,France,2063
+2026,Spain,quarter-finals,Belgium,1894
+2026,Belgium,quarter-finals,Spain,2157
+2026,Norway,quarter-finals,England,2024
+2026,England,quarter-finals,Norway,1914
+2026,Argentina,quarter-finals,Switzerland,1891
+2026,Switzerland,quarter-finals,Argentina,2115
+2026,France,semi-finals,Spain,2157
+2026,Spain,semi-finals,France,2063
+2026,England,semi-finals,Argentina,2115
+2026,Argentina,semi-finals,England,2024

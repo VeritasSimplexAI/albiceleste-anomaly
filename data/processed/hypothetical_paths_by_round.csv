@@ -1,0 +1,2849 @@
+year,team,slot_assumption,round_label,unweighted_round_elo,weighted_round_elo,n_possible_opponents
+1986,Algeria,winner,R16,1810.5,1780.27,4
+1986,Algeria,winner,QF,1836.0,1911.0,8
+1986,Algeria,winner,SF,1816.38,1894.99,16
+1986,Algeria,winner,F,1835.0,1903.52,23
+1986,Algeria,runner_up,R16,1884.5,1898.22,4
+1986,Algeria,runner_up,QF,1817.5,1913.1,8
+1986,Algeria,runner_up,SF,1816.38,1867.65,16
+1986,Algeria,runner_up,F,1835.0,1909.34,23
+1986,Argentina,winner,R16,1884.5,1880.3,4
+1986,Argentina,winner,QF,1788.62,1838.23,8
+1986,Argentina,winner,SF,1835.38,1915.95,16
+1986,Argentina,winner,F,1823.87,1908.78,23
+1986,Argentina,runner_up,R16,1868.25,1932.54,4
+1986,Argentina,runner_up,QF,1816.25,1865.84,8
+1986,Argentina,runner_up,SF,1812.53,1894.17,15
+1986,Argentina,runner_up,F,1823.87,1903.1,23
+1986,Belgium,winner,R16,1803.75,1818.77,4
+1986,Belgium,winner,QF,1847.5,1923.25,8
+1986,Belgium,winner,SF,1826.12,1902.73,16
+1986,Belgium,winner,F,1826.09,1899.6,23
+1986,Belgium,runner_up,R16,1810.5,1831.56,4
+1986,Belgium,runner_up,QF,1844.12,1876.72,8
+1986,Belgium,runner_up,SF,1836.2,1915.56,15
+1986,Belgium,runner_up,F,1826.09,1907.34,23
+1986,Brazil,winner,R16,1810.5,1780.27,4
+1986,Brazil,winner,QF,1836.0,1911.0,8
+1986,Brazil,winner,SF,1816.38,1894.99,16
+1986,Brazil,winner,F,1822.04,1902.1,23
+1986,Brazil,runner_up,R16,1884.5,1898.22,4
+1986,Brazil,runner_up,QF,1817.5,1913.1,8
+1986,Brazil,runner_up,SF,1816.38,1867.65,16
+1986,Brazil,runner_up,F,1822.04,1907.23,23
+1986,Bulgaria,winner,R16,1884.5,1880.3,4
+1986,Bulgaria,winner,QF,1788.62,1838.23,8
+1986,Bulgaria,winner,SF,1835.38,1915.95,16
+1986,Bulgaria,winner,F,1825.17,1910.06,23
+1986,Bulgaria,runner_up,R16,1868.25,1932.54,4
+1986,Bulgaria,runner_up,QF,1816.25,1865.84,8
+1986,Bulgaria,runner_up,SF,1814.53,1896.92,15
+1986,Bulgaria,runner_up,F,1825.17,1903.9,23
+1986,Canada,winner,R16,1766.75,1777.13,4
+1986,Canada,winner,QF,1853.25,1895.68,8
+1986,Canada,winner,SF,1816.38,1867.65,16
+1986,Canada,winner,F,1833.74,1912.93,23
+1986,Canada,runner_up,R16,1803.75,1853.16,4
+1986,Canada,runner_up,QF,1816.25,1865.84,8
+1986,Canada,runner_up,SF,1816.38,1894.99,16
+1986,Canada,runner_up,F,1833.74,1907.03,23
+1986,Denmark,winner,R16,1822.0,1878.78,4
+1986,Denmark,winner,QF,1817.5,1913.1,8
+1986,Denmark,winner,SF,1811.27,1868.84,15
+1986,Denmark,winner,F,1823.04,1910.07,23
+1986,Denmark,runner_up,R16,1810.5,1927.15,4
+1986,Denmark,runner_up,QF,1785.25,1837.34,8
+1986,Denmark,runner_up,SF,1826.12,1902.73,16
+1986,Denmark,runner_up,F,1823.04,1904.3,23
+1986,England,winner,R16,1884.5,1888.33,4
+1986,England,winner,QF,1785.25,1837.34,8
+1986,England,winner,SF,1815.27,1899.05,15
+1986,England,winner,F,1818.87,1895.54,23
+1986,England,runner_up,R16,1766.75,1811.57,4
+1986,England,runner_up,QF,1844.12,1876.72,8
+1986,England,runner_up,SF,1835.38,1915.95,16
+1986,England,runner_up,F,1818.87,1885.31,23
+1986,France,winner,R16,1766.75,1777.13,4
+1986,France,winner,QF,1853.25,1895.68,8
+1986,France,winner,SF,1816.38,1867.65,16
+1986,France,winner,F,1818.61,1901.55,23
+1986,France,runner_up,R16,1803.75,1853.16,4
+1986,France,runner_up,QF,1816.25,1865.84,8
+1986,France,runner_up,SF,1816.38,1894.99,16
+1986,France,runner_up,F,1818.61,1890.25,23
+1986,Hungary,winner,R16,1766.75,1777.13,4
+1986,Hungary,winner,QF,1853.25,1895.68,8
+1986,Hungary,winner,SF,1816.38,1867.65,16
+1986,Hungary,winner,F,1823.13,1917.09,23
+1986,Hungary,runner_up,R16,1803.75,1853.16,4
+1986,Hungary,runner_up,QF,1816.25,1865.84,8
+1986,Hungary,runner_up,SF,1816.38,1894.99,16
+1986,Hungary,runner_up,F,1823.13,1909.4,23
+1986,Iraq,winner,R16,1803.75,1818.77,4
+1986,Iraq,winner,QF,1847.5,1923.25,8
+1986,Iraq,winner,SF,1826.12,1902.73,16
+1986,Iraq,winner,F,1836.13,1898.64,23
+1986,Iraq,runner_up,R16,1810.5,1831.56,4
+1986,Iraq,runner_up,QF,1844.12,1876.72,8
+1986,Iraq,runner_up,SF,1851.6,1913.3,15
+1986,Iraq,runner_up,F,1836.13,1907.79,23
+1986,Italy,winner,R16,1884.5,1880.3,4
+1986,Italy,winner,QF,1788.62,1838.23,8
+1986,Italy,winner,SF,1835.38,1915.95,16
+1986,Italy,winner,F,1823.48,1908.18,23
+1986,Italy,runner_up,R16,1868.25,1932.54,4
+1986,Italy,runner_up,QF,1816.25,1865.84,8
+1986,Italy,runner_up,SF,1811.93,1893.6,15
+1986,Italy,runner_up,F,1823.48,1902.47,23
+1986,Mexico,winner,R16,1803.75,1818.77,4
+1986,Mexico,winner,QF,1847.5,1923.25,8
+1986,Mexico,winner,SF,1826.12,1902.73,16
+1986,Mexico,winner,F,1825.35,1906.01,23
+1986,Mexico,runner_up,R16,1810.5,1831.56,4
+1986,Mexico,runner_up,QF,1844.12,1876.72,8
+1986,Mexico,runner_up,SF,1835.07,1917.7,15
+1986,Mexico,runner_up,F,1825.35,1912.69,23
+1986,Morocco,winner,R16,1884.5,1888.33,4
+1986,Morocco,winner,QF,1785.25,1837.34,8
+1986,Morocco,winner,SF,1838.4,1910.9,15
+1986,Morocco,winner,F,1833.96,1916.57,23
+1986,Morocco,runner_up,R16,1766.75,1811.57,4
+1986,Morocco,runner_up,QF,1844.12,1876.72,8
+1986,Morocco,runner_up,SF,1835.38,1915.95,16
+1986,Morocco,runner_up,F,1833.96,1914.36,23
+1986,Northern Ireland,winner,R16,1810.5,1780.27,4
+1986,Northern Ireland,winner,QF,1836.0,1911.0,8
+1986,Northern Ireland,winner,SF,1816.38,1894.99,16
+1986,Northern Ireland,winner,F,1824.83,1904.74,23
+1986,Northern Ireland,runner_up,R16,1884.5,1898.22,4
+1986,Northern Ireland,runner_up,QF,1817.5,1913.1,8
+1986,Northern Ireland,runner_up,SF,1816.38,1867.65,16
+1986,Northern Ireland,runner_up,F,1824.83,1910.51,23
+1986,Paraguay,winner,R16,1803.75,1818.77,4
+1986,Paraguay,winner,QF,1847.5,1923.25,8
+1986,Paraguay,winner,SF,1826.12,1902.73,16
+1986,Paraguay,winner,F,1826.57,1899.47,23
+1986,Paraguay,runner_up,R16,1810.5,1831.56,4
+1986,Paraguay,runner_up,QF,1844.12,1876.72,8
+1986,Paraguay,runner_up,SF,1836.93,1915.31,15
+1986,Paraguay,runner_up,F,1826.57,1907.49,23
+1986,Poland,winner,R16,1884.5,1888.33,4
+1986,Poland,winner,QF,1785.25,1837.34,8
+1986,Poland,winner,SF,1827.53,1910.44,15
+1986,Poland,winner,F,1826.87,1919.18,23
+1986,Poland,runner_up,R16,1766.75,1811.57,4
+1986,Poland,runner_up,QF,1844.12,1876.72,8
+1986,Poland,runner_up,SF,1835.38,1915.95,16
+1986,Poland,runner_up,F,1826.87,1915.96,23
+1986,Portugal,winner,R16,1884.5,1888.33,4
+1986,Portugal,winner,QF,1785.25,1837.34,8
+1986,Portugal,winner,SF,1827.47,1910.38,15
+1986,Portugal,winner,F,1826.83,1919.21,23
+1986,Portugal,runner_up,R16,1766.75,1811.57,4
+1986,Portugal,runner_up,QF,1844.12,1876.72,8
+1986,Portugal,runner_up,SF,1835.38,1915.95,16
+1986,Portugal,runner_up,F,1826.83,1915.97,23
+1986,Scotland,winner,R16,1822.0,1878.78,4
+1986,Scotland,winner,QF,1817.5,1913.1,8
+1986,Scotland,winner,SF,1812.6,1871.41,15
+1986,Scotland,winner,F,1823.91,1910.45,23
+1986,Scotland,runner_up,R16,1810.5,1927.15,4
+1986,Scotland,runner_up,QF,1785.25,1837.34,8
+1986,Scotland,runner_up,SF,1826.12,1902.73,16
+1986,Scotland,runner_up,F,1823.91,1905.76,23
+1986,South Korea,winner,R16,1884.5,1880.3,4
+1986,South Korea,winner,QF,1788.62,1838.23,8
+1986,South Korea,winner,SF,1835.38,1915.95,16
+1986,South Korea,winner,F,1835.17,1909.25,23
+1986,South Korea,runner_up,R16,1868.25,1932.54,4
+1986,South Korea,runner_up,QF,1816.25,1865.84,8
+1986,South Korea,runner_up,SF,1829.87,1897.02,15
+1986,South Korea,runner_up,F,1835.17,1903.26,23
+1986,Soviet Union,winner,R16,1766.75,1777.13,4
+1986,Soviet Union,winner,QF,1853.25,1895.68,8
+1986,Soviet Union,winner,SF,1816.38,1867.65,16
+1986,Soviet Union,winner,F,1821.0,1914.76,23
+1986,Soviet Union,runner_up,R16,1803.75,1853.16,4
+1986,Soviet Union,runner_up,QF,1816.25,1865.84,8
+1986,Soviet Union,runner_up,SF,1816.38,1894.99,16
+1986,Soviet Union,runner_up,F,1821.0,1908.9,23
+1986,Spain,winner,R16,1810.5,1780.27,4
+1986,Spain,winner,QF,1836.0,1911.0,8
+1986,Spain,winner,SF,1816.38,1894.99,16
+1986,Spain,winner,F,1822.65,1903.29,23
+1986,Spain,runner_up,R16,1884.5,1898.22,4
+1986,Spain,runner_up,QF,1817.5,1913.1,8
+1986,Spain,runner_up,SF,1816.38,1867.65,16
+1986,Spain,runner_up,F,1822.65,1909.02,23
+1986,Uruguay,winner,R16,1822.0,1878.78,4
+1986,Uruguay,winner,QF,1817.5,1913.1,8
+1986,Uruguay,winner,SF,1815.33,1874.34,15
+1986,Uruguay,winner,F,1825.7,1910.45,23
+1986,Uruguay,runner_up,R16,1810.5,1927.15,4
+1986,Uruguay,runner_up,QF,1785.25,1837.34,8
+1986,Uruguay,runner_up,SF,1826.12,1902.73,16
+1986,Uruguay,runner_up,F,1825.7,1906.64,23
+1986,West Germany,winner,R16,1822.0,1878.78,4
+1986,West Germany,winner,QF,1817.5,1913.1,8
+1986,West Germany,winner,SF,1808.13,1862.32,15
+1986,West Germany,winner,F,1821.0,1906.71,23
+1986,West Germany,runner_up,R16,1810.5,1927.15,4
+1986,West Germany,runner_up,QF,1785.25,1837.34,8
+1986,West Germany,runner_up,SF,1826.12,1902.73,16
+1986,West Germany,runner_up,F,1821.0,1896.92,23
+1990,Argentina,winner,R16,1785.75,1823.28,4
+1990,Argentina,winner,QF,1863.12,1951.75,8
+1990,Argentina,winner,SF,1818.94,1943.81,16
+1990,Argentina,winner,F,1825.22,1948.97,23
+1990,Argentina,runner_up,R16,1873.75,1946.98,4
+1990,Argentina,runner_up,QF,1822.62,1921.07,8
+1990,Argentina,runner_up,SF,1820.93,1935.07,15
+1990,Argentina,runner_up,F,1825.22,1955.76,23
+1990,Austria,winner,R16,1852.5,1845.79,4
+1990,Austria,winner,QF,1844.5,1929.94,8
+1990,Austria,winner,SF,1819.25,1932.07,16
+1990,Austria,winner,F,1826.48,1959.81,23
+1990,Austria,runner_up,R16,1823.5,1915.76,4
+1990,Austria,runner_up,QF,1829.75,1940.67,8
+1990,Austria,runner_up,SF,1831.81,1939.05,16
+1990,Austria,runner_up,F,1826.48,1950.85,23
+1990,Belgium,winner,R16,1785.75,1894.42,4
+1990,Belgium,winner,QF,1819.38,1930.96,8
+1990,Belgium,winner,SF,1832.87,1942.28,15
+1990,Belgium,winner,F,1823.04,1955.24,23
+1990,Belgium,runner_up,R16,1873.75,1982.96,4
+1990,Belgium,runner_up,QF,1800.5,1888.94,8
+1990,Belgium,runner_up,SF,1818.94,1943.81,16
+1990,Belgium,runner_up,F,1823.04,1949.1,23
+1990,Brazil,winner,R16,1815.25,1803.42,4
+1990,Brazil,winner,QF,1819.12,1902.02,8
+1990,Brazil,winner,SF,1833.56,1940.51,16
+1990,Brazil,winner,F,1816.57,1951.3,23
+1990,Brazil,runner_up,R16,1792.75,1835.77,4
+1990,Brazil,runner_up,QF,1829.75,1940.67,8
+1990,Brazil,runner_up,SF,1831.81,1939.05,16
+1990,Brazil,runner_up,F,1816.57,1941.77,23
+1990,Cameroon,winner,R16,1785.75,1823.28,4
+1990,Cameroon,winner,QF,1863.12,1951.75,8
+1990,Cameroon,winner,SF,1818.94,1943.81,16
+1990,Cameroon,winner,F,1832.3,1947.97,23
+1990,Cameroon,runner_up,R16,1873.75,1946.98,4
+1990,Cameroon,runner_up,QF,1822.62,1921.07,8
+1990,Cameroon,runner_up,SF,1831.8,1932.33,15
+1990,Cameroon,runner_up,F,1832.3,1955.51,23
+1990,Colombia,winner,R16,1873.75,1890.33,4
+1990,Colombia,winner,QF,1808.12,1909.02,8
+1990,Colombia,winner,SF,1833.87,1950.13,15
+1990,Colombia,winner,F,1824.91,1953.5,23
+1990,Colombia,runner_up,R16,1852.5,1887.28,4
+1990,Colombia,runner_up,QF,1819.38,1930.96,8
+1990,Colombia,runner_up,SF,1833.56,1940.51,16
+1990,Colombia,runner_up,F,1824.91,1959.74,23
+1990,Costa Rica,winner,R16,1815.25,1803.42,4
+1990,Costa Rica,winner,QF,1819.12,1902.02,8
+1990,Costa Rica,winner,SF,1833.56,1940.51,16
+1990,Costa Rica,winner,F,1833.17,1957.17,23
+1990,Costa Rica,runner_up,R16,1792.75,1835.77,4
+1990,Costa Rica,runner_up,QF,1829.75,1940.67,8
+1990,Costa Rica,runner_up,SF,1831.81,1939.05,16
+1990,Costa Rica,runner_up,F,1833.17,1949.29,23
+1990,Czechoslovakia,winner,R16,1852.5,1845.79,4
+1990,Czechoslovakia,winner,QF,1844.5,1929.94,8
+1990,Czechoslovakia,winner,SF,1819.25,1932.07,16
+1990,Czechoslovakia,winner,F,1822.57,1960.89,23
+1990,Czechoslovakia,runner_up,R16,1823.5,1915.76,4
+1990,Czechoslovakia,runner_up,QF,1829.75,1940.67,8
+1990,Czechoslovakia,runner_up,SF,1831.81,1939.05,16
+1990,Czechoslovakia,runner_up,F,1822.57,1951.61,23
+1990,Egypt,winner,R16,1852.5,1868.79,4
+1990,Egypt,winner,QF,1800.5,1888.94,8
+1990,Egypt,winner,SF,1831.73,1954.1,15
+1990,Egypt,winner,F,1832.48,1952.84,23
+1990,Egypt,runner_up,R16,1815.25,1866.1,4
+1990,Egypt,runner_up,QF,1822.62,1921.07,8
+1990,Egypt,runner_up,SF,1819.25,1932.07,16
+1990,Egypt,runner_up,F,1832.48,1961.23,23
+1990,England,winner,R16,1852.5,1868.79,4
+1990,England,winner,QF,1800.5,1888.94,8
+1990,England,winner,SF,1810.6,1947.55,15
+1990,England,winner,F,1818.7,1957.42,23
+1990,England,runner_up,R16,1815.25,1866.1,4
+1990,England,runner_up,QF,1822.62,1921.07,8
+1990,England,runner_up,SF,1819.25,1932.07,16
+1990,England,runner_up,F,1818.7,1962.28,23
+1990,Italy,winner,R16,1852.5,1845.79,4
+1990,Italy,winner,QF,1844.5,1929.94,8
+1990,Italy,winner,SF,1819.25,1932.07,16
+1990,Italy,winner,F,1817.78,1953.36,23
+1990,Italy,runner_up,R16,1823.5,1915.76,4
+1990,Italy,runner_up,QF,1829.75,1940.67,8
+1990,Italy,runner_up,SF,1831.81,1939.05,16
+1990,Italy,runner_up,F,1817.78,1933.91,23
+1990,Netherlands,winner,R16,1852.5,1868.79,4
+1990,Netherlands,winner,QF,1800.5,1888.94,8
+1990,Netherlands,winner,SF,1804.67,1937.84,15
+1990,Netherlands,winner,F,1814.83,1940.42,23
+1990,Netherlands,runner_up,R16,1815.25,1866.1,4
+1990,Netherlands,runner_up,QF,1822.62,1921.07,8
+1990,Netherlands,runner_up,SF,1819.25,1932.07,16
+1990,Netherlands,runner_up,F,1814.83,1933.58,23
+1990,Republic of Ireland,winner,R16,1852.5,1868.79,4
+1990,Republic of Ireland,winner,QF,1800.5,1888.94,8
+1990,Republic of Ireland,winner,SF,1814.13,1956.6,15
+1990,Republic of Ireland,winner,F,1821.0,1957.49,23
+1990,Republic of Ireland,runner_up,R16,1815.25,1866.1,4
+1990,Republic of Ireland,runner_up,QF,1822.62,1921.07,8
+1990,Republic of Ireland,runner_up,SF,1819.25,1932.07,16
+1990,Republic of Ireland,runner_up,F,1821.0,1965.32,23
+1990,Romania,winner,R16,1785.75,1823.28,4
+1990,Romania,winner,QF,1863.12,1951.75,8
+1990,Romania,winner,SF,1818.94,1943.81,16
+1990,Romania,winner,F,1820.87,1949.74,23
+1990,Romania,runner_up,R16,1873.75,1946.98,4
+1990,Romania,runner_up,QF,1822.62,1921.07,8
+1990,Romania,runner_up,SF,1814.27,1931.44,15
+1990,Romania,runner_up,F,1820.87,1956.51,23
+1990,Scotland,winner,R16,1815.25,1803.42,4
+1990,Scotland,winner,QF,1819.12,1902.02,8
+1990,Scotland,winner,SF,1833.56,1940.51,16
+1990,Scotland,winner,F,1827.65,1958.46,23
+1990,Scotland,runner_up,R16,1792.75,1835.77,4
+1990,Scotland,runner_up,QF,1829.75,1940.67,8
+1990,Scotland,runner_up,SF,1831.81,1939.05,16
+1990,Scotland,runner_up,F,1827.65,1949.53,23
+1990,South Korea,winner,R16,1785.75,1894.42,4
+1990,South Korea,winner,QF,1819.38,1930.96,8
+1990,South Korea,winner,SF,1839.4,1941.95,15
+1990,South Korea,winner,F,1827.3,1954.72,23
+1990,South Korea,runner_up,R16,1873.75,1982.96,4
+1990,South Korea,runner_up,QF,1800.5,1888.94,8
+1990,South Korea,runner_up,SF,1818.94,1943.81,16
+1990,South Korea,runner_up,F,1827.3,1948.21,23
+1990,Soviet Union,winner,R16,1785.75,1823.28,4
+1990,Soviet Union,winner,QF,1863.12,1951.75,8
+1990,Soviet Union,winner,SF,1818.94,1943.81,16
+1990,Soviet Union,winner,F,1818.78,1946.72,23
+1990,Soviet Union,runner_up,R16,1873.75,1946.98,4
+1990,Soviet Union,runner_up,QF,1822.62,1921.07,8
+1990,Soviet Union,runner_up,SF,1811.07,1930.27,15
+1990,Soviet Union,runner_up,F,1818.78,1952.36,23
+1990,Spain,winner,R16,1785.75,1894.42,4
+1990,Spain,winner,QF,1819.38,1930.96,8
+1990,Spain,winner,SF,1827.33,1939.26,15
+1990,Spain,winner,F,1819.43,1954.53,23
+1990,Spain,runner_up,R16,1873.75,1982.96,4
+1990,Spain,runner_up,QF,1800.5,1888.94,8
+1990,Spain,runner_up,SF,1818.94,1943.81,16
+1990,Spain,runner_up,F,1819.43,1946.56,23
+1990,Sweden,winner,R16,1815.25,1803.42,4
+1990,Sweden,winner,QF,1819.12,1902.02,8
+1990,Sweden,winner,SF,1833.56,1940.51,16
+1990,Sweden,winner,F,1818.35,1959.42,23
+1990,Sweden,runner_up,R16,1792.75,1835.77,4
+1990,Sweden,runner_up,QF,1829.75,1940.67,8
+1990,Sweden,runner_up,SF,1831.81,1939.05,16
+1990,Sweden,runner_up,F,1818.35,1952.6,23
+1990,United Arab Emirates,winner,R16,1873.75,1890.33,4
+1990,United Arab Emirates,winner,QF,1808.12,1909.02,8
+1990,United Arab Emirates,winner,SF,1856.93,1946.75,15
+1990,United Arab Emirates,winner,F,1839.96,1948.71,23
+1990,United Arab Emirates,runner_up,R16,1852.5,1887.28,4
+1990,United Arab Emirates,runner_up,QF,1819.38,1930.96,8
+1990,United Arab Emirates,runner_up,SF,1833.56,1940.51,16
+1990,United Arab Emirates,runner_up,F,1839.96,1957.71,23
+1990,United States,winner,R16,1852.5,1845.79,4
+1990,United States,winner,QF,1844.5,1929.94,8
+1990,United States,winner,SF,1819.25,1932.07,16
+1990,United States,winner,F,1834.26,1959.14,23
+1990,United States,runner_up,R16,1823.5,1915.76,4
+1990,United States,runner_up,QF,1829.75,1940.67,8
+1990,United States,runner_up,SF,1831.81,1939.05,16
+1990,United States,runner_up,F,1834.26,1950.88,23
+1990,Uruguay,winner,R16,1785.75,1894.42,4
+1990,Uruguay,winner,QF,1819.38,1930.96,8
+1990,Uruguay,winner,SF,1829.6,1940.71,15
+1990,Uruguay,winner,F,1820.91,1955.36,23
+1990,Uruguay,runner_up,R16,1873.75,1982.96,4
+1990,Uruguay,runner_up,QF,1800.5,1888.94,8
+1990,Uruguay,runner_up,SF,1818.94,1943.81,16
+1990,Uruguay,runner_up,F,1820.91,1948.7,23
+1990,West Germany,winner,R16,1873.75,1890.33,4
+1990,West Germany,winner,QF,1808.12,1909.02,8
+1990,West Germany,winner,SF,1821.0,1935.45,15
+1990,West Germany,winner,F,1816.52,1943.71,23
+1990,West Germany,runner_up,R16,1852.5,1887.28,4
+1990,West Germany,runner_up,QF,1819.38,1930.96,8
+1990,West Germany,runner_up,SF,1833.56,1940.51,16
+1990,West Germany,runner_up,F,1816.52,1943.18,23
+1990,Yugoslavia,winner,R16,1873.75,1890.33,4
+1990,Yugoslavia,winner,QF,1808.12,1909.02,8
+1990,Yugoslavia,winner,SF,1827.73,1941.77,15
+1990,Yugoslavia,winner,F,1820.91,1954.97,23
+1990,Yugoslavia,runner_up,R16,1852.5,1887.28,4
+1990,Yugoslavia,runner_up,QF,1819.38,1930.96,8
+1990,Yugoslavia,runner_up,SF,1833.56,1940.51,16
+1990,Yugoslavia,runner_up,F,1820.91,1959.55,23
+1994,Argentina,winner,R16,1889.0,1876.35,4
+1994,Argentina,winner,QF,1817.12,1887.5,8
+1994,Argentina,winner,SF,1809.13,1933.72,15
+1994,Argentina,winner,F,1818.47,1925.52,19
+1994,Argentina,runner_up,R16,1889.0,1921.94,4
+1994,Argentina,runner_up,QF,1798.25,1922.71,8
+1994,Argentina,runner_up,SF,1819.2,1884.29,15
+1994,Argentina,runner_up,F,1818.47,1925.57,19
+1994,Belgium,winner,R16,1889.0,1890.77,4
+1994,Belgium,winner,QF,1835.62,1891.38,8
+1994,Belgium,winner,SF,1805.8,1925.94,15
+1994,Belgium,winner,F,1815.53,1939.05,19
+1994,Belgium,runner_up,R16,1854.75,1895.09,4
+1994,Belgium,runner_up,QF,1797.0,1855.34,8
+1994,Belgium,runner_up,SF,1835.53,1940.34,15
+1994,Belgium,runner_up,F,1815.53,1937.86,19
+1994,Bolivia,winner,R16,1778.75,1704.95,4
+1994,Bolivia,winner,QF,1833.25,1890.1,8
+1994,Bolivia,winner,SF,1833.33,1924.04,15
+1994,Bolivia,winner,F,1823.3,1926.05,20
+1994,Bolivia,runner_up,R16,1816.5,1851.16,4
+1994,Bolivia,runner_up,QF,1833.25,1875.66,8
+1994,Bolivia,runner_up,SF,1823.27,1947.26,15
+1994,Bolivia,runner_up,F,1823.3,1926.05,20
+1994,Brazil,winner,R16,1816.5,1806.85,4
+1994,Brazil,winner,QF,1833.88,1932.92,8
+1994,Brazil,winner,SF,1796.47,1880.91,15
+1994,Brazil,winner,F,1815.9,1936.71,20
+1994,Brazil,runner_up,R16,1778.75,1806.0,4
+1994,Brazil,runner_up,QF,1797.0,1855.34,8
+1994,Brazil,runner_up,SF,1826.2,1917.22,15
+1994,Brazil,runner_up,F,1815.9,1936.71,20
+1994,Bulgaria,winner,R16,1889.0,1876.35,4
+1994,Bulgaria,winner,QF,1817.12,1887.5,8
+1994,Bulgaria,winner,SF,1818.67,1941.12,15
+1994,Bulgaria,winner,F,1826.0,1926.99,19
+1994,Bulgaria,runner_up,R16,1889.0,1921.94,4
+1994,Bulgaria,runner_up,QF,1798.25,1922.71,8
+1994,Bulgaria,runner_up,SF,1828.73,1903.48,15
+1994,Bulgaria,runner_up,F,1826.0,1926.39,19
+1994,Cameroon,winner,R16,1816.5,1806.85,4
+1994,Cameroon,winner,QF,1833.88,1932.92,8
+1994,Cameroon,winner,SF,1815.07,1899.49,15
+1994,Cameroon,winner,F,1815.9,1936.71,20
+1994,Cameroon,runner_up,R16,1778.75,1806.0,4
+1994,Cameroon,runner_up,QF,1797.0,1855.34,8
+1994,Cameroon,runner_up,SF,1844.8,1931.33,15
+1994,Cameroon,runner_up,F,1815.9,1936.71,20
+1994,Colombia,winner,R16,1777.5,1751.39,4
+1994,Colombia,winner,QF,1816.75,1885.09,8
+1994,Colombia,winner,SF,1827.53,1925.95,15
+1994,Colombia,winner,F,1809.21,1934.01,19
+1994,Colombia,runner_up,R16,1817.75,1869.7,4
+1994,Colombia,runner_up,QF,1833.25,1875.66,8
+1994,Colombia,runner_up,SF,1815.75,1936.49,16
+1994,Colombia,runner_up,F,1817.0,1918.05,19
+1994,Germany,winner,R16,1778.75,1704.95,4
+1994,Germany,winner,QF,1833.25,1890.1,8
+1994,Germany,winner,SF,1812.93,1881.75,15
+1994,Germany,winner,F,1823.3,1926.05,20
+1994,Germany,runner_up,R16,1816.5,1851.16,4
+1994,Germany,runner_up,QF,1833.25,1875.66,8
+1994,Germany,runner_up,SF,1802.87,1889.65,15
+1994,Germany,runner_up,F,1823.3,1926.05,20
+1994,Greece,winner,R16,1889.0,1876.35,4
+1994,Greece,winner,QF,1817.12,1887.5,8
+1994,Greece,winner,SF,1824.27,1939.97,15
+1994,Greece,winner,F,1830.42,1926.57,19
+1994,Greece,runner_up,R16,1889.0,1921.94,4
+1994,Greece,runner_up,QF,1798.25,1922.71,8
+1994,Greece,runner_up,SF,1834.33,1901.81,15
+1994,Greece,runner_up,F,1830.42,1925.92,19
+1994,Italy,winner,R16,1777.5,1781.85,4
+1994,Italy,winner,QF,1798.25,1922.71,8
+1994,Italy,winner,SF,1814.47,1890.75,15
+1994,Italy,winner,F,1814.74,1921.39,19
+1994,Italy,runner_up,R16,1778.75,1936.72,4
+1994,Italy,runner_up,QF,1835.62,1891.38,8
+1994,Italy,runner_up,SF,1806.88,1891.72,16
+1994,Italy,runner_up,F,1806.95,1920.75,19
+1994,Mexico,winner,R16,1777.5,1781.85,4
+1994,Mexico,winner,QF,1798.25,1922.71,8
+1994,Mexico,winner,SF,1823.2,1905.96,15
+1994,Mexico,winner,F,1821.63,1930.75,19
+1994,Mexico,runner_up,R16,1778.75,1936.72,4
+1994,Mexico,runner_up,QF,1835.62,1891.38,8
+1994,Mexico,runner_up,SF,1806.88,1891.72,16
+1994,Mexico,runner_up,F,1813.84,1942.2,19
+1994,Morocco,winner,R16,1889.0,1890.77,4
+1994,Morocco,winner,QF,1835.62,1891.38,8
+1994,Morocco,winner,SF,1816.33,1919.01,15
+1994,Morocco,winner,F,1823.84,1936.87,19
+1994,Morocco,runner_up,R16,1854.75,1895.09,4
+1994,Morocco,runner_up,QF,1797.0,1855.34,8
+1994,Morocco,runner_up,SF,1846.07,1935.92,15
+1994,Morocco,runner_up,F,1823.84,1934.93,19
+1994,Netherlands,winner,R16,1889.0,1890.77,4
+1994,Netherlands,winner,QF,1835.62,1891.38,8
+1994,Netherlands,winner,SF,1794.67,1879.76,15
+1994,Netherlands,winner,F,1806.74,1936.01,19
+1994,Netherlands,runner_up,R16,1854.75,1895.09,4
+1994,Netherlands,runner_up,QF,1797.0,1855.34,8
+1994,Netherlands,runner_up,SF,1824.4,1892.89,15
+1994,Netherlands,runner_up,F,1806.74,1936.86,19
+1994,Nigeria,winner,R16,1889.0,1876.35,4
+1994,Nigeria,winner,QF,1817.12,1887.5,8
+1994,Nigeria,winner,SF,1821.13,1940.52,15
+1994,Nigeria,winner,F,1827.95,1926.79,19
+1994,Nigeria,runner_up,R16,1889.0,1921.94,4
+1994,Nigeria,runner_up,QF,1798.25,1922.71,8
+1994,Nigeria,runner_up,SF,1831.2,1902.5,15
+1994,Nigeria,runner_up,F,1827.95,1926.17,19
+1994,Norway,winner,R16,1777.5,1781.85,4
+1994,Norway,winner,QF,1798.25,1922.71,8
+1994,Norway,winner,SF,1823.47,1906.27,15
+1994,Norway,winner,F,1821.84,1930.71,19
+1994,Norway,runner_up,R16,1778.75,1936.72,4
+1994,Norway,runner_up,QF,1835.62,1891.38,8
+1994,Norway,runner_up,SF,1806.88,1891.72,16
+1994,Norway,runner_up,F,1814.05,1942.23,19
+1994,Republic of Ireland,winner,R16,1777.5,1781.85,4
+1994,Republic of Ireland,winner,QF,1798.25,1922.71,8
+1994,Republic of Ireland,winner,SF,1822.6,1905.16,15
+1994,Republic of Ireland,winner,F,1821.16,1930.84,19
+1994,Republic of Ireland,runner_up,R16,1778.75,1936.72,4
+1994,Republic of Ireland,runner_up,QF,1835.62,1891.38,8
+1994,Republic of Ireland,runner_up,SF,1806.88,1891.72,16
+1994,Republic of Ireland,runner_up,F,1813.37,1942.09,19
+1994,Romania,winner,R16,1777.5,1751.39,4
+1994,Romania,winner,QF,1816.75,1885.09,8
+1994,Romania,winner,SF,1834.67,1932.09,15
+1994,Romania,winner,F,1814.84,1939.33,19
+1994,Romania,runner_up,R16,1817.75,1869.7,4
+1994,Romania,runner_up,QF,1833.25,1875.66,8
+1994,Romania,runner_up,SF,1815.75,1936.49,16
+1994,Romania,runner_up,F,1822.63,1929.65,19
+1994,Russia,winner,R16,1816.5,1806.85,4
+1994,Russia,winner,QF,1833.88,1932.92,8
+1994,Russia,winner,SF,1802.93,1903.58,15
+1994,Russia,winner,F,1815.9,1936.71,20
+1994,Russia,runner_up,R16,1778.75,1806.0,4
+1994,Russia,runner_up,QF,1797.0,1855.34,8
+1994,Russia,runner_up,SF,1832.67,1934.18,15
+1994,Russia,runner_up,F,1815.9,1936.71,20
+1994,Saudi Arabia,winner,R16,1889.0,1890.77,4
+1994,Saudi Arabia,winner,QF,1835.62,1891.38,8
+1994,Saudi Arabia,winner,SF,1818.2,1918.74,15
+1994,Saudi Arabia,winner,F,1825.32,1936.76,19
+1994,Saudi Arabia,runner_up,R16,1854.75,1895.09,4
+1994,Saudi Arabia,runner_up,QF,1797.0,1855.34,8
+1994,Saudi Arabia,runner_up,SF,1847.93,1936.01,15
+1994,Saudi Arabia,runner_up,F,1825.32,1934.83,19
+1994,South Korea,winner,R16,1778.75,1704.95,4
+1994,South Korea,winner,QF,1833.25,1890.1,8
+1994,South Korea,winner,SF,1835.8,1923.76,15
+1994,South Korea,winner,F,1823.3,1926.05,20
+1994,South Korea,runner_up,R16,1816.5,1851.16,4
+1994,South Korea,runner_up,QF,1833.25,1875.66,8
+1994,South Korea,runner_up,SF,1825.73,1947.66,15
+1994,South Korea,runner_up,F,1823.3,1926.05,20
+1994,Spain,winner,R16,1778.75,1704.95,4
+1994,Spain,winner,QF,1833.25,1890.1,8
+1994,Spain,winner,SF,1820.67,1931.65,15
+1994,Spain,winner,F,1823.3,1926.05,20
+1994,Spain,runner_up,R16,1816.5,1851.16,4
+1994,Spain,runner_up,QF,1833.25,1875.66,8
+1994,Spain,runner_up,SF,1810.6,1957.43,15
+1994,Spain,runner_up,F,1823.3,1926.05,20
+1994,Sweden,winner,R16,1816.5,1806.85,4
+1994,Sweden,winner,QF,1833.88,1932.92,8
+1994,Sweden,winner,SF,1800.27,1899.72,15
+1994,Sweden,winner,F,1815.9,1936.71,20
+1994,Sweden,runner_up,R16,1778.75,1806.0,4
+1994,Sweden,runner_up,QF,1797.0,1855.34,8
+1994,Sweden,runner_up,SF,1830.0,1933.57,15
+1994,Sweden,runner_up,F,1815.9,1936.71,20
+1994,Switzerland,winner,R16,1777.5,1751.39,4
+1994,Switzerland,winner,QF,1816.75,1885.09,8
+1994,Switzerland,winner,SF,1832.2,1930.14,15
+1994,Switzerland,winner,F,1812.89,1939.22,19
+1994,Switzerland,runner_up,R16,1817.75,1869.7,4
+1994,Switzerland,runner_up,QF,1833.25,1875.66,8
+1994,Switzerland,runner_up,SF,1815.75,1936.49,16
+1994,Switzerland,runner_up,F,1820.68,1929.18,19
+1994,United States,winner,R16,1777.5,1751.39,4
+1994,United States,winner,QF,1816.75,1885.09,8
+1994,United States,winner,SF,1849.47,1932.82,15
+1994,United States,winner,F,1826.53,1938.57,19
+1994,United States,runner_up,R16,1817.75,1869.7,4
+1994,United States,runner_up,QF,1833.25,1875.66,8
+1994,United States,runner_up,SF,1815.75,1936.49,16
+1994,United States,runner_up,F,1834.32,1928.21,19
+1998,Argentina,winner,R16,1815.75,1863.51,4
+1998,Argentina,winner,QF,1850.12,1949.72,8
+1998,Argentina,winner,SF,1813.44,2018.7,16
+1998,Argentina,winner,F,1817.48,1988.85,31
+1998,Argentina,runner_up,R16,1815.75,1921.1,4
+1998,Argentina,runner_up,QF,1850.12,1980.59,8
+1998,Argentina,runner_up,SF,1813.44,1973.58,16
+1998,Argentina,runner_up,F,1817.48,2005.92,31
+1998,Austria,winner,R16,1874.0,1889.21,4
+1998,Austria,winner,QF,1806.88,1958.7,8
+1998,Austria,winner,SF,1826.25,1967.0,16
+1998,Austria,winner,F,1823.26,2003.04,31
+1998,Austria,runner_up,R16,1874.0,2036.44,4
+1998,Austria,runner_up,QF,1806.88,1965.98,8
+1998,Austria,runner_up,SF,1826.25,1936.79,16
+1998,Austria,runner_up,F,1823.26,1989.42,31
+1998,Belgium,winner,R16,1855.75,1948.27,4
+1998,Belgium,winner,QF,1802.38,1878.27,8
+1998,Belgium,winner,SF,1813.44,2018.7,16
+1998,Belgium,winner,F,1819.77,1988.78,31
+1998,Belgium,runner_up,R16,1855.75,2016.95,4
+1998,Belgium,runner_up,QF,1802.38,1900.69,8
+1998,Belgium,runner_up,SF,1813.44,1973.58,16
+1998,Belgium,runner_up,F,1819.77,2006.57,31
+1998,Brazil,winner,R16,1766.0,1787.0,4
+1998,Brazil,winner,QF,1806.88,1965.98,8
+1998,Brazil,winner,SF,1826.25,1936.79,16
+1998,Brazil,winner,F,1811.1,1981.61,31
+1998,Brazil,runner_up,R16,1766.0,1912.26,4
+1998,Brazil,runner_up,QF,1806.88,1958.7,8
+1998,Brazil,runner_up,SF,1826.25,1967.0,16
+1998,Brazil,runner_up,F,1811.1,1964.54,31
+1998,Bulgaria,winner,R16,1791.5,1848.92,4
+1998,Bulgaria,winner,QF,1820.0,2003.08,8
+1998,Bulgaria,winner,SF,1826.25,1936.79,16
+1998,Bulgaria,winner,F,1820.32,1997.18,31
+1998,Bulgaria,runner_up,R16,1791.5,1976.7,4
+1998,Bulgaria,runner_up,QF,1820.0,1931.7,8
+1998,Bulgaria,runner_up,SF,1826.25,1967.0,16
+1998,Bulgaria,runner_up,F,1820.32,2009.48,31
+1998,Cameroon,winner,R16,1874.0,1889.21,4
+1998,Cameroon,winner,QF,1806.88,1958.7,8
+1998,Cameroon,winner,SF,1826.25,1967.0,16
+1998,Cameroon,winner,F,1827.23,2003.31,31
+1998,Cameroon,runner_up,R16,1874.0,2036.44,4
+1998,Cameroon,runner_up,QF,1806.88,1965.98,8
+1998,Cameroon,runner_up,SF,1826.25,1936.79,16
+1998,Cameroon,runner_up,F,1827.23,1989.43,31
+1998,Chile,winner,R16,1874.0,1889.21,4
+1998,Chile,winner,QF,1806.88,1958.7,8
+1998,Chile,winner,SF,1826.25,1967.0,16
+1998,Chile,winner,F,1820.87,2003.32,31
+1998,Chile,runner_up,R16,1874.0,2036.44,4
+1998,Chile,runner_up,QF,1806.88,1965.98,8
+1998,Chile,runner_up,SF,1826.25,1936.79,16
+1998,Chile,runner_up,F,1820.87,1989.73,31
+1998,Colombia,winner,R16,1789.0,1826.68,4
+1998,Colombia,winner,QF,1850.12,1980.59,8
+1998,Colombia,winner,SF,1813.44,1973.58,16
+1998,Colombia,winner,F,1821.19,2007.95,31
+1998,Colombia,runner_up,R16,1789.0,1859.93,4
+1998,Colombia,runner_up,QF,1850.12,1949.72,8
+1998,Colombia,runner_up,SF,1813.44,2018.7,16
+1998,Colombia,runner_up,F,1821.19,1989.69,31
+1998,Croatia,winner,R16,1815.75,1863.51,4
+1998,Croatia,winner,QF,1850.12,1949.72,8
+1998,Croatia,winner,SF,1813.44,2018.7,16
+1998,Croatia,winner,F,1818.1,1988.89,31
+1998,Croatia,runner_up,R16,1815.75,1921.1,4
+1998,Croatia,runner_up,QF,1850.12,1980.59,8
+1998,Croatia,runner_up,SF,1813.44,1973.58,16
+1998,Croatia,runner_up,F,1818.1,2006.14,31
+1998,Denmark,winner,R16,1822.25,1809.02,4
+1998,Denmark,winner,QF,1820.0,1931.7,8
+1998,Denmark,winner,SF,1826.25,1967.0,16
+1998,Denmark,winner,F,1817.84,2008.42,31
+1998,Denmark,runner_up,R16,1822.25,1982.26,4
+1998,Denmark,runner_up,QF,1820.0,2003.08,8
+1998,Denmark,runner_up,SF,1826.25,1936.79,16
+1998,Denmark,runner_up,F,1817.84,1992.88,31
+1998,England,winner,R16,1789.0,1826.68,4
+1998,England,winner,QF,1850.12,1980.59,8
+1998,England,winner,SF,1813.44,1973.58,16
+1998,England,winner,F,1814.87,2004.19,31
+1998,England,runner_up,R16,1789.0,1859.93,4
+1998,England,runner_up,QF,1850.12,1949.72,8
+1998,England,runner_up,SF,1813.44,2018.7,16
+1998,England,runner_up,F,1814.87,1985.07,31
+1998,France,winner,R16,1822.25,1809.02,4
+1998,France,winner,QF,1820.0,1931.7,8
+1998,France,winner,SF,1826.25,1967.0,16
+1998,France,winner,F,1813.97,2005.46,31
+1998,France,runner_up,R16,1822.25,1982.26,4
+1998,France,runner_up,QF,1820.0,2003.08,8
+1998,France,runner_up,SF,1826.25,1936.79,16
+1998,France,runner_up,F,1813.97,1969.98,31
+1998,Germany,winner,R16,1844.5,1853.49,4
+1998,Germany,winner,QF,1802.38,1900.69,8
+1998,Germany,winner,SF,1813.44,1973.58,16
+1998,Germany,winner,F,1812.16,1998.48,31
+1998,Germany,runner_up,R16,1844.5,1895.73,4
+1998,Germany,runner_up,QF,1802.38,1878.27,8
+1998,Germany,runner_up,SF,1813.44,2018.7,16
+1998,Germany,runner_up,F,1812.16,1971.0,31
+1998,Iran,winner,R16,1844.5,1853.49,4
+1998,Iran,winner,QF,1802.38,1900.69,8
+1998,Iran,winner,SF,1813.44,1973.58,16
+1998,Iran,winner,F,1825.74,2012.41,31
+1998,Iran,runner_up,R16,1844.5,1895.73,4
+1998,Iran,runner_up,QF,1802.38,1878.27,8
+1998,Iran,runner_up,SF,1813.44,2018.7,16
+1998,Iran,runner_up,F,1825.74,1992.29,31
+1998,Italy,winner,R16,1874.0,1889.21,4
+1998,Italy,winner,QF,1806.88,1958.7,8
+1998,Italy,winner,SF,1826.25,1967.0,16
+1998,Italy,winner,F,1814.97,2007.02,31
+1998,Italy,runner_up,R16,1874.0,2036.44,4
+1998,Italy,runner_up,QF,1806.88,1965.98,8
+1998,Italy,runner_up,SF,1826.25,1936.79,16
+1998,Italy,runner_up,F,1814.97,1985.84,31
+1998,Jamaica,winner,R16,1815.75,1863.51,4
+1998,Jamaica,winner,QF,1850.12,1949.72,8
+1998,Jamaica,winner,SF,1813.44,2018.7,16
+1998,Jamaica,winner,F,1825.48,1988.45,31
+1998,Jamaica,runner_up,R16,1815.75,1921.1,4
+1998,Jamaica,runner_up,QF,1850.12,1980.59,8
+1998,Jamaica,runner_up,SF,1813.44,1973.58,16
+1998,Jamaica,runner_up,F,1825.48,2005.9,31
+1998,Japan,winner,R16,1815.75,1863.51,4
+1998,Japan,winner,QF,1850.12,1949.72,8
+1998,Japan,winner,SF,1813.44,2018.7,16
+1998,Japan,winner,F,1822.29,1988.38,31
+1998,Japan,runner_up,R16,1815.75,1921.1,4
+1998,Japan,runner_up,QF,1850.12,1980.59,8
+1998,Japan,runner_up,SF,1813.44,1973.58,16
+1998,Japan,runner_up,F,1822.29,2005.87,31
+1998,Mexico,winner,R16,1855.75,1948.27,4
+1998,Mexico,winner,QF,1802.38,1878.27,8
+1998,Mexico,winner,SF,1813.44,2018.7,16
+1998,Mexico,winner,F,1818.97,1989.03,31
+1998,Mexico,runner_up,R16,1855.75,2016.95,4
+1998,Mexico,runner_up,QF,1802.38,1900.69,8
+1998,Mexico,runner_up,SF,1813.44,1973.58,16
+1998,Mexico,runner_up,F,1818.97,2006.78,31
+1998,Morocco,winner,R16,1766.0,1787.0,4
+1998,Morocco,winner,QF,1806.88,1965.98,8
+1998,Morocco,winner,SF,1826.25,1936.79,16
+1998,Morocco,winner,F,1822.87,2007.83,31
+1998,Morocco,runner_up,R16,1766.0,1912.26,4
+1998,Morocco,runner_up,QF,1806.88,1958.7,8
+1998,Morocco,runner_up,SF,1826.25,1967.0,16
+1998,Morocco,runner_up,F,1822.87,2014.24,31
+1998,Netherlands,winner,R16,1855.75,1948.27,4
+1998,Netherlands,winner,QF,1802.38,1878.27,8
+1998,Netherlands,winner,SF,1813.44,2018.7,16
+1998,Netherlands,winner,F,1815.35,1988.76,31
+1998,Netherlands,runner_up,R16,1855.75,2016.95,4
+1998,Netherlands,runner_up,QF,1802.38,1900.69,8
+1998,Netherlands,runner_up,SF,1813.44,1973.58,16
+1998,Netherlands,runner_up,F,1815.35,2004.28,31
+1998,Nigeria,winner,R16,1791.5,1848.92,4
+1998,Nigeria,winner,QF,1820.0,2003.08,8
+1998,Nigeria,winner,SF,1826.25,1936.79,16
+1998,Nigeria,winner,F,1823.61,1996.33,31
+1998,Nigeria,runner_up,R16,1791.5,1976.7,4
+1998,Nigeria,runner_up,QF,1820.0,1931.7,8
+1998,Nigeria,runner_up,SF,1826.25,1967.0,16
+1998,Nigeria,runner_up,F,1823.61,2008.86,31
+1998,Norway,winner,R16,1766.0,1787.0,4
+1998,Norway,winner,QF,1806.88,1965.98,8
+1998,Norway,winner,SF,1826.25,1936.79,16
+1998,Norway,winner,F,1817.19,2012.04,31
+1998,Norway,runner_up,R16,1766.0,1912.26,4
+1998,Norway,runner_up,QF,1806.88,1958.7,8
+1998,Norway,runner_up,SF,1826.25,1967.0,16
+1998,Norway,runner_up,F,1817.19,2017.76,31
+1998,Paraguay,winner,R16,1791.5,1848.92,4
+1998,Paraguay,winner,QF,1820.0,2003.08,8
+1998,Paraguay,winner,SF,1826.25,1936.79,16
+1998,Paraguay,winner,F,1822.35,1996.37,31
+1998,Paraguay,runner_up,R16,1791.5,1976.7,4
+1998,Paraguay,runner_up,QF,1820.0,1931.7,8
+1998,Paraguay,runner_up,SF,1826.25,1967.0,16
+1998,Paraguay,runner_up,F,1822.35,2008.89,31
+1998,Romania,winner,R16,1789.0,1826.68,4
+1998,Romania,winner,QF,1850.12,1980.59,8
+1998,Romania,winner,SF,1813.44,1973.58,16
+1998,Romania,winner,F,1817.94,2008.79,31
+1998,Romania,runner_up,R16,1789.0,1859.93,4
+1998,Romania,runner_up,QF,1850.12,1949.72,8
+1998,Romania,runner_up,SF,1813.44,2018.7,16
+1998,Romania,runner_up,F,1817.94,1990.75,31
+1998,Saudi Arabia,winner,R16,1822.25,1809.02,4
+1998,Saudi Arabia,winner,QF,1820.0,1931.7,8
+1998,Saudi Arabia,winner,SF,1826.25,1967.0,16
+1998,Saudi Arabia,winner,F,1825.45,2007.37,31
+1998,Saudi Arabia,runner_up,R16,1822.25,1982.26,4
+1998,Saudi Arabia,runner_up,QF,1820.0,2003.08,8
+1998,Saudi Arabia,runner_up,SF,1826.25,1936.79,16
+1998,Saudi Arabia,runner_up,F,1825.45,1991.79,31
+1998,Scotland,winner,R16,1766.0,1787.0,4
+1998,Scotland,winner,QF,1806.88,1965.98,8
+1998,Scotland,winner,SF,1826.25,1936.79,16
+1998,Scotland,winner,F,1821.23,2008.22,31
+1998,Scotland,runner_up,R16,1766.0,1912.26,4
+1998,Scotland,runner_up,QF,1806.88,1958.7,8
+1998,Scotland,runner_up,SF,1826.25,1967.0,16
+1998,Scotland,runner_up,F,1821.23,2014.15,31
+1998,South Africa,winner,R16,1822.25,1809.02,4
+1998,South Africa,winner,QF,1820.0,1931.7,8
+1998,South Africa,winner,SF,1826.25,1967.0,16
+1998,South Africa,winner,F,1825.77,2007.36,31
+1998,South Africa,runner_up,R16,1822.25,1982.26,4
+1998,South Africa,runner_up,QF,1820.0,2003.08,8
+1998,South Africa,runner_up,SF,1826.25,1936.79,16
+1998,South Africa,runner_up,F,1825.77,1991.79,31
+1998,South Korea,winner,R16,1855.75,1948.27,4
+1998,South Korea,winner,QF,1802.38,1878.27,8
+1998,South Korea,winner,SF,1813.44,2018.7,16
+1998,South Korea,winner,F,1822.1,1988.45,31
+1998,South Korea,runner_up,R16,1855.75,2016.95,4
+1998,South Korea,runner_up,QF,1802.38,1900.69,8
+1998,South Korea,runner_up,SF,1813.44,1973.58,16
+1998,South Korea,runner_up,F,1822.1,2006.31,31
+1998,Spain,winner,R16,1791.5,1848.92,4
+1998,Spain,winner,QF,1820.0,2003.08,8
+1998,Spain,winner,SF,1826.25,1936.79,16
+1998,Spain,winner,F,1812.77,1986.62,31
+1998,Spain,runner_up,R16,1791.5,1976.7,4
+1998,Spain,runner_up,QF,1820.0,1931.7,8
+1998,Spain,runner_up,SF,1826.25,1967.0,16
+1998,Spain,runner_up,F,1812.77,1990.4,31
+1998,Tunisia,winner,R16,1789.0,1826.68,4
+1998,Tunisia,winner,QF,1850.12,1980.59,8
+1998,Tunisia,winner,SF,1813.44,1973.58,16
+1998,Tunisia,winner,F,1825.9,2007.71,31
+1998,Tunisia,runner_up,R16,1789.0,1859.93,4
+1998,Tunisia,runner_up,QF,1850.12,1949.72,8
+1998,Tunisia,runner_up,SF,1813.44,2018.7,16
+1998,Tunisia,runner_up,F,1825.9,1989.74,31
+1998,United States,winner,R16,1844.5,1853.49,4
+1998,United States,winner,QF,1802.38,1900.69,8
+1998,United States,winner,SF,1813.44,1973.58,16
+1998,United States,winner,F,1821.81,2014.79,31
+1998,United States,runner_up,R16,1844.5,1895.73,4
+1998,United States,runner_up,QF,1802.38,1878.27,8
+1998,United States,runner_up,SF,1813.44,2018.7,16
+1998,United States,runner_up,F,1821.81,1992.54,31
+1998,Yugoslavia,winner,R16,1844.5,1853.49,4
+1998,Yugoslavia,winner,QF,1802.38,1900.69,8
+1998,Yugoslavia,winner,SF,1813.44,1973.58,16
+1998,Yugoslavia,winner,F,1815.03,2019.15,31
+1998,Yugoslavia,runner_up,R16,1844.5,1895.73,4
+1998,Yugoslavia,runner_up,QF,1802.38,1878.27,8
+1998,Yugoslavia,runner_up,SF,1813.44,2018.7,16
+1998,Yugoslavia,runner_up,F,1815.03,1998.38,31
+2002,Argentina,winner,R16,1865.5,1865.67,4
+2002,Argentina,winner,QF,1772.75,1820.33,8
+2002,Argentina,winner,SF,1813.2,1969.94,15
+2002,Argentina,winner,F,1814.19,1931.29,16
+2002,Argentina,runner_up,R16,1865.5,2037.52,4
+2002,Argentina,runner_up,QF,1772.75,1820.97,8
+2002,Argentina,runner_up,SF,1813.2,1878.67,15
+2002,Argentina,runner_up,F,1814.19,1931.29,16
+2002,Belgium,winner,R16,1769.5,1774.5,4
+2002,Belgium,winner,QF,1879.5,1948.39,8
+2002,Belgium,winner,SF,1825.4,1972.43,15
+2002,Belgium,winner,F,1814.19,1931.29,16
+2002,Belgium,runner_up,R16,1769.5,1805.32,4
+2002,Belgium,runner_up,QF,1879.5,2017.68,8
+2002,Belgium,runner_up,SF,1825.4,1913.21,15
+2002,Belgium,runner_up,F,1814.19,1931.29,16
+2002,Brazil,winner,R16,1776.0,1814.22,4
+2002,Brazil,winner,QF,1879.5,2017.68,8
+2002,Brazil,winner,SF,1823.4,1912.35,15
+2002,Brazil,winner,F,1814.19,1931.29,16
+2002,Brazil,runner_up,R16,1776.0,1834.36,4
+2002,Brazil,runner_up,QF,1879.5,1948.39,8
+2002,Brazil,runner_up,SF,1823.4,1974.97,15
+2002,Brazil,runner_up,F,1814.19,1931.29,16
+2002,Cameroon,winner,R16,1769.75,1766.77,4
+2002,Cameroon,winner,QF,1838.12,1915.57,8
+2002,Cameroon,winner,SF,1814.87,1920.66,15
+2002,Cameroon,winner,F,1826.12,1978.32,16
+2002,Cameroon,runner_up,R16,1769.75,1900.07,4
+2002,Cameroon,runner_up,QF,1838.12,1907.97,8
+2002,Cameroon,runner_up,SF,1814.87,1906.55,15
+2002,Cameroon,runner_up,F,1826.12,1978.32,16
+2002,China,winner,R16,1776.0,1814.22,4
+2002,China,winner,QF,1879.5,2017.68,8
+2002,China,winner,SF,1834.6,1916.8,15
+2002,China,winner,F,1814.19,1931.29,16
+2002,China,runner_up,R16,1776.0,1834.36,4
+2002,China,runner_up,QF,1879.5,1948.39,8
+2002,China,runner_up,SF,1834.6,1977.74,15
+2002,China,runner_up,F,1814.19,1931.29,16
+2002,Costa Rica,winner,R16,1776.0,1814.22,4
+2002,Costa Rica,winner,QF,1879.5,2017.68,8
+2002,Costa Rica,winner,SF,1830.87,1917.13,15
+2002,Costa Rica,winner,F,1814.19,1931.29,16
+2002,Costa Rica,runner_up,R16,1776.0,1834.36,4
+2002,Costa Rica,runner_up,QF,1879.5,1948.39,8
+2002,Costa Rica,runner_up,SF,1830.87,1978.03,15
+2002,Costa Rica,runner_up,F,1814.19,1931.29,16
+2002,Croatia,winner,R16,1814.0,1815.4,4
+2002,Croatia,winner,QF,1790.25,1832.4,8
+2002,Croatia,winner,SF,1809.73,1939.69,15
+2002,Croatia,winner,F,1826.12,1978.32,16
+2002,Croatia,runner_up,R16,1814.0,1891.04,4
+2002,Croatia,runner_up,QF,1790.25,1890.72,8
+2002,Croatia,runner_up,SF,1809.73,1922.96,15
+2002,Croatia,runner_up,F,1826.12,1978.32,16
+2002,Denmark,winner,R16,1893.5,1914.86,4
+2002,Denmark,winner,QF,1772.75,1820.97,8
+2002,Denmark,winner,SF,1823.87,1983.28,15
+2002,Denmark,winner,F,1814.19,1931.29,16
+2002,Denmark,runner_up,R16,1893.5,1961.41,4
+2002,Denmark,runner_up,QF,1772.75,1820.33,8
+2002,Denmark,runner_up,SF,1823.87,1999.92,15
+2002,Denmark,runner_up,F,1814.19,1931.29,16
+2002,Ecuador,winner,R16,1814.0,1815.4,4
+2002,Ecuador,winner,QF,1790.25,1832.4,8
+2002,Ecuador,winner,SF,1820.0,1935.76,15
+2002,Ecuador,winner,F,1826.12,1978.32,16
+2002,Ecuador,runner_up,R16,1814.0,1891.04,4
+2002,Ecuador,runner_up,QF,1790.25,1890.72,8
+2002,Ecuador,runner_up,SF,1820.0,1916.57,15
+2002,Ecuador,runner_up,F,1826.12,1978.32,16
+2002,England,winner,R16,1865.5,1865.67,4
+2002,England,winner,QF,1772.75,1820.33,8
+2002,England,winner,SF,1819.6,1986.33,15
+2002,England,winner,F,1814.19,1931.29,16
+2002,England,runner_up,R16,1865.5,2037.52,4
+2002,England,runner_up,QF,1772.75,1820.97,8
+2002,England,runner_up,SF,1819.6,1930.15,15
+2002,England,runner_up,F,1814.19,1931.29,16
+2002,France,winner,R16,1893.5,1914.86,4
+2002,France,winner,QF,1772.75,1820.97,8
+2002,France,winner,SF,1808.33,1896.63,15
+2002,France,winner,F,1814.19,1931.29,16
+2002,France,runner_up,R16,1893.5,1961.41,4
+2002,France,runner_up,QF,1772.75,1820.33,8
+2002,France,runner_up,SF,1808.33,1874.41,15
+2002,France,runner_up,F,1814.19,1931.29,16
+2002,Germany,winner,R16,1769.75,1766.77,4
+2002,Germany,winner,QF,1838.12,1915.57,8
+2002,Germany,winner,SF,1810.53,1918.81,15
+2002,Germany,winner,F,1826.12,1978.32,16
+2002,Germany,runner_up,R16,1769.75,1900.07,4
+2002,Germany,runner_up,QF,1838.12,1907.97,8
+2002,Germany,runner_up,SF,1810.53,1902.9,15
+2002,Germany,runner_up,F,1826.12,1978.32,16
+2002,Italy,winner,R16,1814.0,1815.4,4
+2002,Italy,winner,QF,1790.25,1832.4,8
+2002,Italy,winner,SF,1801.2,1906.06,15
+2002,Italy,winner,F,1826.12,1978.32,16
+2002,Italy,runner_up,R16,1814.0,1891.04,4
+2002,Italy,runner_up,QF,1790.25,1890.72,8
+2002,Italy,runner_up,SF,1801.2,1855.24,15
+2002,Italy,runner_up,F,1826.12,1978.32,16
+2002,Japan,winner,R16,1769.5,1774.5,4
+2002,Japan,winner,QF,1879.5,1948.39,8
+2002,Japan,winner,SF,1824.67,1980.4,15
+2002,Japan,winner,F,1814.19,1931.29,16
+2002,Japan,runner_up,R16,1769.5,1805.32,4
+2002,Japan,runner_up,QF,1879.5,2017.68,8
+2002,Japan,runner_up,SF,1824.67,1917.2,15
+2002,Japan,runner_up,F,1814.19,1931.29,16
+2002,Mexico,winner,R16,1814.0,1815.4,4
+2002,Mexico,winner,QF,1790.25,1832.4,8
+2002,Mexico,winner,SF,1813.0,1938.86,15
+2002,Mexico,winner,F,1826.12,1978.32,16
+2002,Mexico,runner_up,R16,1814.0,1891.04,4
+2002,Mexico,runner_up,QF,1790.25,1890.72,8
+2002,Mexico,runner_up,SF,1813.0,1919.84,15
+2002,Mexico,runner_up,F,1826.12,1978.32,16
+2002,Nigeria,winner,R16,1865.5,1865.67,4
+2002,Nigeria,winner,QF,1772.75,1820.33,8
+2002,Nigeria,winner,SF,1830.27,1983.72,15
+2002,Nigeria,winner,F,1814.19,1931.29,16
+2002,Nigeria,runner_up,R16,1865.5,2037.52,4
+2002,Nigeria,runner_up,QF,1772.75,1820.97,8
+2002,Nigeria,runner_up,SF,1830.27,1924.35,15
+2002,Nigeria,runner_up,F,1814.19,1931.29,16
+2002,Paraguay,winner,R16,1810.75,1829.91,4
+2002,Paraguay,winner,QF,1838.12,1907.97,8
+2002,Paraguay,winner,SF,1819.73,1926.21,15
+2002,Paraguay,winner,F,1826.12,1978.32,16
+2002,Paraguay,runner_up,R16,1810.75,1846.89,4
+2002,Paraguay,runner_up,QF,1838.12,1915.57,8
+2002,Paraguay,runner_up,SF,1819.73,1927.43,15
+2002,Paraguay,runner_up,F,1826.12,1978.32,16
+2002,Poland,winner,R16,1862.25,1881.01,4
+2002,Poland,winner,QF,1790.25,1890.72,8
+2002,Poland,winner,SF,1819.47,1917.46,15
+2002,Poland,winner,F,1826.12,1978.32,16
+2002,Poland,runner_up,R16,1862.25,1946.19,4
+2002,Poland,runner_up,QF,1790.25,1832.4,8
+2002,Poland,runner_up,SF,1819.47,1926.76,15
+2002,Poland,runner_up,F,1826.12,1978.32,16
+2002,Portugal,winner,R16,1862.25,1881.01,4
+2002,Portugal,winner,QF,1790.25,1890.72,8
+2002,Portugal,winner,SF,1803.33,1892.39,15
+2002,Portugal,winner,F,1826.12,1978.32,16
+2002,Portugal,runner_up,R16,1862.25,1946.19,4
+2002,Portugal,runner_up,QF,1790.25,1832.4,8
+2002,Portugal,runner_up,SF,1803.33,1887.47,15
+2002,Portugal,runner_up,F,1826.12,1978.32,16
+2002,Republic of Ireland,winner,R16,1769.75,1766.77,4
+2002,Republic of Ireland,winner,QF,1838.12,1915.57,8
+2002,Republic of Ireland,winner,SF,1810.27,1918.49,15
+2002,Republic of Ireland,winner,F,1826.12,1978.32,16
+2002,Republic of Ireland,runner_up,R16,1769.75,1900.07,4
+2002,Republic of Ireland,runner_up,QF,1838.12,1907.97,8
+2002,Republic of Ireland,runner_up,SF,1810.27,1902.13,15
+2002,Republic of Ireland,runner_up,F,1826.12,1978.32,16
+2002,Russia,winner,R16,1769.5,1774.5,4
+2002,Russia,winner,QF,1879.5,1948.39,8
+2002,Russia,winner,SF,1827.8,1973.36,15
+2002,Russia,winner,F,1814.19,1931.29,16
+2002,Russia,runner_up,R16,1769.5,1805.32,4
+2002,Russia,runner_up,QF,1879.5,2017.68,8
+2002,Russia,runner_up,SF,1827.8,1914.29,15
+2002,Russia,runner_up,F,1814.19,1931.29,16
+2002,Saudi Arabia,winner,R16,1769.75,1766.77,4
+2002,Saudi Arabia,winner,QF,1838.12,1915.57,8
+2002,Saudi Arabia,winner,SF,1822.0,1919.82,15
+2002,Saudi Arabia,winner,F,1826.12,1978.32,16
+2002,Saudi Arabia,runner_up,R16,1769.75,1900.07,4
+2002,Saudi Arabia,runner_up,QF,1838.12,1907.97,8
+2002,Saudi Arabia,runner_up,SF,1822.0,1905.25,15
+2002,Saudi Arabia,runner_up,F,1826.12,1978.32,16
+2002,Senegal,winner,R16,1893.5,1914.86,4
+2002,Senegal,winner,QF,1772.75,1820.97,8
+2002,Senegal,winner,SF,1834.67,1974.75,15
+2002,Senegal,winner,F,1814.19,1931.29,16
+2002,Senegal,runner_up,R16,1893.5,1961.41,4
+2002,Senegal,runner_up,QF,1772.75,1820.33,8
+2002,Senegal,runner_up,SF,1834.67,1996.31,15
+2002,Senegal,runner_up,F,1814.19,1931.29,16
+2002,Slovenia,winner,R16,1810.75,1829.91,4
+2002,Slovenia,winner,QF,1838.12,1907.97,8
+2002,Slovenia,winner,SF,1818.8,1926.75,15
+2002,Slovenia,winner,F,1826.12,1978.32,16
+2002,Slovenia,runner_up,R16,1810.75,1846.89,4
+2002,Slovenia,runner_up,QF,1838.12,1915.57,8
+2002,Slovenia,runner_up,SF,1818.8,1927.88,15
+2002,Slovenia,runner_up,F,1826.12,1978.32,16
+2002,South Africa,winner,R16,1810.75,1829.91,4
+2002,South Africa,winner,QF,1838.12,1907.97,8
+2002,South Africa,winner,SF,1825.8,1924.5,15
+2002,South Africa,winner,F,1826.12,1978.32,16
+2002,South Africa,runner_up,R16,1810.75,1846.89,4
+2002,South Africa,runner_up,QF,1838.12,1915.57,8
+2002,South Africa,runner_up,SF,1825.8,1926.5,15
+2002,South Africa,runner_up,F,1826.12,1978.32,16
+2002,South Korea,winner,R16,1862.25,1881.01,4
+2002,South Korea,winner,QF,1790.25,1890.72,8
+2002,South Korea,winner,SF,1819.47,1924.26,15
+2002,South Korea,winner,F,1826.12,1978.32,16
+2002,South Korea,runner_up,R16,1862.25,1946.19,4
+2002,South Korea,runner_up,QF,1790.25,1832.4,8
+2002,South Korea,runner_up,SF,1819.47,1932.34,15
+2002,South Korea,runner_up,F,1826.12,1978.32,16
+2002,Spain,winner,R16,1810.75,1829.91,4
+2002,Spain,winner,QF,1838.12,1907.97,8
+2002,Spain,winner,SF,1804.27,1895.82,15
+2002,Spain,winner,F,1826.12,1978.32,16
+2002,Spain,runner_up,R16,1810.75,1846.89,4
+2002,Spain,runner_up,QF,1838.12,1915.57,8
+2002,Spain,runner_up,SF,1804.27,1885.1,15
+2002,Spain,runner_up,F,1826.12,1978.32,16
+2002,Sweden,winner,R16,1865.5,1865.67,4
+2002,Sweden,winner,QF,1772.75,1820.33,8
+2002,Sweden,winner,SF,1823.47,1985.89,15
+2002,Sweden,winner,F,1814.19,1931.29,16
+2002,Sweden,runner_up,R16,1865.5,2037.52,4
+2002,Sweden,runner_up,QF,1772.75,1820.97,8
+2002,Sweden,runner_up,SF,1823.47,1927.95,15
+2002,Sweden,runner_up,F,1814.19,1931.29,16
+2002,Tunisia,winner,R16,1769.5,1774.5,4
+2002,Tunisia,winner,QF,1879.5,1948.39,8
+2002,Tunisia,winner,SF,1840.0,1973.96,15
+2002,Tunisia,winner,F,1814.19,1931.29,16
+2002,Tunisia,runner_up,R16,1769.5,1805.32,4
+2002,Tunisia,runner_up,QF,1879.5,2017.68,8
+2002,Tunisia,runner_up,SF,1840.0,1914.11,15
+2002,Tunisia,runner_up,F,1814.19,1931.29,16
+2002,Turkey,winner,R16,1776.0,1814.22,4
+2002,Turkey,winner,QF,1879.5,2017.68,8
+2002,Turkey,winner,SF,1830.73,1917.14,15
+2002,Turkey,winner,F,1814.19,1931.29,16
+2002,Turkey,runner_up,R16,1776.0,1834.36,4
+2002,Turkey,runner_up,QF,1879.5,1948.39,8
+2002,Turkey,runner_up,SF,1830.73,1978.05,15
+2002,Turkey,runner_up,F,1814.19,1931.29,16
+2002,United States,winner,R16,1862.25,1881.01,4
+2002,United States,winner,QF,1790.25,1890.72,8
+2002,United States,winner,SF,1814.53,1918.94,15
+2002,United States,winner,F,1826.12,1978.32,16
+2002,United States,runner_up,R16,1862.25,1946.19,4
+2002,United States,runner_up,QF,1790.25,1832.4,8
+2002,United States,runner_up,SF,1814.53,1928.23,15
+2002,United States,runner_up,F,1826.12,1978.32,16
+2002,Uruguay,winner,R16,1893.5,1914.86,4
+2002,Uruguay,winner,QF,1772.75,1820.97,8
+2002,Uruguay,winner,SF,1827.13,1979.24,15
+2002,Uruguay,winner,F,1814.19,1931.29,16
+2002,Uruguay,runner_up,R16,1893.5,1961.41,4
+2002,Uruguay,runner_up,QF,1772.75,1820.33,8
+2002,Uruguay,runner_up,SF,1827.13,1997.08,15
+2002,Uruguay,runner_up,F,1814.19,1931.29,16
+2006,Angola,winner,R16,1870.5,1893.33,4
+2006,Angola,winner,QF,1789.75,1887.74,8
+2006,Angola,winner,SF,1801.69,1955.62,16
+2006,Angola,winner,F,1813.58,1933.77,31
+2006,Angola,runner_up,R16,1870.5,1940.13,4
+2006,Angola,runner_up,QF,1789.75,1877.11,8
+2006,Angola,runner_up,SF,1801.69,1931.01,16
+2006,Angola,runner_up,F,1813.58,1949.92,31
+2006,Argentina,winner,R16,1789.5,1855.62,4
+2006,Argentina,winner,QF,1789.75,1877.11,8
+2006,Argentina,winner,SF,1801.69,1931.01,16
+2006,Argentina,winner,F,1802.03,1955.38,31
+2006,Argentina,runner_up,R16,1789.5,1874.3,4
+2006,Argentina,runner_up,QF,1789.75,1887.74,8
+2006,Argentina,runner_up,SF,1801.69,1955.62,16
+2006,Argentina,runner_up,F,1802.03,1939.14,31
+2006,Australia,winner,R16,1838.5,1911.4,4
+2006,Australia,winner,QF,1751.75,1895.38,8
+2006,Australia,winner,SF,1809.88,1908.19,16
+2006,Australia,winner,F,1806.03,1948.08,31
+2006,Australia,runner_up,R16,1838.5,1939.24,4
+2006,Australia,runner_up,QF,1751.75,1893.89,8
+2006,Australia,runner_up,SF,1809.88,1910.1,16
+2006,Australia,runner_up,F,1806.03,1955.94,31
+2006,Brazil,winner,R16,1838.5,1911.4,4
+2006,Brazil,winner,QF,1751.75,1895.38,8
+2006,Brazil,winner,SF,1809.88,1908.19,16
+2006,Brazil,winner,F,1798.42,1926.64,31
+2006,Brazil,runner_up,R16,1838.5,1939.24,4
+2006,Brazil,runner_up,QF,1751.75,1893.89,8
+2006,Brazil,runner_up,SF,1809.88,1910.1,16
+2006,Brazil,runner_up,F,1798.42,1923.46,31
+2006,Costa Rica,winner,R16,1794.25,1856.76,4
+2006,Costa Rica,winner,QF,1830.0,1918.35,8
+2006,Costa Rica,winner,SF,1801.69,1931.01,16
+2006,Costa Rica,winner,F,1808.42,1947.07,31
+2006,Costa Rica,runner_up,R16,1794.25,1917.17,4
+2006,Costa Rica,runner_up,QF,1830.0,1896.94,8
+2006,Costa Rica,runner_up,SF,1801.69,1955.62,16
+2006,Costa Rica,runner_up,F,1808.42,1933.13,31
+2006,Croatia,winner,R16,1838.5,1911.4,4
+2006,Croatia,winner,QF,1751.75,1895.38,8
+2006,Croatia,winner,SF,1809.88,1908.19,16
+2006,Croatia,winner,F,1804.74,1949.24,31
+2006,Croatia,runner_up,R16,1838.5,1939.24,4
+2006,Croatia,runner_up,QF,1751.75,1893.89,8
+2006,Croatia,runner_up,SF,1809.88,1910.1,16
+2006,Croatia,runner_up,F,1804.74,1957.01,31
+2006,Czech Republic,winner,R16,1864.75,1858.21,4
+2006,Czech Republic,winner,QF,1751.75,1893.89,8
+2006,Czech Republic,winner,SF,1809.88,1910.1,16
+2006,Czech Republic,winner,F,1800.45,1947.71,31
+2006,Czech Republic,runner_up,R16,1864.75,1965.73,4
+2006,Czech Republic,runner_up,QF,1751.75,1895.38,8
+2006,Czech Republic,runner_up,SF,1809.88,1908.19,16
+2006,Czech Republic,runner_up,F,1800.45,1929.4,31
+2006,Ecuador,winner,R16,1794.25,1856.76,4
+2006,Ecuador,winner,QF,1830.0,1918.35,8
+2006,Ecuador,winner,SF,1801.69,1931.01,16
+2006,Ecuador,winner,F,1809.19,1947.09,31
+2006,Ecuador,runner_up,R16,1794.25,1917.17,4
+2006,Ecuador,runner_up,QF,1830.0,1896.94,8
+2006,Ecuador,runner_up,SF,1801.69,1955.62,16
+2006,Ecuador,runner_up,F,1809.19,1933.14,31
+2006,England,winner,R16,1785.25,1794.55,4
+2006,England,winner,QF,1830.0,1896.94,8
+2006,England,winner,SF,1801.69,1955.62,16
+2006,England,winner,F,1800.42,1929.58,31
+2006,England,runner_up,R16,1785.25,1862.18,4
+2006,England,runner_up,QF,1830.0,1918.35,8
+2006,England,runner_up,SF,1801.69,1931.01,16
+2006,England,runner_up,F,1800.42,1938.77,31
+2006,France,winner,R16,1753.0,1787.43,4
+2006,France,winner,QF,1851.62,1922.68,8
+2006,France,winner,SF,1809.88,1910.1,16
+2006,France,winner,F,1800.45,1947.51,31
+2006,France,runner_up,R16,1753.0,1907.84,4
+2006,France,runner_up,QF,1851.62,1963.52,8
+2006,France,runner_up,SF,1809.88,1908.19,16
+2006,France,runner_up,F,1800.45,1920.77,31
+2006,Germany,winner,R16,1794.25,1856.76,4
+2006,Germany,winner,QF,1830.0,1918.35,8
+2006,Germany,winner,SF,1801.69,1931.01,16
+2006,Germany,winner,F,1802.9,1950.37,31
+2006,Germany,runner_up,R16,1794.25,1917.17,4
+2006,Germany,runner_up,QF,1830.0,1896.94,8
+2006,Germany,runner_up,SF,1801.69,1955.62,16
+2006,Germany,runner_up,F,1802.9,1934.59,31
+2006,Ghana,winner,R16,1864.75,1858.21,4
+2006,Ghana,winner,QF,1751.75,1893.89,8
+2006,Ghana,winner,SF,1809.88,1910.1,16
+2006,Ghana,winner,F,1811.9,1950.17,31
+2006,Ghana,runner_up,R16,1864.75,1965.73,4
+2006,Ghana,runner_up,QF,1751.75,1895.38,8
+2006,Ghana,runner_up,SF,1809.88,1908.19,16
+2006,Ghana,runner_up,F,1811.9,1934.94,31
+2006,Iran,winner,R16,1870.5,1893.33,4
+2006,Iran,winner,QF,1789.75,1887.74,8
+2006,Iran,winner,SF,1801.69,1955.62,16
+2006,Iran,winner,F,1804.65,1934.24,31
+2006,Iran,runner_up,R16,1870.5,1940.13,4
+2006,Iran,runner_up,QF,1789.75,1877.11,8
+2006,Iran,runner_up,SF,1801.69,1931.01,16
+2006,Iran,runner_up,F,1804.65,1950.21,31
+2006,Italy,winner,R16,1864.75,1858.21,4
+2006,Italy,winner,QF,1751.75,1893.89,8
+2006,Italy,winner,SF,1809.88,1910.1,16
+2006,Italy,winner,F,1801.35,1950.83,31
+2006,Italy,runner_up,R16,1864.75,1965.73,4
+2006,Italy,runner_up,QF,1751.75,1895.38,8
+2006,Italy,runner_up,SF,1809.88,1908.19,16
+2006,Italy,runner_up,F,1801.35,1935.47,31
+2006,Ivory Coast,winner,R16,1789.5,1855.62,4
+2006,Ivory Coast,winner,QF,1789.75,1877.11,8
+2006,Ivory Coast,winner,SF,1801.69,1931.01,16
+2006,Ivory Coast,winner,F,1807.06,1954.31,31
+2006,Ivory Coast,runner_up,R16,1789.5,1874.3,4
+2006,Ivory Coast,runner_up,QF,1789.75,1887.74,8
+2006,Ivory Coast,runner_up,SF,1801.69,1955.62,16
+2006,Ivory Coast,runner_up,F,1807.06,1936.26,31
+2006,Japan,winner,R16,1838.5,1911.4,4
+2006,Japan,winner,QF,1751.75,1895.38,8
+2006,Japan,winner,SF,1809.88,1908.19,16
+2006,Japan,winner,F,1806.32,1947.87,31
+2006,Japan,runner_up,R16,1838.5,1939.24,4
+2006,Japan,runner_up,QF,1751.75,1893.89,8
+2006,Japan,runner_up,SF,1809.88,1910.1,16
+2006,Japan,runner_up,F,1806.32,1955.79,31
+2006,Mexico,winner,R16,1870.5,1893.33,4
+2006,Mexico,winner,QF,1789.75,1887.74,8
+2006,Mexico,winner,SF,1801.69,1955.62,16
+2006,Mexico,winner,F,1804.74,1934.22,31
+2006,Mexico,runner_up,R16,1870.5,1940.13,4
+2006,Mexico,runner_up,QF,1789.75,1877.11,8
+2006,Mexico,runner_up,SF,1801.69,1931.01,16
+2006,Mexico,runner_up,F,1804.74,1950.19,31
+2006,Netherlands,winner,R16,1789.5,1855.62,4
+2006,Netherlands,winner,QF,1789.75,1877.11,8
+2006,Netherlands,winner,SF,1801.69,1931.01,16
+2006,Netherlands,winner,F,1799.71,1944.45,31
+2006,Netherlands,runner_up,R16,1789.5,1874.3,4
+2006,Netherlands,runner_up,QF,1789.75,1887.74,8
+2006,Netherlands,runner_up,SF,1801.69,1955.62,16
+2006,Netherlands,runner_up,F,1799.71,1922.58,31
+2006,Paraguay,winner,R16,1785.25,1794.55,4
+2006,Paraguay,winner,QF,1830.0,1896.94,8
+2006,Paraguay,winner,SF,1801.69,1955.62,16
+2006,Paraguay,winner,F,1806.65,1938.75,31
+2006,Paraguay,runner_up,R16,1785.25,1862.18,4
+2006,Paraguay,runner_up,QF,1830.0,1918.35,8
+2006,Paraguay,runner_up,SF,1801.69,1931.01,16
+2006,Paraguay,runner_up,F,1806.65,1952.43,31
+2006,Poland,winner,R16,1794.25,1856.76,4
+2006,Poland,winner,QF,1830.0,1918.35,8
+2006,Poland,winner,SF,1801.69,1931.01,16
+2006,Poland,winner,F,1805.26,1947.03,31
+2006,Poland,runner_up,R16,1794.25,1917.17,4
+2006,Poland,runner_up,QF,1830.0,1896.94,8
+2006,Poland,runner_up,SF,1801.69,1955.62,16
+2006,Poland,runner_up,F,1805.26,1933.1,31
+2006,Portugal,winner,R16,1870.5,1893.33,4
+2006,Portugal,winner,QF,1789.75,1887.74,8
+2006,Portugal,winner,SF,1801.69,1955.62,16
+2006,Portugal,winner,F,1802.26,1932.56,31
+2006,Portugal,runner_up,R16,1870.5,1940.13,4
+2006,Portugal,runner_up,QF,1789.75,1877.11,8
+2006,Portugal,runner_up,SF,1801.69,1931.01,16
+2006,Portugal,runner_up,F,1802.26,1947.63,31
+2006,Saudi Arabia,winner,R16,1750.5,1814.17,4
+2006,Saudi Arabia,winner,QF,1851.62,1963.52,8
+2006,Saudi Arabia,winner,SF,1809.88,1908.19,16
+2006,Saudi Arabia,winner,F,1813.9,1937.18,31
+2006,Saudi Arabia,runner_up,R16,1750.5,1912.69,4
+2006,Saudi Arabia,runner_up,QF,1851.62,1922.68,8
+2006,Saudi Arabia,runner_up,SF,1809.88,1910.1,16
+2006,Saudi Arabia,runner_up,F,1813.9,1951.18,31
+2006,Serbia and Montenegro,winner,R16,1789.5,1855.62,4
+2006,Serbia and Montenegro,winner,QF,1789.75,1877.11,8
+2006,Serbia and Montenegro,winner,SF,1801.69,1931.01,16
+2006,Serbia and Montenegro,winner,F,1805.97,1954.8,31
+2006,Serbia and Montenegro,runner_up,R16,1789.5,1874.3,4
+2006,Serbia and Montenegro,runner_up,QF,1789.75,1887.74,8
+2006,Serbia and Montenegro,runner_up,SF,1801.69,1955.62,16
+2006,Serbia and Montenegro,runner_up,F,1805.97,1936.64,31
+2006,South Korea,winner,R16,1753.0,1787.43,4
+2006,South Korea,winner,QF,1851.62,1922.68,8
+2006,South Korea,winner,SF,1809.88,1910.1,16
+2006,South Korea,winner,F,1807.81,1953.16,31
+2006,South Korea,runner_up,R16,1753.0,1907.84,4
+2006,South Korea,runner_up,QF,1851.62,1963.52,8
+2006,South Korea,runner_up,SF,1809.88,1908.19,16
+2006,South Korea,runner_up,F,1807.81,1936.62,31
+2006,Spain,winner,R16,1750.5,1814.17,4
+2006,Spain,winner,QF,1851.62,1963.52,8
+2006,Spain,winner,SF,1809.88,1908.19,16
+2006,Spain,winner,F,1800.65,1931.5,31
+2006,Spain,runner_up,R16,1750.5,1912.69,4
+2006,Spain,runner_up,QF,1851.62,1922.68,8
+2006,Spain,runner_up,SF,1809.88,1910.1,16
+2006,Spain,runner_up,F,1800.65,1941.31,31
+2006,Sweden,winner,R16,1785.25,1794.55,4
+2006,Sweden,winner,QF,1830.0,1896.94,8
+2006,Sweden,winner,SF,1801.69,1955.62,16
+2006,Sweden,winner,F,1804.06,1939.87,31
+2006,Sweden,runner_up,R16,1785.25,1862.18,4
+2006,Sweden,runner_up,QF,1830.0,1918.35,8
+2006,Sweden,runner_up,SF,1801.69,1931.01,16
+2006,Sweden,runner_up,F,1804.06,1954.18,31
+2006,Switzerland,winner,R16,1753.0,1787.43,4
+2006,Switzerland,winner,QF,1851.62,1922.68,8
+2006,Switzerland,winner,SF,1809.88,1910.1,16
+2006,Switzerland,winner,F,1805.97,1954.08,31
+2006,Switzerland,runner_up,R16,1753.0,1907.84,4
+2006,Switzerland,runner_up,QF,1851.62,1963.52,8
+2006,Switzerland,runner_up,SF,1809.88,1908.19,16
+2006,Switzerland,runner_up,F,1805.97,1937.65,31
+2006,Togo,winner,R16,1753.0,1787.43,4
+2006,Togo,winner,QF,1851.62,1922.68,8
+2006,Togo,winner,SF,1809.88,1910.1,16
+2006,Togo,winner,F,1816.03,1952.14,31
+2006,Togo,runner_up,R16,1753.0,1907.84,4
+2006,Togo,runner_up,QF,1851.62,1963.52,8
+2006,Togo,runner_up,SF,1809.88,1908.19,16
+2006,Togo,runner_up,F,1816.03,1936.59,31
+2006,Trinidad and Tobago,winner,R16,1785.25,1794.55,4
+2006,Trinidad and Tobago,winner,QF,1830.0,1896.94,8
+2006,Trinidad and Tobago,winner,SF,1801.69,1955.62,16
+2006,Trinidad and Tobago,winner,F,1813.48,1937.39,31
+2006,Trinidad and Tobago,runner_up,R16,1785.25,1862.18,4
+2006,Trinidad and Tobago,runner_up,QF,1830.0,1918.35,8
+2006,Trinidad and Tobago,runner_up,SF,1801.69,1931.01,16
+2006,Trinidad and Tobago,runner_up,F,1813.48,1952.3,31
+2006,Tunisia,winner,R16,1750.5,1814.17,4
+2006,Tunisia,winner,QF,1851.62,1963.52,8
+2006,Tunisia,winner,SF,1809.88,1908.19,16
+2006,Tunisia,winner,F,1809.1,1937.55,31
+2006,Tunisia,runner_up,R16,1750.5,1912.69,4
+2006,Tunisia,runner_up,QF,1851.62,1922.68,8
+2006,Tunisia,runner_up,SF,1809.88,1910.1,16
+2006,Tunisia,runner_up,F,1809.1,1951.12,31
+2006,Ukraine,winner,R16,1750.5,1814.17,4
+2006,Ukraine,winner,QF,1851.62,1963.52,8
+2006,Ukraine,winner,SF,1809.88,1908.19,16
+2006,Ukraine,winner,F,1806.29,1938.86,31
+2006,Ukraine,runner_up,R16,1750.5,1912.69,4
+2006,Ukraine,runner_up,QF,1851.62,1922.68,8
+2006,Ukraine,runner_up,SF,1809.88,1910.1,16
+2006,Ukraine,runner_up,F,1806.29,1952.01,31
+2006,United States,winner,R16,1864.75,1858.21,4
+2006,United States,winner,QF,1751.75,1893.89,8
+2006,United States,winner,SF,1809.88,1910.1,16
+2006,United States,winner,F,1805.19,1951.21,31
+2006,United States,runner_up,R16,1864.75,1965.73,4
+2006,United States,runner_up,QF,1751.75,1895.38,8
+2006,United States,runner_up,SF,1809.88,1908.19,16
+2006,United States,runner_up,F,1805.19,1935.56,31
+2010,Algeria,winner,R16,1814.75,1833.33,4
+2010,Algeria,winner,QF,1791.38,1842.09,8
+2010,Algeria,winner,SF,1801.5,2042.87,16
+2010,Algeria,winner,F,1802.74,2006.22,31
+2010,Algeria,runner_up,R16,1814.75,1895.04,4
+2010,Algeria,runner_up,QF,1791.38,1861.56,8
+2010,Algeria,runner_up,SF,1801.5,2015.81,16
+2010,Algeria,runner_up,F,1802.74,2022.25,31
+2010,Argentina,winner,R16,1799.25,1836.92,4
+2010,Argentina,winner,QF,1783.62,1879.62,8
+2010,Argentina,winner,SF,1801.5,2015.81,16
+2010,Argentina,winner,F,1790.42,2019.84,31
+2010,Argentina,runner_up,R16,1799.25,1859.62,4
+2010,Argentina,runner_up,QF,1783.62,1931.2,8
+2010,Argentina,runner_up,SF,1801.5,2042.87,16
+2010,Argentina,runner_up,F,1790.42,1995.31,31
+2010,Australia,winner,R16,1752.5,1779.68,4
+2010,Australia,winner,QF,1791.38,1861.56,8
+2010,Australia,winner,SF,1801.5,2015.81,16
+2010,Australia,winner,F,1795.13,2020.72,31
+2010,Australia,runner_up,R16,1752.5,1949.73,4
+2010,Australia,runner_up,QF,1791.38,1842.09,8
+2010,Australia,runner_up,SF,1801.5,2042.87,16
+2010,Australia,runner_up,F,1795.13,1999.73,31
+2010,Brazil,winner,R16,1868.25,1872.29,4
+2010,Brazil,winner,QF,1761.25,1964.36,8
+2010,Brazil,winner,SF,1787.5,1915.45,16
+2010,Brazil,winner,F,1784.35,1991.7,31
+2010,Brazil,runner_up,R16,1868.25,2061.15,4
+2010,Brazil,runner_up,QF,1761.25,1868.97,8
+2010,Brazil,runner_up,SF,1787.5,1891.31,16
+2010,Brazil,runner_up,F,1784.35,1969.75,31
+2010,Cameroon,winner,R16,1724.25,1759.53,4
+2010,Cameroon,winner,QF,1841.75,2038.79,8
+2010,Cameroon,winner,SF,1787.5,1915.45,16
+2010,Cameroon,winner,F,1797.74,2010.66,31
+2010,Cameroon,runner_up,R16,1724.25,1879.25,4
+2010,Cameroon,runner_up,QF,1841.75,2037.29,8
+2010,Cameroon,runner_up,SF,1787.5,1891.31,16
+2010,Cameroon,runner_up,F,1797.74,2022.32,31
+2010,Chile,winner,R16,1815.25,1871.57,4
+2010,Chile,winner,QF,1761.25,1868.97,8
+2010,Chile,winner,SF,1787.5,1891.31,16
+2010,Chile,winner,F,1791.55,2038.22,31
+2010,Chile,runner_up,R16,1815.25,2063.39,4
+2010,Chile,runner_up,QF,1761.25,1964.36,8
+2010,Chile,runner_up,SF,1787.5,1915.45,16
+2010,Chile,runner_up,F,1791.55,2014.61,31
+2010,Denmark,winner,R16,1724.25,1759.53,4
+2010,Denmark,winner,QF,1841.75,2038.79,8
+2010,Denmark,winner,SF,1787.5,1915.45,16
+2010,Denmark,winner,F,1795.03,2011.56,31
+2010,Denmark,runner_up,R16,1724.25,1879.25,4
+2010,Denmark,runner_up,QF,1841.75,2037.29,8
+2010,Denmark,runner_up,SF,1787.5,1891.31,16
+2010,Denmark,runner_up,F,1795.03,2022.71,31
+2010,England,winner,R16,1814.75,1833.33,4
+2010,England,winner,QF,1791.38,1842.09,8
+2010,England,winner,SF,1801.5,2042.87,16
+2010,England,winner,F,1787.84,1995.07,31
+2010,England,runner_up,R16,1814.75,1895.04,4
+2010,England,runner_up,QF,1791.38,1861.56,8
+2010,England,runner_up,SF,1801.5,2015.81,16
+2010,England,runner_up,F,1787.84,2008.03,31
+2010,France,winner,R16,1783.5,1783.71,4
+2010,France,winner,QF,1783.62,1931.2,8
+2010,France,winner,SF,1801.5,2042.87,16
+2010,France,winner,F,1792.35,1998.17,31
+2010,France,runner_up,R16,1783.5,1851.32,4
+2010,France,runner_up,QF,1783.62,1879.62,8
+2010,France,runner_up,SF,1801.5,2015.81,16
+2010,France,runner_up,F,1792.35,2020.19,31
+2010,Germany,winner,R16,1752.5,1779.68,4
+2010,Germany,winner,QF,1791.38,1861.56,8
+2010,Germany,winner,SF,1801.5,2015.81,16
+2010,Germany,winner,F,1789.26,2019.4,31
+2010,Germany,runner_up,R16,1752.5,1949.73,4
+2010,Germany,runner_up,QF,1791.38,1842.09,8
+2010,Germany,runner_up,SF,1801.5,2042.87,16
+2010,Germany,runner_up,F,1789.26,1991.48,31
+2010,Ghana,winner,R16,1752.5,1779.68,4
+2010,Ghana,winner,QF,1791.38,1861.56,8
+2010,Ghana,winner,SF,1801.5,2015.81,16
+2010,Ghana,winner,F,1797.97,2020.53,31
+2010,Ghana,runner_up,R16,1752.5,1949.73,4
+2010,Ghana,runner_up,QF,1791.38,1842.09,8
+2010,Ghana,runner_up,SF,1801.5,2042.87,16
+2010,Ghana,runner_up,F,1797.97,1999.36,31
+2010,Greece,winner,R16,1799.25,1836.92,4
+2010,Greece,winner,QF,1783.62,1879.62,8
+2010,Greece,winner,SF,1801.5,2015.81,16
+2010,Greece,winner,F,1796.42,2020.35,31
+2010,Greece,runner_up,R16,1799.25,1859.62,4
+2010,Greece,runner_up,QF,1783.62,1931.2,8
+2010,Greece,runner_up,SF,1801.5,2042.87,16
+2010,Greece,runner_up,F,1796.42,1998.61,31
+2010,Honduras,winner,R16,1815.25,1871.57,4
+2010,Honduras,winner,QF,1761.25,1868.97,8
+2010,Honduras,winner,SF,1787.5,1891.31,16
+2010,Honduras,winner,F,1797.1,2034.77,31
+2010,Honduras,runner_up,R16,1815.25,2063.39,4
+2010,Honduras,runner_up,QF,1761.25,1964.36,8
+2010,Honduras,runner_up,SF,1787.5,1915.45,16
+2010,Honduras,runner_up,F,1797.1,2010.79,31
+2010,Italy,winner,R16,1798.25,1774.24,4
+2010,Italy,winner,QF,1841.75,2037.29,8
+2010,Italy,winner,SF,1787.5,1891.31,16
+2010,Italy,winner,F,1789.94,2021.11,31
+2010,Italy,runner_up,R16,1798.25,1994.33,4
+2010,Italy,runner_up,QF,1841.75,2038.79,8
+2010,Italy,runner_up,SF,1787.5,1915.45,16
+2010,Italy,runner_up,F,1789.94,1998.95,31
+2010,Ivory Coast,winner,R16,1868.25,1872.29,4
+2010,Ivory Coast,winner,QF,1761.25,1964.36,8
+2010,Ivory Coast,winner,SF,1787.5,1915.45,16
+2010,Ivory Coast,winner,F,1796.29,2021.99,31
+2010,Ivory Coast,runner_up,R16,1868.25,2061.15,4
+2010,Ivory Coast,runner_up,QF,1761.25,1868.97,8
+2010,Ivory Coast,runner_up,SF,1787.5,1891.31,16
+2010,Ivory Coast,runner_up,F,1796.29,2028.2,31
+2010,Japan,winner,R16,1724.25,1759.53,4
+2010,Japan,winner,QF,1841.75,2038.79,8
+2010,Japan,winner,SF,1787.5,1915.45,16
+2010,Japan,winner,F,1798.26,2010.51,31
+2010,Japan,runner_up,R16,1724.25,1879.25,4
+2010,Japan,runner_up,QF,1841.75,2037.29,8
+2010,Japan,runner_up,SF,1787.5,1891.31,16
+2010,Japan,runner_up,F,1798.26,2022.3,31
+2010,Mexico,winner,R16,1783.5,1783.71,4
+2010,Mexico,winner,QF,1783.62,1931.2,8
+2010,Mexico,winner,SF,1801.5,2042.87,16
+2010,Mexico,winner,F,1791.16,1997.32,31
+2010,Mexico,runner_up,R16,1783.5,1851.32,4
+2010,Mexico,runner_up,QF,1783.62,1879.62,8
+2010,Mexico,runner_up,SF,1801.5,2015.81,16
+2010,Mexico,runner_up,F,1791.16,2019.79,31
+2010,Netherlands,winner,R16,1724.25,1759.53,4
+2010,Netherlands,winner,QF,1841.75,2038.79,8
+2010,Netherlands,winner,SF,1787.5,1915.45,16
+2010,Netherlands,winner,F,1786.48,1995.25,31
+2010,Netherlands,runner_up,R16,1724.25,1879.25,4
+2010,Netherlands,runner_up,QF,1841.75,2037.29,8
+2010,Netherlands,runner_up,SF,1787.5,1891.31,16
+2010,Netherlands,runner_up,F,1786.48,2004.86,31
+2010,New Zealand,winner,R16,1798.25,1774.24,4
+2010,New Zealand,winner,QF,1841.75,2037.29,8
+2010,New Zealand,winner,SF,1787.5,1891.31,16
+2010,New Zealand,winner,F,1803.13,2017.68,31
+2010,New Zealand,runner_up,R16,1798.25,1994.33,4
+2010,New Zealand,runner_up,QF,1841.75,2038.79,8
+2010,New Zealand,runner_up,SF,1787.5,1915.45,16
+2010,New Zealand,runner_up,F,1803.13,1997.55,31
+2010,Nigeria,winner,R16,1799.25,1836.92,4
+2010,Nigeria,winner,QF,1783.62,1879.62,8
+2010,Nigeria,winner,SF,1801.5,2015.81,16
+2010,Nigeria,winner,F,1797.13,2020.32,31
+2010,Nigeria,runner_up,R16,1799.25,1859.62,4
+2010,Nigeria,runner_up,QF,1783.62,1931.2,8
+2010,Nigeria,runner_up,SF,1801.5,2042.87,16
+2010,Nigeria,runner_up,F,1797.13,1998.54,31
+2010,North Korea,winner,R16,1868.25,1872.29,4
+2010,North Korea,winner,QF,1761.25,1964.36,8
+2010,North Korea,winner,SF,1787.5,1915.45,16
+2010,North Korea,winner,F,1802.81,2014.96,31
+2010,North Korea,runner_up,R16,1868.25,2061.15,4
+2010,North Korea,runner_up,QF,1761.25,1868.97,8
+2010,North Korea,runner_up,SF,1787.5,1891.31,16
+2010,North Korea,runner_up,F,1802.81,2028.09,31
+2010,Paraguay,winner,R16,1798.25,1774.24,4
+2010,Paraguay,winner,QF,1841.75,2037.29,8
+2010,Paraguay,winner,SF,1787.5,1891.31,16
+2010,Paraguay,winner,F,1795.48,2017.3,31
+2010,Paraguay,runner_up,R16,1798.25,1994.33,4
+2010,Paraguay,runner_up,QF,1841.75,2038.79,8
+2010,Paraguay,runner_up,SF,1787.5,1915.45,16
+2010,Paraguay,runner_up,F,1795.48,1997.57,31
+2010,Portugal,winner,R16,1868.25,1872.29,4
+2010,Portugal,winner,QF,1761.25,1964.36,8
+2010,Portugal,winner,SF,1787.5,1915.45,16
+2010,Portugal,winner,F,1791.87,2027.04,31
+2010,Portugal,runner_up,R16,1868.25,2061.15,4
+2010,Portugal,runner_up,QF,1761.25,1868.97,8
+2010,Portugal,runner_up,SF,1787.5,1891.31,16
+2010,Portugal,runner_up,F,1791.87,2030.39,31
+2010,Serbia,winner,R16,1752.5,1779.68,4
+2010,Serbia,winner,QF,1791.38,1861.56,8
+2010,Serbia,winner,SF,1801.5,2015.81,16
+2010,Serbia,winner,F,1793.03,2021.23,31
+2010,Serbia,runner_up,R16,1752.5,1949.73,4
+2010,Serbia,runner_up,QF,1791.38,1842.09,8
+2010,Serbia,runner_up,SF,1801.5,2042.87,16
+2010,Serbia,runner_up,F,1793.03,2000.65,31
+2010,Slovakia,winner,R16,1798.25,1774.24,4
+2010,Slovakia,winner,QF,1841.75,2037.29,8
+2010,Slovakia,winner,SF,1787.5,1891.31,16
+2010,Slovakia,winner,F,1798.52,2017.32,31
+2010,Slovakia,runner_up,R16,1798.25,1994.33,4
+2010,Slovakia,runner_up,QF,1841.75,2038.79,8
+2010,Slovakia,runner_up,SF,1787.5,1915.45,16
+2010,Slovakia,runner_up,F,1798.52,1997.5,31
+2010,Slovenia,winner,R16,1814.75,1833.33,4
+2010,Slovenia,winner,QF,1791.38,1842.09,8
+2010,Slovenia,winner,SF,1801.5,2042.87,16
+2010,Slovenia,winner,F,1798.03,2007.18,31
+2010,Slovenia,runner_up,R16,1814.75,1895.04,4
+2010,Slovenia,runner_up,QF,1791.38,1861.56,8
+2010,Slovenia,runner_up,SF,1801.5,2015.81,16
+2010,Slovenia,runner_up,F,1798.03,2022.23,31
+2010,South Africa,winner,R16,1783.5,1783.71,4
+2010,South Africa,winner,QF,1783.62,1931.2,8
+2010,South Africa,winner,SF,1801.5,2042.87,16
+2010,South Africa,winner,F,1801.0,1998.1,31
+2010,South Africa,runner_up,R16,1783.5,1851.32,4
+2010,South Africa,runner_up,QF,1783.62,1879.62,8
+2010,South Africa,runner_up,SF,1801.5,2015.81,16
+2010,South Africa,runner_up,F,1801.0,2020.07,31
+2010,South Korea,winner,R16,1799.25,1836.92,4
+2010,South Korea,winner,QF,1783.62,1879.62,8
+2010,South Korea,winner,SF,1801.5,2015.81,16
+2010,South Korea,winner,F,1795.45,2020.43,31
+2010,South Korea,runner_up,R16,1799.25,1859.62,4
+2010,South Korea,runner_up,QF,1783.62,1931.2,8
+2010,South Korea,runner_up,SF,1801.5,2042.87,16
+2010,South Korea,runner_up,F,1795.45,1998.77,31
+2010,Spain,winner,R16,1815.25,1871.57,4
+2010,Spain,winner,QF,1761.25,1868.97,8
+2010,Spain,winner,SF,1787.5,1891.31,16
+2010,Spain,winner,F,1784.29,2015.87,31
+2010,Spain,runner_up,R16,1815.25,2063.39,4
+2010,Spain,runner_up,QF,1761.25,1964.36,8
+2010,Spain,runner_up,SF,1787.5,1915.45,16
+2010,Spain,runner_up,F,1784.29,1921.1,31
+2010,Switzerland,winner,R16,1815.25,1871.57,4
+2010,Switzerland,winner,QF,1761.25,1868.97,8
+2010,Switzerland,winner,SF,1787.5,1891.31,16
+2010,Switzerland,winner,F,1795.55,2035.35,31
+2010,Switzerland,runner_up,R16,1815.25,2063.39,4
+2010,Switzerland,runner_up,QF,1761.25,1964.36,8
+2010,Switzerland,runner_up,SF,1787.5,1915.45,16
+2010,Switzerland,runner_up,F,1795.55,2010.91,31
+2010,United States,winner,R16,1814.75,1833.33,4
+2010,United States,winner,QF,1791.38,1842.09,8
+2010,United States,winner,SF,1801.5,2042.87,16
+2010,United States,winner,F,1794.81,2008.74,31
+2010,United States,runner_up,R16,1814.75,1895.04,4
+2010,United States,runner_up,QF,1791.38,1861.56,8
+2010,United States,runner_up,SF,1801.5,2015.81,16
+2010,United States,runner_up,F,1794.81,2022.91,31
+2010,Uruguay,winner,R16,1783.5,1783.71,4
+2010,Uruguay,winner,QF,1783.62,1931.2,8
+2010,Uruguay,winner,SF,1801.5,2042.87,16
+2010,Uruguay,winner,F,1792.87,1998.27,31
+2010,Uruguay,runner_up,R16,1783.5,1851.32,4
+2010,Uruguay,runner_up,QF,1783.62,1879.62,8
+2010,Uruguay,runner_up,SF,1801.5,2015.81,16
+2010,Uruguay,runner_up,F,1792.87,2020.17,31
+2014,Algeria,winner,R16,1894.0,1936.23,4
+2014,Algeria,winner,QF,1812.5,1938.0,8
+2014,Algeria,winner,SF,1865.25,1992.17,16
+2014,Algeria,winner,F,1847.94,2069.31,31
+2014,Algeria,runner_up,R16,1894.0,2015.38,4
+2014,Algeria,runner_up,QF,1812.5,1851.76,8
+2014,Algeria,runner_up,SF,1865.25,2076.3,16
+2014,Algeria,runner_up,F,1847.94,2000.93,31
+2014,Argentina,winner,R16,1813.75,1843.44,4
+2014,Argentina,winner,QF,1820.88,1913.42,8
+2014,Argentina,winner,SF,1865.25,1992.17,16
+2014,Argentina,winner,F,1835.26,2068.97,31
+2014,Argentina,runner_up,R16,1813.75,1860.8,4
+2014,Argentina,runner_up,QF,1820.88,1976.7,8
+2014,Argentina,runner_up,SF,1865.25,2076.3,16
+2014,Argentina,runner_up,F,1835.26,1982.64,31
+2014,Australia,winner,R16,1844.0,1820.15,4
+2014,Australia,winner,QF,1843.62,1884.31,8
+2014,Australia,winner,SF,1816.69,1951.25,16
+2014,Australia,winner,F,1845.26,2072.3,31
+2014,Australia,runner_up,R16,1844.0,2118.63,4
+2014,Australia,runner_up,QF,1843.62,1889.02,8
+2014,Australia,runner_up,SF,1816.69,1958.44,16
+2014,Australia,runner_up,F,1845.26,2013.28,31
+2014,Belgium,winner,R16,1894.0,1936.23,4
+2014,Belgium,winner,QF,1812.5,1938.0,8
+2014,Belgium,winner,SF,1865.25,1992.17,16
+2014,Belgium,winner,F,1840.65,2070.11,31
+2014,Belgium,runner_up,R16,1894.0,2015.38,4
+2014,Belgium,runner_up,QF,1812.5,1851.76,8
+2014,Belgium,runner_up,SF,1865.25,2076.3,16
+2014,Belgium,runner_up,F,1840.65,2001.32,31
+2014,Bosnia and Herzegovina,winner,R16,1813.75,1843.44,4
+2014,Bosnia and Herzegovina,winner,QF,1820.88,1913.42,8
+2014,Bosnia and Herzegovina,winner,SF,1865.25,1992.17,16
+2014,Bosnia and Herzegovina,winner,F,1842.77,2073.59,31
+2014,Bosnia and Herzegovina,runner_up,R16,1813.75,1860.8,4
+2014,Bosnia and Herzegovina,runner_up,QF,1820.88,1976.7,8
+2014,Bosnia and Herzegovina,runner_up,SF,1865.25,2076.3,16
+2014,Bosnia and Herzegovina,runner_up,F,1842.77,2005.46,31
+2014,Brazil,winner,R16,1929.75,1987.04,4
+2014,Brazil,winner,QF,1843.62,1889.02,8
+2014,Brazil,winner,SF,1816.69,1958.44,16
+2014,Brazil,winner,F,1831.39,1996.78,31
+2014,Brazil,runner_up,R16,1929.75,2050.47,4
+2014,Brazil,runner_up,QF,1843.62,1884.31,8
+2014,Brazil,runner_up,SF,1816.69,1951.25,16
+2014,Brazil,runner_up,F,1831.39,1978.38,31
+2014,Cameroon,winner,R16,1929.75,1987.04,4
+2014,Cameroon,winner,QF,1843.62,1889.02,8
+2014,Cameroon,winner,SF,1816.69,1958.44,16
+2014,Cameroon,winner,F,1848.55,2065.34,31
+2014,Cameroon,runner_up,R16,1929.75,2050.47,4
+2014,Cameroon,runner_up,QF,1843.62,1884.31,8
+2014,Cameroon,runner_up,SF,1816.69,1951.25,16
+2014,Cameroon,runner_up,F,1848.55,2075.49,31
+2014,Chile,winner,R16,1844.0,1820.15,4
+2014,Chile,winner,QF,1843.62,1884.31,8
+2014,Chile,winner,SF,1816.69,1951.25,16
+2014,Chile,winner,F,1838.45,2073.05,31
+2014,Chile,runner_up,R16,1844.0,2118.63,4
+2014,Chile,runner_up,QF,1843.62,1889.02,8
+2014,Chile,runner_up,SF,1816.69,1958.44,16
+2014,Chile,runner_up,F,1838.45,2014.51,31
+2014,Colombia,winner,R16,1861.75,1893.9,4
+2014,Colombia,winner,QF,1886.88,2104.33,8
+2014,Colombia,winner,SF,1816.69,1958.44,16
+2014,Colombia,winner,F,1838.35,2001.04,31
+2014,Colombia,runner_up,R16,1861.75,1908.36,4
+2014,Colombia,runner_up,QF,1886.88,2013.61,8
+2014,Colombia,runner_up,SF,1816.69,1951.25,16
+2014,Colombia,runner_up,F,1838.35,2071.0,31
+2014,Costa Rica,winner,R16,1825.5,1829.33,4
+2014,Costa Rica,winner,QF,1886.88,2013.61,8
+2014,Costa Rica,winner,SF,1816.69,1951.25,16
+2014,Costa Rica,winner,F,1845.16,2069.64,31
+2014,Costa Rica,runner_up,R16,1825.5,1859.95,4
+2014,Costa Rica,runner_up,QF,1886.88,2104.33,8
+2014,Costa Rica,runner_up,SF,1816.69,1958.44,16
+2014,Costa Rica,runner_up,F,1845.16,2001.19,31
+2014,Croatia,winner,R16,1929.75,1987.04,4
+2014,Croatia,winner,QF,1843.62,1889.02,8
+2014,Croatia,winner,SF,1816.69,1958.44,16
+2014,Croatia,winner,F,1841.71,2070.79,31
+2014,Croatia,runner_up,R16,1929.75,2050.47,4
+2014,Croatia,runner_up,QF,1843.62,1884.31,8
+2014,Croatia,runner_up,SF,1816.69,1951.25,16
+2014,Croatia,runner_up,F,1841.71,2075.59,31
+2014,Ecuador,winner,R16,1811.25,1795.75,4
+2014,Ecuador,winner,QF,1820.88,1976.7,8
+2014,Ecuador,winner,SF,1865.25,2076.3,16
+2014,Ecuador,winner,F,1841.13,2001.1,31
+2014,Ecuador,runner_up,R16,1811.25,1958.03,4
+2014,Ecuador,runner_up,QF,1820.88,1913.42,8
+2014,Ecuador,runner_up,SF,1865.25,1992.17,16
+2014,Ecuador,runner_up,F,1841.13,2069.92,31
+2014,England,winner,R16,1825.5,1829.33,4
+2014,England,winner,QF,1886.88,2013.61,8
+2014,England,winner,SF,1816.69,1951.25,16
+2014,England,winner,F,1838.06,2070.12,31
+2014,England,runner_up,R16,1825.5,1859.95,4
+2014,England,runner_up,QF,1886.88,2104.33,8
+2014,England,runner_up,SF,1816.69,1958.44,16
+2014,England,runner_up,F,1838.06,2000.74,31
+2014,France,winner,R16,1811.25,1795.75,4
+2014,France,winner,QF,1820.88,1976.7,8
+2014,France,winner,SF,1865.25,2076.3,16
+2014,France,winner,F,1839.19,2001.22,31
+2014,France,runner_up,R16,1811.25,1958.03,4
+2014,France,runner_up,QF,1820.88,1913.42,8
+2014,France,runner_up,SF,1865.25,1992.17,16
+2014,France,runner_up,F,1839.19,2070.09,31
+2014,Germany,winner,R16,1747.75,1786.96,4
+2014,Germany,winner,QF,1812.5,1851.76,8
+2014,Germany,winner,SF,1865.25,2076.3,16
+2014,Germany,winner,F,1833.48,1991.3,31
+2014,Germany,runner_up,R16,1747.75,1825.93,4
+2014,Germany,runner_up,QF,1812.5,1938.0,8
+2014,Germany,runner_up,SF,1865.25,1992.17,16
+2014,Germany,runner_up,F,1833.48,2053.8,31
+2014,Ghana,winner,R16,1747.75,1786.96,4
+2014,Ghana,winner,QF,1812.5,1851.76,8
+2014,Ghana,winner,SF,1865.25,2076.3,16
+2014,Ghana,winner,F,1845.39,2015.14,31
+2014,Ghana,runner_up,R16,1747.75,1825.93,4
+2014,Ghana,runner_up,QF,1812.5,1938.0,8
+2014,Ghana,runner_up,SF,1865.25,1992.17,16
+2014,Ghana,runner_up,F,1845.39,2074.24,31
+2014,Greece,winner,R16,1861.75,1893.9,4
+2014,Greece,winner,QF,1886.88,2104.33,8
+2014,Greece,winner,SF,1816.69,1958.44,16
+2014,Greece,winner,F,1841.55,2001.42,31
+2014,Greece,runner_up,R16,1861.75,1908.36,4
+2014,Greece,runner_up,QF,1886.88,2013.61,8
+2014,Greece,runner_up,SF,1816.69,1951.25,16
+2014,Greece,runner_up,F,1841.55,2069.63,31
+2014,Honduras,winner,R16,1811.25,1795.75,4
+2014,Honduras,winner,QF,1820.88,1976.7,8
+2014,Honduras,winner,SF,1865.25,2076.3,16
+2014,Honduras,winner,F,1846.55,2000.76,31
+2014,Honduras,runner_up,R16,1811.25,1958.03,4
+2014,Honduras,runner_up,QF,1820.88,1913.42,8
+2014,Honduras,runner_up,SF,1865.25,1992.17,16
+2014,Honduras,runner_up,F,1846.55,2069.91,31
+2014,Iran,winner,R16,1813.75,1843.44,4
+2014,Iran,winner,QF,1820.88,1913.42,8
+2014,Iran,winner,SF,1865.25,1992.17,16
+2014,Iran,winner,F,1845.03,2073.27,31
+2014,Iran,runner_up,R16,1813.75,1860.8,4
+2014,Iran,runner_up,QF,1820.88,1976.7,8
+2014,Iran,runner_up,SF,1865.25,2076.3,16
+2014,Iran,runner_up,F,1845.03,2004.79,31
+2014,Italy,winner,R16,1825.5,1829.33,4
+2014,Italy,winner,QF,1886.88,2013.61,8
+2014,Italy,winner,SF,1816.69,1951.25,16
+2014,Italy,winner,F,1839.48,2069.79,31
+2014,Italy,runner_up,R16,1825.5,1859.95,4
+2014,Italy,runner_up,QF,1886.88,2104.33,8
+2014,Italy,runner_up,SF,1816.69,1958.44,16
+2014,Italy,runner_up,F,1839.48,2001.56,31
+2014,Ivory Coast,winner,R16,1861.75,1893.9,4
+2014,Ivory Coast,winner,QF,1886.88,2104.33,8
+2014,Ivory Coast,winner,SF,1816.69,1958.44,16
+2014,Ivory Coast,winner,F,1843.19,2001.2,31
+2014,Ivory Coast,runner_up,R16,1861.75,1908.36,4
+2014,Ivory Coast,runner_up,QF,1886.88,2013.61,8
+2014,Ivory Coast,runner_up,SF,1816.69,1951.25,16
+2014,Ivory Coast,runner_up,F,1843.19,2069.63,31
+2014,Japan,winner,R16,1861.75,1893.9,4
+2014,Japan,winner,QF,1886.88,2104.33,8
+2014,Japan,winner,SF,1816.69,1958.44,16
+2014,Japan,winner,F,1842.77,2001.24,31
+2014,Japan,runner_up,R16,1861.75,1908.36,4
+2014,Japan,runner_up,QF,1886.88,2013.61,8
+2014,Japan,runner_up,SF,1816.69,1951.25,16
+2014,Japan,runner_up,F,1842.77,2069.62,31
+2014,Mexico,winner,R16,1929.75,1987.04,4
+2014,Mexico,winner,QF,1843.62,1889.02,8
+2014,Mexico,winner,SF,1816.69,1958.44,16
+2014,Mexico,winner,F,1841.84,2070.7,31
+2014,Mexico,runner_up,R16,1929.75,2050.47,4
+2014,Mexico,runner_up,QF,1843.62,1884.31,8
+2014,Mexico,runner_up,SF,1816.69,1951.25,16
+2014,Mexico,runner_up,F,1841.84,2075.58,31
+2014,Netherlands,winner,R16,1844.0,1820.15,4
+2014,Netherlands,winner,QF,1843.62,1884.31,8
+2014,Netherlands,winner,SF,1816.69,1951.25,16
+2014,Netherlands,winner,F,1836.32,2074.54,31
+2014,Netherlands,runner_up,R16,1844.0,2118.63,4
+2014,Netherlands,runner_up,QF,1843.62,1889.02,8
+2014,Netherlands,runner_up,SF,1816.69,1958.44,16
+2014,Netherlands,runner_up,F,1836.32,2018.61,31
+2014,Nigeria,winner,R16,1813.75,1843.44,4
+2014,Nigeria,winner,QF,1820.88,1913.42,8
+2014,Nigeria,winner,SF,1865.25,1992.17,16
+2014,Nigeria,winner,F,1844.65,2073.3,31
+2014,Nigeria,runner_up,R16,1813.75,1860.8,4
+2014,Nigeria,runner_up,QF,1820.88,1976.7,8
+2014,Nigeria,runner_up,SF,1865.25,2076.3,16
+2014,Nigeria,runner_up,F,1844.65,2004.83,31
+2014,Portugal,winner,R16,1747.75,1786.96,4
+2014,Portugal,winner,QF,1812.5,1851.76,8
+2014,Portugal,winner,SF,1865.25,2076.3,16
+2014,Portugal,winner,F,1837.71,2019.93,31
+2014,Portugal,runner_up,R16,1747.75,1825.93,4
+2014,Portugal,runner_up,QF,1812.5,1938.0,8
+2014,Portugal,runner_up,SF,1865.25,1992.17,16
+2014,Portugal,runner_up,F,1837.71,2076.56,31
+2014,Russia,winner,R16,1894.0,1936.23,4
+2014,Russia,winner,QF,1812.5,1938.0,8
+2014,Russia,winner,SF,1865.25,1992.17,16
+2014,Russia,winner,F,1840.74,2070.07,31
+2014,Russia,runner_up,R16,1894.0,2015.38,4
+2014,Russia,runner_up,QF,1812.5,1851.76,8
+2014,Russia,runner_up,SF,1865.25,2076.3,16
+2014,Russia,runner_up,F,1840.74,2001.29,31
+2014,South Korea,winner,R16,1894.0,1936.23,4
+2014,South Korea,winner,QF,1812.5,1938.0,8
+2014,South Korea,winner,SF,1865.25,1992.17,16
+2014,South Korea,winner,F,1846.58,2069.23,31
+2014,South Korea,runner_up,R16,1894.0,2015.38,4
+2014,South Korea,runner_up,QF,1812.5,1851.76,8
+2014,South Korea,runner_up,SF,1865.25,2076.3,16
+2014,South Korea,runner_up,F,1846.58,2000.88,31
+2014,Spain,winner,R16,1844.0,1820.15,4
+2014,Spain,winner,QF,1843.62,1884.31,8
+2014,Spain,winner,SF,1816.69,1951.25,16
+2014,Spain,winner,F,1832.39,2067.51,31
+2014,Spain,runner_up,R16,1844.0,2118.63,4
+2014,Spain,runner_up,QF,1843.62,1889.02,8
+2014,Spain,runner_up,SF,1816.69,1958.44,16
+2014,Spain,runner_up,F,1832.39,1958.79,31
+2014,Switzerland,winner,R16,1811.25,1795.75,4
+2014,Switzerland,winner,QF,1820.88,1976.7,8
+2014,Switzerland,winner,SF,1865.25,2076.3,16
+2014,Switzerland,winner,F,1840.52,2001.22,31
+2014,Switzerland,runner_up,R16,1811.25,1958.03,4
+2014,Switzerland,runner_up,QF,1820.88,1913.42,8
+2014,Switzerland,runner_up,SF,1865.25,1992.17,16
+2014,Switzerland,runner_up,F,1840.52,2069.99,31
+2014,United States,winner,R16,1747.75,1786.96,4
+2014,United States,winner,QF,1812.5,1851.76,8
+2014,United States,winner,SF,1865.25,2076.3,16
+2014,United States,winner,F,1840.45,2017.51,31
+2014,United States,runner_up,R16,1747.75,1825.93,4
+2014,United States,runner_up,QF,1812.5,1938.0,8
+2014,United States,runner_up,SF,1865.25,1992.17,16
+2014,United States,runner_up,F,1840.45,2074.37,31
+2014,Uruguay,winner,R16,1825.5,1829.33,4
+2014,Uruguay,winner,QF,1886.88,2013.61,8
+2014,Uruguay,winner,SF,1816.69,1951.25,16
+2014,Uruguay,winner,F,1838.48,2070.03,31
+2014,Uruguay,runner_up,R16,1825.5,1859.95,4
+2014,Uruguay,runner_up,QF,1886.88,2104.33,8
+2014,Uruguay,runner_up,SF,1816.69,1958.44,16
+2014,Uruguay,runner_up,F,1838.48,2001.23,31
+2018,Argentina,winner,R16,1874.5,1898.75,4
+2018,Argentina,winner,QF,1791.0,1950.22,8
+2018,Argentina,winner,SF,1835.5,1990.25,16
+2018,Argentina,winner,F,1822.32,2027.06,31
+2018,Argentina,runner_up,R16,1874.5,1933.61,4
+2018,Argentina,runner_up,QF,1791.0,1913.45,8
+2018,Argentina,runner_up,SF,1835.5,2040.74,16
+2018,Argentina,runner_up,F,1822.32,1995.86,31
+2018,Australia,winner,R16,1820.5,1842.7,4
+2018,Australia,winner,QF,1791.0,1913.45,8
+2018,Australia,winner,SF,1835.5,2040.74,16
+2018,Australia,winner,F,1830.1,2002.15,31
+2018,Australia,runner_up,R16,1820.5,1923.18,4
+2018,Australia,runner_up,QF,1791.0,1950.22,8
+2018,Australia,runner_up,SF,1835.5,1990.25,16
+2018,Australia,runner_up,F,1830.1,2029.48,31
+2018,Belgium,winner,R16,1796.75,1814.71,4
+2018,Belgium,winner,QF,1873.75,2063.59,8
+2018,Belgium,winner,SF,1819.25,1937.54,16
+2018,Belgium,winner,F,1823.9,2001.29,31
+2018,Belgium,runner_up,R16,1796.75,1867.15,4
+2018,Belgium,runner_up,QF,1873.75,2004.29,8
+2018,Belgium,runner_up,SF,1819.25,1965.03,16
+2018,Belgium,runner_up,F,1823.9,2028.83,31
+2018,Brazil,winner,R16,1857.75,1852.81,4
+2018,Brazil,winner,QF,1797.25,1902.71,8
+2018,Brazil,winner,SF,1819.25,1937.54,16
+2018,Brazil,winner,F,1817.26,1992.71,31
+2018,Brazil,runner_up,R16,1857.75,2019.1,4
+2018,Brazil,runner_up,QF,1797.25,1899.05,8
+2018,Brazil,runner_up,SF,1819.25,1965.03,16
+2018,Brazil,runner_up,F,1817.26,1941.67,31
+2018,Colombia,winner,R16,1797.75,1881.51,4
+2018,Colombia,winner,QF,1873.75,2004.29,8
+2018,Colombia,winner,SF,1819.25,1965.03,16
+2018,Colombia,winner,F,1824.16,2028.88,31
+2018,Colombia,runner_up,R16,1797.75,1930.14,4
+2018,Colombia,runner_up,QF,1873.75,2063.59,8
+2018,Colombia,runner_up,SF,1819.25,1937.54,16
+2018,Colombia,runner_up,F,1824.16,2000.87,31
+2018,Costa Rica,winner,R16,1857.75,1852.81,4
+2018,Costa Rica,winner,QF,1797.25,1902.71,8
+2018,Costa Rica,winner,SF,1819.25,1937.54,16
+2018,Costa Rica,winner,F,1830.13,2038.34,31
+2018,Costa Rica,runner_up,R16,1857.75,2019.1,4
+2018,Costa Rica,runner_up,QF,1797.25,1899.05,8
+2018,Costa Rica,runner_up,SF,1819.25,1965.03,16
+2018,Costa Rica,runner_up,F,1830.13,2041.68,31
+2018,Croatia,winner,R16,1874.5,1898.75,4
+2018,Croatia,winner,QF,1791.0,1950.22,8
+2018,Croatia,winner,SF,1835.5,1990.25,16
+2018,Croatia,winner,F,1826.55,2031.56,31
+2018,Croatia,runner_up,R16,1874.5,1933.61,4
+2018,Croatia,runner_up,QF,1791.0,1913.45,8
+2018,Croatia,runner_up,SF,1835.5,2040.74,16
+2018,Croatia,runner_up,F,1826.55,2003.11,31
+2018,Denmark,winner,R16,1820.5,1842.7,4
+2018,Denmark,winner,QF,1791.0,1913.45,8
+2018,Denmark,winner,SF,1835.5,2040.74,16
+2018,Denmark,winner,F,1826.52,2002.81,31
+2018,Denmark,runner_up,R16,1820.5,1923.18,4
+2018,Denmark,runner_up,QF,1791.0,1950.22,8
+2018,Denmark,runner_up,SF,1835.5,1990.25,16
+2018,Denmark,runner_up,F,1826.52,2030.07,31
+2018,Egypt,winner,R16,1883.0,1935.64,4
+2018,Egypt,winner,QF,1847.5,1916.31,8
+2018,Egypt,winner,SF,1835.5,2040.74,16
+2018,Egypt,winner,F,1833.45,1999.21,31
+2018,Egypt,runner_up,R16,1883.0,1997.57,4
+2018,Egypt,runner_up,QF,1847.5,1929.25,8
+2018,Egypt,runner_up,SF,1835.5,1990.25,16
+2018,Egypt,runner_up,F,1833.45,2028.4,31
+2018,England,winner,R16,1796.75,1814.71,4
+2018,England,winner,QF,1873.75,2063.59,8
+2018,England,winner,SF,1819.25,1937.54,16
+2018,England,winner,F,1823.52,2000.61,31
+2018,England,runner_up,R16,1796.75,1867.15,4
+2018,England,runner_up,QF,1873.75,2004.29,8
+2018,England,runner_up,SF,1819.25,1965.03,16
+2018,England,runner_up,F,1823.52,2028.38,31
+2018,France,winner,R16,1820.5,1842.7,4
+2018,France,winner,QF,1791.0,1913.45,8
+2018,France,winner,SF,1835.5,2040.74,16
+2018,France,winner,F,1822.26,1999.03,31
+2018,France,runner_up,R16,1820.5,1923.18,4
+2018,France,runner_up,QF,1791.0,1950.22,8
+2018,France,runner_up,SF,1835.5,1990.25,16
+2018,France,runner_up,F,1822.26,2024.53,31
+2018,Germany,winner,R16,1889.75,1877.27,4
+2018,Germany,winner,QF,1797.25,1899.05,8
+2018,Germany,winner,SF,1819.25,1965.03,16
+2018,Germany,winner,F,1819.35,2027.19,31
+2018,Germany,runner_up,R16,1889.75,2093.17,4
+2018,Germany,runner_up,QF,1797.25,1902.71,8
+2018,Germany,runner_up,SF,1819.25,1937.54,16
+2018,Germany,runner_up,F,1819.35,1962.51,31
+2018,Iceland,winner,R16,1874.5,1898.75,4
+2018,Iceland,winner,QF,1791.0,1950.22,8
+2018,Iceland,winner,SF,1835.5,1990.25,16
+2018,Iceland,winner,F,1829.42,2030.74,31
+2018,Iceland,runner_up,R16,1874.5,1933.61,4
+2018,Iceland,runner_up,QF,1791.0,1913.45,8
+2018,Iceland,runner_up,SF,1835.5,2040.74,16
+2018,Iceland,runner_up,F,1829.42,2002.16,31
+2018,Iran,winner,R16,1699.0,1714.06,4
+2018,Iran,winner,QF,1847.5,1929.25,8
+2018,Iran,winner,SF,1835.5,1990.25,16
+2018,Iran,winner,F,1828.58,2034.88,31
+2018,Iran,runner_up,R16,1699.0,1809.83,4
+2018,Iran,runner_up,QF,1847.5,1916.31,8
+2018,Iran,runner_up,SF,1835.5,2040.74,16
+2018,Iran,runner_up,F,1828.58,2004.3,31
+2018,Japan,winner,R16,1797.75,1881.51,4
+2018,Japan,winner,QF,1873.75,2004.29,8
+2018,Japan,winner,SF,1819.25,1965.03,16
+2018,Japan,winner,F,1832.0,2028.06,31
+2018,Japan,runner_up,R16,1797.75,1930.14,4
+2018,Japan,runner_up,QF,1873.75,2063.59,8
+2018,Japan,runner_up,SF,1819.25,1937.54,16
+2018,Japan,runner_up,F,1832.0,2000.84,31
+2018,Mexico,winner,R16,1889.75,1877.27,4
+2018,Mexico,winner,QF,1797.25,1899.05,8
+2018,Mexico,winner,SF,1819.25,1965.03,16
+2018,Mexico,winner,F,1826.68,2033.92,31
+2018,Mexico,runner_up,R16,1889.75,2093.17,4
+2018,Mexico,runner_up,QF,1797.25,1902.71,8
+2018,Mexico,runner_up,SF,1819.25,1937.54,16
+2018,Mexico,runner_up,F,1826.68,2009.85,31
+2018,Morocco,winner,R16,1699.0,1714.06,4
+2018,Morocco,winner,QF,1847.5,1929.25,8
+2018,Morocco,winner,SF,1835.5,1990.25,16
+2018,Morocco,winner,F,1830.48,2034.32,31
+2018,Morocco,runner_up,R16,1699.0,1809.83,4
+2018,Morocco,runner_up,QF,1847.5,1916.31,8
+2018,Morocco,runner_up,SF,1835.5,2040.74,16
+2018,Morocco,runner_up,F,1830.48,2004.24,31
+2018,Nigeria,winner,R16,1874.5,1898.75,4
+2018,Nigeria,winner,QF,1791.0,1950.22,8
+2018,Nigeria,winner,SF,1835.5,1990.25,16
+2018,Nigeria,winner,F,1832.1,2030.53,31
+2018,Nigeria,runner_up,R16,1874.5,1933.61,4
+2018,Nigeria,runner_up,QF,1791.0,1913.45,8
+2018,Nigeria,runner_up,SF,1835.5,2040.74,16
+2018,Nigeria,runner_up,F,1832.1,2002.09,31
+2018,Panama,winner,R16,1796.75,1814.71,4
+2018,Panama,winner,QF,1873.75,2063.59,8
+2018,Panama,winner,SF,1819.25,1937.54,16
+2018,Panama,winner,F,1832.87,2000.9,31
+2018,Panama,runner_up,R16,1796.75,1867.15,4
+2018,Panama,runner_up,QF,1873.75,2004.29,8
+2018,Panama,runner_up,SF,1819.25,1965.03,16
+2018,Panama,runner_up,F,1832.87,2028.45,31
+2018,Peru,winner,R16,1820.5,1842.7,4
+2018,Peru,winner,QF,1791.0,1913.45,8
+2018,Peru,winner,SF,1835.5,2040.74,16
+2018,Peru,winner,F,1824.55,2003.02,31
+2018,Peru,runner_up,R16,1820.5,1923.18,4
+2018,Peru,runner_up,QF,1791.0,1950.22,8
+2018,Peru,runner_up,SF,1835.5,1990.25,16
+2018,Peru,runner_up,F,1824.55,2030.6,31
+2018,Poland,winner,R16,1797.75,1881.51,4
+2018,Poland,winner,QF,1873.75,2004.29,8
+2018,Poland,winner,SF,1819.25,1965.03,16
+2018,Poland,winner,F,1827.29,2028.3,31
+2018,Poland,runner_up,R16,1797.75,1930.14,4
+2018,Poland,runner_up,QF,1873.75,2063.59,8
+2018,Poland,runner_up,SF,1819.25,1937.54,16
+2018,Poland,runner_up,F,1827.29,2001.11,31
+2018,Portugal,winner,R16,1699.0,1714.06,4
+2018,Portugal,winner,QF,1847.5,1929.25,8
+2018,Portugal,winner,SF,1835.5,1990.25,16
+2018,Portugal,winner,F,1822.84,2036.69,31
+2018,Portugal,runner_up,R16,1699.0,1809.83,4
+2018,Portugal,runner_up,QF,1847.5,1916.31,8
+2018,Portugal,runner_up,SF,1835.5,2040.74,16
+2018,Portugal,runner_up,F,1822.84,2009.1,31
+2018,Russia,winner,R16,1883.0,1935.64,4
+2018,Russia,winner,QF,1847.5,1916.31,8
+2018,Russia,winner,SF,1835.5,2040.74,16
+2018,Russia,winner,F,1832.26,1999.96,31
+2018,Russia,runner_up,R16,1883.0,1997.57,4
+2018,Russia,runner_up,QF,1847.5,1929.25,8
+2018,Russia,runner_up,SF,1835.5,1990.25,16
+2018,Russia,runner_up,F,1832.26,2028.75,31
+2018,Saudi Arabia,winner,R16,1883.0,1935.64,4
+2018,Saudi Arabia,winner,QF,1847.5,1916.31,8
+2018,Saudi Arabia,winner,SF,1835.5,2040.74,16
+2018,Saudi Arabia,winner,F,1835.1,1999.37,31
+2018,Saudi Arabia,runner_up,R16,1883.0,1997.57,4
+2018,Saudi Arabia,runner_up,QF,1847.5,1929.25,8
+2018,Saudi Arabia,runner_up,SF,1835.5,1990.25,16
+2018,Saudi Arabia,runner_up,F,1835.1,2028.46,31
+2018,Senegal,winner,R16,1797.75,1881.51,4
+2018,Senegal,winner,QF,1873.75,2004.29,8
+2018,Senegal,winner,SF,1819.25,1965.03,16
+2018,Senegal,winner,F,1830.0,2028.01,31
+2018,Senegal,runner_up,R16,1797.75,1930.14,4
+2018,Senegal,runner_up,QF,1873.75,2063.59,8
+2018,Senegal,runner_up,SF,1819.25,1937.54,16
+2018,Senegal,runner_up,F,1830.0,2000.82,31
+2018,Serbia,winner,R16,1857.75,1852.81,4
+2018,Serbia,winner,QF,1797.25,1902.71,8
+2018,Serbia,winner,SF,1819.25,1937.54,16
+2018,Serbia,winner,F,1828.65,2039.67,31
+2018,Serbia,runner_up,R16,1857.75,2019.1,4
+2018,Serbia,runner_up,QF,1797.25,1899.05,8
+2018,Serbia,runner_up,SF,1819.25,1965.03,16
+2018,Serbia,runner_up,F,1828.65,2041.84,31
+2018,South Korea,winner,R16,1889.75,1877.27,4
+2018,South Korea,winner,QF,1797.25,1899.05,8
+2018,South Korea,winner,SF,1819.25,1965.03,16
+2018,South Korea,winner,F,1831.06,2032.57,31
+2018,South Korea,runner_up,R16,1889.75,2093.17,4
+2018,South Korea,runner_up,QF,1797.25,1902.71,8
+2018,South Korea,runner_up,SF,1819.25,1937.54,16
+2018,South Korea,runner_up,F,1831.06,2008.24,31
+2018,Spain,winner,R16,1699.0,1714.06,4
+2018,Spain,winner,QF,1847.5,1929.25,8
+2018,Spain,winner,SF,1835.5,1990.25,16
+2018,Spain,winner,F,1820.42,2023.08,31
+2018,Spain,runner_up,R16,1699.0,1809.83,4
+2018,Spain,runner_up,QF,1847.5,1916.31,8
+2018,Spain,runner_up,SF,1835.5,2040.74,16
+2018,Spain,runner_up,F,1820.42,1986.64,31
+2018,Sweden,winner,R16,1889.75,1877.27,4
+2018,Sweden,winner,QF,1797.25,1899.05,8
+2018,Sweden,winner,SF,1819.25,1965.03,16
+2018,Sweden,winner,F,1828.48,2032.82,31
+2018,Sweden,runner_up,R16,1889.75,2093.17,4
+2018,Sweden,runner_up,QF,1797.25,1902.71,8
+2018,Sweden,runner_up,SF,1819.25,1937.54,16
+2018,Sweden,runner_up,F,1828.48,2008.45,31
+2018,Switzerland,winner,R16,1857.75,1852.81,4
+2018,Switzerland,winner,QF,1797.25,1902.71,8
+2018,Switzerland,winner,SF,1819.25,1937.54,16
+2018,Switzerland,winner,F,1825.42,2043.25,31
+2018,Switzerland,runner_up,R16,1857.75,2019.1,4
+2018,Switzerland,runner_up,QF,1797.25,1899.05,8
+2018,Switzerland,runner_up,SF,1819.25,1965.03,16
+2018,Switzerland,runner_up,F,1825.42,2044.35,31
+2018,Tunisia,winner,R16,1796.75,1814.71,4
+2018,Tunisia,winner,QF,1873.75,2063.59,8
+2018,Tunisia,winner,SF,1819.25,1937.54,16
+2018,Tunisia,winner,F,1833.03,2000.9,31
+2018,Tunisia,runner_up,R16,1796.75,1867.15,4
+2018,Tunisia,runner_up,QF,1873.75,2004.29,8
+2018,Tunisia,runner_up,SF,1819.25,1965.03,16
+2018,Tunisia,runner_up,F,1833.03,2028.46,31
+2018,Uruguay,winner,R16,1883.0,1935.64,4
+2018,Uruguay,winner,QF,1847.5,1916.31,8
+2018,Uruguay,winner,SF,1835.5,2040.74,16
+2018,Uruguay,winner,F,1825.26,2001.59,31
+2018,Uruguay,runner_up,R16,1883.0,1997.57,4
+2018,Uruguay,runner_up,QF,1847.5,1929.25,8
+2018,Uruguay,runner_up,SF,1835.5,1990.25,16
+2018,Uruguay,runner_up,F,1825.26,2028.51,31
+2022,Argentina,winner,R16,1850.0,1924.93,4
+2022,Argentina,winner,QF,1817.25,1947.3,8
+2022,Argentina,winner,SF,1867.38,2071.93,16
+2022,Argentina,winner,F,1841.06,1980.12,31
+2022,Argentina,runner_up,R16,1850.0,1976.49,4
+2022,Argentina,runner_up,QF,1817.25,1856.54,8
+2022,Argentina,runner_up,SF,1867.38,1987.02,16
+2022,Argentina,runner_up,F,1841.06,2054.42,31
+2022,Australia,winner,R16,1850.0,1829.46,4
+2022,Australia,winner,QF,1817.25,1856.54,8
+2022,Australia,winner,SF,1867.38,1987.02,16
+2022,Australia,winner,F,1854.71,2091.09,31
+2022,Australia,runner_up,R16,1850.0,2104.47,4
+2022,Australia,runner_up,QF,1817.25,1947.3,8
+2022,Australia,runner_up,SF,1867.38,2071.93,16
+2022,Australia,runner_up,F,1854.71,1989.04,31
+2022,Belgium,winner,R16,1885.5,1932.3,4
+2022,Belgium,winner,QF,1858.12,1970.69,8
+2022,Belgium,winner,SF,1833.62,1939.47,16
+2022,Belgium,winner,F,1845.48,2092.72,31
+2022,Belgium,runner_up,R16,1885.5,2000.26,4
+2022,Belgium,runner_up,QF,1858.12,2085.04,8
+2022,Belgium,runner_up,SF,1833.62,2060.24,16
+2022,Belgium,runner_up,F,1845.48,1981.59,31
+2022,Brazil,winner,R16,1822.5,1915.6,4
+2022,Brazil,winner,QF,1876.62,1980.46,8
+2022,Brazil,winner,SF,1833.62,2060.24,16
+2022,Brazil,winner,F,1840.23,1973.16,31
+2022,Brazil,runner_up,R16,1822.5,1962.1,4
+2022,Brazil,runner_up,QF,1876.62,1965.78,8
+2022,Brazil,runner_up,SF,1833.62,1939.47,16
+2022,Brazil,runner_up,F,1840.23,2044.82,31
+2022,Cameroon,winner,R16,1822.5,1915.6,4
+2022,Cameroon,winner,QF,1876.62,1980.46,8
+2022,Cameroon,winner,SF,1833.62,2060.24,16
+2022,Cameroon,winner,F,1858.35,2033.65,31
+2022,Cameroon,runner_up,R16,1822.5,1962.1,4
+2022,Cameroon,runner_up,QF,1876.62,1965.78,8
+2022,Cameroon,runner_up,SF,1833.62,1939.47,16
+2022,Cameroon,runner_up,F,1858.35,2101.5,31
+2022,Canada,winner,R16,1885.5,1932.3,4
+2022,Canada,winner,QF,1858.12,1970.69,8
+2022,Canada,winner,SF,1833.62,1939.47,16
+2022,Canada,winner,F,1852.94,2092.35,31
+2022,Canada,runner_up,R16,1885.5,2000.26,4
+2022,Canada,runner_up,QF,1858.12,2085.04,8
+2022,Canada,runner_up,SF,1833.62,2060.24,16
+2022,Canada,runner_up,F,1852.94,1989.32,31
+2022,Costa Rica,winner,R16,1867.75,1896.07,4
+2022,Costa Rica,winner,QF,1858.12,2085.04,8
+2022,Costa Rica,winner,SF,1833.62,2060.24,16
+2022,Costa Rica,winner,F,1853.97,1994.28,31
+2022,Costa Rica,runner_up,R16,1867.75,1952.52,4
+2022,Costa Rica,runner_up,QF,1858.12,1970.69,8
+2022,Costa Rica,runner_up,SF,1833.62,1939.47,16
+2022,Costa Rica,runner_up,F,1853.97,2093.16,31
+2022,Croatia,winner,R16,1885.5,1932.3,4
+2022,Croatia,winner,QF,1858.12,1970.69,8
+2022,Croatia,winner,SF,1833.62,1939.47,16
+2022,Croatia,winner,F,1848.06,2092.87,31
+2022,Croatia,runner_up,R16,1885.5,2000.26,4
+2022,Croatia,runner_up,QF,1858.12,2085.04,8
+2022,Croatia,runner_up,SF,1833.62,2060.24,16
+2022,Croatia,runner_up,F,1848.06,1991.56,31
+2022,Denmark,winner,R16,1850.0,1829.46,4
+2022,Denmark,winner,QF,1817.25,1856.54,8
+2022,Denmark,winner,SF,1867.38,1987.02,16
+2022,Denmark,winner,F,1846.61,2092.57,31
+2022,Denmark,runner_up,R16,1850.0,2104.47,4
+2022,Denmark,runner_up,QF,1817.25,1947.3,8
+2022,Denmark,runner_up,SF,1867.38,2071.93,16
+2022,Denmark,runner_up,F,1846.61,1991.77,31
+2022,Ecuador,winner,R16,1825.5,1827.33,4
+2022,Ecuador,winner,QF,1850.0,2078.09,8
+2022,Ecuador,winner,SF,1867.38,2071.93,16
+2022,Ecuador,winner,F,1851.1,2003.54,31
+2022,Ecuador,runner_up,R16,1825.5,1855.99,4
+2022,Ecuador,runner_up,QF,1850.0,1952.1,8
+2022,Ecuador,runner_up,SF,1867.38,1987.02,16
+2022,Ecuador,runner_up,F,1851.1,2093.1,31
+2022,England,winner,R16,1809.0,1808.85,4
+2022,England,winner,QF,1850.0,1952.1,8
+2022,England,winner,SF,1867.38,1987.02,16
+2022,England,winner,F,1848.29,2093.27,31
+2022,England,runner_up,R16,1809.0,1972.12,4
+2022,England,runner_up,QF,1850.0,2078.09,8
+2022,England,runner_up,SF,1867.38,2071.93,16
+2022,England,runner_up,F,1848.29,1987.07,31
+2022,France,winner,R16,1850.0,1829.46,4
+2022,France,winner,QF,1817.25,1856.54,8
+2022,France,winner,SF,1867.38,1987.02,16
+2022,France,winner,F,1845.55,2092.98,31
+2022,France,runner_up,R16,1850.0,2104.47,4
+2022,France,runner_up,QF,1817.25,1947.3,8
+2022,France,runner_up,SF,1867.38,2071.93,16
+2022,France,runner_up,F,1845.55,1982.79,31
+2022,Germany,winner,R16,1867.75,1896.07,4
+2022,Germany,winner,QF,1858.12,2085.04,8
+2022,Germany,winner,SF,1833.62,2060.24,16
+2022,Germany,winner,F,1846.9,1997.74,31
+2022,Germany,runner_up,R16,1867.75,1952.52,4
+2022,Germany,runner_up,QF,1858.12,1970.69,8
+2022,Germany,runner_up,SF,1833.62,1939.47,16
+2022,Germany,runner_up,F,1846.9,2094.24,31
+2022,Ghana,winner,R16,1893.75,1937.33,4
+2022,Ghana,winner,QF,1876.62,1965.78,8
+2022,Ghana,winner,SF,1833.62,1939.47,16
+2022,Ghana,winner,F,1859.74,2091.75,31
+2022,Ghana,runner_up,R16,1893.75,2117.03,4
+2022,Ghana,runner_up,QF,1876.62,1980.46,8
+2022,Ghana,runner_up,SF,1833.62,2060.24,16
+2022,Ghana,runner_up,F,1859.74,1989.22,31
+2022,Iran,winner,R16,1809.0,1808.85,4
+2022,Iran,winner,QF,1850.0,1952.1,8
+2022,Iran,winner,SF,1867.38,1987.02,16
+2022,Iran,winner,F,1852.19,2092.18,31
+2022,Iran,runner_up,R16,1809.0,1972.12,4
+2022,Iran,runner_up,QF,1850.0,2078.09,8
+2022,Iran,runner_up,SF,1867.38,2071.93,16
+2022,Iran,runner_up,F,1852.19,1988.28,31
+2022,Japan,winner,R16,1867.75,1896.07,4
+2022,Japan,winner,QF,1858.12,2085.04,8
+2022,Japan,winner,SF,1833.62,2060.24,16
+2022,Japan,winner,F,1852.52,1994.65,31
+2022,Japan,runner_up,R16,1867.75,1952.52,4
+2022,Japan,runner_up,QF,1858.12,1970.69,8
+2022,Japan,runner_up,SF,1833.62,1939.47,16
+2022,Japan,runner_up,F,1852.52,2093.12,31
+2022,Mexico,winner,R16,1850.0,1924.93,4
+2022,Mexico,winner,QF,1817.25,1947.3,8
+2022,Mexico,winner,SF,1867.38,2071.93,16
+2022,Mexico,winner,F,1851.87,2049.26,31
+2022,Mexico,runner_up,R16,1850.0,1976.49,4
+2022,Mexico,runner_up,QF,1817.25,1856.54,8
+2022,Mexico,runner_up,SF,1867.38,1987.02,16
+2022,Mexico,runner_up,F,1851.87,2097.22,31
+2022,Morocco,winner,R16,1885.5,1932.3,4
+2022,Morocco,winner,QF,1858.12,1970.69,8
+2022,Morocco,winner,SF,1833.62,1939.47,16
+2022,Morocco,winner,F,1853.29,2092.36,31
+2022,Morocco,runner_up,R16,1885.5,2000.26,4
+2022,Morocco,runner_up,QF,1858.12,2085.04,8
+2022,Morocco,runner_up,SF,1833.62,2060.24,16
+2022,Morocco,runner_up,F,1853.29,1989.28,31
+2022,Netherlands,winner,R16,1825.5,1827.33,4
+2022,Netherlands,winner,QF,1850.0,2078.09,8
+2022,Netherlands,winner,SF,1867.38,2071.93,16
+2022,Netherlands,winner,F,1844.39,1982.86,31
+2022,Netherlands,runner_up,R16,1825.5,1855.99,4
+2022,Netherlands,runner_up,QF,1850.0,1952.1,8
+2022,Netherlands,runner_up,SF,1867.38,1987.02,16
+2022,Netherlands,runner_up,F,1844.39,2091.3,31
+2022,Poland,winner,R16,1850.0,1924.93,4
+2022,Poland,winner,QF,1817.25,1947.3,8
+2022,Poland,winner,SF,1867.38,2071.93,16
+2022,Poland,winner,F,1851.71,2049.33,31
+2022,Poland,runner_up,R16,1850.0,1976.49,4
+2022,Poland,runner_up,QF,1817.25,1856.54,8
+2022,Poland,runner_up,SF,1867.38,1987.02,16
+2022,Poland,runner_up,F,1851.71,2097.25,31
+2022,Portugal,winner,R16,1893.75,1937.33,4
+2022,Portugal,winner,QF,1876.62,1965.78,8
+2022,Portugal,winner,SF,1833.62,1939.47,16
+2022,Portugal,winner,F,1845.52,2093.54,31
+2022,Portugal,runner_up,R16,1893.75,2117.03,4
+2022,Portugal,runner_up,QF,1876.62,1980.46,8
+2022,Portugal,runner_up,SF,1833.62,2060.24,16
+2022,Portugal,runner_up,F,1845.52,1981.86,31
+2022,Qatar,winner,R16,1825.5,1827.33,4
+2022,Qatar,winner,QF,1850.0,2078.09,8
+2022,Qatar,winner,SF,1867.38,2071.93,16
+2022,Qatar,winner,F,1856.0,2002.6,31
+2022,Qatar,runner_up,R16,1825.5,1855.99,4
+2022,Qatar,runner_up,QF,1850.0,1952.1,8
+2022,Qatar,runner_up,SF,1867.38,1987.02,16
+2022,Qatar,runner_up,F,1856.0,2093.03,31
+2022,Saudi Arabia,winner,R16,1850.0,1924.93,4
+2022,Saudi Arabia,winner,QF,1817.25,1947.3,8
+2022,Saudi Arabia,winner,SF,1867.38,2071.93,16
+2022,Saudi Arabia,winner,F,1857.42,2043.0,31
+2022,Saudi Arabia,runner_up,R16,1850.0,1976.49,4
+2022,Saudi Arabia,runner_up,QF,1817.25,1856.54,8
+2022,Saudi Arabia,runner_up,SF,1867.38,1987.02,16
+2022,Saudi Arabia,runner_up,F,1857.42,2096.99,31
+2022,Senegal,winner,R16,1825.5,1827.33,4
+2022,Senegal,winner,QF,1850.0,2078.09,8
+2022,Senegal,winner,SF,1867.38,2071.93,16
+2022,Senegal,winner,F,1855.87,2001.59,31
+2022,Senegal,runner_up,R16,1825.5,1855.99,4
+2022,Senegal,runner_up,QF,1850.0,1952.1,8
+2022,Senegal,runner_up,SF,1867.38,1987.02,16
+2022,Senegal,runner_up,F,1855.87,2093.0,31
+2022,Serbia,winner,R16,1822.5,1915.6,4
+2022,Serbia,winner,QF,1876.62,1980.46,8
+2022,Serbia,winner,SF,1833.62,2060.24,16
+2022,Serbia,winner,F,1848.97,2050.0,31
+2022,Serbia,runner_up,R16,1822.5,1962.1,4
+2022,Serbia,runner_up,QF,1876.62,1965.78,8
+2022,Serbia,runner_up,SF,1833.62,1939.47,16
+2022,Serbia,runner_up,F,1848.97,2101.88,31
+2022,South Korea,winner,R16,1893.75,1937.33,4
+2022,South Korea,winner,QF,1876.62,1965.78,8
+2022,South Korea,winner,SF,1833.62,1939.47,16
+2022,South Korea,winner,F,1852.58,2090.68,31
+2022,South Korea,runner_up,R16,1893.75,2117.03,4
+2022,South Korea,runner_up,QF,1876.62,1980.46,8
+2022,South Korea,runner_up,SF,1833.62,2060.24,16
+2022,South Korea,runner_up,F,1852.58,1989.31,31
+2022,Spain,winner,R16,1867.75,1896.07,4
+2022,Spain,winner,QF,1858.12,2085.04,8
+2022,Spain,winner,SF,1833.62,2060.24,16
+2022,Spain,winner,F,1844.1,1981.91,31
+2022,Spain,runner_up,R16,1867.75,1952.52,4
+2022,Spain,runner_up,QF,1858.12,1970.69,8
+2022,Spain,runner_up,SF,1833.62,1939.47,16
+2022,Spain,runner_up,F,1844.1,2090.1,31
+2022,Switzerland,winner,R16,1822.5,1915.6,4
+2022,Switzerland,winner,QF,1876.62,1980.46,8
+2022,Switzerland,winner,SF,1833.62,2060.24,16
+2022,Switzerland,winner,F,1848.87,2050.25,31
+2022,Switzerland,runner_up,R16,1822.5,1962.1,4
+2022,Switzerland,runner_up,QF,1876.62,1965.78,8
+2022,Switzerland,runner_up,SF,1833.62,1939.47,16
+2022,Switzerland,runner_up,F,1848.87,2101.95,31
+2022,Tunisia,winner,R16,1850.0,1829.46,4
+2022,Tunisia,winner,QF,1817.25,1856.54,8
+2022,Tunisia,winner,SF,1867.38,1987.02,16
+2022,Tunisia,winner,F,1855.19,2091.17,31
+2022,Tunisia,runner_up,R16,1850.0,2104.47,4
+2022,Tunisia,runner_up,QF,1817.25,1947.3,8
+2022,Tunisia,runner_up,SF,1867.38,2071.93,16
+2022,Tunisia,runner_up,F,1855.19,1989.02,31
+2022,United States,winner,R16,1809.0,1808.85,4
+2022,United States,winner,QF,1850.0,1952.1,8
+2022,United States,winner,SF,1867.38,1987.02,16
+2022,United States,winner,F,1852.26,2092.18,31
+2022,United States,runner_up,R16,1809.0,1972.12,4
+2022,United States,runner_up,QF,1850.0,2078.09,8
+2022,United States,runner_up,SF,1867.38,2071.93,16
+2022,United States,runner_up,F,1852.26,1988.27,31
+2022,Uruguay,winner,R16,1893.75,1937.33,4
+2022,Uruguay,winner,QF,1876.62,1965.78,8
+2022,Uruguay,winner,SF,1833.62,1939.47,16
+2022,Uruguay,winner,F,1847.77,2091.85,31
+2022,Uruguay,runner_up,R16,1893.75,2117.03,4
+2022,Uruguay,runner_up,QF,1876.62,1980.46,8
+2022,Uruguay,runner_up,SF,1833.62,2060.24,16
+2022,Uruguay,runner_up,F,1847.77,1991.61,31
+2022,Wales,winner,R16,1809.0,1808.85,4
+2022,Wales,winner,QF,1850.0,1952.1,8
+2022,Wales,winner,SF,1867.38,1987.02,16
+2022,Wales,winner,F,1852.48,2092.17,31
+2022,Wales,runner_up,R16,1809.0,1972.12,4
+2022,Wales,runner_up,QF,1850.0,2078.09,8
+2022,Wales,runner_up,SF,1867.38,2071.93,16
+2022,Wales,runner_up,F,1852.48,1988.24,31
+2026,Algeria,winner,R32,1800.75,1884.97,4
+2026,Algeria,winner,R16,1771.5,1810.53,8
+2026,Algeria,winner,QF,1788.87,1927.71,15
+2026,Algeria,winner,SF,1792.46,1951.23,28
+2026,Algeria,winner,F,1784.77,2033.18,47
+2026,Algeria,runner_up,R32,1800.75,2120.0,4
+2026,Algeria,runner_up,R16,1814.12,1947.65,8
+2026,Algeria,runner_up,QF,1769.44,1865.35,16
+2026,Algeria,runner_up,SF,1772.11,1943.38,28
+2026,Algeria,runner_up,F,1784.77,2011.88,47
+2026,Argentina,winner,R32,1800.75,1884.97,4
+2026,Argentina,winner,R16,1771.5,1810.53,8
+2026,Argentina,winner,QF,1766.0,1910.97,15
+2026,Argentina,winner,SF,1792.46,1951.23,28
+2026,Argentina,winner,F,1777.47,2028.5,47
+2026,Argentina,runner_up,R32,1800.75,2120.0,4
+2026,Argentina,runner_up,R16,1814.12,1947.65,8
+2026,Argentina,runner_up,QF,1769.44,1865.35,16
+2026,Argentina,runner_up,SF,1772.11,1943.38,28
+2026,Argentina,runner_up,F,1777.47,1955.23,47
+2026,Australia,winner,R32,1673.75,1593.59,4
+2026,Australia,winner,R16,1796.0,1872.55,8
+2026,Australia,winner,QF,1819.56,2070.81,16
+2026,Australia,winner,SF,1771.93,1943.16,27
+2026,Australia,winner,F,1784.66,2004.29,47
+2026,Australia,runner_up,R32,1731.0,1765.29,4
+2026,Australia,runner_up,R16,1825.0,2051.37,8
+2026,Australia,runner_up,QF,1787.81,1912.92,16
+2026,Australia,runner_up,SF,1792.46,1951.23,28
+2026,Australia,runner_up,F,1784.66,2028.72,47
+2026,Austria,winner,R32,1800.75,1884.97,4
+2026,Austria,winner,R16,1771.5,1810.53,8
+2026,Austria,winner,QF,1785.0,1922.66,15
+2026,Austria,winner,SF,1792.46,1951.23,28
+2026,Austria,winner,F,1783.53,2033.67,47
+2026,Austria,runner_up,R32,1800.75,2120.0,4
+2026,Austria,runner_up,R16,1814.12,1947.65,8
+2026,Austria,runner_up,QF,1769.44,1865.35,16
+2026,Austria,runner_up,SF,1772.11,1943.38,28
+2026,Austria,runner_up,F,1783.53,2012.33,47
+2026,Belgium,winner,R32,1861.0,1857.82,4
+2026,Belgium,winner,R16,1742.88,1805.19,8
+2026,Belgium,winner,QF,1819.56,2070.81,16
+2026,Belgium,winner,SF,1772.11,1943.38,28
+2026,Belgium,winner,F,1782.17,2005.82,47
+2026,Belgium,runner_up,R32,1812.0,1815.71,4
+2026,Belgium,runner_up,R16,1825.0,2051.37,8
+2026,Belgium,runner_up,QF,1787.81,1912.92,16
+2026,Belgium,runner_up,SF,1792.46,1951.23,28
+2026,Belgium,runner_up,F,1782.17,2030.07,47
+2026,Bosnia and Herzegovina,winner,R32,1849.25,1768.15,4
+2026,Bosnia and Herzegovina,winner,R16,1814.12,1941.81,8
+2026,Bosnia and Herzegovina,winner,QF,1798.25,2014.18,16
+2026,Bosnia and Herzegovina,winner,SF,1792.46,1951.23,28
+2026,Bosnia and Herzegovina,winner,F,1788.53,2027.09,47
+2026,Bosnia and Herzegovina,runner_up,R32,1722.75,1763.07,4
+2026,Bosnia and Herzegovina,runner_up,R16,1792.75,1901.55,8
+2026,Bosnia and Herzegovina,runner_up,QF,1805.31,1959.94,16
+2026,Bosnia and Herzegovina,runner_up,SF,1800.94,2033.89,31
+2026,Bosnia and Herzegovina,runner_up,F,1788.53,2005.01,47
+2026,Brazil,winner,R32,1798.5,1864.57,4
+2026,Brazil,winner,R16,1805.38,1931.51,8
+2026,Brazil,winner,QF,1775.19,1923.85,16
+2026,Brazil,winner,SF,1785.0,2006.74,28
+2026,Brazil,winner,F,1780.11,2028.01,47
+2026,Brazil,runner_up,R32,1798.5,1913.83,4
+2026,Brazil,runner_up,R16,1698.25,1807.89,8
+2026,Brazil,runner_up,QF,1805.31,1959.94,16
+2026,Brazil,runner_up,SF,1794.5,2036.53,32
+2026,Brazil,runner_up,F,1780.11,2001.63,47
+2026,Canada,winner,R32,1849.25,1768.15,4
+2026,Canada,winner,R16,1814.12,1941.81,8
+2026,Canada,winner,QF,1798.25,2014.18,16
+2026,Canada,winner,SF,1792.46,1951.23,28
+2026,Canada,winner,F,1784.43,2031.14,47
+2026,Canada,runner_up,R32,1722.75,1763.07,4
+2026,Canada,runner_up,R16,1792.75,1901.55,8
+2026,Canada,runner_up,QF,1805.31,1959.94,16
+2026,Canada,runner_up,SF,1794.71,2037.03,31
+2026,Canada,runner_up,F,1784.43,2006.85,47
+2026,Cape Verde,winner,R32,1849.25,1827.27,4
+2026,Cape Verde,winner,R16,1814.12,1947.65,8
+2026,Cape Verde,winner,QF,1769.44,1865.35,16
+2026,Cape Verde,winner,SF,1772.11,1943.38,28
+2026,Cape Verde,winner,F,1788.89,2030.64,47
+2026,Cape Verde,runner_up,R32,1849.25,2070.7,4
+2026,Cape Verde,runner_up,R16,1771.5,1810.53,8
+2026,Cape Verde,runner_up,QF,1787.81,1912.92,16
+2026,Cape Verde,runner_up,SF,1792.46,1951.23,28
+2026,Cape Verde,runner_up,F,1788.89,2038.72,47
+2026,Colombia,winner,R32,1794.0,1742.7,4
+2026,Colombia,winner,R16,1761.5,1820.63,8
+2026,Colombia,winner,QF,1798.25,2014.18,16
+2026,Colombia,winner,SF,1785.44,1951.2,27
+2026,Colombia,winner,F,1780.3,2029.31,47
+2026,Colombia,runner_up,R32,1794.0,1901.91,4
+2026,Colombia,runner_up,R16,1825.0,2087.93,8
+2026,Colombia,runner_up,QF,1769.44,1865.35,16
+2026,Colombia,runner_up,SF,1772.11,1943.38,28
+2026,Colombia,runner_up,F,1780.3,2005.27,47
+2026,Croatia,winner,R32,1834.25,1746.29,4
+2026,Croatia,winner,R16,1736.25,1833.4,8
+2026,Croatia,winner,QF,1799.06,1946.41,16
+2026,Croatia,winner,SF,1780.3,2008.21,27
+2026,Croatia,winner,F,1781.79,2030.38,47
+2026,Croatia,runner_up,R32,1834.25,1930.08,4
+2026,Croatia,runner_up,R16,1825.0,2087.93,8
+2026,Croatia,runner_up,QF,1769.44,1865.35,16
+2026,Croatia,runner_up,SF,1772.11,1943.38,28
+2026,Croatia,runner_up,F,1781.79,2009.58,47
+2026,Curaçao,winner,R32,1812.0,1802.6,4
+2026,Curaçao,winner,R16,1829.75,1968.98,8
+2026,Curaçao,winner,QF,1745.5,1875.73,16
+2026,Curaçao,winner,SF,1794.5,2036.53,32
+2026,Curaçao,winner,F,1791.96,2006.0,47
+2026,Curaçao,runner_up,R32,1861.0,1926.86,4
+2026,Curaçao,runner_up,R16,1792.75,1926.96,8
+2026,Curaçao,runner_up,QF,1797.93,1935.04,15
+2026,Curaçao,runner_up,SF,1785.0,2006.74,28
+2026,Curaçao,runner_up,F,1791.96,2029.2,47
+2026,Czech Republic,winner,R32,1749.75,1714.12,4
+2026,Czech Republic,winner,R16,1814.12,1945.3,8
+2026,Czech Republic,winner,QF,1799.06,1946.41,16
+2026,Czech Republic,winner,SF,1785.0,2006.74,28
+2026,Czech Republic,winner,F,1785.45,2026.49,47
+2026,Czech Republic,runner_up,R32,1673.75,1802.37,4
+2026,Czech Republic,runner_up,R16,1792.75,1901.55,8
+2026,Czech Republic,runner_up,QF,1805.31,1959.94,16
+2026,Czech Republic,runner_up,SF,1794.5,2036.53,32
+2026,Czech Republic,runner_up,F,1785.45,2003.57,47
+2026,DR Congo,winner,R32,1794.0,1742.7,4
+2026,DR Congo,winner,R16,1761.5,1820.63,8
+2026,DR Congo,winner,QF,1798.25,2014.18,16
+2026,DR Congo,winner,SF,1797.67,1955.27,27
+2026,DR Congo,winner,F,1787.32,2028.7,47
+2026,DR Congo,runner_up,R32,1794.0,1901.91,4
+2026,DR Congo,runner_up,R16,1825.0,2087.93,8
+2026,DR Congo,runner_up,QF,1769.44,1865.35,16
+2026,DR Congo,runner_up,SF,1772.11,1943.38,28
+2026,DR Congo,runner_up,F,1787.32,2005.94,47
+2026,Ecuador,winner,R32,1812.0,1802.6,4
+2026,Ecuador,winner,R16,1829.75,1968.98,8
+2026,Ecuador,winner,QF,1745.5,1875.73,16
+2026,Ecuador,winner,SF,1794.5,2036.53,32
+2026,Ecuador,winner,F,1781.23,2004.93,47
+2026,Ecuador,runner_up,R32,1861.0,1926.86,4
+2026,Ecuador,runner_up,R16,1792.75,1926.96,8
+2026,Ecuador,runner_up,QF,1764.33,1920.21,15
+2026,Ecuador,runner_up,SF,1785.0,2006.74,28
+2026,Ecuador,runner_up,F,1781.23,2029.11,47
+2026,Egypt,winner,R32,1861.0,1857.82,4
+2026,Egypt,winner,R16,1742.88,1805.19,8
+2026,Egypt,winner,QF,1819.56,2070.81,16
+2026,Egypt,winner,SF,1772.11,1943.38,28
+2026,Egypt,winner,F,1786.38,2003.89,47
+2026,Egypt,runner_up,R32,1812.0,1815.71,4
+2026,Egypt,runner_up,R16,1825.0,2051.37,8
+2026,Egypt,runner_up,QF,1787.81,1912.92,16
+2026,Egypt,runner_up,SF,1792.46,1951.23,28
+2026,Egypt,runner_up,F,1786.38,2028.95,47
+2026,England,winner,R32,1834.25,1746.29,4
+2026,England,winner,R16,1736.25,1833.4,8
+2026,England,winner,QF,1799.06,1946.41,16
+2026,England,winner,SF,1776.15,2005.86,27
+2026,England,winner,F,1779.4,2028.66,47
+2026,England,runner_up,R32,1834.25,1930.08,4
+2026,England,runner_up,R16,1825.0,2087.93,8
+2026,England,runner_up,QF,1769.44,1865.35,16
+2026,England,runner_up,SF,1772.11,1943.38,28
+2026,England,runner_up,F,1779.4,1995.59,47
+2026,France,winner,R32,1798.5,1742.95,4
+2026,France,winner,R16,1780.88,1885.21,8
+2026,France,winner,QF,1745.5,1875.73,16
+2026,France,winner,SF,1785.84,2033.95,31
+2026,France,winner,F,1778.57,2000.45,47
+2026,France,runner_up,R32,1749.75,1889.11,4
+2026,France,runner_up,R16,1792.75,1926.96,8
+2026,France,runner_up,QF,1775.19,1923.85,16
+2026,France,runner_up,SF,1785.0,2006.74,28
+2026,France,runner_up,F,1778.57,2010.48,47
+2026,Germany,winner,R32,1812.0,1802.6,4
+2026,Germany,winner,R16,1829.75,1968.98,8
+2026,Germany,winner,QF,1745.5,1875.73,16
+2026,Germany,winner,SF,1794.5,2036.53,32
+2026,Germany,winner,F,1781.36,2005.11,47
+2026,Germany,runner_up,R32,1861.0,1926.86,4
+2026,Germany,runner_up,R16,1792.75,1926.96,8
+2026,Germany,runner_up,QF,1764.73,1920.23,15
+2026,Germany,runner_up,SF,1785.0,2006.74,28
+2026,Germany,runner_up,F,1781.36,2029.3,47
+2026,Ghana,winner,R32,1834.25,1746.29,4
+2026,Ghana,winner,R16,1736.25,1833.4,8
+2026,Ghana,winner,QF,1799.06,1946.41,16
+2026,Ghana,winner,SF,1795.19,2010.18,27
+2026,Ghana,winner,F,1790.34,2029.46,47
+2026,Ghana,runner_up,R32,1834.25,1930.08,4
+2026,Ghana,runner_up,R16,1825.0,2087.93,8
+2026,Ghana,runner_up,QF,1769.44,1865.35,16
+2026,Ghana,runner_up,SF,1772.11,1943.38,28
+2026,Ghana,runner_up,F,1790.34,2007.02,47
+2026,Haiti,winner,R32,1798.5,1864.57,4
+2026,Haiti,winner,R16,1805.38,1931.51,8
+2026,Haiti,winner,QF,1775.19,1923.85,16
+2026,Haiti,winner,SF,1785.0,2006.74,28
+2026,Haiti,winner,F,1789.53,2030.99,47
+2026,Haiti,runner_up,R32,1798.5,1913.83,4
+2026,Haiti,runner_up,R16,1698.25,1807.89,8
+2026,Haiti,runner_up,QF,1805.31,1959.94,16
+2026,Haiti,runner_up,SF,1794.5,2036.53,32
+2026,Haiti,runner_up,F,1789.53,2005.97,47
+2026,Iran,winner,R32,1861.0,1857.82,4
+2026,Iran,winner,R16,1742.88,1805.19,8
+2026,Iran,winner,QF,1819.56,2070.81,16
+2026,Iran,winner,SF,1772.11,1943.38,28
+2026,Iran,winner,F,1784.77,2003.8,47
+2026,Iran,runner_up,R32,1812.0,1815.71,4
+2026,Iran,runner_up,R16,1825.0,2051.37,8
+2026,Iran,runner_up,QF,1787.81,1912.92,16
+2026,Iran,runner_up,SF,1792.46,1951.23,28
+2026,Iran,runner_up,F,1784.77,2028.85,47
+2026,Iraq,winner,R32,1798.5,1742.95,4
+2026,Iraq,winner,R16,1780.88,1885.21,8
+2026,Iraq,winner,QF,1745.5,1875.73,16
+2026,Iraq,winner,SF,1800.55,2043.25,31
+2026,Iraq,winner,F,1788.28,2010.82,47
+2026,Iraq,runner_up,R32,1749.75,1889.11,4
+2026,Iraq,runner_up,R16,1792.75,1926.96,8
+2026,Iraq,runner_up,QF,1775.19,1923.85,16
+2026,Iraq,runner_up,SF,1785.0,2006.74,28
+2026,Iraq,runner_up,F,1788.28,2034.03,47
+2026,Ivory Coast,winner,R32,1812.0,1802.6,4
+2026,Ivory Coast,winner,R16,1829.75,1968.98,8
+2026,Ivory Coast,winner,QF,1745.5,1875.73,16
+2026,Ivory Coast,winner,SF,1794.5,2036.53,32
+2026,Ivory Coast,winner,F,1786.4,2006.1,47
+2026,Ivory Coast,runner_up,R32,1861.0,1926.86,4
+2026,Ivory Coast,runner_up,R16,1792.75,1926.96,8
+2026,Ivory Coast,runner_up,QF,1780.53,1940.18,15
+2026,Ivory Coast,runner_up,SF,1785.0,2006.74,28
+2026,Ivory Coast,runner_up,F,1786.4,2029.19,47
+2026,Japan,winner,R32,1787.0,1841.81,4
+2026,Japan,winner,R16,1698.25,1807.89,8
+2026,Japan,winner,QF,1798.6,1960.86,15
+2026,Japan,winner,SF,1794.5,2036.53,32
+2026,Japan,winner,F,1781.91,2005.47,47
+2026,Japan,runner_up,R32,1787.0,1931.74,4
+2026,Japan,runner_up,R16,1805.38,1931.51,8
+2026,Japan,runner_up,QF,1775.19,1923.85,16
+2026,Japan,runner_up,SF,1785.0,2006.74,28
+2026,Japan,runner_up,F,1781.91,2030.55,47
+2026,Jordan,winner,R32,1800.75,1884.97,4
+2026,Jordan,winner,R16,1771.5,1810.53,8
+2026,Jordan,winner,QF,1795.0,1930.62,15
+2026,Jordan,winner,SF,1792.46,1951.23,28
+2026,Jordan,winner,F,1786.72,2032.87,47
+2026,Jordan,runner_up,R32,1800.75,2120.0,4
+2026,Jordan,runner_up,R16,1814.12,1947.65,8
+2026,Jordan,runner_up,QF,1769.44,1865.35,16
+2026,Jordan,runner_up,SF,1772.11,1943.38,28
+2026,Jordan,runner_up,F,1786.72,2011.81,47
+2026,Mexico,winner,R32,1749.75,1714.12,4
+2026,Mexico,winner,R16,1814.12,1945.3,8
+2026,Mexico,winner,QF,1799.06,1946.41,16
+2026,Mexico,winner,SF,1785.0,2006.74,28
+2026,Mexico,winner,F,1782.57,2030.15,47
+2026,Mexico,runner_up,R32,1673.75,1802.37,4
+2026,Mexico,runner_up,R16,1792.75,1901.55,8
+2026,Mexico,runner_up,QF,1805.31,1959.94,16
+2026,Mexico,runner_up,SF,1794.5,2036.53,32
+2026,Mexico,runner_up,F,1782.57,2011.33,47
+2026,Morocco,winner,R32,1798.5,1864.57,4
+2026,Morocco,winner,R16,1805.38,1931.51,8
+2026,Morocco,winner,QF,1775.19,1923.85,16
+2026,Morocco,winner,SF,1785.0,2006.74,28
+2026,Morocco,winner,F,1783.6,2031.85,47
+2026,Morocco,runner_up,R32,1798.5,1913.83,4
+2026,Morocco,runner_up,R16,1698.25,1807.89,8
+2026,Morocco,runner_up,QF,1805.31,1959.94,16
+2026,Morocco,runner_up,SF,1794.5,2036.53,32
+2026,Morocco,runner_up,F,1783.6,2006.27,47
+2026,Netherlands,winner,R32,1787.0,1841.81,4
+2026,Netherlands,winner,R16,1698.25,1807.89,8
+2026,Netherlands,winner,QF,1795.8,1959.38,15
+2026,Netherlands,winner,SF,1794.5,2036.53,32
+2026,Netherlands,winner,F,1781.02,2004.79,47
+2026,Netherlands,runner_up,R32,1787.0,1931.74,4
+2026,Netherlands,runner_up,R16,1805.38,1931.51,8
+2026,Netherlands,runner_up,QF,1775.19,1923.85,16
+2026,Netherlands,runner_up,SF,1785.0,2006.74,28
+2026,Netherlands,runner_up,F,1781.02,2028.84,47
+2026,New Zealand,winner,R32,1861.0,1857.82,4
+2026,New Zealand,winner,R16,1742.88,1805.19,8
+2026,New Zealand,winner,QF,1819.56,2070.81,16
+2026,New Zealand,winner,SF,1772.11,1943.38,28
+2026,New Zealand,winner,F,1789.23,2004.09,47
+2026,New Zealand,runner_up,R32,1812.0,1815.71,4
+2026,New Zealand,runner_up,R16,1825.0,2051.37,8
+2026,New Zealand,runner_up,QF,1787.81,1912.92,16
+2026,New Zealand,runner_up,SF,1792.46,1951.23,28
+2026,New Zealand,runner_up,F,1789.23,2028.97,47
+2026,Norway,winner,R32,1798.5,1742.95,4
+2026,Norway,winner,R16,1780.88,1885.21,8
+2026,Norway,winner,QF,1745.5,1875.73,16
+2026,Norway,winner,SF,1790.65,2040.25,31
+2026,Norway,winner,F,1781.74,2014.4,47
+2026,Norway,runner_up,R32,1749.75,1889.11,4
+2026,Norway,runner_up,R16,1792.75,1926.96,8
+2026,Norway,runner_up,QF,1775.19,1923.85,16
+2026,Norway,runner_up,SF,1785.0,2006.74,28
+2026,Norway,runner_up,F,1781.74,2035.73,47
+2026,Panama,winner,R32,1834.25,1746.29,4
+2026,Panama,winner,R16,1736.25,1833.4,8
+2026,Panama,winner,QF,1799.06,1946.41,16
+2026,Panama,winner,SF,1787.04,2010.06,27
+2026,Panama,winner,F,1785.66,2029.38,47
+2026,Panama,runner_up,R32,1834.25,1930.08,4
+2026,Panama,runner_up,R16,1825.0,2087.93,8
+2026,Panama,runner_up,QF,1769.44,1865.35,16
+2026,Panama,runner_up,SF,1772.11,1943.38,28
+2026,Panama,runner_up,F,1785.66,2006.99,47
+2026,Paraguay,winner,R32,1673.75,1593.59,4
+2026,Paraguay,winner,R16,1796.0,1872.55,8
+2026,Paraguay,winner,QF,1819.56,2070.81,16
+2026,Paraguay,winner,SF,1769.81,1943.3,27
+2026,Paraguay,winner,F,1783.45,2004.51,47
+2026,Paraguay,runner_up,R32,1731.0,1765.29,4
+2026,Paraguay,runner_up,R16,1825.0,2051.37,8
+2026,Paraguay,runner_up,QF,1787.81,1912.92,16
+2026,Paraguay,runner_up,SF,1792.46,1951.23,28
+2026,Paraguay,runner_up,F,1783.45,2028.85,47
+2026,Portugal,winner,R32,1794.0,1742.7,4
+2026,Portugal,winner,R16,1761.5,1820.63,8
+2026,Portugal,winner,QF,1798.25,2014.18,16
+2026,Portugal,winner,SF,1785.19,1950.97,27
+2026,Portugal,winner,F,1780.15,2029.15,47
+2026,Portugal,runner_up,R32,1794.0,1901.91,4
+2026,Portugal,runner_up,R16,1825.0,2087.93,8
+2026,Portugal,runner_up,QF,1769.44,1865.35,16
+2026,Portugal,runner_up,SF,1772.11,1943.38,28
+2026,Portugal,runner_up,F,1780.15,2004.39,47
+2026,Qatar,winner,R32,1849.25,1768.15,4
+2026,Qatar,winner,R16,1814.12,1941.81,8
+2026,Qatar,winner,QF,1798.25,2014.18,16
+2026,Qatar,winner,SF,1792.46,1951.23,28
+2026,Qatar,winner,F,1792.23,2027.48,47
+2026,Qatar,runner_up,R32,1722.75,1763.07,4
+2026,Qatar,runner_up,R16,1792.75,1901.55,8
+2026,Qatar,runner_up,QF,1805.31,1959.94,16
+2026,Qatar,runner_up,SF,1806.55,2034.31,31
+2026,Qatar,runner_up,F,1792.23,2005.02,47
+2026,Saudi Arabia,winner,R32,1849.25,1827.27,4
+2026,Saudi Arabia,winner,R16,1814.12,1947.65,8
+2026,Saudi Arabia,winner,QF,1769.44,1865.35,16
+2026,Saudi Arabia,winner,SF,1772.11,1943.38,28
+2026,Saudi Arabia,winner,F,1788.94,2030.46,47
+2026,Saudi Arabia,runner_up,R32,1849.25,2070.7,4
+2026,Saudi Arabia,runner_up,R16,1771.5,1810.53,8
+2026,Saudi Arabia,runner_up,QF,1787.81,1912.92,16
+2026,Saudi Arabia,runner_up,SF,1792.46,1951.23,28
+2026,Saudi Arabia,runner_up,F,1788.94,2038.72,47
+2026,Scotland,winner,R32,1798.5,1864.57,4
+2026,Scotland,winner,R16,1805.38,1931.51,8
+2026,Scotland,winner,QF,1775.19,1923.85,16
+2026,Scotland,winner,SF,1785.0,2006.74,28
+2026,Scotland,winner,F,1784.55,2031.53,47
+2026,Scotland,runner_up,R32,1798.5,1913.83,4
+2026,Scotland,runner_up,R16,1698.25,1807.89,8
+2026,Scotland,runner_up,QF,1805.31,1959.94,16
+2026,Scotland,runner_up,SF,1794.5,2036.53,32
+2026,Scotland,runner_up,F,1784.55,2005.99,47
+2026,Senegal,winner,R32,1798.5,1742.95,4
+2026,Senegal,winner,R16,1780.88,1885.21,8
+2026,Senegal,winner,QF,1745.5,1875.73,16
+2026,Senegal,winner,SF,1792.39,2043.55,31
+2026,Senegal,winner,F,1782.89,2013.28,47
+2026,Senegal,runner_up,R32,1749.75,1889.11,4
+2026,Senegal,runner_up,R16,1792.75,1926.96,8
+2026,Senegal,runner_up,QF,1775.19,1923.85,16
+2026,Senegal,runner_up,SF,1785.0,2006.74,28
+2026,Senegal,runner_up,F,1782.89,2034.75,47
+2026,South Africa,winner,R32,1749.75,1714.12,4
+2026,South Africa,winner,R16,1814.12,1945.3,8
+2026,South Africa,winner,QF,1799.06,1946.41,16
+2026,South Africa,winner,SF,1785.0,2006.74,28
+2026,South Africa,winner,F,1790.17,2027.01,47
+2026,South Africa,runner_up,R32,1673.75,1802.37,4
+2026,South Africa,runner_up,R16,1792.75,1901.55,8
+2026,South Africa,runner_up,QF,1805.31,1959.94,16
+2026,South Africa,runner_up,SF,1794.5,2036.53,32
+2026,South Africa,runner_up,F,1790.17,2003.67,47
+2026,South Korea,winner,R32,1749.75,1714.12,4
+2026,South Korea,winner,R16,1814.12,1945.3,8
+2026,South Korea,winner,QF,1799.06,1946.41,16
+2026,South Korea,winner,SF,1785.0,2006.74,28
+2026,South Korea,winner,F,1785.06,2026.4,47
+2026,South Korea,runner_up,R32,1673.75,1802.37,4
+2026,South Korea,runner_up,R16,1792.75,1901.55,8
+2026,South Korea,runner_up,QF,1805.31,1959.94,16
+2026,South Korea,runner_up,SF,1794.5,2036.53,32
+2026,South Korea,runner_up,F,1785.06,2003.48,47
+2026,Spain,winner,R32,1849.25,1827.27,4
+2026,Spain,winner,R16,1814.12,1947.65,8
+2026,Spain,winner,QF,1769.44,1865.35,16
+2026,Spain,winner,SF,1772.11,1943.38,28
+2026,Spain,winner,F,1776.57,1999.31,47
+2026,Spain,runner_up,R32,1849.25,2070.7,4
+2026,Spain,runner_up,R16,1771.5,1810.53,8
+2026,Spain,runner_up,QF,1787.81,1912.92,16
+2026,Spain,runner_up,SF,1792.46,1951.23,28
+2026,Spain,runner_up,F,1776.57,1955.47,47
+2026,Sweden,winner,R32,1787.0,1841.81,4
+2026,Sweden,winner,R16,1698.25,1807.89,8
+2026,Sweden,winner,QF,1811.53,1959.12,15
+2026,Sweden,winner,SF,1794.5,2036.53,32
+2026,Sweden,winner,F,1786.04,2004.96,47
+2026,Sweden,runner_up,R32,1787.0,1931.74,4
+2026,Sweden,runner_up,R16,1805.38,1931.51,8
+2026,Sweden,runner_up,QF,1775.19,1923.85,16
+2026,Sweden,runner_up,SF,1785.0,2006.74,28
+2026,Sweden,runner_up,F,1786.04,2027.48,47
+2026,Switzerland,winner,R32,1849.25,1768.15,4
+2026,Switzerland,winner,R16,1814.12,1941.81,8
+2026,Switzerland,winner,QF,1798.25,2014.18,16
+2026,Switzerland,winner,SF,1792.46,1951.23,28
+2026,Switzerland,winner,F,1782.23,2027.39,47
+2026,Switzerland,runner_up,R32,1722.75,1763.07,4
+2026,Switzerland,runner_up,R16,1792.75,1901.55,8
+2026,Switzerland,runner_up,QF,1805.31,1959.94,16
+2026,Switzerland,runner_up,SF,1791.39,2036.85,31
+2026,Switzerland,runner_up,F,1782.23,2003.28,47
+2026,Tunisia,winner,R32,1787.0,1841.81,4
+2026,Tunisia,winner,R16,1698.25,1807.89,8
+2026,Tunisia,winner,QF,1817.13,1958.34,15
+2026,Tunisia,winner,SF,1794.5,2036.53,32
+2026,Tunisia,winner,F,1787.83,2005.01,47
+2026,Tunisia,runner_up,R32,1787.0,1931.74,4
+2026,Tunisia,runner_up,R16,1805.38,1931.51,8
+2026,Tunisia,runner_up,QF,1775.19,1923.85,16
+2026,Tunisia,runner_up,SF,1785.0,2006.74,28
+2026,Tunisia,runner_up,F,1787.83,2027.61,47
+2026,Turkey,winner,R32,1673.75,1593.59,4
+2026,Turkey,winner,R16,1796.0,1872.55,8
+2026,Turkey,winner,QF,1819.56,2070.81,16
+2026,Turkey,winner,SF,1766.96,1942.72,27
+2026,Turkey,winner,F,1781.81,2005.68,47
+2026,Turkey,runner_up,R32,1731.0,1765.29,4
+2026,Turkey,runner_up,R16,1825.0,2051.37,8
+2026,Turkey,runner_up,QF,1787.81,1912.92,16
+2026,Turkey,runner_up,SF,1792.46,1951.23,28
+2026,Turkey,runner_up,F,1781.81,2029.31,47
+2026,United States,winner,R32,1673.75,1593.59,4
+2026,United States,winner,R16,1796.0,1872.55,8
+2026,United States,winner,QF,1819.56,2070.81,16
+2026,United States,winner,SF,1773.81,1944.97,27
+2026,United States,winner,F,1785.74,2004.89,47
+2026,United States,runner_up,R32,1731.0,1765.29,4
+2026,United States,runner_up,R16,1825.0,2051.37,8
+2026,United States,runner_up,QF,1787.81,1912.92,16
+2026,United States,runner_up,SF,1792.46,1951.23,28
+2026,United States,runner_up,F,1785.74,2029.83,47
+2026,Uruguay,winner,R32,1849.25,1827.27,4
+2026,Uruguay,winner,R16,1814.12,1947.65,8
+2026,Uruguay,winner,QF,1769.44,1865.35,16
+2026,Uruguay,winner,SF,1772.11,1943.38,28
+2026,Uruguay,winner,F,1782.21,2041.74,47
+2026,Uruguay,runner_up,R32,1849.25,2070.7,4
+2026,Uruguay,runner_up,R16,1771.5,1810.53,8
+2026,Uruguay,runner_up,QF,1787.81,1912.92,16
+2026,Uruguay,runner_up,SF,1792.46,1951.23,28
+2026,Uruguay,runner_up,F,1782.21,2040.76,47
+2026,Uzbekistan,winner,R32,1794.0,1742.7,4
+2026,Uzbekistan,winner,R16,1761.5,1820.63,8
+2026,Uzbekistan,winner,QF,1798.25,2014.18,16
+2026,Uzbekistan,winner,SF,1795.37,1955.82,27
+2026,Uzbekistan,winner,F,1786.0,2028.51,47
+2026,Uzbekistan,runner_up,R32,1794.0,1901.91,4
+2026,Uzbekistan,runner_up,R16,1825.0,2087.93,8
+2026,Uzbekistan,runner_up,QF,1769.44,1865.35,16
+2026,Uzbekistan,runner_up,SF,1772.11,1943.38,28
+2026,Uzbekistan,runner_up,F,1786.0,2006.09,47

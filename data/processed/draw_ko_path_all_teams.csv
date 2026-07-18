@@ -1,0 +1,280 @@
+year,team,ko_matches,ko_opp_elo_mean
+1930,Argentina,2,1820.0
+1930,United States,1,2073.0
+1930,Uruguay,2,1831.5
+1930,Yugoslavia,1,1968.0
+1934,Argentina,1,1731.0
+1934,Austria,4,1807.25
+1934,Belgium,1,1799.0
+1934,Brazil,1,1936.0
+1934,Czechoslovakia,4,1757.0
+1934,Egypt,1,1829.0
+1934,France,1,2050.0
+1934,Germany,4,1794.25
+1934,Hungary,2,1878.5
+1934,Italy,5,1909.4
+1934,Netherlands,1,1615.0
+1934,Romania,1,1847.0
+1934,Spain,3,1961.3333333333333
+1934,Sweden,2,1930.5
+1934,Switzerland,2,1777.0
+1934,United States,1,1975.0
+1938,Belgium,1,1630.0
+1938,Brazil,5,1795.6
+1938,Cuba,3,1588.6666666666667
+1938,Czechoslovakia,3,1838.0
+1938,Dutch East Indies,1,1929.0
+1938,France,2,1810.0
+1938,Germany,2,1670.0
+1938,Hungary,4,1710.75
+1938,Italy,4,1798.5
+1938,Netherlands,1,1822.0
+1938,Norway,1,2053.0
+1938,Poland,1,1904.0
+1938,Romania,2,1543.0
+1938,Sweden,3,1792.0
+1938,Switzerland,3,1863.0
+1954,Austria,3,1833.0
+1954,Brazil,1,2146.0
+1954,England,1,1877.0
+1954,Hungary,3,1952.3333333333333
+1954,Switzerland,1,1866.0
+1954,Uruguay,3,2010.3333333333333
+1954,West Germany,3,1982.0
+1954,Yugoslavia,1,1949.0
+1958,Brazil,3,1785.0
+1958,France,3,1879.0
+1958,Northern Ireland,1,1839.0
+1958,Soviet Union,1,1803.0
+1958,Sweden,3,1930.0
+1958,Wales,1,1976.0
+1958,West Germany,3,1853.0
+1958,Yugoslavia,1,1926.0
+1962,Brazil,3,1885.3333333333333
+1962,Chile,3,2038.0
+1962,Czechoslovakia,3,2008.3333333333333
+1962,England,1,2103.0
+1962,Hungary,1,1977.0
+1962,Soviet Union,1,1740.0
+1962,West Germany,1,1983.0
+1962,Yugoslavia,3,1872.3333333333333
+1966,Argentina,1,1993.0
+1966,England,3,1921.3333333333333
+1966,Hungary,1,2002.0
+1966,North Korea,1,1832.0
+1966,Portugal,3,1924.3333333333333
+1966,Soviet Union,3,1915.0
+1966,Uruguay,1,1958.0
+1966,West Germany,3,1947.6666666666667
+1970,Brazil,3,1856.3333333333333
+1970,England,1,1997.0
+1970,Italy,3,1904.3333333333333
+1970,Mexico,1,2007.0
+1970,Peru,1,2011.0
+1970,Soviet Union,1,1869.0
+1970,Uruguay,3,1981.3333333333333
+1970,West Germany,3,1983.0
+1974,Brazil,1,1957.0
+1974,Netherlands,1,2112.0
+1974,Poland,1,2117.0
+1974,West Germany,1,1843.0
+1978,Argentina,1,2092.0
+1978,Brazil,1,1938.0
+1978,Italy,1,2081.0
+1978,Netherlands,1,1927.0
+1982,France,2,2034.0
+1982,Italy,2,2034.0
+1982,Poland,2,1886.0
+1982,West Germany,2,1886.0
+1986,Argentina,4,1896.0
+1986,Belgium,4,1927.75
+1986,Brazil,2,1900.0
+1986,Bulgaria,1,1840.0
+1986,Denmark,1,1902.0
+1986,England,2,1843.0
+1986,France,4,1890.5
+1986,Italy,1,1995.0
+1986,Mexico,2,1892.0
+1986,Morocco,1,1940.0
+1986,Paraguay,1,1989.0
+1986,Poland,1,1916.0
+1986,Soviet Union,1,1823.0
+1986,Spain,2,1858.0
+1986,Uruguay,1,1874.0
+1986,West Germany,4,1837.75
+1990,Argentina,4,1961.25
+1990,Belgium,1,1944.0
+1990,Brazil,1,1794.0
+1990,Cameroon,2,1872.5
+1990,Colombia,1,1631.0
+1990,Costa Rica,1,1855.0
+1990,Czechoslovakia,2,1802.5
+1990,England,4,1858.5
+1990,Italy,4,1880.5
+1990,Netherlands,1,1994.0
+1990,Republic of Ireland,2,1929.5
+1990,Romania,1,1891.0
+1990,Spain,1,1893.0
+1990,Uruguay,1,1965.0
+1990,West Germany,4,1906.5
+1990,Yugoslavia,2,1860.5
+1994,Argentina,1,1836.0
+1994,Belgium,1,2009.0
+1994,Brazil,4,1874.0
+1994,Bulgaria,4,1939.0
+1994,Germany,2,1797.5
+1994,Italy,4,1840.75
+1994,Mexico,1,1772.0
+1994,Netherlands,2,1913.5
+1994,Nigeria,1,1986.0
+1994,Republic of Ireland,1,1990.0
+1994,Romania,2,1910.5
+1994,Saudi Arabia,1,1906.0
+1994,Spain,2,1929.5
+1994,Sweden,4,1802.0
+1994,Switzerland,1,1893.0
+1994,United States,1,1963.0
+1998,Argentina,2,1966.5
+1998,Brazil,4,1907.75
+1998,Chile,1,2091.0
+1998,Croatia,4,1974.5
+1998,Denmark,2,1897.0
+1998,England,1,1893.0
+1998,France,4,1919.5
+1998,Germany,2,1860.5
+1998,Italy,2,1952.0
+1998,Mexico,1,2058.0
+1998,Netherlands,4,1956.75
+1998,Nigeria,1,1882.0
+1998,Norway,1,1971.0
+1998,Paraguay,1,2002.0
+1998,Romania,1,1874.0
+1998,Yugoslavia,1,1959.0
+2002,Belgium,1,1867.0
+2002,Brazil,4,1846.75
+2002,Denmark,1,1924.0
+2002,England,2,1863.5
+2002,Germany,4,1785.5
+2002,Italy,1,1735.0
+2002,Japan,1,1757.0
+2002,Mexico,1,1809.0
+2002,Paraguay,1,1869.0
+2002,Republic of Ireland,1,1963.0
+2002,Senegal,2,1811.5
+2002,South Korea,4,1899.5
+2002,Spain,2,1804.0
+2002,Sweden,1,1698.0
+2002,Turkey,4,1787.0
+2002,United States,2,1850.5
+2006,Argentina,2,1866.5
+2006,Australia,1,1943.0
+2006,Brazil,2,1793.5
+2006,Ecuador,1,1972.0
+2006,England,2,1807.5
+2006,France,4,1964.25
+2006,Germany,4,1909.75
+2006,Ghana,1,2034.0
+2006,Italy,4,1863.5
+2006,Mexico,1,1922.0
+2006,Netherlands,1,1915.0
+2006,Portugal,4,1958.0
+2006,Spain,1,1971.0
+2006,Sweden,1,1895.0
+2006,Switzerland,1,1790.0
+2006,Ukraine,2,1871.5
+2010,Argentina,2,1927.5
+2010,Brazil,2,1964.5
+2010,Chile,1,2109.0
+2010,England,1,1957.0
+2010,Germany,4,1969.5
+2010,Ghana,2,1815.0
+2010,Japan,1,1764.0
+2010,Mexico,1,1921.0
+2010,Netherlands,4,1933.75
+2010,Paraguay,2,1894.5
+2010,Portugal,1,2111.0
+2010,Slovakia,1,2043.0
+2010,South Korea,1,1845.0
+2010,Spain,4,1910.0
+2010,United States,1,1687.0
+2010,Uruguay,4,1863.0
+2014,Algeria,1,2073.0
+2014,Argentina,4,1941.0
+2014,Belgium,2,1937.5
+2014,Brazil,4,1974.75
+2014,Chile,1,2138.0
+2014,Colombia,2,2028.0
+2014,Costa Rica,2,1904.0
+2014,France,2,1900.0
+2014,Germany,4,1919.25
+2014,Greece,1,1711.0
+2014,Mexico,1,1985.0
+2014,Netherlands,4,1920.25
+2014,Nigeria,1,1896.0
+2014,Switzerland,1,2018.0
+2014,United States,1,1851.0
+2014,Uruguay,1,1922.0
+2018,Argentina,1,1986.0
+2018,Belgium,4,1939.5
+2018,Brazil,2,1892.0
+2018,Colombia,1,1947.0
+2018,Croatia,4,1865.75
+2018,Denmark,1,1853.0
+2018,England,4,1877.0
+2018,France,4,1916.25
+2018,Japan,1,1935.0
+2018,Mexico,1,2141.0
+2018,Portugal,1,1893.0
+2018,Russia,2,1948.0
+2018,Spain,1,1676.0
+2018,Sweden,2,1917.5
+2018,Switzerland,1,1793.0
+2018,Uruguay,2,1977.0
+2022,Argentina,4,1922.5
+2022,Australia,1,2143.0
+2022,Brazil,2,1856.0
+2022,Croatia,4,1966.0
+2022,England,2,1844.0
+2022,France,4,1909.75
+2022,Japan,1,1926.0
+2022,Morocco,4,1996.0
+2022,Netherlands,2,1969.5
+2022,Poland,1,2004.0
+2022,Portugal,2,1832.5
+2022,Senegal,1,1919.0
+2022,South Korea,1,2169.0
+2022,Spain,1,1764.0
+2022,Switzerland,1,2005.0
+2022,United States,1,2040.0
+2026,Algeria,1,1891.0
+2026,Argentina,4,1797.25
+2026,Australia,1,1696.0
+2026,Austria,1,2157.0
+2026,Belgium,3,1914.3333333333333
+2026,Bosnia and Herzegovina,1,1726.0
+2026,Brazil,2,1910.0
+2026,Canada,2,1672.5
+2026,Cape Verde,1,2115.0
+2026,Colombia,2,1700.5
+2026,Croatia,1,1989.0
+2026,DR Congo,1,2024.0
+2026,Ecuador,1,1875.0
+2026,Egypt,2,1946.0
+2026,England,4,1889.0
+2026,France,4,1882.5
+2026,Germany,1,1834.0
+2026,Ghana,1,1982.0
+2026,Ivory Coast,1,1914.0
+2026,Japan,1,1991.0
+2026,Mexico,2,1981.0
+2026,Morocco,3,1933.0
+2026,Netherlands,1,1827.0
+2026,Norway,3,1903.3333333333333
+2026,Paraguay,2,1997.5
+2026,Portugal,2,2034.5
+2026,Senegal,1,1894.0
+2026,South Africa,1,1788.0
+2026,Spain,4,1944.0
+2026,Sweden,1,2063.0
+2026,Switzerland,3,1956.3333333333333
+2026,United States,2,1744.5

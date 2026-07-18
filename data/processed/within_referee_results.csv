@@ -1,0 +1,7 @@
+referee,years,n_arg_matches,n_other_matches,cards_to_arg,cards_to_arg_per_match,cards_to_opp,cards_to_opp_per_match,other_cards_per_team_match,card_diff_arg_matches,irr_cards_arg,p_cards_arg,irr_cards_opp,p_cards_opp,pens_by_arg,pens_by_opp,other_pens_per_team_match,p_pens_arg,p_pens_opp,q_cards_arg,q_cards_opp,q_pens_arg,q_pens_opp,fdr_survives_05
+Nicola Rizzoli,2014,3,1,3,1.0,6,2.0,2.0,1.0,0.5,0.4484,1.0,1.0,0,0,0.5,0.4,0.4,1.0,1.0,1.0,0.8,
+Ravshan Irmatov,2010/2014/2018,3,8,6,2.0,6,2.0,1.94,0.0,1.03,1.0,1.03,1.0,0,0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,
+Szymon Marciniak,2018/2022,3,2,5,1.67,5,1.67,1.75,0.0,0.95,1.0,0.95,1.0,1,2,0.0,0.4286,0.1837,1.0,1.0,1.0,0.6,
+Cüneyt Çakır,2014/2018,2,4,4,2.0,4,2.0,2.0,0.0,1.0,1.0,1.0,1.0,0,1,0.0,1.0,0.2,1.0,1.0,1.0,0.6,
+Frank De Bleeckere,2006/2010,2,5,6,3.0,4,2.0,2.5,-1.0,1.2,0.6324,0.8,1.0,0,0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,
+Roberto Rosetti,2006/2010,2,4,1,0.5,4,2.0,1.88,1.5,0.27,0.2224,1.07,1.0,0,0,0.25,1.0,1.0,1.0,1.0,1.0,1.0,

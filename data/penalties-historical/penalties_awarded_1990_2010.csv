@@ -1,0 +1,102 @@
+tournament_year,match_date,stage,team_awarded,opponent,converted,taker,source_url
+1990,1990-06-09,Group B,Romania,Soviet Union,yes,Lăcătuş,https://www.rsssf.org/tables/90full.html
+1990,1990-06-10,Group A,Czechoslovakia,United States,yes,Bílek,https://www.rsssf.org/tables/90full.html
+1990,1990-06-10,Group A,Czechoslovakia,United States,no,Bílek,https://www.rsssf.org/tables/90full.html
+1990,1990-06-12,Group F,Egypt,Netherlands,yes,Abdelghani,https://www.rsssf.org/tables/90full.html
+1990,1990-06-13,Group E,Uruguay,Spain,no,Rubén Sosa,https://www.rsssf.org/tables/90full.html
+1990,1990-06-14,Group A,Italy,United States,no,Vialli,https://www.rsssf.org/tables/90full.html
+1990,1990-06-14,Group D,Yugoslavia,Colombia,no,Hadžibegić,https://www.rsssf.org/tables/90full.html
+1990,1990-06-15,Group A,Czechoslovakia,Austria,yes,Bílek,https://www.rsssf.org/tables/90full.html
+1990,1990-06-16,Group C,Scotland,Sweden,yes,Johnston,https://www.rsssf.org/tables/90full.html
+1990,1990-06-21,Group E,Spain,Belgium,yes,Míchel,https://www.rsssf.org/tables/90full.html
+1990,1990-06-21,Group E,Belgium,Spain,no,Scifo,https://www.rsssf.org/tables/90full.html
+1990,1990-06-24,Round of 16,Netherlands,West Germany,yes,Ronald Koeman,https://www.rsssf.org/tables/90full.html
+1990,1990-07-01,Quarter-final,West Germany,Czechoslovakia,yes,Matthäus,https://www.rsssf.org/tables/90full.html
+1990,1990-07-01,Quarter-final,Cameroon,England,yes,Kundé,https://www.rsssf.org/tables/90full.html
+1990,1990-07-01,Quarter-final,England,Cameroon,yes,Lineker,https://www.rsssf.org/tables/90full.html
+1990,1990-07-01,Quarter-final,England,Cameroon,yes,Lineker,https://www.rsssf.org/tables/90full.html
+1990,1990-07-07,Third place,Italy,England,yes,Schillaci,https://www.rsssf.org/tables/90full.html
+1990,1990-07-08,Final,West Germany,Argentina,yes,Brehme,https://www.rsssf.org/tables/90full.html
+1994,1994-06-20,Group B,Brazil,Russia,yes,Raí,https://www.rsssf.org/tables/94full.html
+1994,1994-06-21,Group D,Argentina,Greece,yes,Batistuta,https://www.rsssf.org/tables/94full.html
+1994,1994-06-24,Group B,Russia,Sweden,yes,Salenko,https://www.rsssf.org/tables/94full.html
+1994,1994-06-24,Group B,Sweden,Russia,yes,Brolin,https://www.rsssf.org/tables/94full.html
+1994,1994-06-25,Group F,Saudi Arabia,Morocco,yes,Al-Jaber,https://www.rsssf.org/tables/94full.html
+1994,1994-06-26,Group D,Bulgaria,Greece,yes,Stoichkov,https://www.rsssf.org/tables/94full.html
+1994,1994-06-26,Group D,Bulgaria,Greece,yes,Stoichkov,https://www.rsssf.org/tables/94full.html
+1994,1994-06-27,Group C,Spain,Bolivia,yes,Guardiola,https://www.rsssf.org/tables/94full.html
+1994,1994-06-28,Group B,Russia,Cameroon,yes,Salenko,https://www.rsssf.org/tables/94full.html
+1994,1994-07-02,Round of 16,Spain,Switzerland,yes,Beguiristáin,https://www.rsssf.org/tables/94full.html
+1994,1994-07-03,Round of 16,Argentina,Romania,yes,Batistuta,https://www.rsssf.org/tables/94full.html
+1994,1994-07-05,Round of 16,Italy,Nigeria,yes,Roberto Baggio,https://www.rsssf.org/tables/94full.html
+1994,1994-07-05,Round of 16,Mexico,Bulgaria,yes,García Aspe,https://www.rsssf.org/tables/94full.html
+1994,1994-07-10,Quarter-final,Germany,Bulgaria,yes,Matthäus,https://www.rsssf.org/tables/94full.html
+1994,1994-07-13,Semi-final,Bulgaria,Italy,yes,Stoichkov,https://www.rsssf.org/tables/94full.html
+1998,1998-06-10,Group A,Scotland,Brazil,yes,Collins,https://www.rsssf.org/tables/98full.html
+1998,1998-06-11,Group B,Italy,Chile,yes,Roberto Baggio,https://www.rsssf.org/tables/98full.html
+1998,1998-06-20,Group E,Mexico,Belgium,yes,García Aspe,https://www.rsssf.org/tables/98full.html
+1998,1998-06-21,Group H,Argentina,Jamaica,yes,Batistuta,https://www.rsssf.org/tables/98full.html
+1998,1998-06-23,Group B,Austria,Italy,yes,Herzog,https://www.rsssf.org/tables/98full.html
+1998,1998-06-23,Group A,Norway,Brazil,yes,Rekdal,https://www.rsssf.org/tables/98full.html
+1998,1998-06-24,Group C,France,Denmark,yes,Djorkaeff,https://www.rsssf.org/tables/98full.html
+1998,1998-06-24,Group C,Denmark,France,yes,Michael Laudrup,https://www.rsssf.org/tables/98full.html
+1998,1998-06-24,Group C,Saudi Arabia,South Africa,yes,Al-Jaber,https://www.rsssf.org/tables/98full.html
+1998,1998-06-24,Group C,Saudi Arabia,South Africa,yes,Al-Thunayan,https://www.rsssf.org/tables/98full.html
+1998,1998-06-24,Group C,South Africa,Saudi Arabia,yes,Bartlett,https://www.rsssf.org/tables/98full.html
+1998,1998-06-24,Group D,Spain,Bulgaria,yes,Hierro,https://www.rsssf.org/tables/98full.html
+1998,1998-06-26,Group G,Tunisia,Romania,yes,Souayah,https://www.rsssf.org/tables/98full.html
+1998,1998-06-27,Round of 16,Brazil,Chile,yes,Ronaldo,https://www.rsssf.org/tables/98full.html
+1998,1998-06-29,Round of 16,Yugoslavia,Netherlands,no,Mijatović,https://www.rsssf.org/tables/98full.html
+1998,1998-06-30,Round of 16,Croatia,Romania,yes,Šuker,https://www.rsssf.org/tables/98full.html
+1998,1998-06-30,Round of 16,Argentina,England,yes,Batistuta,https://www.rsssf.org/tables/98full.html
+1998,1998-06-30,Round of 16,England,Argentina,yes,Shearer,https://www.rsssf.org/tables/98full.html
+2002,2002-06-02,Group B,Spain,Slovenia,yes,Fernando Hierro,https://www.rsssf.org/tables/2002full.html
+2002,2002-06-02,Group B,South Africa,Paraguay,yes,Quinton Fortune,https://www.rsssf.org/tables/2002full.html
+2002,2002-06-03,Group C,Brazil,Turkey,yes,Rivaldo,https://www.rsssf.org/tables/2002full.html
+2002,2002-06-03,Group G,Mexico,Croatia,yes,Cuauhtémoc Blanco,https://www.rsssf.org/tables/2002full.html
+2002,2002-06-05,Group H,Russia,Tunisia,yes,Valery Karpin,https://www.rsssf.org/tables/2002full.html
+2002,2002-06-06,Group A,Denmark,Senegal,yes,Jon Dahl Tomasson,https://www.rsssf.org/tables/2002full.html
+2002,2002-06-07,Group B,Spain,Paraguay,yes,Fernando Hierro,https://www.rsssf.org/tables/2002full.html
+2002,2002-06-07,Group F,Sweden,Nigeria,yes,Henrik Larsson,https://www.rsssf.org/tables/2002full.html
+2002,2002-06-07,Group F,England,Argentina,yes,David Beckham,https://www.rsssf.org/tables/2002full.html
+2002,2002-06-08,Group C,Brazil,China,yes,Ronaldinho,https://www.rsssf.org/tables/2002full.html
+2002,2002-06-10,Group D,South Korea,United States,no,Lee Eul-yong,https://www.rsssf.org/tables/2002full.html
+2002,2002-06-11,Group A,Senegal,Uruguay,yes,Khalilou Fadiga,https://www.rsssf.org/tables/2002full.html
+2002,2002-06-11,Group A,Uruguay,Senegal,yes,Álvaro Recoba,https://www.rsssf.org/tables/2002full.html
+2002,2002-06-12,Group F,Argentina,Sweden,no,Ariel Ortega,https://www.rsssf.org/tables/2002full.html
+2002,2002-06-14,Group D,Poland,United States,no,Maciej Żurawski,https://www.rsssf.org/tables/2002full.html
+2002,2002-06-16,Round of 16,Ireland,Spain,no,Ian Harte,https://www.rsssf.org/tables/2002full.html
+2002,2002-06-16,Round of 16,Ireland,Spain,yes,Robbie Keane,https://www.rsssf.org/tables/2002full.html
+2002,2002-06-18,Round of 16,South Korea,Italy,no,Ahn Jung-hwan,https://www.rsssf.org/tables/2002full.html
+2006,2006-06-14,Group H,Spain,Ukraine,yes,David Villa,https://www.rsssf.org/tables/2006full.html
+2006,2006-06-17,Group D,Portugal,Iran,yes,Cristiano Ronaldo,https://www.rsssf.org/tables/2006full.html
+2006,2006-06-17,Group E,Ghana,Czech Republic,no,Asamoah Gyan,https://web.archive.org/web/20170707062417/http://www.linguasport.com/futbol/internacional/mundial/2006_GERMANY_FS.htm
+2006,2006-06-18,Group F,Croatia,Japan,no,Darijo Srna,https://web.archive.org/web/20170707062417/http://www.linguasport.com/futbol/internacional/mundial/2006_GERMANY_FS.htm
+2006,2006-06-19,Group H,Spain,Tunisia,yes,Fernando Torres,https://www.rsssf.org/tables/2006full.html
+2006,2006-06-21,Group C,Ivory Coast,Serbia and Montenegro,yes,Aruna Dindane,https://www.rsssf.org/tables/2006full.html
+2006,2006-06-21,Group C,Ivory Coast,Serbia and Montenegro,yes,Bonaventure Kalou,https://www.rsssf.org/tables/2006full.html
+2006,2006-06-21,Group D,Portugal,Mexico,yes,Simão Sabrosa,https://www.rsssf.org/tables/2006full.html
+2006,2006-06-21,Group D,Mexico,Portugal,no,Omar Bravo,https://web.archive.org/web/20170707062417/http://www.linguasport.com/futbol/internacional/mundial/2006_GERMANY_FS.htm
+2006,2006-06-22,Group E,Ghana,United States,yes,Stephen Appiah,https://www.rsssf.org/tables/2006full.html
+2006,2006-06-22,Group F,Australia,Croatia,yes,Craig Moore,https://www.rsssf.org/tables/2006full.html
+2006,2006-06-23,Group H,Ukraine,Tunisia,yes,Andriy Shevchenko,https://www.rsssf.org/tables/2006full.html
+2006,2006-06-24,Round of 16,Sweden,Germany,no,Henrik Larsson,https://web.archive.org/web/20170707062417/http://www.linguasport.com/futbol/internacional/mundial/2006_GERMANY_FS.htm
+2006,2006-06-26,Round of 16,Italy,Australia,yes,Francesco Totti,https://www.rsssf.org/tables/2006full.html
+2006,2006-06-27,Round of 16,Spain,France,yes,David Villa,https://www.rsssf.org/tables/2006full.html
+2006,2006-07-05,Semi-final,France,Portugal,yes,Zinedine Zidane,https://www.rsssf.org/tables/2006full.html
+2006,2006-07-09,Final,France,Italy,yes,Zinedine Zidane,https://www.rsssf.org/tables/2006full.html
+2010,2010-06-13,Group D,Ghana,Serbia,yes,Asamoah Gyan,https://www.rsssf.org/tables/2010full.html
+2010,2010-06-16,Group A,Uruguay,South Africa,yes,Diego Forlán,https://www.rsssf.org/tables/2010full.html
+2010,2010-06-17,Group A,Mexico,France,yes,Cuauhtémoc Blanco,https://www.rsssf.org/tables/2010full.html
+2010,2010-06-18,Group D,Germany,Serbia,no,Lukas Podolski,https://www.rsssf.org/tables/2010full.html
+2010,2010-06-19,Group D,Ghana,Australia,yes,Asamoah Gyan,https://www.rsssf.org/tables/2010full.html
+2010,2010-06-20,Group F,Italy,New Zealand,yes,Vincenzo Iaquinta,https://www.rsssf.org/tables/2010full.html
+2010,2010-06-21,Group H,Spain,Honduras,no,David Villa,https://www.rsssf.org/tables/2010full.html
+2010,2010-06-22,Group B,Nigeria,South Korea,yes,Yakubu Aiyegbeni,https://www.rsssf.org/tables/2010full.html
+2010,2010-06-24,Group E,Denmark,Japan,no,Jon Dahl Tomasson,https://www.rsssf.org/tables/2010full.html
+2010,2010-06-24,Group E,Cameroon,Netherlands,yes,Samuel Eto'o,https://www.rsssf.org/tables/2010full.html
+2010,2010-06-26,Round of 16,United States,Ghana,yes,Landon Donovan,https://www.rsssf.org/tables/2010full.html
+2010,2010-06-28,Round of 16,Slovakia,Netherlands,yes,Róbert Vittek,https://www.rsssf.org/tables/2010full.html
+2010,2010-07-02,Quarter-final,Ghana,Uruguay,no,Asamoah Gyan,https://www.rsssf.org/tables/2010full.html
+2010,2010-07-03,Quarter-final,Paraguay,Spain,no,Óscar Cardozo,https://www.rsssf.org/tables/2010full.html
+2010,2010-07-03,Quarter-final,Spain,Paraguay,no,Xabi Alonso,https://www.rsssf.org/tables/2010full.html

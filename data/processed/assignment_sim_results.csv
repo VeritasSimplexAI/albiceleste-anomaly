@@ -1,0 +1,13 @@
+﻿statistic,model,description,observed,null_mean,null_sd,null_p95,null_max,n_sims_geq_observed,p_value_mc,p_ci95_low,p_ci95_high,n_sims,seed
+i_max_pair,A,"Max referee-team pair count, all tournaments jointly",4,3.4657,0.5657,4.0,7,8640,0.432028,0.42512,0.4389,20000,42
+ii_max_pair_span3,A,Max pair count among pairs spanning >=3 tournaments,4,1.9469,1.6689,4.0,7,3090,0.154542,0.149516,0.159584,20000,42
+iii_ref_4plus_argentina,A,Some referee takes >=4 Argentina matches (indicator),1,0.0575,0.2327,1.0,1,1149,0.057497,0.054265,0.060765,20000,42
+iv_final_then_opener,A,Same ref: a team's final + that team's next-WC opener (count),1,0.2034,0.4686,1.0,4,3537,0.176891,0.171584,0.18221,20000,42
+aux_any_pair_span3,A,Any referee-team pair spans >=3 tournaments (indicator),1,0.5911,0.4916,1.0,1,11822,0.59112,0.584249,0.597925,20000,42
+aux_max_argentina_count,A,Max Argentina-match count by one referee,4,2.5804,0.6142,4.0,6,1149,0.057497,0.054265,0.060765,20000,42
+i_max_pair,B,"Max referee-team pair count, all tournaments jointly",4,3.4088,0.557,4.0,7,7562,0.378131,0.371373,0.384863,20000,42
+ii_max_pair_span3,B,Max pair count among pairs spanning >=3 tournaments,4,1.2464,1.6188,4.0,7,1834,0.091745,0.087735,0.095784,20000,42
+iii_ref_4plus_argentina,B,Some referee takes >=4 Argentina matches (indicator),1,0.04,0.196,0.0,1,800,0.040048,0.037326,0.042808,20000,42
+iv_final_then_opener,B,Same ref: a team's final + that team's next-WC opener (count),1,0.1736,0.4375,1.0,4,3032,0.151642,0.146656,0.156646,20000,42
+aux_any_pair_span3,B,Any referee-team pair spans >=3 tournaments (indicator),1,0.3812,0.4857,1.0,1,7625,0.381281,0.374511,0.388023,20000,42
+aux_max_argentina_count,B,Max Argentina-match count by one referee,4,2.4753,0.5852,3.0,6,800,0.040048,0.037326,0.042808,20000,42

@@ -1,0 +1,1026 @@
+pair,pair_effect_mean,pair_effect_sd,referee,team,n_matches,yellows_total,yellows_mean,expected_nonpair,oe_ratio_raw,rate_ratio_shrunk,z,abs_rank,is_argentina,pair_effect_mean_2vc,abs_rank_2vc
+Howard Webb | Netherlands,0.008439,0.038814,Howard Webb,Netherlands,1,9,9.0,3.348278,2.687949,1.008475,0.217428,1,False,0.001707,1
+Antonio López Nieto | Germany,0.008227,0.03884,Antonio López Nieto,Germany,1,8,8.0,2.503701,3.195269,1.008261,0.211828,2,False,0.001544,3
+Antonio Mateu Lahoz | Argentina,0.008199,0.038839,Antonio Mateu Lahoz,Argentina,1,8,8.0,2.524083,3.169468,1.008232,0.211093,3,True,0.001622,2
+Valentin Ivanov | Portugal,0.007774,0.038799,Valentin Ivanov,Portugal,1,9,9.0,3.778565,2.381857,1.007805,0.200374,4,False,0.001508,5
+Antonio López Nieto | Cameroon,0.007701,0.038828,Antonio López Nieto,Cameroon,1,8,8.0,2.842562,2.814363,1.007731,0.198331,5,False,0.001468,7
+Antonio Mateu Lahoz | Netherlands,0.007504,0.038825,Antonio Mateu Lahoz,Netherlands,1,8,8.0,2.973593,2.690348,1.007532,0.193279,6,False,0.001512,4
+Fernando Rapallini | Serbia,0.007467,0.038853,Fernando Rapallini,Serbia,1,7,7.0,2.017533,3.469584,1.007495,0.192198,7,False,0.001504,6
+Jan Wegereef | Senegal,0.006464,0.038833,Jan Wegereef,Senegal,1,7,7.0,2.663989,2.627639,1.006485,0.166469,8,False,0.001231,8
+Carlos Simon | Italy,0.006223,0.038797,Carlos Simon,Italy,2,8,4.0,3.817762,2.095469,1.006242,0.160386,9,False,0.00115,10
+Ben Williams | Costa Rica,0.006037,0.038854,Ben Williams,Costa Rica,1,6,6.0,1.964727,3.05386,1.006055,0.155383,10,False,0.001152,9
+Michael Oliver | Saudi Arabia,0.005941,0.038852,Michael Oliver,Saudi Arabia,1,6,6.0,2.029829,2.955913,1.005959,0.152912,11,False,0.001087,13
+Ravshan Irmatov | Morocco,0.00586,0.03885,Ravshan Irmatov,Morocco,1,6,6.0,2.088587,2.872756,1.005878,0.15085,12,False,0.0011,12
+Khalil Al Ghamdi | Chile,0.005657,0.038846,Khalil Al Ghamdi,Chile,1,6,6.0,2.213126,2.711097,1.005673,0.145614,13,False,0.001127,11
+Slavko Vinčić | Saudi Arabia,0.005603,0.038844,Slavko Vinčić,Saudi Arabia,1,6,6.0,2.244132,2.673639,1.005618,0.144233,14,False,0.001019,17
+Mark Geiger | Colombia,0.005482,0.038812,Mark Geiger,Colombia,2,7,3.5,3.307439,2.116441,1.005497,0.141249,15,False,0.001059,14
+Daniel Siebert | Uruguay,0.005384,0.038869,Daniel Siebert,Uruguay,1,5,5.0,1.410334,3.545259,1.005399,0.13852,16,False,0.001043,16
+Ľuboš Micheľ | Paraguay,0.005137,0.038745,Ľuboš Micheľ,Paraguay,2,9,4.5,5.506212,1.634518,1.00515,0.132575,17,False,0.000944,20
+Neji Jouini | Bulgaria,0.004992,0.038832,Neji Jouini,Bulgaria,1,6,6.0,2.645215,2.268247,1.005005,0.128564,18,False,0.000991,18
+Roberto Rosetti | Argentina,-0.004953,0.038778,Roberto Rosetti,Argentina,2,1,0.5,4.238185,0.23595,0.99506,-0.127716,19,True,-0.00083,33
+Alberto Undiano Mallenco | Germany,0.004885,0.038859,Alberto Undiano Mallenco,Germany,1,5,5.0,1.739177,2.874924,1.004896,0.125698,20,False,0.000917,23
+Valentin Ivanov | Netherlands,0.004884,0.0388,Valentin Ivanov,Netherlands,1,7,7.0,3.702496,1.890616,1.004896,0.125883,21,False,0.001048,15
+Jamal Al Sharif | Austria,0.004857,0.038859,Jamal Al Sharif,Austria,1,5,5.0,1.757553,2.844864,1.004869,0.124991,22,False,0.000943,21
+Janny Sikazwe | Belgium,0.004815,0.038828,Janny Sikazwe,Belgium,2,6,3.0,2.759992,2.173919,1.004827,0.12401,23,False,0.000856,26
+Carlos Simon | Ghana,-0.004732,0.038723,Carlos Simon,Ghana,2,3,1.5,6.073958,0.493912,0.995279,-0.122207,24,False,-0.000834,31
+Mark Shield | Tunisia,0.004525,0.038762,Mark Shield,Tunisia,2,8,4.0,4.908936,1.629681,1.004535,0.116727,25,False,0.000933,22
+Byron Moreno | Italy,0.004518,0.038852,Byron Moreno,Italy,1,5,5.0,1.972924,2.534309,1.004528,0.116293,26,False,0.000838,28
+Michel Vautrot | Argentina,0.00451,0.038792,Michel Vautrot,Argentina,2,7,3.5,3.948127,1.772993,1.00452,0.116262,27,True,0.000966,19
+Renato Marsiglia | Netherlands,0.004246,0.038846,Renato Marsiglia,Netherlands,1,5,5.0,2.151718,2.323725,1.004255,0.1093,28,False,0.000895,24
+José Torres Cadena | Germany,0.004244,0.038846,José Torres Cadena,Germany,1,5,5.0,2.154915,2.320278,1.004253,0.109246,29,False,0.000815,35
+Benito Archundia | Italy,-0.004228,0.038732,Benito Archundia,Italy,3,3,1.0,5.745311,0.522165,0.995781,-0.109147,30,False,-0.000884,25
+Arturo Brizio Carter | Italy,0.004219,0.038846,Arturo Brizio Carter,Italy,1,5,5.0,2.172832,2.301144,1.004228,0.108614,31,False,0.000778,40
+Sandro Ricci | Croatia,0.004156,0.038815,Sandro Ricci,Croatia,2,6,3.0,3.193001,1.87911,1.004164,0.107063,32,False,0.000819,34
+Helmut Kohl | Czechoslovakia,0.004123,0.038844,Helmut Kohl,Czechoslovakia,1,5,5.0,2.230203,2.241949,1.004131,0.106138,33,False,0.000832,32
+Néstor Pitana | Croatia,-0.004115,0.038795,Néstor Pitana,Croatia,2,1,0.5,3.680605,0.271694,0.995893,-0.106077,34,False,-0.000768,44
+Alireza Faghani | Brazil,-0.004111,0.038825,Alireza Faghani,Brazil,2,0,0.0,2.687129,0.0,0.995898,-0.105876,35,False,-0.000834,30
+Mark Shield | Saudi Arabia,-0.004098,0.038825,Mark Shield,Saudi Arabia,1,0,0.0,2.674663,0.0,0.995911,-0.105546,36,False,-0.000839,27
+Mourad Daami | Ecuador,0.004095,0.038843,Mourad Daami,Ecuador,1,5,5.0,2.245188,2.226985,1.004103,0.105411,37,False,0.000772,43
+Carlos Simon | Germany,-0.004047,0.038767,Carlos Simon,Germany,2,2,1.0,4.634579,0.431539,0.995962,-0.104382,38,False,-0.000789,39
+Alireza Faghani | Argentina,0.00404,0.038843,Alireza Faghani,Argentina,1,5,5.0,2.288616,2.184727,1.004049,0.104018,39,True,0.000835,29
+Janny Sikazwe | Panama,0.004009,0.038841,Janny Sikazwe,Panama,1,5,5.0,2.300493,2.173448,1.004017,0.103203,40,False,0.000799,37
+Jan Wegereef | Uruguay,0.00396,0.038841,Jan Wegereef,Uruguay,1,5,5.0,2.333802,2.142427,1.003968,0.101959,41,False,0.000772,42
+Horacio Elizondo | Ghana,0.003953,0.03881,Horacio Elizondo,Ghana,1,6,6.0,3.32907,1.802305,1.003961,0.101848,42,False,0.000802,36
+Carlos Simon | Tunisia,0.003939,0.03881,Carlos Simon,Tunisia,1,6,6.0,3.34111,1.79581,1.003947,0.101504,43,False,0.000796,38
+Joel Aguilar | Greece,0.003925,0.038869,Joel Aguilar,Greece,1,4,4.0,1.377238,2.904363,1.003932,0.100969,44,False,0.000759,45
+Benito Archundia | Ukraine,-0.003905,0.038829,Benito Archundia,Ukraine,1,0,0.0,2.552497,0.0,0.996103,-0.100562,45,False,-0.000737,49
+Frank De Bleeckere | Italy,-0.003853,0.03883,Frank De Bleeckere,Italy,1,0,0.0,2.522808,0.0,0.996154,-0.099228,46,False,-0.000773,41
+Horacio Elizondo | Switzerland,0.003762,0.038836,Horacio Elizondo,Switzerland,1,5,5.0,2.473056,2.02179,1.003769,0.096874,47,False,0.000752,46
+Alberto Tejada Noriega | Morocco,0.003742,0.038836,Alberto Tejada Noriega,Morocco,1,5,5.0,2.476648,2.018857,1.003749,0.096366,48,False,0.000697,54
+Vítor Melo Pereira | United States,0.003694,0.038835,Vítor Melo Pereira,United States,1,5,5.0,2.512837,1.989783,1.003701,0.095131,49,False,0.000678,67
+Hugh Dallas | United States,0.003693,0.038835,Hugh Dallas,United States,1,5,5.0,2.513311,1.989407,1.0037,0.095096,50,False,0.000686,60
+Urs Meier | South Korea,-0.003653,0.038774,Urs Meier,South Korea,2,2,1.0,4.363115,0.458388,0.996354,-0.09421,51,False,-0.000643,80
+Kim Milton Nielsen | Germany,-0.003644,0.038804,Kim Milton Nielsen,Germany,2,1,0.5,3.371655,0.29659,0.996363,-0.093896,52,False,-0.000696,55
+Enrique Cáceres | Portugal,0.003641,0.038863,Enrique Cáceres,Portugal,1,4,4.0,1.562255,2.560402,1.003648,0.09369,53,False,0.000718,50
+Fernando Rapallini | Morocco,-0.003635,0.038775,Fernando Rapallini,Morocco,2,2,1.0,4.341079,0.460715,0.996372,-0.093735,54,False,-0.000752,47
+Valentin Ivanov | Ecuador,-0.003597,0.038806,Valentin Ivanov,Ecuador,1,1,1.0,3.338525,0.299534,0.99641,-0.092691,55,False,-0.000739,48
+Antonio Mateu Lahoz | Australia,-0.003589,0.038836,Antonio Mateu Lahoz,Australia,1,0,0.0,2.344411,0.0,0.996418,-0.092402,56,False,-0.000702,53
+Ali Bujsaim | Paraguay,0.003584,0.038833,Ali Bujsaim,Paraguay,1,5,5.0,2.58556,1.933817,1.00359,0.092291,57,False,0.000673,70
+Abdulrahman Al-Jassim | United States,0.003582,0.038862,Abdulrahman Al-Jassim,United States,1,4,4.0,1.601059,2.498347,1.003589,0.092184,58,False,0.000665,73
+Felipe Ramos | Brazil,-0.003582,0.038836,Felipe Ramos,Brazil,1,0,0.0,2.338185,0.0,0.996424,-0.092237,59,False,-0.000716,52
+Sandro Ricci | Honduras,0.003576,0.038862,Sandro Ricci,Honduras,1,4,4.0,1.605012,2.492194,1.003582,0.092016,60,False,0.000693,56
+José María García-Aranda | Netherlands,-0.003555,0.038836,José María García-Aranda,Netherlands,1,0,0.0,2.318788,0.0,0.996452,-0.09153,61,False,-0.000596,99
+Shamsul Maidin | Poland,0.003537,0.038832,Shamsul Maidin,Poland,1,5,5.0,2.61483,1.91217,1.003543,0.091081,62,False,0.000693,57
+Viktor Kassai | North Korea,-0.003525,0.038836,Viktor Kassai,North Korea,1,0,0.0,2.292994,0.0,0.996482,-0.090756,63,False,-0.000717,51
+Alberto Tejada Noriega | Iran,-0.003514,0.038837,Alberto Tejada Noriega,Iran,1,0,0.0,2.290284,0.0,0.996492,-0.090478,64,False,-0.000682,63
+Horacio Elizondo | South Korea,0.003499,0.038831,Horacio Elizondo,South Korea,1,5,5.0,2.646103,1.889571,1.003505,0.090114,65,False,0.000692,58
+Jorge Larrionda | Portugal,-0.003497,0.038718,Jorge Larrionda,Portugal,3,4,1.333333,6.250122,0.639988,0.996509,-0.090314,66,False,-0.000578,106
+Neji Jouini | Switzerland,-0.003488,0.038838,Neji Jouini,Switzerland,1,0,0.0,2.275825,0.0,0.996518,-0.089799,67,False,-0.000654,79
+Ismail Elfath | Cameroon,0.003484,0.038831,Ismail Elfath,Cameroon,1,5,5.0,2.64204,1.892477,1.00349,0.089724,68,False,0.000656,76
+Raphael Claus | Canada,0.003477,0.03886,Raphael Claus,Canada,1,4,4.0,1.665571,2.401579,1.003483,0.089479,69,False,0.000682,62
+Óscar Ruiz | South Africa,-0.003451,0.038838,Óscar Ruiz,South Africa,1,0,0.0,2.253135,0.0,0.996555,-0.088857,70,False,-0.00068,64
+Ali Bujsaim | France,-0.00338,0.03881,Ali Bujsaim,France,2,1,0.5,3.199755,0.312524,0.996626,-0.087095,71,False,-0.000683,61
+Mario van der Ende | Spain,0.003366,0.038798,Mario van der Ende,Spain,2,6,3.0,3.709318,1.617548,1.003372,0.086766,72,False,0.000549,132
+César Arturo Ramos | Portugal,-0.003356,0.03881,César Arturo Ramos,Portugal,2,1,0.5,3.178589,0.314605,0.996649,-0.086478,73,False,-0.00059,101
+Frank De Bleeckere | Japan,0.003341,0.038768,Frank De Bleeckere,Japan,2,7,3.5,4.716193,1.484248,1.003346,0.086177,74,False,0.000555,126
+Milorad Mažić | South Korea,0.003337,0.038857,Milorad Mažić,South Korea,1,4,4.0,1.763269,2.268514,1.003343,0.085879,75,False,0.000655,78
+Marco Rodríguez | Serbia and Montenegro,0.003332,0.038827,Marco Rodríguez,Serbia and Montenegro,1,5,5.0,2.749065,1.8188,1.003337,0.085813,76,False,0.00068,65
+Anders Frisk | Republic of Ireland,-0.003329,0.038841,Anders Frisk,Republic of Ireland,1,0,0.0,2.166362,0.0,0.996677,-0.085708,77,False,-0.000669,71
+Horacio Elizondo | Germany,-0.003311,0.038841,Horacio Elizondo,Germany,1,0,0.0,2.167087,0.0,0.996695,-0.085234,78,False,-0.000638,82
+Héctor Baldassi | Japan,-0.003311,0.038841,Héctor Baldassi,Japan,1,0,0.0,2.159787,0.0,0.996695,-0.085235,79,False,-0.000692,59
+Wilton Sampaio | United States,-0.003298,0.038842,Wilton Sampaio,United States,1,0,0.0,2.149816,0.0,0.996708,-0.084901,80,False,-0.000661,74
+Ismail Elfath | Japan,-0.003288,0.038842,Ismail Elfath,Japan,1,0,0.0,2.142411,0.0,0.996718,-0.084644,81,False,-0.00068,66
+Peter Mikkelsen | Republic of Ireland,-0.003287,0.038841,Peter Mikkelsen,Republic of Ireland,1,0,0.0,2.141912,0.0,0.996719,-0.084618,82,False,-0.000665,72
+Rodrigo Badilla | Bolivia,-0.003281,0.038841,Rodrigo Badilla,Bolivia,1,0,0.0,2.136039,0.0,0.996725,-0.084465,83,False,-0.000613,85
+Fernando Rapallini | Switzerland,0.003271,0.038856,Fernando Rapallini,Switzerland,1,4,4.0,1.804419,2.21678,1.003276,0.084172,84,False,0.000638,81
+Alberto Undiano Mallenco | North Korea,-0.003253,0.038842,Alberto Undiano Mallenco,North Korea,1,0,0.0,2.116354,0.0,0.996753,-0.083737,85,False,-0.000676,69
+Gamal Al-Ghandour | Costa Rica,-0.003246,0.038843,Gamal Al-Ghandour,Costa Rica,1,0,0.0,2.121587,0.0,0.996759,-0.083576,86,False,-0.000605,92
+Anders Frisk | China,-0.003227,0.038843,Anders Frisk,China,1,0,0.0,2.099929,0.0,0.996778,-0.083091,87,False,-0.000611,87
+Lu Jun | Mexico,-0.003212,0.038843,Lu Jun,Mexico,1,0,0.0,2.094643,0.0,0.996793,-0.082689,88,False,-0.000567,115
+Viktor Kassai | Germany,-0.003168,0.038844,Viktor Kassai,Germany,1,0,0.0,2.065665,0.0,0.996837,-0.081566,89,False,-0.000612,86
+Héctor Baldassi | Serbia,0.003167,0.038854,Héctor Baldassi,Serbia,1,4,4.0,1.871243,2.137616,1.003172,0.081522,90,False,0.000677,68
+László Vágner | Chile,0.003152,0.038854,László Vágner,Chile,1,4,4.0,1.878163,2.129741,1.003157,0.081116,91,False,0.000655,77
+Gamal Al-Ghandour | Chile,0.003142,0.038853,Gamal Al-Ghandour,Chile,1,4,4.0,1.890556,2.11578,1.003147,0.080874,92,False,0.000658,75
+Facundo Tello | Portugal,-0.003139,0.038815,Facundo Tello,Portugal,2,1,0.5,3.031365,0.329884,0.996866,-0.080871,93,False,-0.000563,122
+Marco Rodríguez | Paraguay,-0.003121,0.038815,Marco Rodríguez,Paraguay,1,1,1.0,3.029528,0.330084,0.996884,-0.080415,94,False,-0.000608,90
+Howard Webb | Italy,0.003107,0.038853,Howard Webb,Italy,1,4,4.0,1.916199,2.087466,1.003112,0.079978,95,False,0.000543,135
+Wolfgang Stark | Uruguay,-0.003104,0.038845,Wolfgang Stark,Uruguay,1,0,0.0,2.022514,0.0,0.996901,-0.079899,96,False,-0.000572,111
+Mario Sánchez Yanten | Nigeria,0.003094,0.038852,Mario Sánchez Yanten,Nigeria,1,4,4.0,1.917452,2.086102,1.003099,0.079634,97,False,0.000538,140
+Héctor Baldassi | Honduras,0.00309,0.038852,Héctor Baldassi,Honduras,1,4,4.0,1.921175,2.082059,1.003094,0.079524,98,False,0.000602,96
+Graham Poll | Croatia,0.003072,0.038762,Graham Poll,Croatia,2,7,3.5,4.887836,1.432127,1.003077,0.079256,99,False,0.000603,94
+Benito Archundia | Portugal,0.003033,0.03885,Benito Archundia,Portugal,1,4,4.0,1.964024,2.036635,1.003038,0.078075,100,False,0.000602,95
+Kim Milton Nielsen | Russia,0.003027,0.03885,Kim Milton Nielsen,Russia,1,4,4.0,1.964506,2.036136,1.003032,0.077927,101,False,0.000616,84
+Shamsul Maidin | Costa Rica,0.003026,0.038821,Shamsul Maidin,Costa Rica,1,5,5.0,2.949387,1.695267,1.00303,0.077938,102,False,0.000579,104
+Jorge Larrionda | France,-0.003003,0.038787,Jorge Larrionda,France,2,2,1.0,3.943999,0.5071,0.997001,-0.077428,103,False,-0.000606,91
+Bakary Gassama | Qatar,-0.002999,0.038847,Bakary Gassama,Qatar,1,0,0.0,1.949848,0.0,0.997005,-0.077205,104,False,-0.000578,107
+Howard Webb | Brazil,0.002997,0.038792,Howard Webb,Brazil,2,6,3.0,3.95169,1.518338,1.003001,0.077252,105,False,0.000483,187
+Wilmar Roldán | Tunisia,-0.002993,0.038848,Wilmar Roldán,Tunisia,1,0,0.0,1.949294,0.0,0.997012,-0.07704,106,False,-0.000545,134
+Erik Fredriksson | Argentina,0.002992,0.038851,Erik Fredriksson,Argentina,1,4,4.0,1.987812,2.012262,1.002997,0.077018,107,True,0.000623,83
+Carlos Batres | Denmark,0.002991,0.03885,Carlos Batres,Denmark,1,4,4.0,1.989215,2.010843,1.002996,0.076996,108,False,0.000596,100
+Sándor Puhl | Italy,-0.002978,0.038788,Sándor Puhl,Italy,2,2,1.0,3.916243,0.510694,0.997026,-0.076781,109,False,-0.000603,93
+Ravshan Irmatov | Costa Rica,0.002976,0.03885,Ravshan Irmatov,Costa Rica,1,4,4.0,2.000052,1.999948,1.00298,0.076596,110,False,0.000563,120
+Tullio Lanese | South Korea,0.002973,0.03885,Tullio Lanese,South Korea,1,4,4.0,2.003398,1.996608,1.002977,0.076517,111,False,0.000576,109
+Daniele Orsato | Qatar,0.00297,0.03885,Daniele Orsato,Qatar,1,4,4.0,1.996508,2.003498,1.002974,0.076439,112,False,0.00056,123
+Jamal Al Sharif | Mexico,0.002958,0.038821,Jamal Al Sharif,Mexico,1,5,5.0,2.992971,1.670581,1.002962,0.076187,113,False,0.00061,88
+Sergei Karasev | Australia,0.002953,0.03885,Sergei Karasev,Australia,1,4,4.0,2.006223,1.993797,1.002957,0.076013,114,False,0.000567,117
+Brian Hall | Nigeria,-0.002943,0.038848,Brian Hall,Nigeria,1,0,0.0,1.916561,0.0,0.997062,-0.075746,115,False,-0.000599,97
+Vítor Melo Pereira | Germany,0.002942,0.038849,Vítor Melo Pereira,Germany,1,4,4.0,2.020016,1.980182,1.002947,0.075734,116,False,0.000552,130
+Mario van der Ende | Argentina,-0.00294,0.038849,Mario van der Ende,Argentina,1,0,0.0,1.921835,0.0,0.997064,-0.075674,117,True,-0.000505,167
+George Courtney | Uruguay,0.002925,0.038849,George Courtney,Uruguay,1,4,4.0,2.029544,1.970886,1.002929,0.075297,118,False,0.000583,102
+Yuichi Nishimura | Uruguay,0.002919,0.038849,Yuichi Nishimura,Uruguay,1,4,4.0,2.036581,1.964076,1.002923,0.075134,119,False,0.000572,112
+Marc Batta | Romania,0.002894,0.038848,Marc Batta,Romania,1,4,4.0,2.046644,1.954419,1.002898,0.074499,120,False,0.00057,113
+Ubaldo Aquino | Sweden,-0.002893,0.03885,Ubaldo Aquino,Sweden,1,0,0.0,1.882987,0.0,0.997112,-0.074458,121,False,-0.000559,124
+Lu Jun | Poland,0.002889,0.038848,Lu Jun,Poland,1,4,4.0,2.050259,1.950973,1.002893,0.074361,122,False,0.000576,108
+Abdul Rahman Al-Zaid | Bulgaria,0.002889,0.038848,Abdul Rahman Al-Zaid,Bulgaria,1,4,4.0,2.050416,1.950824,1.002893,0.074358,123,False,0.00058,103
+Jamal Al Sharif | United States,0.002884,0.038848,Jamal Al Sharif,United States,1,4,4.0,2.06247,1.939422,1.002888,0.07424,124,False,0.000507,164
+Eddy Maillet | Slovakia,0.002852,0.038847,Eddy Maillet,Slovakia,1,4,4.0,2.071914,1.930582,1.002856,0.073414,125,False,0.000551,131
+Renato Marsiglia | Saudi Arabia,-0.002851,0.038821,Renato Marsiglia,Saudi Arabia,1,1,1.0,2.840103,0.3521,0.997153,-0.073439,126,False,-0.000598,98
+Clément Turpin | South Korea,-0.002845,0.03879,Clément Turpin,South Korea,2,2,1.0,3.828468,0.522402,0.997159,-0.073344,127,False,-0.000519,155
+Szymon Marciniak | Iceland,-0.002826,0.038851,Szymon Marciniak,Iceland,1,0,0.0,1.840728,0.0,0.997178,-0.072745,128,False,-0.000555,127
+Mario van der Ende | Italy,-0.002823,0.038851,Mario van der Ende,Italy,1,0,0.0,1.843539,0.0,0.997181,-0.072657,129,False,-0.000566,118
+Lu Jun | Croatia,-0.002822,0.038851,Lu Jun,Croatia,1,0,0.0,1.839435,0.0,0.997182,-0.072641,130,False,-0.000528,148
+Márcio Rezende de Freitas | South Korea,0.00282,0.038847,Márcio Rezende de Freitas,South Korea,1,4,4.0,2.097421,1.907104,1.002824,0.072589,131,False,0.000553,128
+Joël Quiniou | United States,0.002817,0.038817,Joël Quiniou,United States,1,5,5.0,3.085685,1.620386,1.002821,0.072561,132,False,0.000499,174
+Horacio Elizondo | Costa Rica,-0.002808,0.038821,Horacio Elizondo,Costa Rica,1,1,1.0,2.825011,0.353981,0.997196,-0.072323,133,False,-0.000527,149
+Kim Milton Nielsen | Yugoslavia,-0.002808,0.038851,Kim Milton Nielsen,Yugoslavia,1,0,0.0,1.829536,0.0,0.997196,-0.072265,134,False,-0.000521,154
+Said Belqola | Croatia,0.0028,0.038846,Said Belqola,Croatia,1,4,4.0,2.112463,1.893524,1.002804,0.072075,135,False,0.000535,141
+Lim Kee Chong | Brazil,-0.002771,0.038852,Lim Kee Chong,Brazil,1,0,0.0,1.806159,0.0,0.997233,-0.07132,136,False,-0.000555,125
+Felix Brych | Serbia,0.002771,0.038846,Felix Brych,Serbia,1,4,4.0,2.126312,1.881192,1.002775,0.071331,137,False,0.000609,89
+Joël Quiniou | South Korea,-0.002764,0.038823,Joël Quiniou,South Korea,1,1,1.0,2.795461,0.357723,0.99724,-0.071183,138,False,-0.000517,157
+Kyros Vassaras | Costa Rica,0.00276,0.038846,Kyros Vassaras,Costa Rica,1,4,4.0,2.132887,1.875393,1.002764,0.071046,139,False,0.000539,138
+Jamal Al Sharif | Romania,-0.002752,0.038823,Jamal Al Sharif,Romania,1,1,1.0,2.782855,0.359343,0.997252,-0.070876,140,False,-0.000529,147
+Massimo Busacca | Spain,-0.002742,0.038852,Massimo Busacca,Spain,1,0,0.0,1.790716,0.0,0.997262,-0.070568,141,False,-0.000567,116
+César Arturo Ramos | Uruguay,-0.002734,0.038853,César Arturo Ramos,Uruguay,1,0,0.0,1.783149,0.0,0.99727,-0.07037,142,False,-0.000495,175
+José María García-Aranda | France,-0.002729,0.038853,José María García-Aranda,France,1,0,0.0,1.778349,0.0,0.997275,-0.070241,143,False,-0.000541,136
+Michael Hester | South Korea,-0.002721,0.038853,Michael Hester,South Korea,1,0,0.0,1.7715,0.0,0.997282,-0.070039,144,False,-0.00051,162
+Philip Don | Saudi Arabia,0.002715,0.038844,Philip Don,Saudi Arabia,1,4,4.0,2.162555,1.849664,1.002719,0.069906,145,False,0.000482,189
+Ryszard Wójcik | Netherlands,-0.002708,0.038854,Ryszard Wójcik,Netherlands,1,0,0.0,1.763105,0.0,0.997296,-0.069693,146,False,-0.000455,224
+Horacio Elizondo | Italy,-0.002707,0.038823,Horacio Elizondo,Italy,1,1,1.0,2.757586,0.362636,0.997297,-0.069715,147,False,-0.000563,121
+Abdulrahman Al-Jassim | Croatia,-0.002703,0.038854,Abdulrahman Al-Jassim,Croatia,1,0,0.0,1.75895,0.0,0.997301,-0.069566,148,False,-0.000512,158
+Felipe Ramos | Slovenia,0.002702,0.038844,Felipe Ramos,Slovenia,1,4,4.0,2.172155,1.841489,1.002706,0.069566,149,False,0.000568,114
+Daniel Siebert | Australia,-0.002702,0.038854,Daniel Siebert,Australia,1,0,0.0,1.758196,0.0,0.997302,-0.069536,150,False,-0.000522,152
+Kurt Röthlisberger | Argentina,0.002683,0.038844,Kurt Röthlisberger,Argentina,1,4,4.0,2.194814,1.822478,1.002686,0.069067,151,True,0.000578,105
+Pierluigi Collina | Netherlands,-0.002682,0.038854,Pierluigi Collina,Netherlands,1,0,0.0,1.75154,0.0,0.997322,-0.069016,152,False,-0.000445,232
+Éric Poulat | Japan,-0.002674,0.038824,Éric Poulat,Japan,1,1,1.0,2.729415,0.366379,0.99733,-0.068866,153,False,-0.000564,119
+Leslie Mottram | Bolivia,0.002659,0.038844,Leslie Mottram,Bolivia,1,4,4.0,2.196667,1.820941,1.002662,0.068443,154,False,0.000518,156
+Alberto Undiano Mallenco | Ivory Coast,-0.00265,0.038855,Alberto Undiano Mallenco,Ivory Coast,1,0,0.0,1.724542,0.0,0.997353,-0.068213,155,False,-0.000505,168
+Gamal Al-Ghandour | South Korea,-0.002633,0.038825,Gamal Al-Ghandour,South Korea,1,1,1.0,2.70768,0.36932,0.99737,-0.067821,156,False,-0.000478,192
+Koman Coulibaly | Slovenia,0.002628,0.038843,Koman Coulibaly,Slovenia,1,4,4.0,2.215309,1.805617,1.002632,0.06767,157,False,0.000534,143
+Ravshan Irmatov | Algeria,-0.002611,0.038826,Ravshan Irmatov,Algeria,1,1,1.0,2.691837,0.371494,0.997393,-0.067237,158,False,-0.000532,145
+Ángel Sánchez | Slovenia,0.002606,0.038843,Ángel Sánchez,Slovenia,1,4,4.0,2.232479,1.79173,1.002609,0.067087,159,False,0.000538,139
+Felix Brych | Uruguay,0.002603,0.038872,Felix Brych,Uruguay,1,3,3.0,1.255436,2.389608,1.002607,0.06697,160,False,0.000507,165
+Mark Geiger | South Korea,0.002597,0.038842,Mark Geiger,South Korea,1,4,4.0,2.244818,1.781881,1.002601,0.066867,161,False,0.000512,160
+Kim Milton Nielsen | Republic of Ireland,-0.002594,0.038855,Kim Milton Nielsen,Republic of Ireland,1,0,0.0,1.691954,0.0,0.997409,-0.066759,162,False,-0.000523,151
+Clément Turpin | Saudi Arabia,-0.002592,0.038855,Clément Turpin,Saudi Arabia,1,0,0.0,1.688918,0.0,0.997411,-0.066713,163,False,-0.000521,153
+Janny Sikazwe | Poland,-0.002579,0.038857,Janny Sikazwe,Poland,1,0,0.0,1.678915,0.0,0.997424,-0.066374,164,False,-0.000478,191
+Shizuo Takada | Yugoslavia,0.002577,0.038872,Shizuo Takada,Yugoslavia,1,3,3.0,1.270299,2.361648,1.002581,0.066303,165,False,0.000505,169
+Nicola Rizzoli | Argentina,-0.002572,0.038767,Nicola Rizzoli,Argentina,3,3,1.0,4.633631,0.64744,0.997431,-0.06635,166,True,-0.00037,324
+Ali Bujsaim | Greece,0.002572,0.038842,Ali Bujsaim,Greece,1,4,4.0,2.262379,1.768051,1.002575,0.066208,167,False,0.000507,166
+Toru Kamikawa | Trinidad and Tobago,0.00257,0.038812,Toru Kamikawa,Trinidad and Tobago,1,5,5.0,3.24066,1.542896,1.002573,0.066208,168,False,0.000499,172
+Mark Geiger | Nigeria,-0.002565,0.038856,Mark Geiger,Nigeria,1,0,0.0,1.671319,0.0,0.997438,-0.06602,169,False,-0.00054,137
+Pirom Un-Prasert | Paraguay,-0.002563,0.038856,Pirom Un-Prasert,Paraguay,1,0,0.0,1.668187,0.0,0.99744,-0.065973,170,False,-0.000484,184
+Anthony Taylor | Croatia,-0.00256,0.038856,Anthony Taylor,Croatia,1,0,0.0,1.666521,0.0,0.997443,-0.065889,171,False,-0.000488,179
+Epifanio González | Croatia,0.002558,0.038841,Epifanio González,Croatia,1,4,4.0,2.267106,1.764364,1.002562,0.06587,172,False,0.000491,177
+Frank De Bleeckere | Algeria,0.002553,0.038841,Frank De Bleeckere,Algeria,1,4,4.0,2.273347,1.75952,1.002557,0.065739,173,False,0.000481,190
+Ali Bujsaim | Senegal,-0.002553,0.038827,Ali Bujsaim,Senegal,1,1,1.0,2.654204,0.376761,0.99745,-0.065753,174,False,-0.000488,180
+Khalil Al Ghamdi | Mexico,0.002548,0.038842,Khalil Al Ghamdi,Mexico,1,4,4.0,2.27477,1.75842,1.002552,0.06561,175,False,0.000512,159
+Eddie Lennie | Romania,-0.002534,0.038857,Eddie Lennie,Romania,1,0,0.0,1.648375,0.0,0.997469,-0.065208,176,False,-0.000468,198
+Michel Vautrot | Republic of Ireland,-0.002512,0.038857,Michel Vautrot,Republic of Ireland,1,0,0.0,1.638089,0.0,0.997492,-0.064637,177,False,-0.000525,150
+Felix Brych | Costa Rica,-0.002506,0.038858,Felix Brych,Costa Rica,1,0,0.0,1.63108,0.0,0.997497,-0.064493,178,False,-0.000486,183
+Benito Archundia | Switzerland,-0.002506,0.038827,Benito Archundia,Switzerland,1,1,1.0,2.627399,0.380605,0.997497,-0.064542,179,False,-0.000437,244
+Esfandiar Baharmast | Spain,0.002504,0.038869,Esfandiar Baharmast,Spain,1,3,3.0,1.320121,2.272519,1.002507,0.064416,180,False,0.00045,228
+Ravshan Irmatov | Croatia,0.002503,0.038811,Ravshan Irmatov,Croatia,2,5,2.5,3.297792,1.516166,1.002506,0.064484,181,False,0.000473,196
+Abdul Rahman Al-Zaid | Mexico,0.002494,0.03884,Abdul Rahman Al-Zaid,Mexico,1,4,4.0,2.309872,1.731698,1.002497,0.064201,182,False,0.000507,163
+Kim Milton Nielsen | Argentina,0.002489,0.03884,Kim Milton Nielsen,Argentina,1,4,4.0,2.316617,1.726656,1.002492,0.064072,183,True,0.000549,133
+Djamel Haimoudi | Brazil,0.002488,0.038869,Djamel Haimoudi,Brazil,1,3,3.0,1.329925,2.255766,1.002491,0.063998,184,False,0.000456,220
+Joël Quiniou | England,-0.00248,0.038858,Joël Quiniou,England,1,0,0.0,1.622627,0.0,0.997523,-0.063819,185,False,-0.000552,129
+Raphael Claus | Morocco,-0.00247,0.038858,Raphael Claus,Morocco,1,0,0.0,1.606501,0.0,0.997534,-0.063552,186,False,-0.000482,188
+Kim Young-joo | Turkey,0.002461,0.038839,Kim Young-joo,Turkey,1,4,4.0,2.325155,1.720316,1.002464,0.063361,187,False,0.000499,171
+Ben Williams | Ecuador,0.002458,0.038869,Ben Williams,Ecuador,1,3,3.0,1.34915,2.223622,1.002461,0.063227,188,False,0.000458,214
+Kurt Röthlisberger | Belgium,-0.002448,0.038829,Kurt Röthlisberger,Belgium,1,1,1.0,2.582483,0.387224,0.997555,-0.063039,189,False,-0.000534,142
+Clément Turpin | Switzerland,0.002446,0.038868,Clément Turpin,Switzerland,1,3,3.0,1.359824,2.206167,1.002449,0.062928,190,False,0.000492,176
+Jamal Al Sharif | Bulgaria,0.002437,0.03881,Jamal Al Sharif,Bulgaria,1,5,5.0,3.328586,1.50214,1.00244,0.062795,191,False,0.000503,170
+Luigi Agnolin | Colombia,-0.002422,0.038859,Luigi Agnolin,Colombia,1,0,0.0,1.577447,0.0,0.997581,-0.06232,192,False,-0.000461,210
+Juan Carlos Loustau | Costa Rica,-0.00242,0.038859,Juan Carlos Loustau,Costa Rica,1,0,0.0,1.577924,0.0,0.997583,-0.062269,193,False,-0.00045,229
+Fernando Rapallini | Croatia,-0.00242,0.03886,Fernando Rapallini,Croatia,1,0,0.0,1.576898,0.0,0.997583,-0.062267,194,False,-0.000464,202
+Zoran Petrović | Netherlands,-0.002418,0.038859,Zoran Petrović,Netherlands,1,0,0.0,1.577594,0.0,0.997585,-0.06223,195,False,-0.0004,286
+Jesús Valenzuela | United States,-0.002414,0.038859,Jesús Valenzuela,United States,1,0,0.0,1.571347,0.0,0.997589,-0.062113,196,False,-0.000476,193
+Carlos Vera | Ivory Coast,0.002412,0.038867,Carlos Vera,Ivory Coast,1,3,3.0,1.377418,2.177987,1.002415,0.062047,197,False,0.000469,197
+Clément Turpin | Uruguay,-0.002411,0.038829,Clément Turpin,Uruguay,2,1,0.5,2.557717,0.390974,0.997592,-0.062081,198,False,-0.00042,269
+Daniele Orsato | Mexico,0.002408,0.038839,Daniele Orsato,Mexico,1,4,4.0,2.364345,1.6918,1.002411,0.062002,199,False,0.000484,186
+Howard Webb | Colombia,-0.002404,0.03886,Howard Webb,Colombia,1,0,0.0,1.568608,0.0,0.997599,-0.06185,200,False,-0.000474,195
+Peter Mikkelsen | Belgium,-0.002398,0.038859,Peter Mikkelsen,Belgium,1,0,0.0,1.566083,0.0,0.997605,-0.061703,201,False,-0.000487,182
+Valentin Ivanov | Germany,-0.002397,0.03883,Valentin Ivanov,Germany,1,1,1.0,2.555447,0.391321,0.997605,-0.061741,202,False,-0.000487,181
+Shamsul Maidin | Angola,0.002393,0.038808,Shamsul Maidin,Angola,1,5,5.0,3.355087,1.490274,1.002396,0.061663,203,False,0.000457,218
+Tullio Lanese | Cameroon,0.002392,0.038838,Tullio Lanese,Cameroon,1,4,4.0,2.378301,1.681873,1.002395,0.061581,204,False,0.000463,204
+Héctor Baldassi | Portugal,-0.002381,0.03883,Héctor Baldassi,Portugal,1,1,1.0,2.536672,0.394217,0.997622,-0.061316,205,False,-0.000441,238
+Saad Mane | South Africa,0.002377,0.038837,Saad Mane,South Africa,1,4,4.0,2.383182,1.678428,1.00238,0.061211,206,False,0.000457,217
+Néstor Pitana | South Korea,0.002373,0.038867,Néstor Pitana,South Korea,1,3,3.0,1.409302,2.128714,1.002376,0.061061,207,False,0.000461,208
+Viktor Kassai | Spain,-0.002372,0.03886,Viktor Kassai,Spain,1,0,0.0,1.544885,0.0,0.99763,-0.061053,208,False,-0.00049,178
+Alberto Undiano Mallenco | Serbia,0.002363,0.038837,Alberto Undiano Mallenco,Serbia,1,4,4.0,2.39335,1.671298,1.002366,0.060852,209,False,0.000531,146
+Marco Rodríguez | Spain,-0.002361,0.038861,Marco Rodríguez,Spain,1,0,0.0,1.541116,0.0,0.997642,-0.060754,210,False,-0.000499,173
+Carlos Amarilla | Czech Republic,0.002356,0.038837,Carlos Amarilla,Czech Republic,1,4,4.0,2.398755,1.667532,1.002359,0.060674,211,False,0.000461,207
+Gilles Veissière | Japan,-0.002355,0.03886,Gilles Veissière,Japan,1,0,0.0,1.532962,0.0,0.997648,-0.060608,212,False,-0.000466,201
+Milorad Mažić | Mexico,-0.00235,0.038861,Milorad Mažić,Mexico,1,0,0.0,1.532525,0.0,0.997653,-0.060468,213,False,-0.000413,271
+Markus Merk | Denmark,-0.002349,0.038831,Markus Merk,Denmark,1,1,1.0,2.519709,0.396871,0.997654,-0.060484,214,False,-0.000426,263
+Marco Antonio Rodríguez | Germany,-0.002344,0.038861,Marco Antonio Rodríguez,Germany,1,0,0.0,1.520893,0.0,0.997659,-0.060321,215,False,-0.000453,225
+Óscar Ruiz | Netherlands,0.002337,0.038837,Óscar Ruiz,Netherlands,1,4,4.0,2.420045,1.652862,1.00234,0.060176,216,False,0.000532,144
+John Toro Rendón | South Africa,0.002335,0.038837,John Toro Rendón,South Africa,1,4,4.0,2.406399,1.662235,1.002337,0.060115,217,False,0.000433,250
+Paul Durkin | Austria,0.002333,0.038837,Paul Durkin,Austria,1,4,4.0,2.406417,1.662223,1.002336,0.06008,218,False,0.000468,199
+Márcio Rezende de Freitas | South Africa,-0.002328,0.038831,Márcio Rezende de Freitas,South Africa,1,1,1.0,2.497627,0.40038,0.997675,-0.059949,219,False,-0.000455,221
+Esfandiar Baharmast | Brazil,-0.002326,0.038861,Esfandiar Baharmast,Brazil,1,0,0.0,1.51462,0.0,0.997677,-0.059857,220,False,-0.00046,211
+Pirom Un-Prasert | Norway,-0.002325,0.038861,Pirom Un-Prasert,Norway,1,0,0.0,1.511575,0.0,0.997678,-0.059832,221,False,-0.000437,247
+Wilmar Roldán | Saudi Arabia,-0.002317,0.038861,Wilmar Roldán,Saudi Arabia,1,0,0.0,1.507016,0.0,0.997686,-0.05961,222,False,-0.000463,205
+Márcio Rezende de Freitas | France,0.002312,0.038866,Márcio Rezende de Freitas,France,1,3,3.0,1.444646,2.076633,1.002315,0.059497,223,False,0.000428,258
+Mustapha Ghorbal | Netherlands,-0.002311,0.038862,Mustapha Ghorbal,Netherlands,1,0,0.0,1.504681,0.0,0.997691,-0.059477,224,False,-0.000388,295
+Ľuboš Micheľ | Mexico,0.00231,0.038807,Ľuboš Micheľ,Mexico,1,5,5.0,3.425326,1.459715,1.002313,0.059534,225,False,0.000484,185
+Pedro Proença | Cameroon,-0.0023,0.038862,Pedro Proença,Cameroon,1,0,0.0,1.495916,0.0,0.997703,-0.059182,226,False,-0.000437,245
+Said Belqola | France,0.002298,0.038836,Said Belqola,France,1,4,4.0,2.435559,1.642333,1.0023,0.059162,227,False,0.000399,288
+Frank De Bleeckere | Argentina,0.002295,0.038776,Frank De Bleeckere,Argentina,2,6,3.0,4.422638,1.356656,1.002298,0.059196,228,True,0.000574,110
+Iván Barton | Japan,-0.002291,0.038861,Iván Barton,Japan,1,0,0.0,1.491776,0.0,0.997711,-0.058963,229,False,-0.000459,213
+César Arturo Ramos | Morocco,-0.002291,0.038801,César Arturo Ramos,Morocco,2,2,1.0,3.46711,0.576849,0.997711,-0.059053,230,False,-0.00046,212
+Marc Batta | England,-0.002285,0.038862,Marc Batta,England,1,0,0.0,1.488031,0.0,0.997718,-0.05879,231,False,-0.000511,161
+Pedro Proença | Netherlands,-0.002284,0.038862,Pedro Proença,Netherlands,1,0,0.0,1.485638,0.0,0.997719,-0.05876,232,False,-0.000383,300
+Aron Schmidhuber | Republic of Ireland,-0.002281,0.038862,Aron Schmidhuber,Republic of Ireland,1,0,0.0,1.486411,0.0,0.997721,-0.058699,233,False,-0.000463,203
+Valentin Ivanov | Switzerland,0.002275,0.038806,Valentin Ivanov,Switzerland,1,5,5.0,3.440732,1.453179,1.002278,0.058624,234,False,0.00044,240
+Peter Mikkelsen | Yugoslavia,-0.002269,0.038862,Peter Mikkelsen,Yugoslavia,1,0,0.0,1.481003,0.0,0.997733,-0.058388,235,False,-0.000416,270
+Carlos Amarilla | Ukraine,0.002251,0.038835,Carlos Amarilla,Ukraine,1,4,4.0,2.468126,1.620663,1.002253,0.05796,236,False,0.000424,265
+Wilton Sampaio | Poland,0.002246,0.038864,Wilton Sampaio,Poland,1,3,3.0,1.488289,2.015737,1.002248,0.057782,237,False,0.000445,235
+Massimo Busacca | Uruguay,-0.00224,0.038863,Massimo Busacca,Uruguay,1,0,0.0,1.460495,0.0,0.997762,-0.057651,238,False,-0.000409,275
+Malang Diedhiou | Belgium,-0.002229,0.038863,Malang Diedhiou,Belgium,1,0,0.0,1.450034,0.0,0.997774,-0.057353,239,False,-0.000455,223
+Epifanio González | Iran,-0.002222,0.038833,Epifanio González,Iran,1,1,1.0,2.431187,0.411322,0.99778,-0.057227,240,False,-0.00044,241
+Carlos Silva Valente | Romania,0.002211,0.038864,Carlos Silva Valente,Romania,1,3,3.0,1.512706,1.983201,1.002213,0.056884,241,False,0.000441,239
+Shamsul Maidin | Mexico,-0.002207,0.038834,Shamsul Maidin,Mexico,1,1,1.0,2.42721,0.411996,0.997796,-0.056829,242,False,-0.000378,307
+Eddie Lennie | Cameroon,0.002199,0.038834,Eddie Lennie,Cameroon,1,4,4.0,2.498,1.601281,1.002202,0.056635,243,False,0.000422,268
+Brian Hall | England,-0.002199,0.038863,Brian Hall,England,1,0,0.0,1.431742,0.0,0.997804,-0.056576,244,False,-0.000476,194
+Carlos Batres | Italy,-0.002189,0.038864,Carlos Batres,Italy,1,0,0.0,1.427925,0.0,0.997813,-0.056333,245,False,-0.000445,234
+Alberto Tejada Noriega | Cameroon,-0.002183,0.038834,Alberto Tejada Noriega,Cameroon,1,1,1.0,2.40836,0.41522,0.997819,-0.056212,246,False,-0.000407,277
+Fabio Baldas | United States,-0.002177,0.038834,Fabio Baldas,United States,1,1,1.0,2.399728,0.416714,0.997825,-0.056068,247,False,-0.000445,233
+Néstor Pitana | Mexico,0.002166,0.038863,Néstor Pitana,Mexico,1,3,3.0,1.545322,1.941343,1.002168,0.055737,248,False,0.000452,227
+César Arturo Ramos | Switzerland,0.00216,0.038803,César Arturo Ramos,Switzerland,2,5,2.5,3.511011,1.424091,1.002162,0.055657,249,False,0.000461,209
+Ismail Elfath | Ghana,0.002152,0.038833,Ismail Elfath,Ghana,1,4,4.0,2.528957,1.58168,1.002154,0.055403,250,False,0.000429,254
+Vítor Melo Pereira | Jamaica,-0.002148,0.038835,Vítor Melo Pereira,Jamaica,1,1,1.0,2.38415,0.419437,0.997854,-0.055306,251,False,-0.00043,253
+Matthew Conger | Iceland,-0.002146,0.038865,Matthew Conger,Iceland,1,0,0.0,1.393096,0.0,0.997857,-0.05521,252,False,-0.000408,276
+Roberto Rosetti | Mexico,-0.002144,0.038775,Roberto Rosetti,Mexico,2,3,1.5,4.367731,0.686855,0.997859,-0.055287,253,False,-0.000325,388
+Noumandiez Doué | Australia,0.002144,0.038862,Noumandiez Doué,Australia,1,3,3.0,1.551834,1.933197,1.002146,0.055162,254,False,0.000409,274
+Felipe Ramos | Uruguay,0.002134,0.038833,Felipe Ramos,Uruguay,1,4,4.0,2.543827,1.572434,1.002136,0.054942,255,False,0.000437,246
+Saad Mane | Spain,-0.002131,0.038865,Saad Mane,Spain,1,0,0.0,1.388494,0.0,0.997871,-0.054833,256,False,-0.000439,242
+Marco Rodríguez | Chile,0.002129,0.038833,Marco Rodríguez,Chile,1,4,4.0,2.549434,1.568976,1.002131,0.054818,257,False,0.000467,200
+Ravshan Irmatov | Germany,-0.002119,0.038806,Ravshan Irmatov,Germany,2,2,1.0,3.364785,0.594392,0.997884,-0.054596,258,False,-0.000439,243
+Jonas Eriksson | Argentina,0.002106,0.038862,Jonas Eriksson,Argentina,1,3,3.0,1.578022,1.901114,1.002109,0.054203,259,True,0.000446,231
+Juan Carlos Loustau | Belgium,-0.002105,0.038865,Juan Carlos Loustau,Belgium,1,0,0.0,1.373735,0.0,0.997897,-0.054172,260,False,-0.00043,252
+Francisco Oscar Lamolina | United States,-0.002073,0.038836,Francisco Oscar Lamolina,United States,1,1,1.0,2.334276,0.428398,0.997929,-0.053373,261,False,-0.000427,260
+José Torres Cadena | Brazil,-0.002068,0.038837,José Torres Cadena,Brazil,1,1,1.0,2.336202,0.428045,0.997934,-0.053256,262,False,-0.000427,261
+Saad Mane | South Korea,-0.002066,0.038836,Saad Mane,South Korea,1,1,1.0,2.332211,0.428778,0.997936,-0.053205,263,False,-0.00037,326
+Tullio Lanese | Brazil,0.002061,0.038861,Tullio Lanese,Brazil,1,3,3.0,1.613518,1.859291,1.002063,0.053038,264,False,0.000364,335
+Yuichi Nishimura | Spain,-0.002061,0.038867,Yuichi Nishimura,Spain,1,0,0.0,1.343582,0.0,0.997941,-0.053021,265,False,-0.000433,251
+Byron Moreno | United States,-0.00206,0.038837,Byron Moreno,United States,1,1,1.0,2.328481,0.429465,0.997942,-0.053054,266,False,-0.000425,264
+Éric Poulat | Iran,0.002059,0.038831,Éric Poulat,Iran,1,4,4.0,2.592324,1.543017,1.002061,0.053024,267,False,0.000401,284
+Zoran Petrović | England,-0.002051,0.038866,Zoran Petrović,England,1,0,0.0,1.337171,0.0,0.997951,-0.052779,268,False,-0.000455,222
+Damir Skomina | England,-0.002048,0.038867,Damir Skomina,England,1,0,0.0,1.333766,0.0,0.997954,-0.0527,269,False,-0.00045,230
+Clément Turpin | Costa Rica,0.002039,0.03886,Clément Turpin,Costa Rica,1,3,3.0,1.624508,1.846713,1.002041,0.052465,270,False,0.000405,282
+Slavko Vinčić | Argentina,-0.00203,0.038868,Slavko Vinčić,Argentina,1,0,0.0,1.319863,0.0,0.997972,-0.052222,271,True,-0.000345,364
+Slavko Vinčić | England,-0.002018,0.038867,Slavko Vinčić,England,1,0,0.0,1.313581,0.0,0.997984,-0.05193,272,False,-0.000453,226
+Stéphanie Frappart | Germany,-0.002017,0.038867,Stéphanie Frappart,Germany,1,0,0.0,1.311599,0.0,0.997985,-0.051887,273,False,-0.000388,294
+Stéphane Lannoy | Denmark,-0.002017,0.038838,Stéphane Lannoy,Denmark,1,1,1.0,2.296649,0.435417,0.997985,-0.051925,274,False,-0.000386,298
+Mario van der Ende | Switzerland,0.002016,0.03883,Mario van der Ende,Switzerland,1,4,4.0,2.622873,1.525045,1.002018,0.05192,275,False,0.000423,266
+Mark Geiger | Germany,-0.002016,0.038868,Mark Geiger,Germany,1,0,0.0,1.314792,0.0,0.997986,-0.051868,276,False,-0.000382,302
+Toru Kamikawa | Poland,-0.002013,0.038838,Toru Kamikawa,Poland,1,1,1.0,2.300375,0.434712,0.997989,-0.051841,277,False,-0.000359,344
+César Arturo Ramos | France,-0.00201,0.038867,César Arturo Ramos,France,1,0,0.0,1.310453,0.0,0.997992,-0.051715,278,False,-0.000396,291
+Yuichi Nishimura | New Zealand,-0.002007,0.038838,Yuichi Nishimura,New Zealand,1,1,1.0,2.290936,0.436503,0.997995,-0.051689,279,False,-0.000405,280
+César Arturo Ramos | Colombia,-0.002007,0.038867,César Arturo Ramos,Colombia,1,0,0.0,1.308364,0.0,0.997995,-0.051627,280,False,-0.000376,311
+Ľuboš Micheľ | South Africa,0.002004,0.038831,Ľuboš Micheľ,South Africa,1,4,4.0,2.633423,1.518936,1.002006,0.051603,281,False,0.00037,323
+Carlos Vera | Greece,-0.001991,0.038868,Carlos Vera,Greece,1,0,0.0,1.292913,0.0,0.998011,-0.051222,282,False,-0.00037,327
+Helmut Kohl | Brazil,-0.001987,0.038868,Helmut Kohl,Brazil,1,0,0.0,1.297504,0.0,0.998015,-0.051129,283,False,-0.000397,290
+Roberto Rosetti | Spain,-0.001983,0.038837,Roberto Rosetti,Spain,1,1,1.0,2.282757,0.438067,0.998019,-0.051062,284,False,-0.000443,237
+Said Belqola | Germany,0.001983,0.038859,Said Belqola,Germany,1,3,3.0,1.661607,1.805481,1.001984,0.051017,285,False,0.000373,317
+Gianluca Rocchi | Mexico,0.001978,0.03883,Gianluca Rocchi,Mexico,1,4,4.0,2.641925,1.514048,1.00198,0.050929,286,False,0.000427,262
+Vincent Mauro | Belgium,-0.001974,0.038868,Vincent Mauro,Belgium,1,0,0.0,1.285765,0.0,0.998028,-0.050786,287,False,-0.000403,283
+Ali Bujsaim | Sweden,-0.001974,0.038779,Ali Bujsaim,Sweden,2,3,1.5,4.253313,0.705333,0.998028,-0.050892,288,False,-0.000428,257
+Ravshan Irmatov | Greece,-0.001973,0.038839,Ravshan Irmatov,Greece,1,1,1.0,2.27735,0.439107,0.998029,-0.050792,289,False,-0.000381,306
+László Vágner | Cameroon,-0.001972,0.038839,László Vágner,Cameroon,1,1,1.0,2.268032,0.440911,0.99803,-0.050784,290,False,-0.000376,310
+Nicola Rizzoli | Netherlands,0.001968,0.038859,Nicola Rizzoli,Netherlands,1,3,3.0,1.668632,1.79788,1.00197,0.05065,291,False,0.000428,255
+Danny Makkelie | Germany,0.001967,0.038859,Danny Makkelie,Germany,1,3,3.0,1.668721,1.797784,1.001969,0.050626,292,False,0.000365,334
+Andrés Cunha | Spain,-0.001965,0.038869,Andrés Cunha,Spain,1,0,0.0,1.279242,0.0,0.998037,-0.050553,293,False,-0.000405,278
+Sandro Ricci | Russia,-0.001964,0.038839,Sandro Ricci,Russia,1,1,1.0,2.263963,0.441703,0.998038,-0.05056,294,False,-0.000347,360
+Clément Turpin | Ecuador,-0.001962,0.038868,Clément Turpin,Ecuador,1,0,0.0,1.27752,0.0,0.99804,-0.050476,295,False,-0.000375,315
+Essam Abd El Fatah | Australia,0.00196,0.038829,Essam Abd El Fatah,Australia,1,4,4.0,2.654826,1.50669,1.001962,0.050468,296,False,0.000383,301
+Björn Kuipers | Switzerland,-0.001958,0.038869,Björn Kuipers,Switzerland,1,0,0.0,1.27624,0.0,0.998044,-0.050364,297,False,-0.000357,350
+George Courtney | Colombia,-0.001958,0.038869,George Courtney,Colombia,1,0,0.0,1.273513,0.0,0.998044,-0.050362,298,False,-0.00037,325
+Joël Quiniou | Germany,0.001956,0.038859,Joël Quiniou,Germany,1,3,3.0,1.682195,1.783384,1.001958,0.050342,299,False,0.000376,313
+Victor Gomes | France,-0.001956,0.038869,Victor Gomes,France,1,0,0.0,1.272552,0.0,0.998046,-0.050326,300,False,-0.000387,297
+Javier Castrilli | Denmark,0.001955,0.038859,Javier Castrilli,Denmark,1,3,3.0,1.676012,1.789963,1.001957,0.05032,301,False,0.00039,293
+Raphael Claus | England,-0.001951,0.038869,Raphael Claus,England,1,0,0.0,1.269537,0.0,0.998051,-0.050195,302,False,-0.000436,249
+Pierluigi Pairetto | Argentina,0.001944,0.038829,Pierluigi Pairetto,Argentina,1,4,4.0,2.664568,1.501181,1.001946,0.050064,303,True,0.000444,236
+Yuichi Nishimura | Netherlands,0.001939,0.038829,Yuichi Nishimura,Netherlands,1,4,4.0,2.671756,1.497143,1.001941,0.049935,304,False,0.000457,215
+Juan Carlos Loustau | Scotland,-0.001937,0.038869,Juan Carlos Loustau,Scotland,1,0,0.0,1.260849,0.0,0.998065,-0.049832,305,False,-0.000375,316
+Ali Bujsaim | Netherlands,0.001936,0.038829,Ali Bujsaim,Netherlands,1,4,4.0,2.678598,1.493318,1.001938,0.049851,306,False,0.000457,216
+Ravshan Irmatov | Spain,-0.001933,0.038869,Ravshan Irmatov,Spain,1,0,0.0,1.263225,0.0,0.998069,-0.049731,307,False,-0.000405,279
+Cüneyt Çakır | Algeria,0.001926,0.038858,Cüneyt Çakır,Algeria,1,3,3.0,1.695884,1.768988,1.001928,0.049573,308,False,0.000357,346
+Wilton Sampaio | France,0.001923,0.038858,Wilton Sampaio,France,1,3,3.0,1.698781,1.765972,1.001925,0.049491,309,False,0.000347,359
+Elías Jácome | Spain,-0.001923,0.038869,Elías Jácome,Spain,1,0,0.0,1.252717,0.0,0.998079,-0.049469,310,False,-0.0004,287
+Gianluca Rocchi | Senegal,0.001919,0.038858,Gianluca Rocchi,Senegal,1,3,3.0,1.699439,1.765288,1.001921,0.049393,311,False,0.000376,314
+Siegfried Kirschen | Czechoslovakia,0.001916,0.038858,Siegfried Kirschen,Czechoslovakia,1,3,3.0,1.700783,1.763893,1.001918,0.049306,312,False,0.000405,281
+William Mattus | Ecuador,-0.001912,0.03884,William Mattus,Ecuador,1,1,1.0,2.228582,0.448716,0.99809,-0.049228,313,False,-0.00037,328
+Ángel Sánchez | South Korea,0.00191,0.038829,Ángel Sánchez,South Korea,1,4,4.0,2.689937,1.487024,1.001912,0.0492,314,False,0.000371,322
+Vítor Melo Pereira | Mexico,0.001904,0.038739,Vítor Melo Pereira,Mexico,2,7,3.5,5.646431,1.239721,1.001905,0.049141,315,False,0.000462,206
+Pablo Pozo | Netherlands,0.001903,0.038858,Pablo Pozo,Netherlands,1,3,3.0,1.711446,1.752904,1.001905,0.04897,316,False,0.000423,267
+Carlos Amarilla | Switzerland,-0.001896,0.03884,Carlos Amarilla,Switzerland,1,1,1.0,2.22074,0.4503,0.998106,-0.048809,317,False,-0.000338,375
+Joël Quiniou | Italy,-0.001895,0.03875,Joël Quiniou,Italy,3,4,1.333333,5.196907,0.769689,0.998107,-0.048906,318,False,-0.000437,248
+Iván Barton | Germany,-0.001888,0.03887,Iván Barton,Germany,1,0,0.0,1.229498,0.0,0.998114,-0.048569,319,False,-0.000357,348
+Victor Gomes | Spain,-0.001884,0.03887,Victor Gomes,Spain,1,0,0.0,1.225601,0.0,0.998117,-0.04848,320,False,-0.000392,292
+Cüneyt Çakır | Iran,0.001883,0.038857,Cüneyt Çakır,Iran,1,3,3.0,1.726398,1.737722,1.001885,0.048464,321,False,0.000361,340
+Toru Kamikawa | Republic of Ireland,0.001883,0.038857,Toru Kamikawa,Republic of Ireland,1,3,3.0,1.726772,1.737345,1.001885,0.048457,322,False,0.000331,381
+Alireza Faghani | Portugal,0.001881,0.038857,Alireza Faghani,Portugal,1,3,3.0,1.729153,1.734954,1.001883,0.048411,323,False,0.000371,321
+Peter Mikkelsen | Colombia,0.001881,0.038856,Peter Mikkelsen,Colombia,1,3,3.0,1.727586,1.736527,1.001882,0.048399,324,False,0.000372,318
+Viktor Kassai | United States,0.001879,0.038856,Viktor Kassai,United States,1,3,3.0,1.727798,1.736314,1.001881,0.048357,325,False,0.000349,355
+José Roberto Wright | Italy,-0.001877,0.03887,José Roberto Wright,Italy,1,0,0.0,1.225939,0.0,0.998124,-0.048301,326,False,-0.000372,320
+Peter Mikkelsen | Netherlands,-0.001877,0.03884,Peter Mikkelsen,Netherlands,1,1,1.0,2.210356,0.452416,0.998124,-0.048334,327,False,-0.000266,466
+Coffi Codjia | Saudi Arabia,-0.001873,0.03881,Coffi Codjia,Saudi Arabia,1,2,2.0,3.19217,0.626533,0.998128,-0.04827,328,False,-0.000428,256
+Noumandiez Doué | France,-0.001864,0.038871,Noumandiez Doué,France,1,0,0.0,1.212211,0.0,0.998138,-0.047952,329,False,-0.000376,312
+Clément Turpin | Brazil,-0.00186,0.03887,Clément Turpin,Brazil,1,0,0.0,1.210879,0.0,0.998141,-0.047862,330,False,-0.000366,333
+Michael Oliver | Japan,0.001856,0.038857,Michael Oliver,Japan,1,3,3.0,1.742393,1.72177,1.001858,0.047776,331,False,0.000314,398
+Juan Carlos Loustau | Spain,-0.001853,0.03887,Juan Carlos Loustau,Spain,1,0,0.0,1.208775,0.0,0.998149,-0.047659,332,False,-0.000382,304
+Renato Marsiglia | Belgium,-0.001851,0.038841,Renato Marsiglia,Belgium,1,1,1.0,2.189832,0.456656,0.998151,-0.047645,333,False,-0.000411,272
+Eddy Maillet | Honduras,-0.001846,0.038841,Eddy Maillet,Honduras,1,1,1.0,2.183966,0.457883,0.998155,-0.047536,334,False,-0.000348,357
+Coffi Codjia | Spain,0.001844,0.038856,Coffi Codjia,Spain,1,3,3.0,1.751309,1.713004,1.001846,0.047458,335,False,0.000311,402
+Iván Barton | England,-0.001843,0.03887,Iván Barton,England,1,0,0.0,1.198616,0.0,0.998158,-0.04742,336,False,-0.000401,285
+Mohammed Abdulla Hassan Mohamed | Spain,-0.001838,0.038871,Mohammed Abdulla Hassan Mohamed,Spain,1,0,0.0,1.195984,0.0,0.998164,-0.047273,337,False,-0.000386,299
+Jair Marrufo | Belgium,-0.001836,0.038871,Jair Marrufo,Belgium,1,0,0.0,1.192442,0.0,0.998166,-0.047226,338,False,-0.000372,319
+Jonas Eriksson | United States,-0.001831,0.038871,Jonas Eriksson,United States,1,0,0.0,1.191338,0.0,0.998171,-0.047102,339,False,-0.000367,331
+Carlos Vera | Nigeria,-0.001831,0.038871,Carlos Vera,Nigeria,1,0,0.0,1.189212,0.0,0.998171,-0.047096,340,False,-0.000382,303
+John Toro Rendón | Denmark,0.001818,0.038856,John Toro Rendón,Denmark,1,3,3.0,1.763278,1.701376,1.00182,0.046789,341,False,0.00036,342
+Jorge Larrionda | Australia,0.001815,0.038855,Jorge Larrionda,Australia,1,3,3.0,1.774543,1.690576,1.001817,0.046716,342,False,0.000353,352
+Néstor Pitana | Portugal,-0.001814,0.038872,Néstor Pitana,Portugal,1,0,0.0,1.18387,0.0,0.998187,-0.046678,343,False,-0.000332,380
+Michael Oliver | Brazil,0.001814,0.038856,Michael Oliver,Brazil,1,3,3.0,1.767832,1.696993,1.001816,0.046688,344,False,0.000316,396
+Lim Kee Chong | Romania,0.00181,0.038855,Lim Kee Chong,Romania,1,3,3.0,1.77057,1.69437,1.001811,0.046577,345,False,0.000364,336
+Jesús Valenzuela | England,-0.001807,0.038871,Jesús Valenzuela,England,1,0,0.0,1.175492,0.0,0.998195,-0.046481,346,False,-0.000399,289
+Pedro Proença | Mexico,0.001804,0.038855,Pedro Proença,Mexico,1,3,3.0,1.773682,1.691397,1.001805,0.046424,347,False,0.000377,309
+Luis Medina Cantalejo | Brazil,0.001803,0.038826,Luis Medina Cantalejo,Brazil,1,4,4.0,2.765183,1.446559,1.001805,0.046445,348,False,0.000297,419
+Nawaf Shukralla | Ghana,0.001799,0.038856,Nawaf Shukralla,Ghana,1,3,3.0,1.77867,1.686654,1.0018,0.046296,349,False,0.000357,347
+Roberto Rosetti | Iran,-0.001796,0.038842,Roberto Rosetti,Iran,1,1,1.0,2.161062,0.462735,0.998205,-0.046251,350,False,-0.000338,374
+Olegário Benquerença | Nigeria,0.001791,0.038855,Olegário Benquerença,Nigeria,1,3,3.0,1.784897,1.680769,1.001792,0.046091,351,False,0.000289,430
+Said Belqola | Brazil,-0.001777,0.038843,Said Belqola,Brazil,1,1,1.0,2.142455,0.466754,0.998224,-0.045759,352,False,-0.000377,308
+Björn Kuipers | Italy,-0.001776,0.038872,Björn Kuipers,Italy,1,0,0.0,1.157862,0.0,0.998226,-0.045679,353,False,-0.000357,349
+Shamsul Maidin | Sweden,-0.001775,0.038843,Shamsul Maidin,Sweden,1,1,1.0,2.143604,0.466504,0.998226,-0.045703,354,False,-0.000369,330
+Sandro Ricci | Germany,-0.001775,0.038842,Sandro Ricci,Germany,2,1,0.5,2.142057,0.466841,0.998227,-0.045695,355,False,-0.000343,367
+Matthew Conger | France,-0.001768,0.038872,Matthew Conger,France,1,0,0.0,1.149657,0.0,0.998234,-0.045477,356,False,-0.000347,362
+Javier Castrilli | Saudi Arabia,-0.001756,0.038843,Javier Castrilli,Saudi Arabia,1,1,1.0,2.127517,0.470032,0.998245,-0.04522,357,False,-0.000382,305
+Juan Carlos Loustau | Netherlands,0.00175,0.038854,Juan Carlos Loustau,Netherlands,1,3,3.0,1.813183,1.654549,1.001752,0.045046,358,False,0.00041,273
+Roberto Rosetti | Ghana,0.00175,0.038854,Roberto Rosetti,Ghana,1,3,3.0,1.815325,1.652597,1.001751,0.045033,359,False,0.000358,345
+Marco Rodríguez | Ivory Coast,0.001749,0.038825,Marco Rodríguez,Ivory Coast,1,4,4.0,2.799616,1.428768,1.001751,0.045054,360,False,0.000352,353
+Alan Snoddy | Colombia,0.001749,0.038854,Alan Snoddy,Colombia,1,3,3.0,1.811215,1.656347,1.001751,0.045019,361,False,0.000331,382
+Elías Jácome | South Korea,0.001746,0.038854,Elías Jácome,South Korea,1,3,3.0,1.815473,1.652462,1.001747,0.044929,362,False,0.000349,354
+Milorad Mažić | Argentina,-0.001746,0.038873,Milorad Mažić,Argentina,1,0,0.0,1.137451,0.0,0.998256,-0.044907,363,True,-0.000299,416
+George Smith | Austria,0.001745,0.038855,George Smith,Austria,1,3,3.0,1.812982,1.654732,1.001746,0.044908,364,False,0.000354,351
+Ravshan Irmatov | Netherlands,0.001744,0.038795,Ravshan Irmatov,Netherlands,2,5,2.5,3.792687,1.318326,1.001745,0.044944,365,False,0.000456,219
+Mourad Daami | Mexico,-0.001743,0.038844,Mourad Daami,Mexico,1,1,1.0,2.118901,0.471943,0.998258,-0.044877,366,False,-0.00029,428
+Sandro Ricci | Algeria,-0.001739,0.038843,Sandro Ricci,Algeria,1,1,1.0,2.113211,0.473214,0.998263,-0.044765,367,False,-0.000343,366
+Victor Gomes | Japan,0.001739,0.038854,Victor Gomes,Japan,1,3,3.0,1.816085,1.651905,1.00174,0.044748,368,False,0.000297,421
+Horacio Elizondo | Portugal,-0.001736,0.038813,Horacio Elizondo,Portugal,1,2,2.0,3.109033,0.643287,0.998265,-0.044733,369,False,-0.000293,426
+Milorad Mažić | Germany,-0.001735,0.038873,Milorad Mažić,Germany,1,0,0.0,1.130127,0.0,0.998266,-0.044634,370,False,-0.000336,377
+Jerome Damon | Denmark,0.001733,0.038854,Jerome Damon,Denmark,1,3,3.0,1.820527,1.647875,1.001734,0.044599,371,False,0.000342,369
+Benito Archundia | Uruguay,-0.001731,0.038843,Benito Archundia,Uruguay,1,1,1.0,2.11803,0.472137,0.99827,-0.044565,372,False,-0.000307,406
+Esfandiar Baharmast | Nigeria,-0.001728,0.038843,Esfandiar Baharmast,Nigeria,1,1,1.0,2.107816,0.474425,0.998273,-0.044494,373,False,-0.000387,296
+Yuichi Nishimura | France,0.001722,0.038854,Yuichi Nishimura,France,1,3,3.0,1.833531,1.636187,1.001724,0.044333,374,False,0.000296,422
+Peter Prendergast | Belgium,-0.001714,0.038843,Peter Prendergast,Belgium,1,1,1.0,2.099567,0.476289,0.998288,-0.044124,375,False,-0.000369,329
+Markus Merk | Japan,0.001712,0.038853,Markus Merk,Japan,1,3,3.0,1.840553,1.629945,1.001714,0.044072,376,False,0.0003,415
+Pierluigi Collina | Germany,-0.001708,0.038843,Pierluigi Collina,Germany,1,1,1.0,2.101541,0.475841,0.998293,-0.043978,377,False,-0.000322,391
+Frank De Bleeckere | Paraguay,-0.001707,0.038844,Frank De Bleeckere,Paraguay,1,1,1.0,2.101003,0.475963,0.998295,-0.043934,378,False,-0.000329,384
+Néstor Pitana | Switzerland,-0.001701,0.038874,Néstor Pitana,Switzerland,1,0,0.0,1.109093,0.0,0.998301,-0.043751,379,False,-0.000311,401
+Markus Merk | United States,-0.001699,0.038844,Markus Merk,United States,1,1,1.0,2.097404,0.47678,0.998302,-0.043741,380,False,-0.000347,361
+Malang Diedhiou | Japan,-0.001695,0.038844,Malang Diedhiou,Japan,1,1,1.0,2.086818,0.479199,0.998306,-0.043648,381,False,-0.000364,337
+Toru Kamikawa | Cameroon,-0.001695,0.038844,Toru Kamikawa,Cameroon,1,1,1.0,2.093247,0.477727,0.998306,-0.043636,382,False,-0.000303,409
+Abdul Rahman Al-Zaid | Paraguay,-0.001692,0.038844,Abdul Rahman Al-Zaid,Paraguay,1,1,1.0,2.086038,0.479378,0.998309,-0.043564,383,False,-0.000342,368
+Luis Medina Cantalejo | Poland,0.001691,0.038824,Luis Medina Cantalejo,Poland,1,4,4.0,2.83815,1.409369,1.001693,0.043559,384,False,0.000339,373
+Michel Vautrot | Cameroon,0.001691,0.038853,Michel Vautrot,Cameroon,1,3,3.0,1.853019,1.618979,1.001692,0.043522,385,False,0.000327,387
+Daniel Siebert | Tunisia,0.001683,0.038853,Daniel Siebert,Tunisia,1,3,3.0,1.85201,1.619862,1.001685,0.043323,386,False,0.000334,378
+Falla N'Doye | Saudi Arabia,-0.001682,0.038844,Falla N'Doye,Saudi Arabia,1,1,1.0,2.076873,0.481493,0.99832,-0.043293,387,False,-0.000348,356
+José María García-Aranda | Scotland,-0.00168,0.038844,José María García-Aranda,Scotland,1,1,1.0,2.076144,0.481662,0.998321,-0.043258,388,False,-0.000348,358
+Peter Prendergast | Brazil,-0.001669,0.038844,Peter Prendergast,Brazil,1,1,1.0,2.072016,0.482622,0.998332,-0.042971,389,False,-0.000341,370
+Andrés Cunha | Belgium,0.001666,0.038853,Andrés Cunha,Belgium,1,3,3.0,1.863783,1.609629,1.001667,0.042881,390,False,0.00028,444
+Rodrigo Badilla | Brazil,-0.001666,0.038844,Rodrigo Badilla,Brazil,1,1,1.0,2.069816,0.483135,0.998336,-0.04288,391,False,-0.000341,371
+Danny Makkelie | Poland,-0.001661,0.038845,Danny Makkelie,Poland,1,1,1.0,2.061587,0.485063,0.99834,-0.042765,392,False,-0.00031,404
+Nawaf Shukralla | Tunisia,0.00166,0.038853,Nawaf Shukralla,Tunisia,1,3,3.0,1.868805,1.605304,1.001661,0.042714,393,False,0.000336,376
+Gilles Veissière | Nigeria,-0.001654,0.038844,Gilles Veissière,Nigeria,1,1,1.0,2.060098,0.485414,0.998348,-0.042569,394,False,-0.000366,332
+Anders Frisk | Spain,0.001648,0.038852,Anders Frisk,Spain,1,3,3.0,1.876145,1.599023,1.001649,0.042413,395,False,0.00028,446
+William Mattus | Belgium,0.001639,0.038852,William Mattus,Belgium,1,3,3.0,1.883254,1.592988,1.00164,0.042185,396,False,0.000274,451
+Hugh Dallas | Portugal,0.001637,0.038852,Hugh Dallas,Portugal,1,3,3.0,1.887334,1.589543,1.001639,0.042143,397,False,0.000344,365
+Nawaf Shukralla | Panama,0.001636,0.038852,Nawaf Shukralla,Panama,1,3,3.0,1.882019,1.594033,1.001637,0.0421,398,False,0.00034,372
+Urs Meier | Nigeria,-0.001631,0.038845,Urs Meier,Nigeria,1,1,1.0,2.047342,0.488438,0.99837,-0.042,399,False,-0.000362,339
+Aron Schmidhuber | Yugoslavia,0.001627,0.038852,Aron Schmidhuber,Yugoslavia,1,3,3.0,1.889887,1.587397,1.001628,0.041872,400,False,0.000334,379
+Óscar Ruiz | Greece,0.001625,0.038852,Óscar Ruiz,Greece,1,3,3.0,1.895527,1.582673,1.001626,0.041817,401,False,0.000315,397
+Epifanio González | Cameroon,-0.00162,0.038845,Epifanio González,Cameroon,1,1,1.0,2.039816,0.49024,0.998381,-0.041714,402,False,-0.000306,407
+Antonio Mateu Lahoz | United States,-0.001618,0.038846,Antonio Mateu Lahoz,United States,1,1,1.0,2.04325,0.489416,0.998384,-0.041639,403,False,-0.00036,341
+Saad Mane | Uruguay,-0.001617,0.038845,Saad Mane,Uruguay,1,1,1.0,2.039495,0.490317,0.998384,-0.041623,404,False,-0.000284,438
+Luis Medina Cantalejo | Argentina,-0.001615,0.038816,Luis Medina Cantalejo,Argentina,1,2,2.0,3.03333,0.659341,0.998386,-0.041617,405,True,-0.000234,521
+Pierluigi Collina | Brazil,-0.001593,0.038846,Pierluigi Collina,Brazil,1,1,1.0,2.026247,0.493523,0.998408,-0.041008,406,False,-0.000324,389
+Malang Diedhiou | Russia,0.00156,0.03885,Malang Diedhiou,Russia,1,3,3.0,1.932617,1.552299,1.001562,0.040165,407,False,0.000321,392
+Carlos Amarilla | Tunisia,0.001559,0.038821,Carlos Amarilla,Tunisia,1,4,4.0,2.921529,1.369146,1.00156,0.040159,408,False,0.000327,386
+Ubaldo Aquino | Saudi Arabia,-0.001557,0.038846,Ubaldo Aquino,Saudi Arabia,1,1,1.0,1.997816,0.500547,0.998444,-0.04008,409,False,-0.000323,390
+Arturo Brizio Carter | Bolivia,0.001555,0.038821,Arturo Brizio Carter,Bolivia,1,4,4.0,2.922385,1.368745,1.001557,0.040066,410,False,0.000302,412
+Jair Marrufo | Tunisia,-0.001549,0.038847,Jair Marrufo,Tunisia,1,1,1.0,1.988348,0.50293,0.998452,-0.039876,411,False,-0.00027,460
+Bo Karlsson | Argentina,-0.001549,0.038847,Bo Karlsson,Argentina,1,1,1.0,1.992214,0.501954,0.998452,-0.039868,412,True,-0.000233,524
+Günter Benkö | South Korea,-0.001548,0.038847,Günter Benkö,South Korea,1,1,1.0,1.993404,0.501655,0.998453,-0.039859,413,False,-0.000283,439
+Sándor Puhl | Mexico,-0.001538,0.038847,Sándor Puhl,Mexico,1,1,1.0,1.989316,0.502685,0.998464,-0.039581,414,False,-0.000239,514
+Gamal Al-Ghandour | United States,-0.001534,0.038847,Gamal Al-Ghandour,United States,1,1,1.0,1.988748,0.502829,0.998467,-0.03948,415,False,-0.000319,393
+Terje Hauge | Saudi Arabia,-0.001529,0.038847,Terje Hauge,Saudi Arabia,1,1,1.0,1.97742,0.50571,0.998472,-0.03936,416,False,-0.000319,394
+Marc Batta | Chile,-0.001524,0.038818,Marc Batta,Chile,1,2,2.0,2.955673,0.676665,0.998477,-0.039265,417,False,-0.000216,557
+Gamal Al-Ghandour | Austria,-0.001522,0.038848,Gamal Al-Ghandour,Austria,1,1,1.0,1.978118,0.505531,0.998479,-0.039191,418,False,-0.000266,465
+Ángel Sánchez | Portugal,0.00152,0.03885,Ángel Sánchez,Portugal,1,3,3.0,1.961001,1.529831,1.001521,0.039115,419,False,0.000313,400
+Emilio Soriano Aladrén | Egypt,-0.001517,0.038847,Emilio Soriano Aladrén,Egypt,1,1,1.0,1.969362,0.507779,0.998484,-0.039062,420,False,-0.000304,408
+Facundo Tello | Cameroon,-0.001516,0.038847,Facundo Tello,Cameroon,1,1,1.0,1.970825,0.507402,0.998485,-0.039019,421,False,-0.000289,429
+Mark Geiger | Morocco,-0.001516,0.038848,Mark Geiger,Morocco,1,1,1.0,1.973549,0.506701,0.998486,-0.039015,422,False,-0.000301,413
+Alireza Faghani | France,0.001514,0.03885,Alireza Faghani,France,1,3,3.0,1.967488,1.524787,1.001515,0.038966,423,False,0.000259,481
+Horacio Elizondo | Czech Republic,-0.001512,0.038848,Horacio Elizondo,Czech Republic,1,1,1.0,1.971312,0.507276,0.998489,-0.038924,424,False,-0.000271,459
+Iván Barton | Senegal,-0.001509,0.038847,Iván Barton,Senegal,1,1,1.0,1.963079,0.509404,0.998492,-0.038838,425,False,-0.000273,454
+Jorge Larrionda | Germany,-0.001507,0.038848,Jorge Larrionda,Germany,1,1,1.0,1.972,0.507099,0.998495,-0.03878,426,False,-0.000297,420
+Lim Kee Chong | Colombia,-0.001506,0.038848,Lim Kee Chong,Colombia,1,1,1.0,1.964306,0.509086,0.998495,-0.038779,427,False,-0.000293,425
+Massimo Busacca | Mexico,0.001506,0.038819,Massimo Busacca,Mexico,1,4,4.0,2.957741,1.352383,1.001507,0.038788,428,False,0.00036,343
+Djamel Haimoudi | England,0.001505,0.038878,Djamel Haimoudi,England,1,2,2.0,0.987845,2.024609,1.001507,0.03872,429,False,0.000238,516
+Björn Kuipers | Costa Rica,-0.001502,0.038848,Björn Kuipers,Costa Rica,1,1,1.0,1.964074,0.509146,0.998499,-0.038675,430,False,-0.000271,458
+Éric Poulat | Brazil,-0.001502,0.038848,Éric Poulat,Brazil,1,1,1.0,1.965039,0.508896,0.998499,-0.038664,431,False,-0.00031,403
+Markus Merk | Australia,-0.001502,0.038818,Markus Merk,Australia,1,2,2.0,2.955043,0.676809,0.998499,-0.038688,432,False,-0.000287,432
+René Ortubé | Nigeria,-0.001501,0.038848,René Ortubé,Nigeria,1,1,1.0,1.959179,0.510418,0.9985,-0.038633,433,False,-0.000331,383
+Ali Bujsaim | Argentina,0.001486,0.038849,Ali Bujsaim,Argentina,1,3,3.0,1.990933,1.506831,1.001487,0.038246,434,True,0.000346,363
+Victor Gomes | Australia,0.001474,0.038849,Victor Gomes,Australia,1,3,3.0,1.987266,1.509611,1.001475,0.037952,435,False,0.000285,436
+Arturo Brizio Carter | Nigeria,0.001473,0.03882,Arturo Brizio Carter,Nigeria,1,4,4.0,2.978275,1.343059,1.001474,0.037942,436,False,0.000198,601
+Ľuboš Micheľ | Portugal,0.00147,0.03882,Ľuboš Micheľ,Portugal,1,4,4.0,2.988007,1.338685,1.001471,0.037868,437,False,0.000296,423
+Markus Merk | Serbia and Montenegro,0.001469,0.038819,Markus Merk,Serbia and Montenegro,1,4,4.0,2.980135,1.342221,1.00147,0.03785,438,False,0.000316,395
+Markus Merk | Brazil,0.001465,0.038848,Markus Merk,Brazil,1,3,3.0,2.003383,1.497467,1.001466,0.037718,439,False,0.000251,493
+Michael Oliver | Costa Rica,0.001464,0.038849,Michael Oliver,Costa Rica,1,3,3.0,1.997592,1.501808,1.001465,0.037682,440,False,0.000277,449
+Mario van der Ende | Japan,0.001458,0.038848,Mario van der Ende,Japan,1,3,3.0,2.005072,1.496206,1.001459,0.037538,441,False,0.000241,510
+Bernd Heynemann | Italy,0.001457,0.038848,Bernd Heynemann,Italy,1,3,3.0,2.000654,1.49951,1.001458,0.037493,442,False,0.000244,504
+Ramesh Ramdhan | Japan,0.001455,0.038848,Ramesh Ramdhan,Japan,1,3,3.0,2.000525,1.499606,1.001456,0.037448,443,False,0.000237,519
+Renato Marsiglia | Sweden,0.001453,0.038848,Renato Marsiglia,Sweden,1,3,3.0,2.001435,1.498924,1.001454,0.037399,444,False,0.000265,467
+Rodrigo Badilla | Bulgaria,-0.001452,0.038849,Rodrigo Badilla,Bulgaria,1,1,1.0,1.929242,0.518338,0.998549,-0.037373,445,False,-0.000233,525
+Jonas Eriksson | Cameroon,0.001451,0.038848,Jonas Eriksson,Cameroon,1,3,3.0,2.001183,1.499114,1.001452,0.037352,446,False,0.00027,462
+Jamal Al Sharif | Cameroon,-0.001451,0.03882,Jamal Al Sharif,Cameroon,1,2,2.0,2.919708,0.685,0.99855,-0.037372,447,False,-0.000291,427
+Joël Quiniou | Sweden,0.00145,0.038848,Joël Quiniou,Sweden,1,3,3.0,2.012039,1.491025,1.001451,0.037335,448,False,0.000258,483
+Andrés Cunha | Australia,0.001448,0.038848,Andrés Cunha,Australia,1,3,3.0,2.00628,1.495305,1.001449,0.03728,449,False,0.000287,433
+Edgardo Codesal | United States,-0.001445,0.038849,Edgardo Codesal,United States,1,1,1.0,1.928619,0.518506,0.998556,-0.037184,450,False,-0.000303,410
+Arturo Angeles | Argentina,-0.001437,0.038849,Arturo Angeles,Argentina,1,1,1.0,1.919446,0.520984,0.998564,-0.037002,451,True,-0.000216,560
+Alireza Faghani | Belgium,-0.001434,0.03885,Alireza Faghani,Belgium,1,1,1.0,1.920829,0.520609,0.998567,-0.036916,452,False,-0.000327,385
+José Torres Cadena | Republic of Ireland,0.00143,0.038848,José Torres Cadena,Republic of Ireland,1,3,3.0,2.020957,1.484446,1.001431,0.036817,453,False,0.000231,529
+Markus Merk | England,-0.001425,0.038849,Markus Merk,England,1,1,1.0,1.916931,0.521667,0.998576,-0.036692,454,False,-0.000363,338
+Howard Webb | Slovakia,0.001424,0.038819,Howard Webb,Slovakia,1,4,4.0,3.009801,1.328992,1.001425,0.036685,455,False,0.000257,485
+Ľuboš Micheľ | Ghana,0.00142,0.038759,Ľuboš Micheľ,Ghana,1,6,6.0,4.982735,1.204158,1.001421,0.036644,456,False,0.000294,424
+Olegário Benquerença | Cameroon,-0.001409,0.03885,Olegário Benquerença,Cameroon,1,1,1.0,1.902624,0.52559,0.998592,-0.036272,457,False,-0.000264,471
+Arturo Brizio Carter | Cameroon,-0.001408,0.03882,Arturo Brizio Carter,Cameroon,1,2,2.0,2.89402,0.69108,0.998593,-0.036267,458,False,-0.000262,475
+Damir Skomina | Sweden,-0.001407,0.03885,Damir Skomina,Sweden,1,1,1.0,1.898893,0.526623,0.998594,-0.036214,459,False,-0.000281,441
+Pierluigi Collina | Japan,-0.001406,0.038849,Pierluigi Collina,Japan,1,1,1.0,1.902437,0.525642,0.998595,-0.0362,460,False,-0.000286,434
+Filippi Cavani | Germany,-0.001403,0.03885,Filippi Cavani,Germany,1,1,1.0,1.896676,0.527238,0.998598,-0.036124,461,False,-0.000269,464
+Frank De Bleeckere | Ivory Coast,-0.001401,0.03882,Frank De Bleeckere,Ivory Coast,1,2,2.0,2.890958,0.691812,0.9986,-0.036081,462,False,-0.00025,495
+Pirom Un-Prasert | Morocco,-0.001399,0.038849,Pirom Un-Prasert,Morocco,1,1,1.0,1.893392,0.528153,0.998602,-0.036005,463,False,-0.000273,453
+Matthew Conger | Tunisia,-0.001398,0.038849,Matthew Conger,Tunisia,1,1,1.0,1.891144,0.52878,0.998603,-0.035972,464,False,-0.000244,506
+Ali Bujsaim | Morocco,-0.001397,0.03885,Ali Bujsaim,Morocco,1,1,1.0,1.899242,0.526526,0.998604,-0.035955,465,False,-0.000284,437
+Olegário Benquerença | Uruguay,0.001394,0.038847,Olegário Benquerença,Uruguay,1,3,3.0,2.041946,1.469187,1.001395,0.035882,466,False,0.000287,431
+Björn Kuipers | Brazil,0.00139,0.038876,Björn Kuipers,Brazil,1,2,2.0,1.064332,1.879114,1.001391,0.035758,467,False,0.000263,472
+Filippi Cavani | Spain,0.001388,0.038847,Filippi Cavani,Spain,1,3,3.0,2.04369,1.467933,1.001389,0.035737,468,False,0.000208,581
+Jonas Eriksson | Brazil,-0.001387,0.03888,Jonas Eriksson,Brazil,1,0,0.0,0.901248,0.0,0.998614,-0.035676,469,False,-0.000278,448
+Gianluca Rocchi | Portugal,-0.001387,0.038851,Gianluca Rocchi,Portugal,1,1,1.0,1.887112,0.52991,0.998614,-0.035699,470,False,-0.000245,503
+Pierluigi Collina | Argentina,-0.001379,0.03885,Pierluigi Collina,Argentina,1,1,1.0,1.887521,0.529796,0.998622,-0.035506,471,True,-0.000197,603
+Kim Milton Nielsen | Brazil,-0.001378,0.03885,Kim Milton Nielsen,Brazil,1,1,1.0,1.885763,0.530289,0.998622,-0.035482,472,False,-0.000279,447
+Markus Merk | Ghana,0.001367,0.038817,Markus Merk,Ghana,1,4,4.0,3.049747,1.311584,1.001368,0.035215,473,False,0.000299,417
+Alireza Faghani | Serbia,0.001366,0.038757,Alireza Faghani,Serbia,2,6,3.0,5.008417,1.197983,1.001367,0.03525,474,False,0.000427,259
+José María García-Aranda | Yugoslavia,0.001366,0.038846,José María García-Aranda,Yugoslavia,1,3,3.0,2.057538,1.458053,1.001367,0.035166,475,False,0.00028,445
+Janny Sikazwe | Japan,-0.001365,0.038851,Janny Sikazwe,Japan,1,1,1.0,1.873183,0.533851,0.998636,-0.035135,476,False,-0.0003,414
+Cüneyt Çakır | Brazil,0.001349,0.038876,Cüneyt Çakır,Brazil,1,2,2.0,1.090903,1.833343,1.00135,0.0347,477,False,0.000239,515
+Wolfgang Stark | Nigeria,-0.001345,0.038851,Wolfgang Stark,Nigeria,1,1,1.0,1.860769,0.537412,0.998656,-0.034629,478,False,-0.000314,399
+Olegário Benquerença | South Korea,-0.001345,0.038851,Olegário Benquerença,South Korea,1,1,1.0,1.86221,0.536996,0.998656,-0.034621,479,False,-0.000248,497
+Hugh Dallas | Belgium,-0.001338,0.038851,Hugh Dallas,Belgium,1,1,1.0,1.858734,0.538001,0.998663,-0.034427,480,False,-0.000307,405
+Óscar Ruiz | Poland,0.001336,0.038846,Óscar Ruiz,Poland,1,3,3.0,2.08454,1.439166,1.001337,0.034397,481,False,0.000274,452
+Terje Hauge | Cameroon,-0.001329,0.038851,Terje Hauge,Cameroon,1,1,1.0,1.847533,0.541262,0.998672,-0.03421,482,False,-0.000232,527
+Michael Hester | Greece,-0.001329,0.038851,Michael Hester,Greece,1,1,1.0,1.845402,0.541887,0.998672,-0.034209,483,False,-0.000243,509
+George Courtney | United Arab Emirates,0.001324,0.038846,George Courtney,United Arab Emirates,1,3,3.0,2.084474,1.439212,1.001325,0.034081,484,False,0.000258,484
+Sándor Puhl | Sweden,-0.001324,0.038851,Sándor Puhl,Sweden,1,1,1.0,1.848158,0.541079,0.998677,-0.034072,485,False,-0.000261,478
+Mario Sánchez Yanten | Saudi Arabia,-0.00132,0.038852,Mario Sánchez Yanten,Saudi Arabia,1,1,1.0,1.841791,0.54295,0.99868,-0.033986,486,False,-0.000286,435
+Sandro Ricci | Denmark,-0.001301,0.038852,Sandro Ricci,Denmark,1,1,1.0,1.83385,0.545301,0.998699,-0.033495,487,False,-0.000234,523
+Frank De Bleeckere | England,0.001301,0.038845,Frank De Bleeckere,England,1,3,3.0,2.110066,1.421756,1.001302,0.033498,488,False,0.000156,673
+Benito Archundia | Brazil,0.0013,0.038815,Benito Archundia,Brazil,2,4,2.0,3.099171,1.290668,1.001301,0.033501,489,False,0.00022,550
+Arturo Brizio Carter | Brazil,-0.001297,0.038852,Arturo Brizio Carter,Brazil,1,1,1.0,1.835101,0.544929,0.998704,-0.033386,490,False,-0.000273,456
+Stéphanie Frappart | Costa Rica,-0.001296,0.038852,Stéphanie Frappart,Costa Rica,1,1,1.0,1.824474,0.548103,0.998705,-0.033353,491,False,-0.000243,508
+Cüneyt Çakır | Morocco,-0.001293,0.038853,Cüneyt Çakır,Morocco,1,1,1.0,1.828797,0.546807,0.998708,-0.033282,492,False,-0.000262,474
+Michael Oliver | Mexico,-0.001288,0.038853,Michael Oliver,Mexico,1,1,1.0,1.823515,0.548391,0.998713,-0.033138,493,False,-0.000217,553
+Kim Young-joo | Brazil,-0.001286,0.038852,Kim Young-joo,Brazil,1,1,1.0,1.82108,0.549125,0.998715,-0.03309,494,False,-0.000272,457
+Toru Kamikawa | Germany,-0.001285,0.038822,Toru Kamikawa,Germany,1,2,2.0,2.812871,0.711017,0.998716,-0.033097,495,False,-0.000253,491
+Zoran Petrović | Sweden,0.001277,0.038874,Zoran Petrović,Sweden,1,2,2.0,1.13665,1.759557,1.001278,0.032858,496,False,0.00024,511
+Antonio Mateu Lahoz | Iran,0.001276,0.038845,Antonio Mateu Lahoz,Iran,1,3,3.0,2.122749,1.413262,1.001277,0.032853,497,False,0.00022,549
+Mark Shield | Iran,0.001276,0.038845,Mark Shield,Iran,1,3,3.0,2.119865,1.415185,1.001277,0.03285,498,False,0.000252,492
+Graham Poll | Italy,-0.001275,0.038853,Graham Poll,Italy,1,1,1.0,1.818583,0.549879,0.998726,-0.032809,499,False,-0.000269,463
+Benito Archundia | Paraguay,-0.001272,0.038852,Benito Archundia,Paraguay,1,1,1.0,1.818343,0.549951,0.998729,-0.032734,500,False,-0.000245,501
+Marcel Van Langenhove | Egypt,-0.001268,0.038853,Marcel Van Langenhove,Egypt,1,1,1.0,1.807249,0.553327,0.998733,-0.03263,501,False,-0.000249,496
+Ismail Elfath | Brazil,0.001266,0.038874,Ismail Elfath,Brazil,1,2,2.0,1.142554,1.750465,1.001267,0.03257,502,False,0.000226,536
+Facundo Tello | Morocco,0.001262,0.038844,Facundo Tello,Morocco,1,3,3.0,2.125206,1.411628,1.001263,0.0325,503,False,0.000223,543
+Héctor Baldassi | Switzerland,-0.001259,0.038853,Héctor Baldassi,Switzerland,1,1,1.0,1.80587,0.55375,0.998742,-0.032393,504,False,-0.000228,532
+Sandro Ricci | Ghana,-0.001249,0.038853,Sandro Ricci,Ghana,1,1,1.0,1.798171,0.556121,0.998751,-0.032157,505,False,-0.000221,547
+Urs Meier | Denmark,-0.001248,0.038853,Urs Meier,Denmark,1,1,1.0,1.79691,0.556511,0.998753,-0.032124,506,False,-0.000214,566
+Mario van der Ende | Republic of Ireland,0.001247,0.038844,Mario van der Ende,Republic of Ireland,1,3,3.0,2.140706,1.401407,1.001248,0.032096,507,False,0.000193,613
+Carlos Amarilla | United States,-0.001245,0.038823,Carlos Amarilla,United States,1,2,2.0,2.78594,0.71789,0.998756,-0.032062,508,False,-0.000281,442
+Byron Moreno | South Korea,0.001242,0.038815,Byron Moreno,South Korea,1,4,4.0,3.122598,1.280985,1.001243,0.03201,509,False,0.000256,486
+Olegário Benquerença | Japan,-0.001241,0.038853,Olegário Benquerença,Japan,1,1,1.0,1.792988,0.557728,0.998759,-0.031951,510,False,-0.000277,450
+Coffi Codjia | Turkey,0.00124,0.038844,Coffi Codjia,Turkey,1,3,3.0,2.143097,1.399843,1.00124,0.031913,511,False,0.00027,461
+Milorad Mažić | Senegal,-0.001239,0.038853,Milorad Mažić,Senegal,1,1,1.0,1.791284,0.558259,0.998762,-0.031885,512,False,-0.000228,534
+Jerome Damon | Slovakia,-0.001239,0.038854,Jerome Damon,Slovakia,1,1,1.0,1.785195,0.560163,0.998762,-0.031882,513,False,-0.000225,539
+Néstor Pitana | Denmark,-0.001236,0.038853,Néstor Pitana,Denmark,1,1,1.0,1.791732,0.558119,0.998765,-0.031804,514,False,-0.000215,563
+Sándor Puhl | Brazil,-0.001234,0.038793,Sándor Puhl,Brazil,2,3,1.5,3.762619,0.797317,0.998767,-0.03181,515,False,-0.000265,468
+José Roberto Wright | Austria,-0.00123,0.038853,José Roberto Wright,Austria,1,1,1.0,1.787461,0.559453,0.998771,-0.031658,516,False,-0.000207,583
+Carlos Silva Valente | Republic of Ireland,-0.001228,0.038854,Carlos Silva Valente,Republic of Ireland,1,1,1.0,1.783628,0.560655,0.998773,-0.031612,517,False,-0.000273,455
+Antonio Mateu Lahoz | Senegal,0.001228,0.038844,Antonio Mateu Lahoz,Senegal,1,3,3.0,2.152638,1.393639,1.001229,0.031614,518,False,0.000217,555
+Ben Williams | South Korea,-0.001226,0.038854,Ben Williams,South Korea,1,1,1.0,1.781864,0.56121,0.998775,-0.031541,519,False,-0.000238,518
+Vítor Melo Pereira | France,-0.00121,0.038854,Vítor Melo Pereira,France,1,1,1.0,1.775306,0.563283,0.998791,-0.031143,520,False,-0.000254,490
+Epifanio González | Austria,-0.001207,0.038854,Epifanio González,Austria,1,1,1.0,1.767412,0.565799,0.998794,-0.031063,521,False,-0.000209,576
+Markus Merk | Russia,0.001202,0.038843,Markus Merk,Russia,1,3,3.0,2.172136,1.381129,1.001203,0.030946,522,False,0.00026,480
+Eddy Maillet | Paraguay,-0.001201,0.038854,Eddy Maillet,Paraguay,1,1,1.0,1.764506,0.566731,0.9988,-0.0309,523,False,-0.00024,512
+César Arturo Ramos | Denmark,0.0012,0.038872,César Arturo Ramos,Denmark,1,2,2.0,1.18768,1.683956,1.001201,0.030877,524,False,0.000245,502
+Antonio Mateu Lahoz | Qatar,0.0012,0.038844,Antonio Mateu Lahoz,Qatar,1,3,3.0,2.168724,1.383302,1.001201,0.030898,525,False,0.000213,568
+Damir Skomina | Japan,-0.001199,0.038854,Damir Skomina,Japan,1,1,1.0,1.764463,0.566745,0.998801,-0.030866,526,False,-0.000255,487
+Björn Kuipers | Uruguay,-0.00119,0.038824,Björn Kuipers,Uruguay,2,2,1.0,2.746616,0.728169,0.99881,-0.030662,527,False,-0.00018,635
+Gehad Grisha | Panama,0.001176,0.038843,Gehad Grisha,Panama,1,3,3.0,2.176136,1.37859,1.001177,0.030287,528,False,0.000258,482
+Hellmut Krug | Italy,-0.001175,0.038854,Hellmut Krug,Italy,1,1,1.0,1.749346,0.571642,0.998825,-0.030251,529,False,-0.000245,500
+Massimo Busacca | England,-0.001174,0.038854,Massimo Busacca,England,1,1,1.0,1.752928,0.570474,0.998827,-0.03022,530,False,-0.000302,411
+Viktor Kassai | Uruguay,-0.001171,0.038854,Viktor Kassai,Uruguay,1,1,1.0,1.748634,0.571875,0.99883,-0.030134,531,False,-0.000202,592
+Enrique Cáceres | Russia,-0.00117,0.038855,Enrique Cáceres,Russia,1,1,1.0,1.742258,0.573968,0.998831,-0.03011,532,False,-0.000203,589
+Rune Pedersen | Argentina,-0.00117,0.038855,Rune Pedersen,Argentina,1,1,1.0,1.746592,0.572543,0.998831,-0.030103,533,True,-0.000173,651
+Rodrigo Badilla | Nigeria,-0.001168,0.038854,Rodrigo Badilla,Nigeria,1,1,1.0,1.744957,0.57308,0.998833,-0.030063,534,False,-0.000261,477
+Koman Coulibaly | United States,-0.001165,0.038855,Koman Coulibaly,United States,1,1,1.0,1.740787,0.574453,0.998836,-0.02998,535,False,-0.00025,494
+Graham Poll | Australia,-0.001162,0.038825,Graham Poll,Australia,1,2,2.0,2.732051,0.732051,0.998839,-0.029925,536,False,-0.000215,562
+Graham Poll | Togo,0.001161,0.038813,Graham Poll,Togo,1,4,4.0,3.175355,1.259702,1.001162,0.029924,537,False,0.000218,551
+Iván Barton | Switzerland,-0.001161,0.038854,Iván Barton,Switzerland,1,1,1.0,1.737743,0.575459,0.998839,-0.029888,538,False,-0.000198,600
+Óscar Ruiz | Nigeria,-0.001161,0.038855,Óscar Ruiz,Nigeria,1,1,1.0,1.744073,0.57337,0.99884,-0.029873,539,False,-0.000281,443
+Mustapha Ghorbal | Ecuador,-0.00116,0.038854,Mustapha Ghorbal,Ecuador,1,1,1.0,1.736238,0.575958,0.998841,-0.029849,540,False,-0.000234,522
+Ali Bujsaim | Scotland,-0.001159,0.038855,Ali Bujsaim,Scotland,1,1,1.0,1.742194,0.573989,0.998841,-0.029839,541,False,-0.000244,507
+Bernd Heynemann | Colombia,-0.001158,0.038855,Bernd Heynemann,Colombia,1,1,1.0,1.736529,0.575861,0.998842,-0.029812,542,False,-0.000223,545
+Howard Webb | Switzerland,0.001158,0.038814,Howard Webb,Switzerland,1,4,4.0,3.186537,1.255281,1.001159,0.029833,543,False,0.000209,578
+Francisco Oscar Lamolina | Italy,-0.001157,0.038855,Francisco Oscar Lamolina,Italy,1,1,1.0,1.737465,0.575551,0.998844,-0.029777,544,False,-0.000246,498
+Enrique Cáceres | Egypt,-0.001156,0.038855,Enrique Cáceres,Egypt,1,1,1.0,1.731702,0.577466,0.998845,-0.029742,545,False,-0.00023,530
+Lu Jun | United States,-0.001155,0.038854,Lu Jun,United States,1,1,1.0,1.736398,0.575905,0.998846,-0.029723,546,False,-0.000232,526
+César Arturo Ramos | Tunisia,-0.001149,0.038855,César Arturo Ramos,Tunisia,1,1,1.0,1.734748,0.576453,0.998851,-0.029581,547,False,-0.0002,594
+Howard Webb | Spain,0.001148,0.038783,Howard Webb,Spain,2,5,2.5,4.176647,1.197132,1.001148,0.029595,548,False,5.9e-05,897
+Tullio Lanese | Sweden,-0.001142,0.038856,Tullio Lanese,Sweden,1,1,1.0,1.731771,0.577444,0.998858,-0.029403,549,False,-0.000244,505
+Massimo Busacca | Argentina,-0.001142,0.038825,Massimo Busacca,Argentina,1,2,2.0,2.719047,0.735552,0.998859,-0.029412,550,True,-0.000128,734
+Néstor Pitana | Germany,0.00114,0.038871,Néstor Pitana,Germany,1,2,2.0,1.227282,1.629617,1.001141,0.029329,551,False,0.000216,556
+Neji Jouini | Brazil,0.001136,0.038872,Neji Jouini,Brazil,1,2,2.0,1.231292,1.62431,1.001137,0.029229,552,False,0.000197,604
+Nawaf Shukralla | Poland,-0.001134,0.038856,Nawaf Shukralla,Poland,1,1,1.0,1.722526,0.580543,0.998867,-0.029187,553,False,-0.000205,587
+Carlos Simon | United States,0.001131,0.038842,Carlos Simon,United States,1,3,3.0,2.221976,1.35015,1.001132,0.029125,554,False,0.000183,629
+Rune Pedersen | Jamaica,0.001129,0.038842,Rune Pedersen,Jamaica,1,3,3.0,2.210638,1.357074,1.001129,0.029061,555,False,0.000207,582
+Hugh Dallas | Italy,0.001127,0.038842,Hugh Dallas,Italy,1,3,3.0,2.21828,1.352399,1.001128,0.029023,556,False,0.000174,648
+Ravshan Irmatov | Mexico,0.00112,0.038812,Ravshan Irmatov,Mexico,2,4,2.0,3.217076,1.243365,1.00112,0.028847,557,False,0.000265,469
+Wilmar Roldán | South Korea,0.001114,0.038871,Wilmar Roldán,South Korea,1,2,2.0,1.241661,1.610745,1.001114,0.028656,558,False,0.000224,541
+Carlos Maciel | Scotland,-0.001107,0.038856,Carlos Maciel,Scotland,1,1,1.0,1.703139,0.587151,0.998894,-0.028492,559,False,-0.000228,535
+Antonio Mateu Lahoz | Iceland,0.001106,0.038842,Antonio Mateu Lahoz,Iceland,1,3,3.0,2.230877,1.344763,1.001107,0.028486,560,False,0.000176,645
+Márcio Rezende de Freitas | Belgium,-0.001106,0.038856,Márcio Rezende de Freitas,Belgium,1,1,1.0,1.703638,0.586979,0.998895,-0.028452,561,False,-0.000255,488
+Wilton Sampaio | England,-0.001103,0.038856,Wilton Sampaio,England,1,1,1.0,1.702731,0.587292,0.998897,-0.028399,562,False,-0.000299,418
+Coffi Codjia | Costa Rica,-0.001102,0.038767,Coffi Codjia,Costa Rica,2,4,2.0,4.661106,0.858165,0.998899,-0.028416,563,False,-0.000179,638
+Ravshan Irmatov | Uruguay,-0.001101,0.038826,Ravshan Irmatov,Uruguay,1,2,2.0,2.694202,0.742335,0.9989,-0.028356,564,False,-0.000206,584
+Carlos Batres | Algeria,0.001101,0.038841,Carlos Batres,Algeria,1,3,3.0,2.233183,1.343374,1.001101,0.02834,565,False,0.000199,596
+Helmut Kohl | West Germany,-0.001099,0.038856,Helmut Kohl,West Germany,1,1,1.0,1.699484,0.588414,0.998902,-0.028282,566,False,-0.000213,570
+Wolfgang Stark | South Korea,0.001099,0.038841,Wolfgang Stark,South Korea,1,3,3.0,2.235561,1.341945,1.001099,0.02829,567,False,0.000225,538
+José María García-Aranda | Croatia,0.001099,0.038841,José María García-Aranda,Croatia,1,3,3.0,2.234832,1.342383,1.001099,0.028285,568,False,0.000217,552
+Carlos Simon | England,0.001098,0.038811,Carlos Simon,England,2,4,2.0,3.230595,1.238162,1.001098,0.028287,569,False,6e-05,895
+Graham Poll | Ukraine,0.001097,0.038841,Graham Poll,Ukraine,1,3,3.0,2.236572,1.341339,1.001098,0.02825,570,False,0.000211,574
+Brian Hall | Ecuador,0.001094,0.03884,Brian Hall,Ecuador,1,3,3.0,2.235285,1.34211,1.001094,0.028156,571,False,0.000214,564
+Sandro Ricci | Nigeria,-0.001089,0.038856,Sandro Ricci,Nigeria,1,1,1.0,1.695453,0.589813,0.998911,-0.028037,572,False,-0.000254,489
+Wolfgang Stark | Argentina,-0.001083,0.038856,Wolfgang Stark,Argentina,1,1,1.0,1.691392,0.591229,0.998918,-0.027864,573,True,-0.000158,671
+Carlos Velasco Carballo | Brazil,0.00108,0.03887,Carlos Velasco Carballo,Brazil,1,2,2.0,1.261951,1.584847,1.001081,0.027789,574,False,0.000191,617
+Gamal Al-Ghandour | Paraguay,0.00108,0.03884,Gamal Al-Ghandour,Paraguay,1,3,3.0,2.251856,1.332234,1.001081,0.027805,575,False,0.000209,579
+Kyros Vassaras | China,0.00108,0.038841,Kyros Vassaras,China,1,3,3.0,2.240758,1.338833,1.00108,0.027801,576,False,0.000198,599
+Bakary Gassama | Netherlands,-0.001072,0.038827,Bakary Gassama,Netherlands,2,2,1.0,2.666725,0.749984,0.998928,-0.027615,577,False,-0.000113,774
+Neji Jouini | Argentina,0.001068,0.038841,Neji Jouini,Argentina,1,3,3.0,2.258691,1.328203,1.001068,0.027492,578,True,0.000261,476
+Said Belqola | Argentina,0.001067,0.038841,Said Belqola,Argentina,1,3,3.0,2.259794,1.327555,1.001068,0.027474,579,True,0.000262,473
+Marco Rodríguez | Algeria,-0.001065,0.038857,Marco Rodríguez,Algeria,1,1,1.0,1.678181,0.595883,0.998935,-0.027419,580,False,-0.000209,575
+Carlos Batres | Germany,0.001062,0.038841,Carlos Batres,Germany,1,3,3.0,2.263898,1.325148,1.001063,0.027351,581,False,0.000202,590
+Carlos Simon | Sweden,0.001062,0.038751,Carlos Simon,Sweden,2,6,3.0,5.225461,1.148224,1.001062,0.027393,582,False,0.000158,669
+Alberto Tejada Noriega | Sweden,-0.00106,0.038857,Alberto Tejada Noriega,Sweden,1,1,1.0,1.674921,0.597043,0.99894,-0.02729,583,False,-0.000217,554
+Enrique Osses | Japan,0.00106,0.03887,Enrique Osses,Japan,1,2,2.0,1.275188,1.568397,1.001061,0.02728,584,False,0.000178,641
+Felix Brych | Belgium,0.001058,0.03887,Felix Brych,Belgium,1,2,2.0,1.278166,1.564742,1.001059,0.027218,585,False,0.000161,666
+George Courtney | Italy,-0.001053,0.038857,George Courtney,Italy,1,1,1.0,1.671649,0.598212,0.998947,-0.027106,586,False,-0.000228,533
+Felix Brych | Switzerland,-0.001051,0.038857,Felix Brych,Switzerland,1,1,1.0,1.667901,0.599556,0.99895,-0.027036,587,False,-0.000185,627
+Chris Beath | Poland,-0.001046,0.038857,Chris Beath,Poland,1,1,1.0,1.66156,0.601844,0.998954,-0.026922,588,False,-0.000191,618
+Cüneyt Çakır | England,-0.00104,0.038857,Cüneyt Çakır,England,1,1,1.0,1.663443,0.601163,0.998961,-0.026763,589,False,-0.000283,440
+Edgardo Codesal | Argentina,0.001034,0.03884,Edgardo Codesal,Argentina,1,3,3.0,2.282137,1.314557,1.001035,0.026625,590,True,0.000264,470
+Lim Kee Chong | Russia,0.001034,0.03884,Lim Kee Chong,Russia,1,3,3.0,2.274359,1.319053,1.001035,0.026625,591,False,0.000229,531
+Marco Rodríguez | Australia,0.001033,0.03884,Marco Rodríguez,Australia,1,3,3.0,2.283127,1.313987,1.001033,0.026583,592,False,0.000194,608
+Michel Vautrot | Netherlands,-0.001022,0.038858,Michel Vautrot,Netherlands,1,1,1.0,1.654248,0.604504,0.998978,-0.026309,593,False,-0.000139,709
+Cüneyt Çakır | Russia,0.001022,0.03887,Cüneyt Çakır,Russia,1,2,2.0,1.302331,1.535708,1.001023,0.026297,594,False,0.000208,580
+Mario Escobar | Wales,-0.001022,0.038858,Mario Escobar,Wales,1,1,1.0,1.644018,0.608266,0.998979,-0.0263,595,False,-0.000196,606
+Edgardo Codesal | Cameroon,0.001021,0.03884,Edgardo Codesal,Cameroon,1,3,3.0,2.287922,1.311233,1.001021,0.026285,596,False,0.000209,577
+José Roberto Wright | West Germany,-0.001021,0.038858,José Roberto Wright,West Germany,1,1,1.0,1.648994,0.60643,0.99898,-0.026265,597,False,-0.000192,615
+Djamel Haimoudi | Australia,-0.001015,0.038858,Djamel Haimoudi,Australia,1,1,1.0,1.643969,0.608284,0.998985,-0.02613,598,False,-0.000196,605
+Kim Milton Nielsen | Belgium,-0.001015,0.038857,Kim Milton Nielsen,Belgium,1,1,1.0,1.648524,0.606603,0.998985,-0.026128,599,False,-0.000224,542
+Szymon Marciniak | Germany,0.00101,0.038869,Szymon Marciniak,Germany,1,2,2.0,1.31215,1.524216,1.00101,0.025977,600,False,0.000193,612
+Javier Castrilli | Romania,0.001009,0.03884,Javier Castrilli,Romania,1,3,3.0,2.289642,1.310248,1.00101,0.025989,601,False,0.000213,567
+Yuichi Nishimura | Honduras,-0.001008,0.038828,Yuichi Nishimura,Honduras,1,2,2.0,2.624603,0.76202,0.998992,-0.025972,602,False,-0.000189,621
+Vincent Mauro | South Korea,-0.001004,0.038858,Vincent Mauro,South Korea,1,1,1.0,1.639612,0.609901,0.998996,-0.025848,603,False,-0.000175,647
+Carlos Silva Valente | Italy,-0.001003,0.038858,Carlos Silva Valente,Italy,1,1,1.0,1.639051,0.610109,0.998997,-0.025824,604,False,-0.000216,559
+Michael Oliver | Croatia,-0.000999,0.038829,Michael Oliver,Croatia,1,2,2.0,2.615937,0.764544,0.999001,-0.025734,605,False,-0.000204,588
+Vítor Melo Pereira | Denmark,-0.000997,0.038829,Vítor Melo Pereira,Denmark,1,2,2.0,2.620376,0.763249,0.999004,-0.025672,606,False,-0.000181,633
+Joël Quiniou | Russia,0.000992,0.038839,Joël Quiniou,Russia,1,3,3.0,2.310068,1.298663,1.000992,0.025538,607,False,0.000222,546
+Mark Shield | Belgium,-0.000991,0.038858,Mark Shield,Belgium,1,1,1.0,1.630306,0.613382,0.99901,-0.025494,608,False,-0.000223,544
+Shizuo Takada | United Arab Emirates,0.000984,0.038839,Shizuo Takada,United Arab Emirates,1,3,3.0,2.303019,1.302638,1.000985,0.025347,609,False,0.000187,624
+Néstor Pitana | France,-0.000982,0.038769,Néstor Pitana,France,3,4,1.333333,4.586483,0.872128,0.999018,-0.025341,610,False,-0.000236,520
+José María García-Aranda | Brazil,0.00098,0.038868,José María García-Aranda,Brazil,1,2,2.0,1.330242,1.503486,1.000981,0.025222,611,False,0.000173,650
+Néstor Pitana | Russia,-0.000971,0.038829,Néstor Pitana,Russia,2,2,1.0,2.603446,0.768213,0.99903,-0.024998,612,False,-0.000145,694
+Juan Daniel Cardellino | Romania,-0.00097,0.038859,Juan Daniel Cardellino,Romania,1,1,1.0,1.615356,0.619059,0.99903,-0.024966,613,False,-0.000168,658
+Toru Kamikawa | Ecuador,-0.000963,0.038829,Toru Kamikawa,Ecuador,1,2,2.0,2.600345,0.769129,0.999037,-0.024811,614,False,-0.000194,610
+Benito Archundia | Germany,0.000963,0.038778,Benito Archundia,Germany,2,5,2.5,4.305452,1.161318,1.000963,0.024833,615,False,0.000185,625
+Benito Archundia | South Korea,-0.000962,0.038829,Benito Archundia,South Korea,1,2,2.0,2.60689,0.767198,0.999038,-0.024782,616,False,-0.000158,670
+Carlos Simon | Mexico,-0.000962,0.038829,Carlos Simon,Mexico,1,2,2.0,2.605466,0.767617,0.999038,-0.024777,617,False,-0.000125,742
+Günter Benkö | Japan,-0.000962,0.038859,Günter Benkö,Japan,1,1,1.0,1.608777,0.62159,0.999039,-0.024745,618,False,-0.000211,573
+Héctor Baldassi | Spain,-0.000959,0.038859,Héctor Baldassi,Spain,1,1,1.0,1.608921,0.621534,0.999041,-0.024691,619,False,-0.000232,528
+Damir Skomina | Colombia,0.000958,0.038868,Damir Skomina,Colombia,1,2,2.0,1.342733,1.489499,1.000958,0.024639,620,False,0.000194,609
+Jamal Al Sharif | Colombia,0.000957,0.038839,Jamal Al Sharif,Colombia,1,3,3.0,2.330327,1.287373,1.000958,0.024647,621,False,0.000166,660
+Facundo Tello | Switzerland,0.000957,0.038868,Facundo Tello,Switzerland,1,2,2.0,1.343499,1.48865,1.000958,0.024625,622,False,0.0002,595
+Hugh Dallas | Poland,-0.000957,0.038829,Hugh Dallas,Poland,1,2,2.0,2.594044,0.770997,0.999044,-0.024643,623,False,-0.000163,661
+Bernd Heynemann | Norway,0.000956,0.038839,Bernd Heynemann,Norway,1,3,3.0,2.322871,1.291505,1.000956,0.024603,624,False,0.000179,637
+Jamal Al Sharif | Russia,0.000954,0.038839,Jamal Al Sharif,Russia,1,3,3.0,2.331315,1.286828,1.000955,0.024571,625,False,0.000199,598
+Epifanio González | Germany,0.000953,0.038868,Epifanio González,Germany,1,2,2.0,1.347433,1.484304,1.000954,0.024527,626,False,0.00018,634
+Clément Turpin | Senegal,-0.000953,0.038858,Clément Turpin,Senegal,1,1,1.0,1.604899,0.623092,0.999047,-0.024532,627,False,-0.000175,646
+Jorge Larrionda | England,-0.000953,0.038858,Jorge Larrionda,England,1,1,1.0,1.608937,0.621528,0.999047,-0.024524,628,False,-0.000261,479
+Falla N'Doye | Republic of Ireland,-0.000953,0.038859,Falla N'Doye,Republic of Ireland,1,1,1.0,1.600729,0.624715,0.999048,-0.024512,629,False,-0.000206,585
+Siegfried Kirschen | Uruguay,-0.000945,0.03886,Siegfried Kirschen,Uruguay,1,1,1.0,1.601962,0.624235,0.999055,-0.024323,630,False,-0.000163,662
+Joel Aguilar | Bosnia and Herzegovina,-0.000944,0.038859,Joel Aguilar,Bosnia and Herzegovina,1,1,1.0,1.594102,0.627312,0.999057,-0.024284,631,False,-0.000192,616
+Wolfgang Stark | Slovenia,0.000943,0.038838,Wolfgang Stark,Slovenia,1,3,3.0,2.333671,1.285528,1.000943,0.024279,632,False,0.000216,558
+Felipe Ramos | France,-0.000942,0.038859,Felipe Ramos,France,1,1,1.0,1.598225,0.625694,0.999059,-0.02423,633,False,-0.00019,619
+Leslie Mottram | South Korea,0.00094,0.038838,Leslie Mottram,South Korea,1,3,3.0,2.337719,1.283302,1.000941,0.02421,634,False,0.000194,611
+Fabio Baldas | Colombia,-0.000938,0.038859,Fabio Baldas,Colombia,1,1,1.0,1.590448,0.628754,0.999063,-0.024129,635,False,-0.000168,657
+Djamel Haimoudi | Costa Rica,-0.00093,0.03886,Djamel Haimoudi,Costa Rica,1,1,1.0,1.589049,0.629307,0.99907,-0.023939,636,False,-0.000177,642
+Marco Rodríguez | Italy,0.000928,0.038867,Marco Rodríguez,Italy,1,2,2.0,1.366361,1.463742,1.000929,0.023879,637,False,0.000149,688
+Ismail Elfath | Portugal,0.000919,0.038868,Ismail Elfath,Portugal,1,2,2.0,1.368398,1.461563,1.000919,0.023634,638,False,0.000192,614
+Héctor Baldassi | Netherlands,-0.000918,0.03886,Héctor Baldassi,Netherlands,1,1,1.0,1.584196,0.631235,0.999082,-0.023636,639,False,-0.00012,755
+Michel Vautrot | Italy,-0.000911,0.03886,Michel Vautrot,Italy,1,1,1.0,1.580214,0.632826,0.999089,-0.023449,640,False,-0.000202,591
+Eddie Lennie | Italy,0.00091,0.038867,Eddie Lennie,Italy,1,2,2.0,1.374334,1.45525,1.00091,0.023401,641,False,0.000153,681
+José Torres Cadena | Sweden,-0.000909,0.03883,José Torres Cadena,Sweden,1,2,2.0,2.562269,0.780558,0.999091,-0.023408,642,False,-0.000199,597
+Stéphane Lannoy | Brazil,0.000907,0.038867,Stéphane Lannoy,Brazil,1,2,2.0,1.376343,1.453126,1.000908,0.023346,643,False,0.000151,686
+Toru Kamikawa | England,-0.000897,0.03886,Toru Kamikawa,England,1,1,1.0,1.5705,0.63674,0.999104,-0.023076,644,False,-0.00024,513
+Francisco Oscar Lamolina | Mexico,0.000895,0.038837,Francisco Oscar Lamolina,Mexico,1,3,3.0,2.367551,1.267132,1.000896,0.02305,645,False,0.000221,548
+Enrique Osses | Costa Rica,-0.000892,0.038861,Enrique Osses,Costa Rica,1,1,1.0,1.561904,0.640244,0.999108,-0.022952,646,False,-0.000169,655
+Joël Quiniou | Argentina,0.000892,0.038837,Joël Quiniou,Argentina,1,3,3.0,2.382052,1.259418,1.000892,0.022956,647,True,0.000238,517
+Ľuboš Micheľ | Germany,-0.000886,0.038801,Ľuboš Micheľ,Germany,1,3,3.0,3.544049,0.846489,0.999115,-0.022824,648,False,-0.000214,565
+Pierluigi Collina | Turkey,0.000885,0.038837,Pierluigi Collina,Turkey,1,3,3.0,2.373978,1.263701,1.000886,0.022795,649,False,0.000211,572
+Neji Jouini | Romania,0.000883,0.038837,Neji Jouini,Romania,1,3,3.0,2.375514,1.262885,1.000884,0.022743,650,False,0.000178,640
+Roberto Rosetti | Trinidad and Tobago,-0.000883,0.03883,Roberto Rosetti,Trinidad and Tobago,1,2,2.0,2.545928,0.785568,0.999118,-0.022737,651,False,-0.000162,665
+Roberto Rosetti | France,0.000882,0.038836,Roberto Rosetti,France,1,3,3.0,2.382533,1.259164,1.000882,0.022712,652,False,0.000141,700
+Nikolai Levnikov | Brazil,0.000877,0.038866,Nikolai Levnikov,Brazil,1,2,2.0,1.394513,1.434192,1.000878,0.022571,653,False,0.000152,683
+Frank De Bleeckere | Ecuador,-0.000877,0.038801,Frank De Bleeckere,Ecuador,1,3,3.0,3.532926,0.849155,0.999123,-0.022605,654,False,-0.000184,628
+Philip Don | Sweden,0.000874,0.038837,Philip Don,Sweden,1,3,3.0,2.379606,1.260713,1.000874,0.022493,655,False,0.000143,698
+Arturo Brizio Carter | Saudi Arabia,-0.000867,0.038831,Arturo Brizio Carter,Saudi Arabia,1,2,2.0,2.539112,0.787677,0.999133,-0.022336,656,False,-0.000225,537
+Joel Aguilar | Sweden,-0.000867,0.038861,Joel Aguilar,Sweden,1,1,1.0,1.547655,0.646139,0.999134,-0.022305,657,False,-0.000183,630
+Ian McLeod | Spain,0.000866,0.038866,Ian McLeod,Spain,1,2,2.0,1.401826,1.42671,1.000866,0.022271,658,False,0.000129,731
+Anthony Taylor | South Korea,0.000865,0.038866,Anthony Taylor,South Korea,1,2,2.0,1.402268,1.426261,1.000866,0.022267,659,False,0.000179,639
+Arturo Brizio Carter | Colombia,0.000864,0.038837,Arturo Brizio Carter,Colombia,1,3,3.0,2.393675,1.253303,1.000864,0.022248,660,False,0.000154,678
+Mohamed Guezzaz | Spain,-0.000863,0.038861,Mohamed Guezzaz,Spain,1,1,1.0,1.544101,0.647626,0.999138,-0.022197,661,False,-0.000202,593
+Edgardo Codesal | West Germany,-0.000862,0.038861,Edgardo Codesal,West Germany,1,1,1.0,1.54531,0.647119,0.999138,-0.022194,662,False,-0.000163,663
+Enrique Osses | Ivory Coast,0.000856,0.038866,Enrique Osses,Ivory Coast,1,2,2.0,1.406755,1.421711,1.000856,0.022016,663,False,0.00017,654
+Roberto Rosetti | Australia,-0.000855,0.038861,Roberto Rosetti,Australia,1,1,1.0,1.544314,0.647537,0.999145,-0.02201,664,False,-0.00016,667
+Ľuboš Micheľ | Brazil,-0.000851,0.038832,Ľuboš Micheľ,Brazil,1,2,2.0,2.530684,0.7903,0.999149,-0.021926,665,False,-0.000211,571
+Daniele Orsato | Argentina,-0.000847,0.038802,Daniele Orsato,Argentina,2,3,1.5,3.504457,0.856053,0.999153,-0.021841,666,True,-7.4e-05,860
+Kurt Röthlisberger | Czechoslovakia,0.000846,0.038866,Kurt Röthlisberger,Czechoslovakia,1,2,2.0,1.418611,1.409829,1.000847,0.021779,667,False,0.000195,607
+Peter Mikkelsen | Spain,0.000846,0.038865,Peter Mikkelsen,Spain,1,2,2.0,1.418939,1.409503,1.000846,0.021755,668,False,0.000133,723
+Szymon Marciniak | Australia,-0.000845,0.038831,Szymon Marciniak,Australia,1,2,2.0,2.516563,0.794735,0.999155,-0.02176,669,False,-0.000169,656
+Paul Durkin | Italy,-0.000838,0.038861,Paul Durkin,Italy,1,1,1.0,1.528002,0.654449,0.999162,-0.021569,670,False,-0.000187,623
+Fernando Rapallini | Spain,-0.000829,0.038862,Fernando Rapallini,Spain,1,1,1.0,1.522602,0.656771,0.999171,-0.021331,671,False,-0.000205,586
+Gamal Al-Ghandour | Brazil,0.000824,0.038806,Gamal Al-Ghandour,Brazil,2,4,2.0,3.405827,1.174458,1.000824,0.021237,672,False,0.00012,757
+Lucien Bouchardeau | Chile,0.000823,0.038836,Lucien Bouchardeau,Chile,1,3,3.0,2.409773,1.24493,1.000823,0.02119,673,False,0.000215,561
+José Torres Cadena | Morocco,0.000823,0.038836,José Torres Cadena,Morocco,1,3,3.0,2.416875,1.241272,1.000823,0.021188,674,False,0.000143,696
+Ubaldo Aquino | Senegal,-0.00082,0.038832,Ubaldo Aquino,Senegal,1,2,2.0,2.498119,0.800602,0.99918,-0.021118,675,False,-0.000134,718
+Óscar Ruiz | Senegal,-0.000815,0.038832,Óscar Ruiz,Senegal,1,2,2.0,2.502147,0.799314,0.999185,-0.020991,676,False,-0.000145,695
+Helmut Kohl | Spain,0.000815,0.038865,Helmut Kohl,Spain,1,2,2.0,1.440624,1.388288,1.000815,0.020965,677,False,0.000114,772
+Mark Geiger | Portugal,-0.000813,0.038862,Mark Geiger,Portugal,1,1,1.0,1.515755,0.659737,0.999187,-0.020927,678,False,-0.000131,727
+Néstor Pitana | Saudi Arabia,-0.000811,0.038861,Néstor Pitana,Saudi Arabia,1,1,1.0,1.513924,0.660535,0.99919,-0.020861,679,False,-0.000177,643
+Marco Rodríguez | Uruguay,0.000809,0.038865,Marco Rodríguez,Uruguay,1,2,2.0,1.443183,1.385826,1.00081,0.020823,680,False,0.000168,659
+Óscar Ruiz | Turkey,0.000809,0.038776,Óscar Ruiz,Turkey,2,5,2.5,4.394235,1.137854,1.00081,0.020869,681,False,0.000213,569
+Djamel Haimoudi | United States,-0.000809,0.038862,Djamel Haimoudi,United States,1,1,1.0,1.509704,0.662382,0.999192,-0.020807,682,False,-0.000173,652
+Éric Poulat | Portugal,0.000806,0.038835,Éric Poulat,Portugal,1,3,3.0,2.427615,1.235781,1.000807,0.020761,683,False,0.000188,622
+Massimo Busacca | Ukraine,-0.000799,0.038832,Massimo Busacca,Ukraine,1,2,2.0,2.490644,0.803005,0.999201,-0.020574,684,False,-0.000151,685
+Cüneyt Çakır | Argentina,0.000794,0.038806,Cüneyt Çakır,Argentina,2,4,2.0,3.422016,1.168902,1.000795,0.020467,685,True,0.000246,499
+Szymon Marciniak | France,0.000785,0.038805,Szymon Marciniak,France,2,4,2.0,3.42429,1.168125,1.000785,0.020222,686,False,9.4e-05,812
+Pablo Pozo | Cameroon,-0.000782,0.038833,Pablo Pozo,Cameroon,1,2,2.0,2.475942,0.807773,0.999218,-0.020138,687,False,-0.000157,672
+Rune Pedersen | Croatia,-0.00078,0.038833,Rune Pedersen,Croatia,1,2,2.0,2.47361,0.808535,0.99922,-0.020083,688,False,-0.00015,687
+Luis Medina Cantalejo | Germany,0.000774,0.038835,Luis Medina Cantalejo,Germany,1,3,3.0,2.455726,1.221635,1.000774,0.019934,689,False,0.000131,725
+Frank De Bleeckere | Croatia,-0.000773,0.038833,Frank De Bleeckere,Croatia,1,2,2.0,2.483244,0.805398,0.999227,-0.019912,690,False,-0.000137,712
+Damir Skomina | Belgium,0.000772,0.038864,Damir Skomina,Belgium,1,2,2.0,1.464698,1.365469,1.000772,0.019855,691,False,0.000121,753
+Gianluca Rocchi | Spain,-0.000771,0.038863,Gianluca Rocchi,Spain,1,1,1.0,1.486089,0.672907,0.999229,-0.019849,692,False,-0.00019,620
+Joël Quiniou | Brazil,0.000769,0.038805,Joël Quiniou,Brazil,2,4,2.0,3.444829,1.161161,1.000769,0.019817,693,False,0.00011,780
+Óscar Ruiz | France,-0.000768,0.038863,Óscar Ruiz,France,1,1,1.0,1.487928,0.672076,0.999232,-0.019765,694,False,-0.000173,649
+Wilmar Roldán | Egypt,0.000764,0.038864,Wilmar Roldán,Egypt,1,2,2.0,1.466533,1.363761,1.000764,0.019654,695,False,0.000148,689
+Roberto Rosetti | Serbia and Montenegro,0.000761,0.038834,Roberto Rosetti,Serbia and Montenegro,1,3,3.0,2.4593,1.219859,1.000761,0.019599,696,False,0.000182,632
+Markus Merk | Netherlands,-0.000759,0.038833,Markus Merk,Netherlands,1,2,2.0,2.471759,0.80914,0.999241,-0.019553,697,False,-5.7e-05,901
+Rodrigo Badilla | Spain,0.000759,0.038863,Rodrigo Badilla,Spain,1,2,2.0,1.473948,1.3569,1.00076,0.019536,698,False,0.000112,777
+Khalil Al Ghamdi | Switzerland,0.000759,0.038835,Khalil Al Ghamdi,Switzerland,1,3,3.0,2.456501,1.221249,1.000759,0.01954,699,False,0.000141,701
+Bakary Gassama | Peru,-0.000757,0.038863,Bakary Gassama,Peru,1,1,1.0,1.474134,0.678364,0.999243,-0.019485,700,False,-0.000137,713
+Stéphane Lannoy | Ivory Coast,0.000755,0.038834,Stéphane Lannoy,Ivory Coast,1,3,3.0,2.45388,1.222554,1.000755,0.019443,701,False,0.000139,707
+Mohamed Guezzaz | Slovenia,-0.000754,0.038833,Mohamed Guezzaz,Slovenia,1,2,2.0,2.452827,0.815386,0.999247,-0.019405,702,False,-9.4e-05,811
+Gamal Al-Ghandour | Denmark,0.00075,0.038834,Gamal Al-Ghandour,Denmark,1,3,3.0,2.463946,1.217559,1.00075,0.019312,703,False,0.000163,664
+Jesús Valenzuela | France,-0.000745,0.038863,Jesús Valenzuela,France,1,1,1.0,1.466908,0.681706,0.999255,-0.019171,704,False,-0.000153,682
+Pierluigi Collina | France,0.000742,0.038863,Pierluigi Collina,France,1,2,2.0,1.48715,1.344854,1.000743,0.019103,705,False,0.000129,733
+Alberto Tejada Noriega | Yugoslavia,0.00074,0.038863,Alberto Tejada Noriega,Yugoslavia,1,2,2.0,1.483787,1.347903,1.000741,0.019048,706,False,0.000155,676
+Erik Fredriksson | Soviet Union,-0.00074,0.038864,Erik Fredriksson,Soviet Union,1,1,1.0,1.463724,0.683189,0.999261,-0.019034,707,False,-0.000142,699
+Néstor Pitana | Sweden,0.000738,0.038863,Néstor Pitana,Sweden,1,2,2.0,1.490877,1.341492,1.000738,0.018988,708,False,0.000128,735
+Juan Daniel Cardellino | Soviet Union,-0.000737,0.038863,Juan Daniel Cardellino,Soviet Union,1,1,1.0,1.461701,0.684135,0.999263,-0.01896,709,False,-0.000137,711
+Matthew Conger | Nigeria,-0.000736,0.038863,Matthew Conger,Nigeria,1,1,1.0,1.460993,0.684466,0.999264,-0.018944,710,False,-0.000171,653
+Alireza Faghani | Germany,0.000736,0.038864,Alireza Faghani,Germany,1,2,2.0,1.491807,1.340656,1.000736,0.018934,711,False,0.000134,716
+Wilmar Roldán | Cameroon,-0.000732,0.038863,Wilmar Roldán,Cameroon,1,1,1.0,1.459318,0.685252,0.999268,-0.018831,712,False,-0.000133,721
+Milorad Mažić | Brazil,0.000732,0.038863,Milorad Mažić,Brazil,1,2,2.0,1.490797,1.341564,1.000732,0.01883,713,False,0.000126,738
+Carlos Batres | Senegal,-0.000731,0.038834,Carlos Batres,Senegal,1,2,2.0,2.448552,0.816809,0.999269,-0.018835,714,False,-0.000129,730
+Mohammed Abdulla Hassan Mohamed | France,0.000731,0.038863,Mohammed Abdulla Hassan Mohamed,France,1,2,2.0,1.491925,1.34055,1.000731,0.018806,715,False,0.000123,748
+Felix Brych | Russia,-0.000729,0.038864,Felix Brych,Russia,1,1,1.0,1.456675,0.686495,0.999272,-0.018751,716,False,-0.000129,729
+Brian Hall | Italy,-0.000724,0.038863,Brian Hall,Italy,1,1,1.0,1.454753,0.687402,0.999276,-0.018627,717,False,-0.000146,692
+Luis Medina Cantalejo | Australia,-0.000723,0.038804,Luis Medina Cantalejo,Australia,1,3,3.0,3.429865,0.87467,0.999277,-0.018632,718,False,-0.000138,710
+Said Belqola | United States,-0.000722,0.038834,Said Belqola,United States,1,2,2.0,2.44023,0.819595,0.999278,-0.018596,719,False,-0.000182,631
+Djamel Haimoudi | Belgium,-0.000722,0.038864,Djamel Haimoudi,Belgium,1,1,1.0,1.452875,0.68829,0.999278,-0.018579,720,False,-0.000177,644
+Benito Archundia | Croatia,0.000719,0.038833,Benito Archundia,Croatia,1,3,3.0,2.492771,1.20348,1.000719,0.018506,721,False,0.000151,684
+Arturo Angeles | Greece,-0.000712,0.038834,Arturo Angeles,Greece,1,2,2.0,2.425889,0.82444,0.999288,-0.018339,722,False,-0.000122,749
+Nicola Rizzoli | Germany,0.000711,0.038863,Nicola Rizzoli,Germany,1,2,2.0,1.502965,1.330703,1.000711,0.018297,723,False,0.000126,737
+Andrés Matonte | Croatia,0.000702,0.038863,Andrés Matonte,Croatia,1,2,2.0,1.50824,1.326049,1.000702,0.018064,724,False,0.000136,714
+Essam Abd El Fatah | Japan,0.000691,0.038833,Essam Abd El Fatah,Japan,1,3,3.0,2.499969,1.200015,1.000691,0.017787,725,False,8.4e-05,835
+Siegfried Kirschen | Belgium,0.000691,0.038862,Siegfried Kirschen,Belgium,1,2,2.0,1.520269,1.315557,1.000691,0.01777,726,False,9.3e-05,814
+Valentin Ivanov | France,0.00069,0.038833,Valentin Ivanov,France,1,3,3.0,2.508329,1.196015,1.00069,0.017767,727,False,8.1e-05,842
+Ángel Sánchez | South Africa,-0.000686,0.038835,Ángel Sánchez,South Africa,1,2,2.0,2.412178,0.829126,0.999314,-0.01767,728,False,-0.000141,704
+Masayoshi Okada | Tunisia,0.000685,0.038833,Masayoshi Okada,Tunisia,1,3,3.0,2.498494,1.200723,1.000686,0.017651,729,False,0.000154,680
+Malang Diedhiou | Uruguay,-0.000685,0.038865,Malang Diedhiou,Uruguay,1,1,1.0,1.429515,0.699538,0.999315,-0.017628,730,False,-0.000111,779
+Mark Geiger | Greece,0.000685,0.038862,Mark Geiger,Greece,1,2,2.0,1.521999,1.314061,1.000685,0.017617,731,False,0.00014,705
+Ravshan Irmatov | South Africa,-0.000683,0.038835,Ravshan Irmatov,South Africa,1,2,2.0,2.419623,0.826575,0.999317,-0.01759,732,False,-0.000156,675
+Sandro Ricci | France,0.000682,0.038832,Sandro Ricci,France,2,3,1.5,2.510821,1.194828,1.000682,0.017557,733,False,0.000101,793
+Milorad Mažić | Portugal,-0.000679,0.038864,Milorad Mažić,Portugal,1,1,1.0,1.425807,0.701357,0.999321,-0.017465,734,False,-0.000116,765
+Ravshan Irmatov | Switzerland,-0.000678,0.038865,Ravshan Irmatov,Switzerland,1,1,1.0,1.430318,0.699145,0.999322,-0.01744,735,False,-0.000122,750
+Luigi Agnolin | Yugoslavia,-0.000678,0.038864,Luigi Agnolin,Yugoslavia,1,1,1.0,1.424152,0.702172,0.999322,-0.017439,736,False,-0.000114,771
+Nicola Rizzoli | Nigeria,0.000676,0.038862,Nicola Rizzoli,Nigeria,1,2,2.0,1.526131,1.310503,1.000676,0.017397,737,False,7.7e-05,854
+Kim Milton Nielsen | Turkey,-0.000675,0.038835,Kim Milton Nielsen,Turkey,1,2,2.0,2.407742,0.830654,0.999325,-0.01738,738,False,-8.7e-05,827
+Néstor Pitana | Honduras,-0.000675,0.038865,Néstor Pitana,Honduras,1,1,1.0,1.423937,0.702278,0.999326,-0.017359,739,False,-0.000119,759
+José Roberto Wright | England,0.000674,0.038862,José Roberto Wright,England,1,2,2.0,1.531226,1.306143,1.000675,0.017356,740,False,6.1e-05,889
+Bakary Gassama | Chile,-0.000673,0.038865,Bakary Gassama,Chile,1,1,1.0,1.42011,0.704171,0.999327,-0.017326,741,False,-9.3e-05,816
+Danny Makkelie | Argentina,-0.000667,0.038865,Danny Makkelie,Argentina,1,1,1.0,1.416688,0.705872,0.999334,-0.017152,742,True,-8.4e-05,837
+Mario van der Ende | United States,-0.000661,0.038835,Mario van der Ende,United States,1,2,2.0,2.40313,0.832248,0.999339,-0.01703,743,False,-0.000155,677
+César Arturo Ramos | Poland,0.000658,0.038861,César Arturo Ramos,Poland,1,2,2.0,1.54099,1.297867,1.000658,0.016929,744,False,0.000146,691
+Daniele Orsato | Croatia,-0.000653,0.038836,Daniele Orsato,Croatia,1,2,2.0,2.390618,0.836604,0.999347,-0.016815,745,False,-0.000141,703
+Carlos Velasco Carballo | Iran,-0.000651,0.038865,Carlos Velasco Carballo,Iran,1,1,1.0,1.40545,0.711516,0.999349,-0.016749,746,False,-0.000124,744
+Rodrigo Badilla | Netherlands,-0.00065,0.038835,Rodrigo Badilla,Netherlands,1,2,2.0,2.391399,0.83633,0.99935,-0.016732,747,False,-2.8e-05,978
+Mario van der Ende | Bulgaria,-0.000649,0.038835,Mario van der Ende,Bulgaria,1,2,2.0,2.393404,0.83563,0.999351,-0.016711,748,False,-8.4e-05,836
+Ravshan Irmatov | United States,0.000648,0.038862,Ravshan Irmatov,United States,1,2,2.0,1.550392,1.289996,1.000649,0.016686,749,False,9.4e-05,810
+Mohammed Abdulla Hassan Mohamed | Serbia,0.000638,0.038862,Mohammed Abdulla Hassan Mohamed,Serbia,1,2,2.0,1.549769,1.290515,1.000638,0.016405,750,False,0.000185,626
+Shamsul Maidin | Trinidad and Tobago,-0.000637,0.038806,Shamsul Maidin,Trinidad and Tobago,1,3,3.0,3.366896,0.891028,0.999363,-0.016424,751,False,-0.000134,719
+Daniel Siebert | Ghana,-0.000637,0.038836,Daniel Siebert,Ghana,1,2,2.0,2.378582,0.840837,0.999363,-0.016396,752,False,-0.000109,785
+Milorad Mažić | Iran,0.00063,0.038861,Milorad Mažić,Iran,1,2,2.0,1.556174,1.285203,1.000631,0.016221,753,False,0.000116,766
+Nikolai Levnikov | Morocco,-0.00063,0.038836,Nikolai Levnikov,Morocco,1,2,2.0,2.372648,0.84294,0.99937,-0.016228,754,False,-0.000143,697
+Frank De Bleeckere | United States,0.00063,0.038861,Frank De Bleeckere,United States,1,2,2.0,1.561909,1.280484,1.00063,0.016206,755,False,0.000104,788
+Ravshan Irmatov | Ecuador,-0.000627,0.038866,Ravshan Irmatov,Ecuador,1,1,1.0,1.396127,0.716267,0.999373,-0.016127,756,False,-0.000134,720
+Björn Kuipers | Colombia,-0.000622,0.038865,Björn Kuipers,Colombia,1,1,1.0,1.389075,0.719903,0.999378,-0.016015,757,False,-0.000113,775
+Arturo Brizio Carter | England,0.00062,0.038861,Arturo Brizio Carter,England,1,2,2.0,1.568696,1.274945,1.00062,0.015956,758,False,4e-05,946
+Carlos Velasco Carballo | Uruguay,-0.000619,0.038866,Carlos Velasco Carballo,Uruguay,1,1,1.0,1.385572,0.721724,0.999381,-0.015928,759,False,-0.000104,789
+Gianluca Rocchi | Brazil,0.000612,0.038861,Gianluca Rocchi,Brazil,1,2,2.0,1.567865,1.27562,1.000612,0.015741,760,False,9.9e-05,797
+Mark Geiger | France,-0.000608,0.038866,Mark Geiger,France,1,1,1.0,1.380486,0.724382,0.999393,-0.015632,761,False,-0.000134,717
+Milorad Mažić | Colombia,-0.000604,0.038866,Milorad Mažić,Colombia,1,1,1.0,1.3773,0.726058,0.999397,-0.01553,762,False,-0.000109,784
+Arturo Brizio Carter | France,0.000604,0.038861,Arturo Brizio Carter,France,1,2,2.0,1.578943,1.26667,1.000604,0.01553,763,False,9.7e-05,803
+Manuel Díaz Vega | Saudi Arabia,0.000602,0.038831,Manuel Díaz Vega,Saudi Arabia,1,3,3.0,2.553011,1.175083,1.000603,0.015515,764,False,6.1e-05,891
+Hugh Dallas | Germany,-0.000602,0.038837,Hugh Dallas,Germany,1,2,2.0,2.364403,0.845879,0.999398,-0.0155,765,False,-0.000119,758
+Alan Snoddy | West Germany,-0.0006,0.038867,Alan Snoddy,West Germany,1,1,1.0,1.373261,0.728194,0.9994,-0.01545,766,False,-0.000117,763
+Daniele Orsato | Ecuador,0.000598,0.038861,Daniele Orsato,Ecuador,1,2,2.0,1.577458,1.267862,1.000598,0.015379,767,False,9.9e-05,801
+Leslie Mottram | Greece,-0.000595,0.038837,Leslie Mottram,Greece,1,2,2.0,2.35175,0.850431,0.999406,-0.01531,768,False,-9.9e-05,798
+Coffi Codjia | Ecuador,0.000594,0.038831,Coffi Codjia,Ecuador,1,3,3.0,2.565661,1.169289,1.000594,0.015292,769,False,0.000104,787
+Gamal Al-Ghandour | Yugoslavia,0.000593,0.038861,Gamal Al-Ghandour,Yugoslavia,1,2,2.0,1.582964,1.263453,1.000593,0.015265,770,False,0.000129,732
+Danny Makkelie | Spain,-0.00059,0.038866,Danny Makkelie,Spain,1,1,1.0,1.366383,0.731859,0.99941,-0.015174,771,False,-0.000154,679
+Horacio Elizondo | England,-0.00059,0.038836,Horacio Elizondo,England,1,2,2.0,2.358478,0.848005,0.999411,-0.015182,772,False,-0.000224,540
+Anthony Taylor | Belgium,-0.000589,0.038866,Anthony Taylor,Belgium,1,1,1.0,1.36609,0.732016,0.999411,-0.015166,773,False,-0.000146,693
+Noumandiez Doué | Ecuador,-0.000584,0.038866,Noumandiez Doué,Ecuador,1,1,1.0,1.361386,0.734546,0.999416,-0.015034,774,False,-0.00012,754
+Sergei Karasev | Peru,0.000582,0.038861,Sergei Karasev,Peru,1,2,2.0,1.583181,1.263279,1.000582,0.014969,775,False,0.000118,761
+Pablo Pozo | Portugal,0.000576,0.038861,Pablo Pozo,Portugal,1,2,2.0,1.590502,1.257465,1.000576,0.014825,776,False,0.000126,740
+Eddie Lennie | Tunisia,-0.000573,0.038837,Eddie Lennie,Tunisia,1,2,2.0,2.338594,0.855215,0.999427,-0.014748,777,False,-9e-05,820
+Anders Frisk | Brazil,0.00057,0.03886,Anders Frisk,Brazil,1,2,2.0,1.596862,1.252456,1.00057,0.014676,778,False,9.9e-05,799
+Kim Milton Nielsen | England,0.000569,0.038859,Kim Milton Nielsen,England,1,2,2.0,1.599101,1.250703,1.000569,0.014631,779,False,3.8e-05,949
+Olegário Benquerença | Ghana,0.000564,0.03883,Olegário Benquerença,Ghana,1,3,3.0,2.581867,1.16195,1.000564,0.014526,780,False,0.000139,708
+Lucien Bouchardeau | Italy,0.00056,0.03886,Lucien Bouchardeau,Italy,1,2,2.0,1.601003,1.249217,1.000561,0.014421,781,False,7.7e-05,855
+Aron Schmidhuber | Spain,0.00056,0.03886,Aron Schmidhuber,Spain,1,2,2.0,1.604114,1.246794,1.00056,0.014411,782,False,7e-05,870
+Hernán Silva | Romania,-0.000556,0.038867,Hernán Silva,Romania,1,1,1.0,1.345182,0.743394,0.999444,-0.014315,783,False,-8.9e-05,822
+Marco Antonio Rodríguez | Brazil,-0.000554,0.038867,Marco Antonio Rodríguez,Brazil,1,1,1.0,1.339369,0.74662,0.999446,-0.014253,784,False,-0.000124,746
+Jorge Larrionda | United States,-0.000551,0.038837,Jorge Larrionda,United States,1,2,2.0,2.337355,0.855668,0.999449,-0.014194,785,False,-0.000126,739
+Jonas Eriksson | Ghana,0.000549,0.03886,Jonas Eriksson,Ghana,1,2,2.0,1.608098,1.243706,1.000549,0.014133,786,False,0.000121,752
+Gilles Veissière | Tunisia,-0.000547,0.038837,Gilles Veissière,Tunisia,1,2,2.0,2.321541,0.861497,0.999454,-0.014075,787,False,-7.1e-05,867
+José Roberto Wright | Republic of Ireland,0.00054,0.038859,José Roberto Wright,Republic of Ireland,1,2,2.0,1.617991,1.236101,1.00054,0.013884,788,False,7.6e-05,857
+Carlos Amarilla | Togo,-0.000537,0.038808,Carlos Amarilla,Togo,1,3,3.0,3.298788,0.909425,0.999463,-0.013832,789,False,-0.000115,767
+Pablo Pozo | North Korea,-0.000536,0.038838,Pablo Pozo,North Korea,1,2,2.0,2.31053,0.865602,0.999464,-0.013797,790,False,-0.000159,668
+Björn Kuipers | Russia,-0.000536,0.038838,Björn Kuipers,Russia,1,2,2.0,2.315801,0.863632,0.999465,-0.01379,791,False,-6.4e-05,885
+Joel Aguilar | Japan,-0.000533,0.038867,Joel Aguilar,Japan,1,1,1.0,1.330029,0.751863,0.999467,-0.013715,792,False,-0.000131,726
+Mustapha Ghorbal | Denmark,-0.000533,0.038867,Mustapha Ghorbal,Denmark,1,1,1.0,1.328779,0.752571,0.999467,-0.01371,793,False,-8.8e-05,823
+Pirom Un-Prasert | Nigeria,0.000532,0.038858,Pirom Un-Prasert,Nigeria,1,2,2.0,1.61935,1.235064,1.000532,0.013691,794,False,6.6e-05,881
+Björn Kuipers | England,-0.000528,0.038837,Björn Kuipers,England,2,2,1.0,2.314773,0.864016,0.999473,-0.013586,795,False,-0.000198,602
+Jorge Larrionda | Denmark,0.000527,0.038859,Jorge Larrionda,Denmark,1,2,2.0,1.629411,1.227437,1.000527,0.013552,796,False,0.000115,770
+Ian McLeod | Paraguay,-0.000526,0.038838,Ian McLeod,Paraguay,1,2,2.0,2.305777,0.867386,0.999474,-0.013543,797,False,-0.00011,782
+Luis Medina Cantalejo | Italy,0.000525,0.03883,Luis Medina Cantalejo,Italy,1,3,3.0,2.615716,1.146913,1.000525,0.013509,798,False,5.2e-05,914
+Carlos Vera | Iran,-0.000524,0.038868,Carlos Vera,Iran,1,1,1.0,1.321862,0.756508,0.999476,-0.013488,799,False,-0.0001,795
+Mario Escobar | Iran,0.000524,0.038859,Mario Escobar,Iran,1,2,2.0,1.622634,1.232564,1.000524,0.013483,800,False,0.0001,796
+Bakary Gassama | Denmark,0.00052,0.038859,Bakary Gassama,Denmark,1,2,2.0,1.627999,1.228502,1.00052,0.01338,801,False,0.000113,773
+Alexey Spirin | United Arab Emirates,-0.000509,0.038838,Alexey Spirin,United Arab Emirates,1,2,2.0,2.292189,0.872528,0.999492,-0.013094,802,False,-9.4e-05,809
+Massimo Busacca | Sweden,-0.000507,0.038838,Massimo Busacca,Sweden,1,2,2.0,2.302897,0.868471,0.999493,-0.013057,803,False,-0.000118,760
+George Smith | Czechoslovakia,0.000505,0.038859,George Smith,Czechoslovakia,1,2,2.0,1.636813,1.221887,1.000506,0.013007,804,False,0.000127,736
+Saad Mane | Turkey,-0.000502,0.038838,Saad Mane,Turkey,1,2,2.0,2.292055,0.872579,0.999498,-0.012927,805,False,-6e-05,892
+Nicola Rizzoli | Belgium,0.000498,0.038859,Nicola Rizzoli,Belgium,1,2,2.0,1.6412,1.21862,1.000498,0.012823,806,False,4.5e-05,930
+Ubaldo Aquino | Germany,0.000498,0.038858,Ubaldo Aquino,Germany,1,2,2.0,1.644074,1.21649,1.000498,0.012811,807,False,0.000101,794
+Carlos Batres | New Zealand,0.000495,0.038829,Carlos Batres,New Zealand,1,3,3.0,2.627336,1.141841,1.000495,0.012746,808,False,6.6e-05,882
+Howard Webb | Chile,-0.000495,0.03872,Howard Webb,Chile,2,6,3.0,6.230835,0.962953,0.999505,-0.012778,809,False,1.4e-05,1003
+Pedro Proença | Japan,-0.000493,0.038868,Pedro Proença,Japan,1,1,1.0,1.303947,0.766903,0.999507,-0.012695,810,False,-0.000122,751
+Frank De Bleeckere | Ukraine,-0.000493,0.038809,Frank De Bleeckere,Ukraine,1,3,3.0,3.280138,0.914596,0.999507,-0.012704,811,False,-9.6e-05,805
+Emilio Soriano Aladrén | Netherlands,-0.000493,0.038868,Emilio Soriano Aladrén,Netherlands,1,1,1.0,1.30521,0.76616,0.999507,-0.012684,812,False,-4.1e-05,941
+Kurt Röthlisberger | Mexico,-0.000487,0.038839,Kurt Röthlisberger,Mexico,1,2,2.0,2.290356,0.873227,0.999513,-0.012538,813,False,-4.5e-05,932
+Tullio Lanese | Uruguay,0.000485,0.038859,Tullio Lanese,Uruguay,1,2,2.0,1.655463,1.208121,1.000485,0.012482,814,False,0.000108,786
+Graham Poll | South Korea,-0.000485,0.038839,Graham Poll,South Korea,1,2,2.0,2.287223,0.874423,0.999515,-0.012487,815,False,-7.2e-05,865
+Pierluigi Collina | England,0.000484,0.038857,Pierluigi Collina,England,1,2,2.0,1.655294,1.208245,1.000484,0.012459,816,False,2e-05,996
+Juan Carlos Loustau | West Germany,0.000477,0.038858,Juan Carlos Loustau,West Germany,1,2,2.0,1.655056,1.208418,1.000478,0.012288,817,False,9.5e-05,808
+Peter Prendergast | Tunisia,-0.000477,0.038839,Peter Prendergast,Tunisia,1,2,2.0,2.276369,0.878592,0.999523,-0.012281,818,False,-5.6e-05,902
+Joel Aguilar | Argentina,-0.000475,0.038869,Joel Aguilar,Argentina,1,1,1.0,1.293271,0.773233,0.999525,-0.012232,819,True,-5.5e-05,906
+Wilton Sampaio | Netherlands,-0.00047,0.03881,Wilton Sampaio,Netherlands,2,3,1.5,3.260208,0.920187,0.99953,-0.012115,820,False,3.3e-05,961
+Wilmar Roldán | Algeria,-0.000469,0.038869,Wilmar Roldán,Algeria,1,1,1.0,1.286357,0.777389,0.999531,-0.012075,821,False,-8.7e-05,826
+Carlos Batres | Spain,0.000469,0.038858,Carlos Batres,Spain,1,2,2.0,1.663845,1.202035,1.000469,0.012066,822,False,4.2e-05,940
+Epifanio González | Netherlands,-0.000467,0.038839,Epifanio González,Netherlands,1,2,2.0,2.273351,0.879758,0.999533,-0.012025,823,False,-1e-05,1008
+Yuichi Nishimura | Paraguay,0.000465,0.038858,Yuichi Nishimura,Paraguay,1,2,2.0,1.665526,1.200822,1.000465,0.011958,824,False,8.5e-05,833
+Hellmut Krug | Belgium,0.000461,0.038858,Hellmut Krug,Belgium,1,2,2.0,1.665757,1.200655,1.000461,0.011868,825,False,5.7e-05,899
+Masayoshi Okada | England,-0.000459,0.038869,Masayoshi Okada,England,1,1,1.0,1.28041,0.781,0.999541,-0.011805,826,False,-0.000147,690
+Szymon Marciniak | Denmark,0.000459,0.038858,Szymon Marciniak,Denmark,1,2,2.0,1.669746,1.197787,1.000459,0.011807,827,False,9.7e-05,802
+Arturo Brizio Carter | Netherlands,0.000457,0.038829,Arturo Brizio Carter,Netherlands,1,3,3.0,2.661055,1.127373,1.000457,0.011764,828,False,0.00018,636
+Mark Geiger | England,0.000449,0.038857,Mark Geiger,England,1,2,2.0,1.67667,1.19284,1.000449,0.011559,829,False,8e-06,1011
+Noumandiez Doué | Chile,-0.000447,0.03887,Noumandiez Doué,Chile,1,1,1.0,1.272013,0.786155,0.999553,-0.011512,830,False,-4.9e-05,918
+Peter O'Leary | Bosnia and Herzegovina,-0.000447,0.038869,Peter O'Leary,Bosnia and Herzegovina,1,1,1.0,1.269216,0.787888,0.999553,-0.011492,831,False,-8.7e-05,828
+Malang Diedhiou | Costa Rica,0.000444,0.038857,Malang Diedhiou,Costa Rica,1,2,2.0,1.678268,1.191705,1.000444,0.011418,832,False,9.5e-05,807
+Ravshan Irmatov | Argentina,-0.000443,0.038721,Ravshan Irmatov,Argentina,3,6,2.0,6.222757,0.964203,0.999557,-0.01145,833,True,6.4e-05,886
+Gamal Al-Ghandour | Spain,-0.000443,0.038809,Gamal Al-Ghandour,Spain,2,3,1.5,3.248137,0.923606,0.999557,-0.011419,834,False,-0.000156,674
+Javier Castrilli | Croatia,-0.000442,0.03884,Javier Castrilli,Croatia,1,2,2.0,2.254425,0.887144,0.999558,-0.011375,835,False,-8e-05,847
+Siegfried Kirschen | Costa Rica,-0.000442,0.03884,Siegfried Kirschen,Costa Rica,1,2,2.0,2.255597,0.886683,0.999559,-0.011369,836,False,-7.9e-05,851
+Marc Batta | Brazil,0.000442,0.038857,Marc Batta,Brazil,1,2,2.0,1.678516,1.191529,1.000442,0.011364,837,False,6.4e-05,884
+Peter O'Leary | Nigeria,-0.000441,0.038869,Peter O'Leary,Nigeria,1,1,1.0,1.267381,0.789028,0.999559,-0.011343,838,False,-0.00012,756
+Aron Schmidhuber | England,-0.00044,0.038869,Aron Schmidhuber,England,1,1,1.0,1.272311,0.785971,0.99956,-0.011322,839,False,-0.00014,706
+Carlos Velasco Carballo | Bosnia and Herzegovina,-0.000439,0.03887,Carlos Velasco Carballo,Bosnia and Herzegovina,1,1,1.0,1.266242,0.789739,0.999561,-0.011301,840,False,-8.5e-05,831
+Carlos Maciel | Sweden,-0.000437,0.038869,Carlos Maciel,Sweden,1,1,1.0,1.268509,0.788327,0.999563,-0.011241,841,False,-9e-05,819
+Viktor Kassai | Mexico,0.000435,0.038857,Viktor Kassai,Mexico,1,2,2.0,1.686728,1.185727,1.000435,0.011204,842,False,0.000123,747
+Nawaf Shukralla | Portugal,-0.000434,0.03887,Nawaf Shukralla,Portugal,1,1,1.0,1.266483,0.789588,0.999566,-0.011169,843,False,-7.3e-05,864
+Peter Mikkelsen | England,-0.000428,0.038869,Peter Mikkelsen,England,1,1,1.0,1.266074,0.789843,0.999572,-0.011005,844,False,-0.000132,724
+Abdulrahman Al-Jassim | Wales,0.000427,0.038857,Abdulrahman Al-Jassim,Wales,1,2,2.0,1.685273,1.186752,1.000427,0.010997,845,False,8.1e-05,841
+Djamel Haimoudi | Netherlands,-0.000421,0.038811,Djamel Haimoudi,Netherlands,2,3,1.5,3.223615,0.930632,0.99958,-0.010836,846,False,2.9e-05,971
+José Torres Cadena | Bulgaria,-0.000415,0.038811,José Torres Cadena,Bulgaria,1,3,3.0,3.221986,0.931103,0.999585,-0.010698,847,False,-2e-05,994
+Horacio Elizondo | France,0.000412,0.038827,Horacio Elizondo,France,1,3,3.0,2.69049,1.115039,1.000412,0.010598,848,False,4.8e-05,921
+Cüneyt Çakır | Croatia,-0.000405,0.038841,Cüneyt Çakır,Croatia,1,2,2.0,2.234511,0.89505,0.999595,-0.010424,849,False,-7.6e-05,858
+Edgardo Codesal | England,-0.000403,0.03887,Edgardo Codesal,England,1,1,1.0,1.247744,0.801446,0.999597,-0.010373,850,False,-0.00013,728
+Ben Williams | Belgium,-0.000401,0.038871,Ben Williams,Belgium,1,1,1.0,1.243892,0.803928,0.999599,-0.010316,851,False,-0.000115,768
+Pierluigi Collina | Belgium,0.000398,0.038856,Pierluigi Collina,Belgium,1,2,2.0,1.711689,1.168437,1.000398,0.01023,852,False,3.6e-05,958
+Peter Mikkelsen | West Germany,-0.000396,0.03887,Peter Mikkelsen,West Germany,1,1,1.0,1.243762,0.804013,0.999604,-0.01018,853,False,-7.1e-05,869
+Ben Williams | Greece,0.000395,0.038857,Ben Williams,Greece,1,2,2.0,1.706302,1.172125,1.000395,0.010155,854,False,8.2e-05,839
+Hellmut Krug | Norway,-0.000394,0.038841,Hellmut Krug,Norway,1,2,2.0,2.220722,0.900608,0.999606,-0.010153,855,False,-7.1e-05,868
+Bernd Heynemann | Tunisia,-0.000392,0.038841,Bernd Heynemann,Tunisia,1,2,2.0,2.220674,0.900628,0.999608,-0.010083,856,False,-5.3e-05,911
+Gianluca Rocchi | Japan,0.000384,0.038856,Gianluca Rocchi,Japan,1,2,2.0,1.717089,1.164762,1.000384,0.009883,857,False,4.1e-05,942
+Neji Jouini | Costa Rica,-0.000382,0.038841,Neji Jouini,Costa Rica,1,2,2.0,2.220531,0.900686,0.999618,-0.009825,858,False,-8.2e-05,838
+Helmut Kohl | Uruguay,0.000378,0.038856,Helmut Kohl,Uruguay,1,2,2.0,1.725201,1.159285,1.000378,0.009723,859,False,9.1e-05,817
+Néstor Pitana | United States,-0.000376,0.03887,Néstor Pitana,United States,1,1,1.0,1.231751,0.811853,0.999624,-0.009678,860,False,-8.7e-05,829
+Marco Rodríguez | Germany,0.000371,0.038856,Marco Rodríguez,Germany,1,2,2.0,1.73168,1.154948,1.000371,0.009541,861,False,6e-05,893
+Alireza Faghani | Mexico,-0.000371,0.038842,Alireza Faghani,Mexico,1,2,2.0,2.213737,0.90345,0.99963,-0.009539,862,False,-3.7e-05,951
+José Torres Cadena | Norway,-0.000369,0.038841,José Torres Cadena,Norway,1,2,2.0,2.209382,0.905231,0.999631,-0.009504,863,False,-7e-05,872
+Hellmut Krug | Saudi Arabia,-0.000367,0.038841,Hellmut Krug,Saudi Arabia,1,2,2.0,2.204819,0.907104,0.999633,-0.009454,864,False,-0.000102,790
+Mark Geiger | Chile,0.000367,0.038856,Mark Geiger,Chile,1,2,2.0,1.7283,1.157206,1.000367,0.009433,865,False,0.000115,769
+Björn Kuipers | Spain,-0.000366,0.03887,Björn Kuipers,Spain,1,1,1.0,1.222705,0.817859,0.999634,-0.009416,866,False,-9e-05,821
+Yuichi Nishimura | Croatia,0.000364,0.038856,Yuichi Nishimura,Croatia,1,2,2.0,1.731329,1.155182,1.000364,0.00937,867,False,6.3e-05,888
+Ravshan Irmatov | England,-0.000357,0.038871,Ravshan Irmatov,England,1,1,1.0,1.220007,0.819667,0.999643,-0.00918,868,False,-0.000133,722
+Wilton Sampaio | Saudi Arabia,0.000352,0.038855,Wilton Sampaio,Saudi Arabia,1,2,2.0,1.73892,1.150139,1.000352,0.009047,869,False,3.3e-05,963
+Björn Kuipers | Egypt,0.000348,0.038855,Björn Kuipers,Egypt,1,2,2.0,1.740376,1.149177,1.000349,0.008969,870,False,6.8e-05,874
+Wolfgang Stark | England,-0.000346,0.038871,Wolfgang Stark,England,1,1,1.0,1.209692,0.826657,0.999654,-0.008912,871,False,-0.000124,745
+Mohammed Abdulla Hassan Mohamed | Peru,0.000345,0.038856,Mohammed Abdulla Hassan Mohamed,Peru,1,2,2.0,1.739392,1.149827,1.000345,0.008879,872,False,7.4e-05,861
+José Roberto Wright | Soviet Union,-0.000341,0.038871,José Roberto Wright,Soviet Union,1,1,1.0,1.206356,0.828942,0.999659,-0.008777,873,False,-5.6e-05,903
+Chris Beath | Mexico,0.00034,0.038856,Chris Beath,Mexico,1,2,2.0,1.744047,1.146758,1.00034,0.008754,874,False,9.5e-05,806
+Alireza Faghani | England,0.000339,0.038855,Alireza Faghani,England,1,2,2.0,1.749122,1.143431,1.000339,0.008732,875,False,-2.7e-05,980
+Urs Meier | United States,-0.000336,0.038811,Urs Meier,United States,2,3,1.5,3.174874,0.944919,0.999664,-0.008652,876,False,-7.9e-05,850
+Peter Mikkelsen | South Korea,-0.000333,0.038841,Peter Mikkelsen,South Korea,1,2,2.0,2.188362,0.913926,0.999667,-0.008578,877,False,-4e-05,947
+Gilles Veissière | Argentina,0.000328,0.038855,Gilles Veissière,Argentina,1,2,2.0,1.754877,1.139681,1.000328,0.008431,878,True,0.000125,743
+Carlos Batres | Paraguay,0.000325,0.038736,Carlos Batres,Paraguay,2,6,3.0,5.694395,1.053668,1.000325,0.00839,879,False,4e-05,944
+Vítor Melo Pereira | Croatia,0.000322,0.038855,Vítor Melo Pereira,Croatia,1,2,2.0,1.760872,1.135801,1.000322,0.008284,880,False,6.1e-05,890
+Andrés Cunha | France,-0.00032,0.038812,Andrés Cunha,France,2,3,1.5,3.159902,0.949397,0.99968,-0.008256,881,False,-8.7e-05,825
+Marcel Van Langenhove | Republic of Ireland,-0.000312,0.038872,Marcel Van Langenhove,Republic of Ireland,1,1,1.0,1.186068,0.843122,0.999688,-0.008036,882,False,-7.9e-05,852
+Raphael Claus | Iran,0.00031,0.038855,Raphael Claus,Iran,1,2,2.0,1.763091,1.134372,1.00031,0.007977,883,False,5.9e-05,896
+Kurt Röthlisberger | Yugoslavia,0.000309,0.038855,Kurt Röthlisberger,Yugoslavia,1,2,2.0,1.769663,1.130159,1.000309,0.007949,884,False,7.7e-05,856
+László Vágner | Norway,0.000308,0.038855,László Vágner,Norway,1,2,2.0,1.764046,1.133757,1.000309,0.007939,885,False,5.5e-05,905
+Ľuboš Micheľ | Sweden,0.000308,0.038826,Ľuboš Micheľ,Sweden,1,3,3.0,2.761345,1.086427,1.000308,0.007937,886,False,5e-06,1014
+Benito Archundia | France,0.000306,0.038854,Benito Archundia,France,1,2,2.0,1.776166,1.126021,1.000306,0.007866,887,False,4.8e-05,922
+Jorge Larrionda | Togo,-0.000305,0.038812,Jorge Larrionda,Togo,1,3,3.0,3.153751,0.951248,0.999695,-0.007857,888,False,-5.7e-05,900
+Gehad Grisha | England,-0.000305,0.038872,Gehad Grisha,England,1,1,1.0,1.180056,0.847417,0.999695,-0.007843,889,False,-0.000112,776
+Viktor Kassai | Ghana,-0.000304,0.038842,Viktor Kassai,Ghana,1,2,2.0,2.16504,0.923771,0.999696,-0.007815,890,False,-1.9e-05,998
+Stéphane Lannoy | Netherlands,0.000301,0.038855,Stéphane Lannoy,Netherlands,1,2,2.0,1.77164,1.128898,1.000301,0.007746,891,False,0.000117,762
+Mark Shield | Angola,-0.000301,0.038813,Mark Shield,Angola,1,3,3.0,3.145686,0.953687,0.999699,-0.007747,892,False,-4.9e-05,920
+Francisco Oscar Lamolina | Switzerland,0.000301,0.038855,Francisco Oscar Lamolina,Switzerland,1,2,2.0,1.769966,1.129965,1.000301,0.007738,893,False,8.5e-05,832
+Philip Don | Morocco,-0.000298,0.038843,Philip Don,Morocco,1,2,2.0,2.159325,0.926215,0.999702,-0.007683,894,False,-7e-05,871
+Frank De Bleeckere | South Korea,-0.000296,0.038843,Frank De Bleeckere,South Korea,1,2,2.0,2.169768,0.921758,0.999704,-0.007626,895,False,-4.7e-05,925
+Peter Prendergast | Russia,0.000294,0.038854,Peter Prendergast,Russia,1,2,2.0,1.77393,1.12744,1.000294,0.007558,896,False,9e-05,818
+Ben Williams | Honduras,0.00029,0.038855,Ben Williams,Honduras,1,2,2.0,1.77456,1.12704,1.00029,0.007475,897,False,5.7e-05,898
+Hugh Dallas | France,-0.000285,0.038843,Hugh Dallas,France,1,2,2.0,2.155542,0.927841,0.999715,-0.007342,898,False,-8.5e-05,834
+Pierluigi Pairetto | Romania,0.000279,0.038825,Pierluigi Pairetto,Romania,1,3,3.0,2.762212,1.086086,1.000279,0.007197,899,False,6.9e-05,873
+René Ortubé | Sweden,0.000277,0.038854,René Ortubé,Sweden,1,2,2.0,1.784935,1.120489,1.000277,0.007127,900,False,4.3e-05,936
+Carlos Velasco Carballo | Colombia,0.000277,0.038854,Carlos Velasco Carballo,Colombia,1,2,2.0,1.781607,1.122582,1.000277,0.007122,901,False,5e-05,916
+Benito Archundia | Czech Republic,-0.000275,0.038843,Benito Archundia,Czech Republic,1,2,2.0,2.15147,0.929597,0.999725,-0.007069,902,False,-3.1e-05,968
+José Roberto Wright | Romania,0.000272,0.038854,José Roberto Wright,Romania,1,2,2.0,1.79238,1.115835,1.000272,0.007011,903,False,7.9e-05,853
+Kurt Röthlisberger | Germany,-0.000269,0.038843,Kurt Röthlisberger,Germany,1,2,2.0,2.146316,0.931829,0.999731,-0.006937,904,False,-5.2e-05,913
+Malang Diedhiou | Serbia,0.000268,0.038854,Malang Diedhiou,Serbia,1,2,2.0,1.790932,1.116737,1.000268,0.006904,905,False,0.000126,741
+Ramesh Ramdhan | Croatia,0.000266,0.038854,Ramesh Ramdhan,Croatia,1,2,2.0,1.792464,1.115783,1.000266,0.006845,906,False,5.6e-05,904
+Wilmar Roldán | Mexico,-0.000266,0.038873,Wilmar Roldán,Mexico,1,1,1.0,1.156418,0.86474,0.999734,-0.00684,907,False,-2.4e-05,987
+Abdulrahman Al-Jassim | Morocco,-0.000263,0.038843,Abdulrahman Al-Jassim,Morocco,1,2,2.0,2.134873,0.936824,0.999737,-0.006771,908,False,-6.8e-05,875
+Janny Sikazwe | Canada,-0.000261,0.038844,Janny Sikazwe,Canada,1,2,2.0,2.133825,0.937284,0.999739,-0.006716,909,False,-4.3e-05,937
+Pedro Proença | Colombia,-0.00025,0.038873,Pedro Proença,Colombia,1,1,1.0,1.14524,0.873179,0.99975,-0.006442,910,False,-4.8e-05,923
+Damir Skomina | Switzerland,0.000248,0.038854,Damir Skomina,Switzerland,1,2,2.0,1.804296,1.108466,1.000248,0.006382,911,False,8.1e-05,844
+Enrique Osses | Italy,-0.000239,0.038873,Enrique Osses,Italy,1,1,1.0,1.138198,0.878582,0.999761,-0.006161,912,False,-6.7e-05,877
+Ryszard Wójcik | South Korea,-0.000239,0.038844,Ryszard Wójcik,South Korea,1,2,2.0,2.121246,0.942842,0.999761,-0.006141,913,False,-3.6e-05,957
+Jorge Larrionda | Cameroon,0.000239,0.038853,Jorge Larrionda,Cameroon,1,2,2.0,1.818398,1.099869,1.000239,0.00614,914,False,5.5e-05,907
+Khalil Al Ghamdi | France,-0.000237,0.038844,Khalil Al Ghamdi,France,1,2,2.0,2.123136,0.942003,0.999763,-0.006091,915,False,-0.000102,791
+Joël Quiniou | Bulgaria,-0.000232,0.038814,Joël Quiniou,Bulgaria,1,3,3.0,3.107037,0.96555,0.999768,-0.005984,916,False,1.3e-05,1006
+Nicola Rizzoli | Spain,-0.000227,0.038874,Nicola Rizzoli,Spain,1,1,1.0,1.130924,0.884233,0.999773,-0.005846,917,False,-8e-05,848
+Bo Karlsson | Nigeria,-0.000224,0.038844,Bo Karlsson,Nigeria,1,2,2.0,2.110271,0.947746,0.999776,-0.005779,918,False,-9.9e-05,800
+Marco Rodríguez | Belgium,-0.000223,0.038874,Marco Rodríguez,Belgium,1,1,1.0,1.130807,0.884324,0.999777,-0.005748,919,False,-7.1e-05,866
+Edgardo Codesal | Italy,-0.000217,0.038874,Edgardo Codesal,Italy,1,1,1.0,1.127197,0.887157,0.999783,-0.005589,920,False,-5.4e-05,910
+Günter Benkö | Mexico,0.000217,0.038853,Günter Benkö,Mexico,1,2,2.0,1.82638,1.095062,1.000217,0.005586,921,False,8.1e-05,846
+José Torres Cadena | Belgium,0.000217,0.038853,José Torres Cadena,Belgium,1,2,2.0,1.828699,1.093674,1.000217,0.005584,922,False,1e-06,1022
+Philip Don | Romania,0.000216,0.038824,Philip Don,Romania,1,3,3.0,2.806159,1.069077,1.000216,0.005568,923,False,6.6e-05,880
+Luis Medina Cantalejo | Netherlands,0.000216,0.038824,Luis Medina Cantalejo,Netherlands,1,3,3.0,2.820399,1.063679,1.000216,0.005552,924,False,0.000135,715
+Yuichi Nishimura | Brazil,-0.000214,0.038815,Yuichi Nishimura,Brazil,2,3,1.5,3.093473,0.969784,0.999786,-0.005505,925,False,-9.3e-05,813
+Héctor Baldassi | Ghana,-0.000212,0.038844,Héctor Baldassi,Ghana,1,2,2.0,2.107409,0.949032,0.999788,-0.005448,926,False,-1.9e-05,999
+Carlos Velasco Carballo | England,-0.000209,0.038874,Carlos Velasco Carballo,England,1,1,1.0,1.11908,0.893591,0.999791,-0.005374,927,False,-9.7e-05,804
+Jerome Damon | New Zealand,-0.0002,0.038845,Jerome Damon,New Zealand,1,2,2.0,2.091214,0.956382,0.9998,-0.005159,928,False,-5.3e-05,912
+Kurt Röthlisberger | United States,0.0002,0.038852,Kurt Röthlisberger,United States,1,2,2.0,1.843899,1.084658,1.0002,0.005138,929,False,1.4e-05,1004
+Alberto Tejada Noriega | Netherlands,0.000196,0.038853,Alberto Tejada Noriega,Netherlands,1,2,2.0,1.84131,1.086183,1.000196,0.005036,930,False,0.000109,783
+Abdul Rahman Al-Zaid | Netherlands,-0.000194,0.038845,Abdul Rahman Al-Zaid,Netherlands,1,2,2.0,2.095458,0.954445,0.999806,-0.005001,931,False,2.6e-05,984
+Tullio Lanese | Colombia,0.000194,0.038853,Tullio Lanese,Colombia,1,2,2.0,1.842247,1.085631,1.000194,0.004997,932,False,3.5e-05,960
+Björn Kuipers | Sweden,0.000194,0.038852,Björn Kuipers,Sweden,1,2,2.0,1.842774,1.08532,1.000194,0.00499,933,False,2.8e-05,977
+Wilton Sampaio | Senegal,-0.000193,0.038845,Wilton Sampaio,Senegal,1,2,2.0,2.092014,0.956016,0.999807,-0.004959,934,False,-3.8e-05,950
+César Arturo Ramos | Brazil,-0.000192,0.038874,César Arturo Ramos,Brazil,1,1,1.0,1.110864,0.9002,0.999808,-0.004946,935,False,-4.4e-05,933
+Joël Quiniou | Czechoslovakia,0.000192,0.038853,Joël Quiniou,Czechoslovakia,1,2,2.0,1.84901,1.08166,1.000192,0.004944,936,False,7.3e-05,862
+Hugh Dallas | Mexico,-0.000191,0.038845,Hugh Dallas,Mexico,1,2,2.0,2.096627,0.953913,0.999809,-0.004911,937,False,3e-06,1020
+Pedro Proença | Croatia,-0.00019,0.038874,Pedro Proença,Croatia,1,1,1.0,1.106311,0.903905,0.99981,-0.004893,938,False,-3.3e-05,962
+Björn Kuipers | France,-0.00019,0.038874,Björn Kuipers,France,1,1,1.0,1.109231,0.901525,0.99981,-0.004876,939,False,-4.7e-05,926
+Mustapha Ghorbal | Australia,0.000188,0.038852,Mustapha Ghorbal,Australia,1,2,2.0,1.842526,1.085466,1.000188,0.004836,940,False,3.6e-05,956
+Joel Aguilar | South Korea,0.000187,0.038853,Joel Aguilar,South Korea,1,2,2.0,1.845704,1.083597,1.000187,0.004823,941,False,4.9e-05,919
+Arturo Brizio Carter | Argentina,0.000186,0.038823,Arturo Brizio Carter,Argentina,1,3,3.0,2.838826,1.056775,1.000186,0.004794,942,True,0.000111,778
+Sándor Puhl | Spain,-0.000185,0.038844,Sándor Puhl,Spain,1,2,2.0,2.089382,0.957221,0.999815,-0.004772,943,False,-8.1e-05,845
+William Mattus | Croatia,0.000185,0.038852,William Mattus,Croatia,1,2,2.0,1.846976,1.082851,1.000185,0.004769,944,False,5e-05,915
+Jorge Larrionda | Serbia,0.000185,0.038852,Jorge Larrionda,Serbia,1,2,2.0,1.852194,1.0798,1.000185,0.004749,945,False,0.00011,781
+Iván Barton | Brazil,-0.000183,0.038874,Iván Barton,Brazil,1,1,1.0,1.102385,0.907124,0.999817,-0.004717,946,False,-4.2e-05,938
+Urs Meier | Iran,0.000183,0.038852,Urs Meier,Iran,1,2,2.0,1.84861,1.081894,1.000183,0.004709,947,False,4e-05,945
+Jonas Eriksson | Switzerland,0.000182,0.038852,Jonas Eriksson,Switzerland,1,2,2.0,1.845842,1.083516,1.000182,0.004679,948,False,4.6e-05,928
+Óscar Ruiz | China,-0.000179,0.038845,Óscar Ruiz,China,1,2,2.0,2.086544,0.958523,0.999821,-0.004614,949,False,-4e-05,943
+Eddy Maillet | Chile,0.000178,0.038852,Eddy Maillet,Chile,1,2,2.0,1.849502,1.081372,1.000178,0.004589,950,False,8.1e-05,843
+Slavko Vinčić | Wales,0.000176,0.038852,Slavko Vinčić,Wales,1,2,2.0,1.848298,1.082076,1.000176,0.004531,951,False,3.2e-05,965
+Sándor Puhl | Norway,0.000175,0.038852,Sándor Puhl,Norway,1,2,2.0,1.853271,1.079173,1.000175,0.004513,952,False,4.7e-05,927
+Mark Geiger | Spain,-0.000175,0.038875,Mark Geiger,Spain,1,1,1.0,1.098356,0.910452,0.999825,-0.004496,953,False,-6.5e-05,883
+Carlos Silva Valente | Argentina,0.000174,0.038852,Carlos Silva Valente,Argentina,1,2,2.0,1.858921,1.075893,1.000174,0.004472,954,True,8.5e-05,830
+Ľuboš Micheľ | Argentina,0.000168,0.038793,Ľuboš Micheľ,Argentina,1,4,4.0,3.841664,1.041216,1.000168,0.004319,955,True,0.000116,764
+Óscar Ruiz | South Korea,-0.000163,0.038845,Óscar Ruiz,South Korea,1,2,2.0,2.080397,0.961355,0.999837,-0.00419,956,False,-1.5e-05,1002
+Kurt Röthlisberger | England,-0.000162,0.038875,Kurt Röthlisberger,England,1,1,1.0,1.093225,0.914724,0.999838,-0.004173,957,False,-7.9e-05,849
+Ali Bujsaim | Brazil,0.000157,0.038852,Ali Bujsaim,Brazil,1,2,2.0,1.869812,1.069627,1.000157,0.004045,958,False,0.0,1025
+Arturo Brizio Carter | Germany,0.000157,0.038852,Arturo Brizio Carter,Germany,1,2,2.0,1.871495,1.068665,1.000157,0.004028,959,False,2.8e-05,976
+Helmut Kohl | Scotland,0.000152,0.038852,Helmut Kohl,Scotland,1,2,2.0,1.869743,1.069666,1.000152,0.003905,960,False,5e-06,1015
+Facundo Tello | South Korea,0.000147,0.038852,Facundo Tello,South Korea,1,2,2.0,1.872143,1.068294,1.000147,0.003795,961,False,3.5e-05,959
+Roberto Rosetti | Paraguay,0.000147,0.038851,Roberto Rosetti,Paraguay,1,2,2.0,1.875436,1.066419,1.000147,0.003792,962,False,3.3e-05,964
+Esfandiar Baharmast | Norway,-0.000145,0.038846,Esfandiar Baharmast,Norway,1,2,2.0,2.057329,0.972134,0.999855,-0.003734,963,False,-2.6e-05,981
+César Arturo Ramos | Belgium,-0.000145,0.038875,César Arturo Ramos,Belgium,1,1,1.0,1.079944,0.925974,0.999855,-0.00373,964,False,-4.9e-05,917
+Jorge Larrionda | Ivory Coast,0.000144,0.038851,Jorge Larrionda,Ivory Coast,1,2,2.0,1.878678,1.064578,1.000144,0.003702,965,False,3.7e-05,953
+Felipe Ramos | Paraguay,-0.00014,0.038846,Felipe Ramos,Paraguay,1,2,2.0,2.059893,0.970924,0.99986,-0.003614,966,False,-2.2e-05,988
+Szymon Marciniak | Sweden,0.000139,0.038851,Szymon Marciniak,Sweden,1,2,2.0,1.878537,1.064658,1.000139,0.003572,967,False,-0.0,1024
+Jesús Valenzuela | Poland,-0.000138,0.038845,Jesús Valenzuela,Poland,1,2,2.0,2.051984,0.974666,0.999862,-0.003542,968,False,-4e-06,1018
+Pierluigi Collina | Denmark,0.000132,0.038851,Pierluigi Collina,Denmark,1,2,2.0,1.883971,1.061587,1.000132,0.003397,969,False,4.4e-05,935
+Rune Pedersen | Germany,0.000128,0.038851,Rune Pedersen,Germany,1,2,2.0,1.882865,1.062211,1.000128,0.003299,970,False,2e-05,995
+José Roberto Wright | Cameroon,0.000127,0.038851,José Roberto Wright,Cameroon,1,2,2.0,1.888868,1.058835,1.000127,0.003277,971,False,3.8e-05,948
+Alexey Spirin | West Germany,-0.000125,0.038876,Alexey Spirin,West Germany,1,1,1.0,1.061794,0.941803,0.999875,-0.003206,972,False,-2e-05,993
+Wilmar Roldán | England,-0.000124,0.038875,Wilmar Roldán,England,1,1,1.0,1.06452,0.939391,0.999876,-0.003191,973,False,-6.7e-05,876
+Saad Mane | Denmark,0.000119,0.038851,Saad Mane,Denmark,1,2,2.0,1.891313,1.057467,1.000119,0.003053,974,False,4.5e-05,931
+Luis Medina Cantalejo | France,-0.000118,0.038817,Luis Medina Cantalejo,France,1,3,3.0,3.034867,0.988511,0.999882,-0.003043,975,False,-7.3e-05,863
+Alireza Faghani | Uruguay,0.000117,0.038851,Alireza Faghani,Uruguay,1,2,2.0,1.894812,1.055514,1.000117,0.00301,976,False,2.9e-05,972
+Antonio Mateu Lahoz | Denmark,-0.000111,0.038847,Antonio Mateu Lahoz,Denmark,1,2,2.0,2.04316,0.978876,0.999889,-0.002847,977,False,-2e-05,992
+Nawaf Shukralla | Australia,0.00011,0.038851,Nawaf Shukralla,Australia,1,2,2.0,1.894017,1.055957,1.00011,0.002826,978,False,8e-06,1012
+Manuel Díaz Vega | Netherlands,0.000107,0.038851,Manuel Díaz Vega,Netherlands,1,2,2.0,1.895248,1.055271,1.000107,0.002763,979,False,9.3e-05,815
+Ismail Elfath | Croatia,0.000105,0.038851,Ismail Elfath,Croatia,1,2,2.0,1.898936,1.053221,1.000105,0.002697,980,False,2.1e-05,991
+Mario van der Ende | Romania,0.000103,0.038851,Mario van der Ende,Romania,1,2,2.0,1.901992,1.051529,1.000103,0.002644,981,False,4.5e-05,929
+Mohammed Abdulla Hassan Mohamed | Cameroon,-0.000102,0.038846,Mohammed Abdulla Hassan Mohamed,Cameroon,1,2,2.0,2.033267,0.983638,0.999898,-0.002636,982,False,-1.9e-05,997
+William Mattus | Japan,0.000101,0.038851,William Mattus,Japan,1,2,2.0,1.90164,1.051724,1.000101,0.002602,983,False,-6e-06,1013
+Mohammed Abdulla Hassan Mohamed | Costa Rica,-0.0001,0.038846,Mohammed Abdulla Hassan Mohamed,Costa Rica,1,2,2.0,2.031765,0.984366,0.9999,-0.002587,984,False,-2.1e-05,989
+Nawaf Shukralla | Senegal,0.0001,0.038851,Nawaf Shukralla,Senegal,1,2,2.0,1.902086,1.051477,1.0001,0.00258,985,False,2.1e-05,990
+Viktor Kassai | Brazil,-9.9e-05,0.038876,Viktor Kassai,Brazil,1,1,1.0,1.048001,0.954197,0.999901,-0.002538,986,False,-2.6e-05,985
+Andrés Matonte | Canada,9.7e-05,0.038851,Andrés Matonte,Canada,1,2,2.0,1.89789,1.053802,1.000097,0.002501,987,False,2.8e-05,974
+Toru Kamikawa | Portugal,9.7e-05,0.038821,Toru Kamikawa,Portugal,1,3,3.0,2.893295,1.03688,1.000097,0.002491,988,False,6e-05,894
+László Vágner | Scotland,-9.6e-05,0.038847,László Vágner,Scotland,1,2,2.0,2.026921,0.986718,0.999904,-0.002471,989,False,-4.8e-05,924
+Hernán Silva | Cameroon,9.5e-05,0.03885,Hernán Silva,Cameroon,1,2,2.0,1.905887,1.04938,1.000095,0.002446,990,False,2.6e-05,982
+Antonio Mateu Lahoz | Croatia,-9.5e-05,0.038847,Antonio Mateu Lahoz,Croatia,1,2,2.0,2.03423,0.983173,0.999905,-0.002439,991,False,-3e-05,970
+Zoran Petrović | Costa Rica,9e-05,0.03885,Zoran Petrović,Costa Rica,1,2,2.0,1.909879,1.047187,1.00009,0.002312,992,False,2.6e-05,983
+Urs Meier | Germany,8.9e-05,0.03885,Urs Meier,Germany,1,2,2.0,1.911921,1.046068,1.000089,0.002291,993,False,2.5e-05,986
+Carlos Simon | Spain,-8.2e-05,0.038847,Carlos Simon,Spain,1,2,2.0,2.029378,0.985524,0.999918,-0.002113,994,False,-6.6e-05,879
+Jerome Damon | Japan,8e-05,0.03885,Jerome Damon,Japan,1,2,2.0,1.914608,1.0446,1.00008,0.002051,995,False,-2.9e-05,973
+Néstor Pitana | Uruguay,7.7e-05,0.03885,Néstor Pitana,Uruguay,1,2,2.0,1.920302,1.041503,1.000077,0.001987,996,False,4.2e-05,939
+Cüneyt Çakır | Mexico,7.7e-05,0.038851,Cüneyt Çakır,Mexico,1,2,2.0,1.919523,1.041926,1.000077,0.00197,997,False,3.7e-05,952
+Milorad Mažić | Belgium,7.6e-05,0.03885,Milorad Mažić,Belgium,1,2,2.0,1.916592,1.043519,1.000076,0.001946,998,False,-3e-05,969
+Enrique Cáceres | Iran,6.8e-05,0.03885,Enrique Cáceres,Iran,1,2,2.0,1.920199,1.041559,1.000068,0.001762,999,False,1.1e-05,1007
+Cüneyt Çakır | Nigeria,-6.2e-05,0.038847,Cüneyt Çakır,Nigeria,1,2,2.0,2.010609,0.994723,0.999938,-0.001608,1000,False,-7.6e-05,859
+Szymon Marciniak | Argentina,-5.4e-05,0.038758,Szymon Marciniak,Argentina,3,5,1.666667,4.958686,1.008332,0.999946,-0.001399,1001,True,0.000141,702
+Jorge Larrionda | Italy,5.3e-05,0.038849,Jorge Larrionda,Italy,1,2,2.0,1.941736,1.030006,1.000053,0.001363,1002,False,-1.5e-05,1001
+Jorge Larrionda | Angola,5.1e-05,0.03882,Jorge Larrionda,Angola,1,3,3.0,2.922882,1.026384,1.000051,0.001325,1003,False,2.8e-05,979
+Byron Moreno | Portugal,-5e-05,0.038848,Byron Moreno,Portugal,1,2,2.0,2.000339,0.999831,0.99995,-0.001278,1004,False,1.8e-05,1000
+Andrés Cunha | Iran,-4.8e-05,0.038848,Andrés Cunha,Iran,1,2,2.0,1.99664,1.001683,0.999952,-0.001224,1005,False,-5e-06,1017
+Alberto Undiano Mallenco | Slovakia,-4.7e-05,0.038818,Alberto Undiano Mallenco,Slovakia,1,3,3.0,2.97575,1.008149,0.999953,-0.00121,1006,False,-1.3e-05,1005
+Kurt Röthlisberger | Egypt,3.9e-05,0.038849,Kurt Röthlisberger,Egypt,1,2,2.0,1.946093,1.0277,1.000039,0.000992,1007,False,-3e-06,1019
+Graham Poll | Saudi Arabia,3.8e-05,0.038819,Graham Poll,Saudi Arabia,1,3,3.0,2.931035,1.023529,1.000038,0.000971,1008,False,-5.5e-05,908
+Cüneyt Çakır | Netherlands,3.7e-05,0.03885,Cüneyt Çakır,Netherlands,1,2,2.0,1.944849,1.028357,1.000037,0.000962,1009,False,6.7e-05,878
+Mario Sánchez Yanten | Bulgaria,3.6e-05,0.03885,Mario Sánchez Yanten,Bulgaria,1,2,2.0,1.941549,1.030105,1.000036,0.000939,1010,False,4.4e-05,934
+Massimo Busacca | South Africa,-3.6e-05,0.038847,Massimo Busacca,South Africa,1,2,2.0,1.991095,1.004472,0.999964,-0.000921,1011,False,-1e-05,1009
+Marco Rodríguez | England,-2.9e-05,0.038848,Marco Rodríguez,England,1,2,2.0,1.993075,1.003475,0.999971,-0.000751,1012,False,-0.000101,792
+Felipe Ramos | England,2.9e-05,0.038849,Felipe Ramos,England,1,2,2.0,1.949376,1.025969,1.000029,0.000749,1013,False,-8.1e-05,840
+Kurt Röthlisberger | Republic of Ireland,2.7e-05,0.038849,Kurt Röthlisberger,Republic of Ireland,1,2,2.0,1.95175,1.024721,1.000027,0.000702,1014,False,-3.7e-05,955
+Mario Sánchez Yanten | South Africa,-2.6e-05,0.038848,Mario Sánchez Yanten,South Africa,1,2,2.0,1.980119,1.01004,0.999974,-0.000658,1015,False,-5e-06,1016
+Anthony Taylor | Ghana,2.3e-05,0.038849,Anthony Taylor,Ghana,1,2,2.0,1.948969,1.026184,1.000023,0.000581,1016,False,2.8e-05,975
+Carlos Batres | Slovenia,2.2e-05,0.038849,Carlos Batres,Slovenia,1,2,2.0,1.952554,1.0243,1.000022,0.000574,1017,False,3.7e-05,954
+Óscar Ruiz | Ivory Coast,-2.1e-05,0.038818,Óscar Ruiz,Ivory Coast,1,3,3.0,2.971438,1.009612,0.999979,-0.000544,1018,False,1e-06,1023
+Günter Benkö | Jamaica,1.7e-05,0.038849,Günter Benkö,Jamaica,1,2,2.0,1.951677,1.02476,1.000017,0.000438,1019,False,1e-06,1021
+Alberto Undiano Mallenco | Netherlands,-1.1e-05,0.038849,Alberto Undiano Mallenco,Netherlands,1,2,2.0,1.974999,1.012659,0.999989,-0.000292,1020,False,6.3e-05,887
+Peter Mikkelsen | Switzerland,-1e-05,0.038848,Peter Mikkelsen,Switzerland,1,2,2.0,1.97649,1.011895,0.99999,-0.000248,1021,False,3.1e-05,967
+Leslie Mottram | Nigeria,-8e-06,0.038848,Leslie Mottram,Nigeria,1,2,2.0,1.971053,1.014686,0.999992,-0.000199,1022,False,-5.5e-05,909
+Nawaf Shukralla | Spain,-5e-06,0.038878,Nawaf Shukralla,Spain,1,1,1.0,0.986629,1.013552,0.999995,-0.00013,1023,False,-3.2e-05,966
+Ali Bujsaim | Bulgaria,3e-06,0.038759,Ali Bujsaim,Bulgaria,2,5,2.5,4.926029,1.015016,1.000003,6.7e-05,1024,False,8.8e-05,824
+Howard Webb | Ivory Coast,0.0,0.038849,Howard Webb,Ivory Coast,1,2,2.0,1.970254,1.015098,1.0,9e-06,1025,False,-9e-06,1010

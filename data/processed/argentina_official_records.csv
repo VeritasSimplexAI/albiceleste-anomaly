@@ -1,0 +1,276 @@
+official,matches,wins,draws,losses,card_net,roles,years,ref_matches,win_pct,card_net_pm
+Alessandro Giallatini,4,4,0,0,5,assistant2/avar2,2022,0,100,1.25
+Berny Ulloa Morera,4,3,1,0,-2,assistant1/assistant2/referee,1986/1990,1,75,-0.5
+Massimiliano Irrati,4,3,0,1,0,avar3/var,2018/2022,0,75,0.0
+Paweł Sokolnicki,4,3,1,0,-1,assistant1/avar2,2018/2022,0,75,-0.25
+Szymon Marciniak,4,3,1,0,0,referee,2018/2022/2026,4,75,0.0
+Tomasz Listkiewicz,4,3,1,0,0,assistant1/assistant2,2018/2022/2026,0,75,0.0
+Ulises Saucedo,4,3,0,1,0,assistant1/assistant2/referee,1930,1,75,0.0
+Daniele Orsato,3,3,0,0,2,referee/var,2018/2022,2,100,0.67
+Drew Fischer,3,3,0,0,-2,avar1/fourth_official/referee,2022/2026,1,100,-0.67
+Juan Soto,3,3,0,0,-2,avar1/avar3,2022,0,100,-0.67
+Marco Di Bello,3,3,0,0,-1,avar2/var,2026,0,100,-0.33
+Tatiana Guzmán,3,3,0,0,-2,avar2,2026,0,100,-0.67
+Tomasz Kwiatkowski,3,3,0,0,0,var,2022/2026,0,100,0.0
+Andrea Stefani,3,2,0,1,3,assistant2,2014,0,67,1.0
+Belaïd Lacarne,3,2,0,1,0,assistant2/referee,1982,1,67,0.0
+Carlos Silva Valente,3,2,1,0,2,assistant1/referee,1986/1990,1,67,0.67
+Jerome Damon,3,2,0,1,-1,fourth_official,2010,0,67,-0.33
+Joaquim Campos,3,2,1,0,0,assistant1/referee,1958/1966,1,67,0.0
+John Langenus,3,2,0,1,0,referee,1930,3,67,0.0
+Michel Vautrot,3,2,0,1,-3,assistant1/referee,1982/1990,2,67,-1.0
+Nicola Rizzoli,3,2,0,1,3,referee,2014,3,67,1.0
+Paolo Valeri,3,2,0,1,1,avar1/avar3,2018/2022,0,67,0.33
+Renato Faverani,3,2,0,1,3,assistant1,2014,0,67,1.0
+Youssou N'Diaye,3,2,0,1,-1,assistant1/assistant2,1974/1978,0,67,-0.33
+Bastian Dankert,3,1,0,2,7,avar1,2018/2022,0,33,2.33
+Michał Listkiewicz,3,1,0,2,-5,assistant1/assistant2,1990,0,33,-1.67
+Nicolae Rainea,3,1,1,1,-1,assistant2/referee,1974/1982,1,33,-0.33
+Paweł Gil,3,1,1,1,-3,avar1,2018,0,33,-1.0
+Ravshan Irmatov,3,1,0,2,0,referee,2010/2018,3,33,0.0
+Alejandro Hernández Hernández,2,2,0,0,0,fourth_official/var,2022/2026,0,100,0.0
+Bahattin Duran,2,2,0,0,0,assistant1,2014/2018,0,100,0.0
+Bram Van Driessche,2,2,0,0,7,avar2/var,2026,0,100,3.5
+Ciro Carbone,2,2,0,0,3,assistant1,2022,0,100,1.5
+Constantin Rădulescu,2,2,0,0,0,assistant2,1930,0,100,0.0
+Cüneyt Çakır,2,2,0,0,0,referee,2014/2018,2,100,0.0
+Erik Fredriksson,2,2,0,0,-5,assistant1/referee,1986/1990,1,100,-2.5
+Frank De Bleeckere,2,2,0,0,-2,referee,2006/2010,2,100,-1.0
+Ismail Elfath,2,2,0,0,-4,fourth_official/referee,2022/2026,1,100,-2.0
+István Kovács,2,2,0,0,6,fourth_official/referee,2022/2026,1,100,3.0
+Jonas Eriksson,2,2,0,0,0,fourth_official/referee,2014,1,100,0.0
+Juan Lara,2,2,0,0,-4,avar1,2026,0,100,-2.0
+Jérôme Brisard,2,2,0,0,7,avar3/var,2022/2026,0,100,3.5
+Kathryn Nesbitt,2,2,0,0,0,avar2,2022,0,100,0.0
+Khalil Al Ghamdi,2,2,0,0,2,fourth_official,2006/2010,0,100,1.0
+Kyle Atkins,2,2,0,0,-4,assistant2/avar2,2022/2026,0,100,-2.0
+Mario van der Ende,2,2,0,0,4,fourth_official/referee,1994/1998,1,100,2.0
+Peter Hermans,2,2,0,0,-2,assistant1,2006/2010,0,100,-1.0
+Roberto Díaz Pérez del Palomar,2,2,0,0,3,assistant2/avar2,2022,0,100,1.5
+Roberto Rosetti,2,2,0,0,3,referee,2006/2010,2,100,1.5
+Romualdo Arppi Filho,2,2,0,0,-3,assistant2/referee,1986,1,100,-1.5
+Rune Pedersen,2,2,0,0,0,fourth_official/referee,1998,1,100,0.0
+Sergio Gonella,2,2,0,0,1,assistant2/referee,1978,1,100,0.5
+Svein Oddvar Moen,2,2,0,0,1,fourth_official,2014,0,100,0.5
+Tarık Ongun,2,2,0,0,0,assistant2,2014/2018,0,100,0.0
+Walter Vromans,2,2,0,0,-2,assistant2,2006/2010,0,100,-1.0
+Antonio Márquez Ramírez,2,1,1,0,-1,assistant2/referee,1986,1,50,-0.5
+Arturo Yamasaki Maldonado,2,1,1,0,0,assistant1/referee,1962/1966,1,50,0.0
+Bakhadyr Kochkarov,2,1,0,1,-1,assistant2,2010,0,50,-0.5
+Danny Makkelie,2,1,0,1,1,avar3/referee,2018/2022,1,50,0.5
+Erich Linemayr,2,1,1,0,1,assistant1/assistant2,1978,0,50,0.5
+Heiner Müller,2,1,1,0,-2,assistant1/assistant2,2002,0,50,-1.0
+Helge,2,1,0,1,0,assistant1/assistant2,1958,0,50,0.0
+Henri Christophe,2,1,0,1,0,assistant1,1930,0,50,0.0
+István Zsolt,2,1,0,1,0,assistant2,1966,0,50,0.0
+Juan Garay Gardeazábal,2,1,1,0,0,assistant1/referee,1962,1,50,0.0
+Julio Bascuñán,2,1,0,1,-2,avar3/fourth_official,2018/2022,0,50,-1.0
+Konstantin Zečević,2,1,1,0,0,assistant2/referee,1966,1,50,0.0
+Lim Kee Chong,2,1,0,1,4,fourth_official,1994/1998,0,50,2.0
+Luc Matthys,2,1,0,1,0,assistant2,1994,0,50,0.0
+Mahmoud Mustafa Kamel,2,1,1,0,-1,assistant1/assistant2,1974,0,50,-0.5
+Massimo Busacca,2,1,0,1,1,fourth_official/referee,2006,1,50,0.5
+Morgan,2,1,0,1,0,assistant1,1962,0,50,0.0
+Neji Jouini,2,1,0,1,1,assistant1/referee,1990/1994,1,50,0.5
+Norbert Hauata,2,1,0,1,3,fourth_official,2014/2018,0,50,1.5
+Pierluigi Collina,2,1,0,1,3,fourth_official/referee,1998/2002,1,50,1.5
+Pierluigi Pairetto,2,1,0,1,-2,assistant2/referee,1990/1994,1,50,-1.0
+Pol van Boekel,2,1,0,1,6,var,2022,0,50,3.0
+Rafael Ilyasov,2,1,0,1,-1,assistant1,2010,0,50,-0.5
+Sten Ahlner,2,1,0,1,0,assistant2/referee,1958,1,50,0.0
+Bobby Davidson,2,0,0,2,-1,assistant1/referee,1974,1,0,-0.5
+Clive Thomas,2,0,1,1,-2,assistant1/referee,1974,1,0,-1.0
+Jack Taylor,2,0,1,1,-1,assistant2/referee,1974,1,0,-0.5
+Károly Palotai,2,0,1,1,0,assistant1/referee,1978/1982,1,0,0.0
+Pavel Kazakov,2,0,1,1,1,assistant2/referee,1974,1,0,0.5
+Reginald Leafe,2,0,0,2,0,assistant1/referee,1958,1,0,0.0
+Adam Kupsik,1,1,0,0,0,assistant2,2026,0,100,0.0
+Ahmed Hossam Taha,1,1,0,0,0,assistant2,2026,0,100,0.0
+Alberto Warnken,1,1,0,0,0,assistant2,1930,0,100,0.0
+Alessandro Stagnoli,1,1,0,0,2,assistant2,2006,0,100,2.0
+Alexey Spirin,1,1,0,0,-1,assistant1,1990,0,100,-1.0
+Ali Bin Nasser,1,1,0,0,0,referee,1986,1,100,0.0
+Amin Omar,1,1,0,0,0,referee,2026,1,100,0.0
+Antonio Mateu Lahoz,1,1,0,0,0,referee,2022,1,100,0.0
+António Garrido,1,1,0,0,1,referee,1978,1,100,1.0
+Aristidis Chris Soldatos,1,1,0,0,1,assistant1,1998,0,100,1.0
+Armando Villarreal,1,1,0,0,0,var,2026,0,100,0.0
+Arturo Angeles,1,1,0,0,1,referee,1994,1,100,1.0
+Augusto Lamo Castillo,1,1,0,0,1,assistant1,1982,0,100,1.0
+Ben Williams,1,1,0,0,1,fourth_official,2014,0,100,1.0
+Benoît Millot,1,1,0,0,2,avar3,2022,0,100,2.0
+Björn Kuipers,1,1,0,0,-1,fourth_official,2018,0,100,-1.0
+Bo Karlsson,1,1,0,0,1,referee,1994,1,100,1.0
+Bogdan Dotchev,1,1,0,0,0,assistant1,1986,0,100,0.0
+Bruno Jesus,1,1,0,0,-2,assistant1,2026,0,100,-2.0
+Buergo,1,1,0,0,0,assistant2,1962,0,100,0.0
+Campbell-Kirk Kawana-Waugh,1,1,0,0,0,fourth_official,2026,0,100,0.0
+Corey Parker,1,1,0,0,-2,assistant1,2026,0,100,-2.0
+Cristiano Copelli,1,1,0,0,2,assistant1,2006,0,100,2.0
+Cyril Mugnier,1,1,0,0,4,assistant1,2026,0,100,4.0
+César Guerrero Orosco,1,1,0,0,1,assistant1,1978,0,100,1.0
+Dahane Beida,1,1,0,0,3,fourth_official,2026,0,100,3.0
+Dalibor Đurđević,1,1,0,0,2,assistant2,2014,0,100,2.0
+Daniel Wärnmark,1,1,0,0,-1,assistant2,2014,0,100,-1.0
+Dennis Higler,1,1,0,0,0,avar1,2026,0,100,0.0
+Dimitar Rumenchev,1,1,0,0,0,referee,1966,1,100,0.0
+Djamel Haimoudi,1,1,0,0,0,fourth_official,2014,0,100,0.0
+Eddie Foley,1,1,0,0,3,assistant2,1998,0,100,3.0
+Espen Eskås,1,1,0,0,4,fourth_official,2026,0,100,4.0
+Essam Abd El Fatah,1,1,0,0,2,fourth_official,2006,0,100,2.0
+Fedayi San,1,1,0,0,3,avar1,2026,0,100,3.0
+Ferdinand Biwersi,1,1,0,0,0,assistant1,1978,0,100,0.0
+Ferencz Tunyogi,1,1,0,0,3,assistant2,2026,0,100,3.0
+Fernando Guerrero,1,1,0,0,-2,avar3,2022,0,100,-2.0
+Francesco Buragina,1,1,0,0,2,assistant1,2006,0,100,2.0
+François Letexier,1,1,0,0,4,referee,2026,1,100,4.0
+Frédéric Arnault,1,1,0,0,-1,assistant1,2002,0,100,-1.0
+Gabriel González,1,1,0,0,2,assistant1,1986,0,100,2.0
+Gaspar Vallejo,1,1,0,0,0,assistant1,1930,0,100,0.0
+Gennaro Mazzei,1,1,0,0,2,assistant2,1998,0,100,2.0
+George Courtney,1,1,0,0,1,assistant2,1986,0,100,1.0
+Gilberto de Almeida Rêgo,1,1,0,0,0,referee,1930,1,100,0.0
+Gilles Veissière,1,1,0,0,-1,referee,2002,1,100,-1.0
+Gualberto Alonso,1,1,0,0,0,assistant1,1930,0,100,0.0
+Guillermo Pacheco,1,1,0,0,-2,var,2026,0,100,-2.0
+Halim Abdul Hamid,1,1,0,0,-2,assistant1,1998,0,100,-2.0
+Hessel Steegstra,1,1,0,0,0,assistant1,2022,0,100,0.0
+Ivan Bebek,1,1,0,0,0,avar1,2026,0,100,0.0
+Jafar Namdar,1,1,0,0,0,assistant1,1978,0,100,0.0
+Jamal Al Sharif,1,1,0,0,-3,assistant2,1990,0,100,-3.0
+Jan Dolstra,1,1,0,0,1,assistant2,1994,0,100,1.0
+Jan de Vries,1,1,0,0,0,assistant2,2022,0,100,0.0
+Jan-Hendrik Salver,1,1,0,0,0,assistant1,2010,0,100,0.0
+Jean Dubach,1,1,0,0,1,referee,1978,1,100,1.0
+Jesús Díaz,1,1,0,0,2,assistant2,1986,0,100,2.0
+Joel Aguilar,1,1,0,0,0,referee,2014,1,100,0.0
+José Luis Martínez Bazán,1,1,0,0,-1,assistant1,1986,0,100,-1.0
+José Roberto Wright,1,1,0,0,-3,assistant1,1990,0,100,-3.0
+João Pinheiro,1,1,0,0,-2,referee,2026,1,100,-2.0
+Joël Quiniou,1,1,0,0,-1,referee,1990,1,100,-1.0
+Juan Zumba,1,1,0,0,0,assistant2,2014,0,100,0.0
+Katia García,1,1,0,0,0,fourth_official,2026,0,100,0.0
+Khamis Al-Marri,1,1,0,0,0,var,2026,0,100,0.0
+Kim Milton Nielsen,1,1,0,0,-2,referee,1998,1,100,-2.0
+Kurt Röthlisberger,1,1,0,0,-2,referee,1990,1,100,-2.0
+Leslie Mottram,1,1,0,0,1,fourth_official,1994,0,100,1.0
+Luciano Maia,1,1,0,0,-2,assistant2,2026,0,100,-2.0
+Luigi Agnolin,1,1,0,0,1,referee,1986,1,100,1.0
+Luis Barrancos,1,1,0,0,1,referee,1982,1,100,1.0
+Lyes Arfa,1,1,0,0,0,assistant2,2026,0,100,0.0
+Mahmoud Abouregal,1,1,0,0,0,assistant1,2026,0,100,0.0
+Mahmoud Ashour,1,1,0,0,0,avar1,2026,0,100,0.0
+Marc Van den Broeck,1,1,0,0,3,assistant1,1998,0,100,3.0
+Marco Fritz,1,1,0,0,2,avar1,2022,0,100,2.0
+Mario Escobar,1,1,0,0,2,fourth_official,2022,0,100,2.0
+Markus Merk,1,1,0,0,-1,fourth_official,2002,0,100,-1.0
+Mathias Klasenius,1,1,0,0,-1,assistant1,2014,0,100,-1.0
+Matthias Arnet,1,1,0,0,2,assistant2,2006,0,100,2.0
+Maurizio Mariani,1,1,0,0,-2,fourth_official,2026,0,100,-2.0
+Mehdi Rahmouni,1,1,0,0,4,assistant2,2026,0,100,4.0
+Micheal Barwegen,1,1,0,0,0,assistant1,2026,0,100,0.0
+Mihai Marius Marica,1,1,0,0,3,assistant1,2026,0,100,3.0
+Mikael Erik Everstig,1,1,0,0,1,assistant1,1994,0,100,1.0
+Mikael Nilsson,1,1,0,0,2,assistant1,1998,0,100,2.0
+Mike Pickel,1,1,0,0,0,assistant2,2010,0,100,0.0
+Milorad Mažić,1,1,0,0,2,referee,2014,1,100,2.0
+Milovan Ristić,1,1,0,0,2,assistant1,2014,0,100,2.0
+Mohamed Al Musawi,1,1,0,0,-2,assistant2,1998,0,100,-2.0
+Mohamed Hansal,1,1,0,0,-2,assistant2,1990,0,100,-2.0
+Mohamed Mansri,1,1,0,0,1,assistant2,1998,0,100,1.0
+Mohammed Abdulla Hassan Mohamed,1,1,0,0,0,fourth_official,2022,0,100,0.0
+Mohammed Khadim,1,1,0,0,0,avar2,2026,0,100,0.0
+Pablo Sánchez Ibáñez,1,1,0,0,-1,referee,1974,1,100,-1.0
+Paolo Calcagno,1,1,0,0,1,assistant1,2010,0,100,1.0
+Park Hae-young,1,1,0,0,1,assistant1,1994,0,100,1.0
+Pat Partridge,1,1,0,0,1,assistant1,1978,0,100,1.0
+Pau Cebrián Devís,1,1,0,0,0,assistant1,2022,0,100,0.0
+Peter Mikkelsen,1,1,0,0,-5,assistant2,1990,0,100,-5.0
+Peter O'Leary,1,1,0,0,0,fourth_official,2010,0,100,0.0
+Ramón Barreto Ruíz,1,1,0,0,1,assistant1,1978,0,100,1.0
+Robert Wurtz,1,1,0,0,0,referee,1978,1,100,0.0
+Ryszard Wójcik,1,1,0,0,3,fourth_official,1998,0,100,3.0
+Rómulo Méndez,1,1,0,0,0,assistant2,1986,0,100,0.0
+Said Belqola,1,1,0,0,1,referee,1998,1,100,1.0
+Saíd Martínez,1,1,0,0,0,fourth_official,2022,0,100,0.0
+Stefano Ayroldi,1,1,0,0,1,assistant2,2010,0,100,1.0
+Tesfaye,1,1,0,0,0,assistant2,1978,0,100,0.0
+Tofiq Bahramov,1,1,0,0,0,assistant1,1966,0,100,0.0
+Ulf Eriksson,1,1,0,0,0,referee,1978,1,100,0.0
+Victor Gomes,1,1,0,0,0,fourth_official,2022,0,100,0.0
+Victoriano Sánchez Arminio,1,1,0,0,2,referee,1986,1,100,2.0
+Werner Winsemann,1,1,0,0,1,assistant2,1978,0,100,1.0
+William Torres,1,1,0,0,0,assistant1,2014,0,100,0.0
+Willy Delajod,1,1,0,0,4,avar1,2026,0,100,4.0
+Wolfgang Stark,1,1,0,0,0,referee,2010,1,100,0.0
+Éric Poulat,1,1,0,0,-1,fourth_official,2006,0,100,-1.0
+Abdelhak Etchiali,1,0,0,1,6,avar2,2022,0,0,6.0
+Abdukhamidullo Rasulov,1,0,0,1,1,assistant1,2018,0,0,1.0
+Abraham Klein,1,0,0,1,1,referee,1978,1,0,1.0
+Adolf Prokop,1,0,1,0,0,assistant2,1978,0,0,0.0
+Alan Snoddy,1,0,1,0,-1,assistant1,1986,0,0,-1.0
+Albino Carraro,1,0,0,1,0,assistant1,1934,0,0,0.0
+Alfonso González Archundía,1,0,0,1,1,assistant2,1978,0,0,1.0
+Ali Bujsaim,1,0,1,0,-1,referee,2002,1,0,-1.0
+Alireza Faghani,1,0,0,1,-2,referee,2018,1,0,-2.0
+Alojzy Jarguz,1,0,0,1,0,assistant2,1982,0,0,0.0
+Andraž Kovačič,1,0,0,1,6,assistant2,2022,0,0,6.0
+Armando Pérez Hoyos,1,0,0,1,-2,assistant1,1990,0,0,-2.0
+Arthur Edward Ellis,1,0,0,1,0,referee,1958,1,0,0.0
+Arturo Brizio Carter,1,0,0,1,0,referee,1998,1,0,0.0
+Bertil Lööw,1,0,1,0,0,assistant2,1966,0,0,0.0
+Brian Hall,1,0,0,1,1,fourth_official,2002,0,0,1.0
+Bruno Galler,1,0,0,1,-1,assistant1,1982,0,0,-1.0
+Bulnes,1,0,1,0,0,assistant2,1962,0,0,0.0
+Carlo Longhi,1,0,1,0,1,assistant2,1990,0,0,1.0
+Carlos Astroza,1,0,0,1,-2,avar2,2018,0,0,-2.0
+Carlos Chandía,1,0,1,0,1,fourth_official,2006,0,0,1.0
+Carlos Vera,1,0,0,1,0,fourth_official,2014,0,0,0.0
+Corey Rockwell,1,0,0,1,1,avar2,2018,0,0,1.0
+Domenico Ramicone,1,0,0,1,-1,assistant1,1994,0,0,-1.0
+Edgardo Codesal,1,0,0,1,-2,referee,1990,1,0,-2.0
+El Jilali Rharib,1,0,0,1,3,assistant2,1994,0,0,3.0
+Elias Salinas Rostran,1,0,0,1,0,assistant2,1998,0,0,0.0
+Epifanio González,1,0,0,1,0,fourth_official,1998,0,0,0.0
+Eugen Braun,1,0,0,1,0,referee,1934,1,0,0.0
+Felix Zwayer,1,0,0,1,1,var,2018,0,0,1.0
+Francis Rion,1,0,0,1,1,assistant1,1978,0,0,1.0
+Fritz Seipelt,1,0,0,1,0,assistant2,1958,0,0,0.0
+Gastón Castro,1,0,0,1,1,assistant1,1982,0,0,1.0
+Gery Vargas,1,0,1,0,0,avar3,2018,0,0,0.0
+Gilberto Aristizábal,1,0,0,1,1,assistant2,1982,0,0,1.0
+Gottfried Dienst,1,0,0,1,0,assistant1,1966,0,0,0.0
+Heinz Aldinger,1,0,0,1,-2,assistant2,1974,0,0,-2.0
+Héctor Vergara,1,0,0,1,1,assistant1,2002,0,0,1.0
+Jakhongir Saidov,1,0,0,1,1,assistant2,2018,0,0,1.0
+Jan Keizer,1,0,1,0,-1,referee,1986,1,0,-1.0
+Joe Fletcher,1,0,1,0,0,avar2,2018,0,0,0.0
+Kurt Tschenscher,1,0,0,1,1,assistant1,1974,0,0,1.0
+Luis Medina Cantalejo,1,0,1,0,1,referee,2006,1,0,1.0
+Maguette Ndiaye,1,0,0,1,6,fourth_official,2022,0,0,6.0
+Mario Rubio Vázquez,1,0,0,1,1,referee,1982,1,0,1.0
+Mark Geiger,1,0,1,0,0,var,2018,0,0,0.0
+Martin Balko,1,0,0,1,-1,assistant2,2006,0,0,-1.0
+Michael Ragoonath,1,0,1,0,-1,assistant2,2002,0,0,-1.0
+Mohamed Saeed,1,0,0,1,1,assistant2,2002,0,0,1.0
+Mohammadreza Mansouri,1,0,0,1,-2,assistant2,2018,0,0,-2.0
+Nikolay Latyshev,1,0,0,1,0,referee,1962,1,0,0.0
+Owen Powell,1,0,0,1,0,assistant1,1998,0,0,0.0
+Pedro Medina Hernández,1,0,1,0,1,assistant2,2006,0,0,1.0
+Peter Prendergast,1,0,1,0,-1,fourth_official,2002,0,0,-1.0
+Reginato,1,0,0,1,0,assistant2,1962,0,0,0.0
+Reza Sokhandan,1,0,0,1,-2,assistant1,2018,0,0,-2.0
+Ricardo de Burgos Bengoetxea,1,0,0,1,6,avar3,2022,0,0,6.0
+Roman Slysko,1,0,0,1,-1,assistant1,2006,0,0,-1.0
+Rudi Glöckner,1,0,1,0,0,assistant1,1974,0,0,0.0
+Rudolf Kreitlein,1,0,0,1,0,referee,1966,1,0,0.0
+Slavko Vinčić,1,0,0,1,6,referee,2022,1,0,6.0
+Tapio Yli-Karro,1,0,0,1,3,assistant1,1994,0,0,3.0
+Tomaž Klančnik,1,0,0,1,6,assistant1,2022,0,0,6.0
+Turbiani,1,0,0,1,0,assistant2,1934,0,0,0.0
+Victoriano Giráldez Carrasco,1,0,1,0,1,assistant1,2006,0,0,1.0
+Vincent Mauro,1,0,0,1,2,assistant1,1990,0,0,2.0
+Vital Loraux,1,0,0,1,-1,referee,1974,1,0,-1.0
+Vojtěch Christov,1,0,0,1,0,referee,1982,1,0,0.0
+Wilmar Roldán,1,0,1,0,0,fourth_official,2018,0,0,0.0
+Ľuboš Micheľ,1,0,0,1,-1,referee,2006,1,0,-1.0

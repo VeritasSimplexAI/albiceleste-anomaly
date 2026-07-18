@@ -1,0 +1,4 @@
+year,arg_favorable,arg_against,arg_net,arg_matches,arg_fav_rate,field_fav_rate,p_favorable
+2018,1,0,1,4,0.25,0.153,0.4701
+2022,2,1,1,7,0.286,0.207,0.6579
+2026,5,0,5,7,0.714,0.173,0.0104

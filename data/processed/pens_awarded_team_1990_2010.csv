@@ -1,0 +1,177 @@
+year,team_name,matches,pens_awarded_for,pens_awarded_against
+1990,Argentina,7,0,1
+1990,Austria,3,0,1
+1990,Belgium,4,1,1
+1990,Brazil,4,0,0
+1990,Cameroon,5,1,2
+1990,Colombia,4,0,1
+1990,Costa Rica,4,0,0
+1990,Czechoslovakia,5,3,1
+1990,Egypt,3,1,0
+1990,England,7,2,2
+1990,Italy,7,2,0
+1990,Netherlands,4,1,1
+1990,Republic of Ireland,5,0,0
+1990,Romania,4,1,0
+1990,Scotland,3,1,0
+1990,South Korea,3,0,0
+1990,Soviet Union,3,0,1
+1990,Spain,4,1,2
+1990,Sweden,3,0,1
+1990,United Arab Emirates,3,0,0
+1990,United States,3,0,3
+1990,Uruguay,4,1,0
+1990,West Germany,7,2,1
+1990,Yugoslavia,5,1,0
+1994,Argentina,4,2,0
+1994,Belgium,4,0,0
+1994,Bolivia,3,0,1
+1994,Brazil,7,1,0
+1994,Bulgaria,7,3,2
+1994,Cameroon,3,0,1
+1994,Colombia,3,0,0
+1994,Germany,5,1,0
+1994,Greece,3,0,3
+1994,Italy,7,1,1
+1994,Mexico,4,1,0
+1994,Morocco,3,0,1
+1994,Netherlands,5,0,0
+1994,Nigeria,4,0,1
+1994,Norway,3,0,0
+1994,Republic of Ireland,4,0,0
+1994,Romania,5,0,1
+1994,Russia,3,2,2
+1994,Saudi Arabia,4,1,0
+1994,South Korea,3,0,0
+1994,Spain,5,2,0
+1994,Sweden,7,1,1
+1994,Switzerland,4,0,1
+1994,United States,4,0,0
+1998,Argentina,5,2,1
+1998,Austria,3,1,0
+1998,Belgium,3,0,1
+1998,Brazil,7,1,2
+1998,Bulgaria,3,0,1
+1998,Cameroon,3,0,0
+1998,Chile,4,0,2
+1998,Colombia,3,0,0
+1998,Croatia,7,1,0
+1998,Denmark,5,1,1
+1998,England,4,1,1
+1998,France,7,1,1
+1998,Germany,5,0,0
+1998,Iran,3,0,0
+1998,Italy,5,1,1
+1998,Jamaica,3,0,1
+1998,Japan,3,0,0
+1998,Mexico,4,1,0
+1998,Morocco,3,0,0
+1998,Netherlands,7,0,1
+1998,Nigeria,4,0,0
+1998,Norway,4,1,0
+1998,Paraguay,4,0,0
+1998,Romania,4,0,2
+1998,Saudi Arabia,3,2,1
+1998,Scotland,3,1,0
+1998,South Africa,3,1,2
+1998,South Korea,3,0,0
+1998,Spain,3,1,0
+1998,Tunisia,3,1,0
+1998,United States,3,0,0
+1998,Yugoslavia,4,1,0
+2002,Argentina,3,1,1
+2002,Belgium,4,0,0
+2002,Brazil,7,2,0
+2002,Cameroon,3,0,0
+2002,China,3,0,1
+2002,Costa Rica,3,0,0
+2002,Croatia,3,0,1
+2002,Denmark,4,1,0
+2002,Ecuador,3,0,0
+2002,England,5,1,0
+2002,France,3,0,0
+2002,Germany,7,0,0
+2002,Italy,4,0,1
+2002,Japan,4,0,0
+2002,Mexico,4,1,0
+2002,Nigeria,3,0,1
+2002,Paraguay,4,0,2
+2002,Poland,3,1,0
+2002,Portugal,3,0,0
+2002,Republic of Ireland,4,2,0
+2002,Russia,3,1,0
+2002,Saudi Arabia,3,0,0
+2002,Senegal,5,1,2
+2002,Slovenia,3,0,1
+2002,South Africa,3,1,0
+2002,South Korea,7,2,0
+2002,Spain,5,2,2
+2002,Sweden,4,1,1
+2002,Tunisia,3,0,1
+2002,Turkey,7,0,1
+2002,United States,5,0,2
+2002,Uruguay,3,1,1
+2006,Angola,3,0,0
+2006,Argentina,5,0,0
+2006,Australia,4,1,1
+2006,Brazil,5,0,0
+2006,Costa Rica,3,0,0
+2006,Croatia,3,1,1
+2006,Czech Republic,3,0,1
+2006,Ecuador,4,0,0
+2006,England,5,0,0
+2006,France,7,2,1
+2006,Germany,7,0,1
+2006,Ghana,4,2,0
+2006,Iran,3,0,1
+2006,Italy,7,1,1
+2006,Ivory Coast,3,2,0
+2006,Japan,3,0,1
+2006,Mexico,4,1,1
+2006,Netherlands,4,0,0
+2006,Paraguay,3,0,0
+2006,Poland,3,0,0
+2006,Portugal,7,2,2
+2006,Saudi Arabia,3,0,0
+2006,Serbia and Montenegro,3,0,2
+2006,South Korea,3,0,0
+2006,Spain,4,3,0
+2006,Sweden,4,1,0
+2006,Switzerland,4,0,0
+2006,Togo,3,0,0
+2006,Trinidad and Tobago,3,0,0
+2006,Tunisia,3,0,2
+2006,Ukraine,5,1,1
+2006,United States,3,0,1
+2010,Algeria,3,0,0
+2010,Argentina,5,0,0
+2010,Australia,3,0,1
+2010,Brazil,5,0,0
+2010,Cameroon,3,1,0
+2010,Chile,4,0,0
+2010,Denmark,3,1,0
+2010,England,4,0,0
+2010,France,3,0,1
+2010,Germany,7,1,0
+2010,Ghana,5,3,1
+2010,Greece,3,0,0
+2010,Honduras,3,0,1
+2010,Italy,3,1,0
+2010,Ivory Coast,3,0,0
+2010,Japan,4,0,1
+2010,Mexico,4,1,0
+2010,Netherlands,7,0,2
+2010,New Zealand,3,0,1
+2010,Nigeria,3,1,0
+2010,North Korea,3,0,0
+2010,Paraguay,5,1,1
+2010,Portugal,4,0,0
+2010,Serbia,3,0,2
+2010,Slovakia,4,1,0
+2010,Slovenia,3,0,0
+2010,South Africa,3,0,1
+2010,South Korea,4,0,1
+2010,Spain,7,2,1
+2010,Switzerland,3,0,0
+2010,United States,4,1,0
+2010,Uruguay,7,1,1

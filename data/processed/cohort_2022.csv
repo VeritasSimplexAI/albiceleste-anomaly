@@ -1,0 +1,9 @@
+year,team_name,matches,wins,draws,losses,goals_for,goals_against,yellows_received,dismissals_received,pen_goals_for,yellows_drawn,dismissals_drawn,pen_goals_against,card_net_pm,pen_net_pm,pens_for_pm
+2022,Argentina,7,6,0,1,15,8,17,0,4,26,1,2,1.2857142857142858,0.2857142857142857,0.5714285714285714
+2022,Brazil,5,3,0,2,8,3,6,0,1,12,1,0,1.2,0.2,0.2
+2022,Croatia,7,4,2,1,8,7,8,0,0,11,0,1,0.42857142857142855,-0.14285714285714285,0.0
+2022,England,5,3,1,1,13,4,1,0,1,8,0,1,1.4,0.0,0.2
+2022,France,7,5,0,2,16,8,8,0,2,15,0,3,1.0,-0.14285714285714285,0.2857142857142857
+2022,Morocco,7,4,1,2,6,5,9,1,0,7,0,0,-0.2857142857142857,0.0,0.0
+2022,Netherlands,5,3,1,1,10,4,12,1,0,11,0,1,-0.2,-0.2,0.0
+2022,Portugal,5,3,0,2,12,6,6,0,2,13,1,0,1.4,0.4,0.4

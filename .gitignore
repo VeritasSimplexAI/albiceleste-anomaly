@@ -1,0 +1,14 @@
+# internal tooling artifacts (session logs/receipts)
+.landon/
+**/.landon/
+
+# private planning (not part of the open-source project)
+marketing/
+
+# python
+__pycache__/
+*.pyc
+
+# OS noise
+Thumbs.db
+.DS_Store

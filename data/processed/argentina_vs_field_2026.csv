@@ -1,0 +1,7 @@
+era,metric,favorable_if,arg_count,arg_matches,arg_rate,field_rate,rate_ratio,p_value
+2026,yellows_received,low,9,7,1.286,1.289,0.997,1.0
+2026,yellows_drawn,high,12,7,1.714,1.289,1.33,0.3103
+2026,dismissals_received,low,0,7,0.0,0.071,0.0,1.0
+2026,dismissals_drawn,high,1,7,0.143,0.071,2.01,0.4077
+2026,fouls_committed,n/a,88,7,12.571,11.452,1.098,0.3943
+2026,fouls_drawn,n/a,86,7,12.286,11.452,1.073,0.496
