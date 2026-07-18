@@ -148,3 +148,15 @@ Nación reporting, 2026); journalist Romain Molina alleges FIFA protected the
 AFA. No charges have been filed; nothing here proves causation between the
 financial allegations and the officiating pattern. The site must present these
 as parallel, sourced observations — the statistics stand on their own.
+
+## Final & bronze-final appointments (announced 2026-07-18)
+
+- **Final, Spain v Argentina (Jul 19, NY-NJ Stadium): referee Slavko Vinčić (SVN)** — not Marciniak;
+  the four-match Marciniak pairing rests at 4. Vinčić has refereed Argentina once in our data: the
+  2022 group-stage defeat to Saudi Arabia (Argentina ~63% pre-match favourites; delta vs expected −63).
+  ARs Klančnik & Kovačič (SVN); 4th Makhadmeh (JOR); reserve Al-Kalaf (JOR);
+  **VAR Bastian Dankert (GER)** — previously in Argentina's video room 3× (2018/2022, 1W-2L);
+  AVAR Gallo (COL); support VAR Al Marri (QAT).
+- **Bronze final, France v England (Miami): Jesús Valenzuela (VEN)**; ARs Urrego/Moreno (VEN);
+  4th Jayed (MAR); VAR L. González (URU); AVAR Villarreal (USA); support Del Cerro Grande (ESP).
+- Crew rows to be appended to match_officials_2014_2026.csv with results after the matches are played.
