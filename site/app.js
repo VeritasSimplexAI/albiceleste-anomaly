@@ -1052,6 +1052,7 @@ function render() {
         </div>
         <textarea id="tsDesc" rows="3" placeholder="What happened? (the more specific, the faster it verifies)" style="width:100%;background:var(--surface);color:var(--ink);border:1px solid var(--axis);border-radius:6px;padding:8px;font-family:var(--sans);font-size:12.5px"></textarea>
         <input id="tsVideo" type="url" placeholder="video link (optional — official uploads only, please)" style="width:100%">
+        <input id="tsWeb" type="text" name="website" tabindex="-1" autocomplete="off" style="position:absolute;left:-9999px;height:0;width:0;opacity:0" aria-hidden="true">
         <div style="display:flex;gap:12px;align-items:center">
           <button id="tsSend" class="toggle" style="font-family:var(--sans);font-size:13px;font-weight:650;background:var(--ink);color:var(--paper);border:none;border-radius:6px;padding:8px 18px;cursor:pointer">Submit for review</button>
           <span id="tsNote" class="rescount"></span>
@@ -1064,6 +1065,7 @@ function render() {
         video: $("#tsVideo").value.trim() || null,
       };
       if (!payload.description && !payload.video) { $("#tsNote").textContent = "add a description or a video link first"; return; }
+      if ($("#tsWeb") && $("#tsWeb").value) { $("#tsNote").textContent = "received — thank you."; return; } // honeypot: bots fill hidden fields
       $("#tsSend").disabled = true;
       try {
         const r = await fetch(SUPA_URL + "/rest/v1/tape_submissions", {
