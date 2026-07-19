@@ -16,151 +16,275 @@
 <meta name="robots" content="index, follow">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='80' font-size='80'%3E%E2%9A%BD%3C/text%3E%3C/svg%3E">
 <style>
-:root {
-  color-scheme: light;
-  --paper: #f9f9f7; --surface: #fcfcfb;
-  --ink: #0b0b0b; --ink-2: #52514e; --muted: #898781;
-  --grid: #e1e0d9; --axis: #c3c2b7; --ring: rgba(11,11,11,.10);
-  --arg: #2a78d6; --de: #898781; --pos: #2a78d6; --neg: #e34948; --mid: #f0efec;
+/* ===================== FONTS ===================== */
+@font-face{font-family:'Anton';src:url('fonts/anton-400.woff2') format('woff2');font-weight:400;font-display:swap}
+@font-face{font-family:'Archivo';src:url('fonts/archivo-400.woff2') format('woff2');font-weight:400;font-display:swap}
+@font-face{font-family:'Archivo';src:url('fonts/archivo-600.woff2') format('woff2');font-weight:600;font-display:swap}
+@font-face{font-family:'Archivo';src:url('fonts/archivo-800.woff2') format('woff2');font-weight:800;font-display:swap}
+@font-face{font-family:'Archivo';src:url('fonts/archivo-900.woff2') format('woff2');font-weight:900;font-display:swap}
+@font-face{font-family:'Fraunces';src:url('fonts/fraunces-400.woff2') format('woff2');font-weight:400;font-display:swap}
+@font-face{font-family:'Fraunces';src:url('fonts/fraunces-900.woff2') format('woff2');font-weight:900;font-display:swap}
+@font-face{font-family:'Fraunces';src:url('fonts/fraunces-black-italic.woff2') format('woff2');font-weight:900;font-style:italic;font-display:swap}
+@font-face{font-family:'IBM Plex Mono';src:url('fonts/plexmono-400.woff2') format('woff2');font-weight:400;font-display:swap}
+@font-face{font-family:'IBM Plex Mono';src:url('fonts/plexmono-600.woff2') format('woff2');font-weight:600;font-display:swap}
+
+/* ===================== TOKENS ===================== */
+:root{
+  color-scheme:light;
+  --paper:#f7f7f4; --surface:#fffffe; --panel:#efeee8;
+  --ink:#0b0b0b; --ink-2:#3a3934; --muted:#6f6d66;
+  --grid:#e6e5de; --axis:#cbcabf; --ring:rgba(11,11,11,.12); --line:rgba(11,11,11,.13); --line-2:rgba(11,11,11,.24);
+  --arg:#2a78d6; --arg-deep:#1c5aa8; --de:#8a887e; --pos:#2a78d6; --neg:#e34948; --mid:#efeee8;
+  --against:#e34948; --arg-soft:rgba(42,120,214,.10); --against-soft:rgba(227,73,72,.10);
+  --glow:rgba(42,120,214,.30); --floodlight:rgba(42,120,214,.10);
   --s1:#2a78d6; --s2:#008300; --s3:#e87ba4; --s4:#eda100; --s5:#1baf7a; --s6:#eb6834; --s7:#4a3aa7; --s8:#e34948;
-  --serif: Georgia, 'Iowan Old Style', 'Times New Roman', serif;
-  --sans: system-ui, -apple-system, "Segoe UI", sans-serif;
+  --sans:'Archivo',system-ui,-apple-system,"Segoe UI",sans-serif;
+  --serif:'Fraunces',Georgia,'Times New Roman',serif;
+  --mono:'IBM Plex Mono',ui-monospace,monospace;
+  --display:'Archivo',system-ui,sans-serif;
+  --shadow:0 1px 0 rgba(11,11,11,.04),0 18px 40px -30px rgba(11,11,11,.32);
 }
-@media (prefers-color-scheme: dark) {
-  :root:where(:not([data-theme="light"])) {
-    color-scheme: dark;
-    --paper: #0d0d0d; --surface: #1a1a19;
-    --ink: #ffffff; --ink-2: #c3c2b7; --muted: #898781;
-    --grid: #2c2c2a; --axis: #383835; --ring: rgba(255,255,255,.10);
-    --arg: #3987e5; --pos: #3987e5; --neg: #e66767; --mid: #383835;
-    --s1:#3987e5; --s2:#008300; --s3:#d55181; --s4:#c98500; --s5:#199e70; --s6:#d95926; --s7:#9085e9; --s8:#e66767;
-  }
+@media (prefers-color-scheme:dark){:root:where(:not([data-theme="light"])){
+  color-scheme:dark;
+  --paper:#0e0f11; --surface:#16181b; --panel:#191c20;
+  --ink:#f3f2ec; --ink-2:#c9c8bf; --muted:#95948b;
+  --grid:#2b2d30; --axis:#3a3c40; --ring:rgba(243,242,236,.13); --line:rgba(243,242,236,.14); --line-2:rgba(243,242,236,.26);
+  --arg:#3987e5; --arg-deep:#6aa8f2; --de:#8b8a80; --pos:#3987e5; --neg:#e66767; --mid:#2a2c30;
+  --against:#e66767; --arg-soft:rgba(57,135,229,.16); --against-soft:rgba(230,103,103,.16);
+  --glow:rgba(57,135,229,.52); --floodlight:rgba(57,135,229,.20);
+  --s1:#3987e5; --s2:#3fae62; --s3:#d55181; --s4:#c98500; --s5:#199e70; --s6:#d95926; --s7:#9085e9; --s8:#e66767;
+  --shadow:0 1px 0 rgba(0,0,0,.4),0 22px 50px -30px rgba(0,0,0,.8);
+}}
+:root[data-theme="dark"]{
+  color-scheme:dark;
+  --paper:#0e0f11; --surface:#16181b; --panel:#191c20;
+  --ink:#f3f2ec; --ink-2:#c9c8bf; --muted:#95948b;
+  --grid:#2b2d30; --axis:#3a3c40; --ring:rgba(243,242,236,.13); --line:rgba(243,242,236,.14); --line-2:rgba(243,242,236,.26);
+  --arg:#3987e5; --arg-deep:#6aa8f2; --de:#8b8a80; --pos:#3987e5; --neg:#e66767; --mid:#2a2c30;
+  --against:#e66767; --arg-soft:rgba(57,135,229,.16); --against-soft:rgba(230,103,103,.16);
+  --glow:rgba(57,135,229,.52); --floodlight:rgba(57,135,229,.20);
+  --s1:#3987e5; --s2:#3fae62; --s3:#d55181; --s4:#c98500; --s5:#199e70; --s6:#d95926; --s7:#9085e9; --s8:#e66767;
+  --shadow:0 1px 0 rgba(0,0,0,.4),0 22px 50px -30px rgba(0,0,0,.8);
 }
-:root[data-theme="dark"] {
-  color-scheme: dark;
-  --paper: #0d0d0d; --surface: #1a1a19;
-  --ink: #ffffff; --ink-2: #c3c2b7; --muted: #898781;
-  --grid: #2c2c2a; --axis: #383835; --ring: rgba(255,255,255,.10);
-  --arg: #3987e5; --pos: #3987e5; --neg: #e66767; --mid: #383835;
-  --s1:#3987e5; --s2:#008300; --s3:#d55181; --s4:#c98500; --s5:#199e70; --s6:#d95926; --s7:#9085e9; --s8:#e66767;
+
+/* ===================== RESET ===================== */
+*{box-sizing:border-box;margin:0}
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth;scroll-padding-top:74px}
+body{background:var(--paper);color:var(--ink);font-family:var(--sans);font-weight:400;line-height:1.6;font-size:16.5px;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+img,svg{max-width:100%}
+a{color:inherit;text-decoration:none}
+button{font-family:inherit;cursor:pointer}
+h1,h2,h3,p{margin:0}
+:focus-visible{outline:2.5px solid var(--arg);outline-offset:3px;border-radius:2px}
+body::before{content:"";position:fixed;inset:0;z-index:0;pointer-events:none;opacity:.035;mix-blend-mode:multiply;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E")}
+:root[data-theme="dark"] body::before{opacity:.05;mix-blend-mode:screen}
+.wrap{width:100%;max-width:1500px;margin:0 auto;padding:0 clamp(18px,4vw,56px);position:relative;z-index:1}
+
+/* ===================== STICKY NAV ===================== */
+.site-nav{position:sticky;top:0;z-index:60;background:color-mix(in srgb,var(--paper) 88%,transparent);
+  backdrop-filter:blur(10px) saturate(1.2);-webkit-backdrop-filter:blur(10px) saturate(1.2);border-bottom:1px solid var(--line)}
+.nav-in{display:flex;align-items:center;gap:14px;height:60px;max-width:1500px;margin:0 auto;padding:0 clamp(14px,4vw,56px)}
+.nav-brand{display:flex;align-items:baseline;gap:9px;flex:0 0 auto;line-height:1}
+.nav-brand b{font-family:var(--display);font-weight:900;font-size:.95rem;letter-spacing:-.01em;white-space:nowrap}
+.nav-brand .code{font-family:var(--mono);font-weight:600;font-size:.58rem;letter-spacing:.1em;color:var(--arg);border:1px solid var(--line-2);padding:.28em .42em;border-radius:3px}
+.nav-jump{display:flex;align-items:center;gap:1px;overflow-x:auto;flex:1 1 auto;scrollbar-width:none;
+  mask-image:linear-gradient(90deg,transparent,#000 16px,#000 calc(100% - 16px),transparent)}
+.nav-jump::-webkit-scrollbar{display:none}
+.nav-jump a{font-family:var(--mono);font-weight:600;font-size:.65rem;text-transform:uppercase;letter-spacing:.06em;
+  color:var(--muted);padding:.5em .58em;border-radius:5px;white-space:nowrap;transition:color .15s,background .15s}
+.nav-jump a .k{color:var(--arg);margin-right:.3em}
+.nav-jump a:hover,.nav-jump a.on{color:var(--ink);background:var(--arg-soft)}
+.nav-jump a.vd{color:var(--neg)}
+.nav-actions{display:flex;gap:8px;flex:0 0 auto;align-items:center}
+.site-nav #themeBtn,.site-nav .ghbtn{font-family:var(--mono);font-size:.68rem;border:1px solid var(--line-2);
+  background:var(--surface);color:var(--ink-2);border-radius:999px;padding:.5em .75em;display:inline-flex;
+  align-items:center;gap:6px;white-space:nowrap}
+.site-nav #themeBtn:hover,.site-nav .ghbtn:hover{border-color:var(--arg);color:var(--ink)}
+.site-nav .ghbtn svg{width:14px;height:14px;fill:currentColor;display:block}
+
+/* ===================== MASTHEAD ===================== */
+header.masthead{position:relative;padding:clamp(40px,6vw,76px) 0 clamp(26px,4vw,44px);border-bottom:1px solid var(--line)}
+header.masthead::before{content:"";position:absolute;inset:0;z-index:0;pointer-events:none;
+  background:radial-gradient(46% 60% at 16% 34%,var(--floodlight),transparent 62%)}
+header.masthead>*{position:relative;z-index:1}
+.kicker{font-family:var(--mono);font-weight:600;font-size:.72rem;text-transform:uppercase;letter-spacing:.22em;
+  color:var(--muted);display:flex;align-items:center;gap:.7em}
+.kicker::before{content:"";width:9px;height:9px;background:var(--arg);display:inline-block}
+h1.mast{font-family:var(--display);font-weight:900;line-height:.9;letter-spacing:-.022em;
+  font-size:clamp(2.9rem,7.6vw,6.6rem);margin:.22em 0 .08em;max-width:17ch}
+h1.mast .halftone{color:var(--arg);text-shadow:0 0 24px var(--glow),0 0 62px var(--glow)}
+.standfirst{font-family:var(--serif);font-weight:400;font-size:clamp(1.1rem,1.8vw,1.5rem);line-height:1.44;
+  max-width:60ch;color:var(--ink-2);margin-top:clamp(18px,2.4vw,28px)}
+.standfirst strong{color:var(--ink);font-weight:900}
+.mastmeta{display:flex;flex-wrap:wrap;gap:8px 26px;margin-top:24px;font-family:var(--mono);font-size:.72rem;
+  letter-spacing:.02em;color:var(--muted)}
+.mastmeta b{color:var(--ink-2);font-weight:600}
+
+/* ===================== KPI BAND ===================== */
+.kpis{display:grid;grid-template-columns:repeat(6,1fr);border-top:1px solid var(--ink);border-bottom:1px solid var(--ink);
+  background:var(--panel);margin:clamp(30px,4vw,44px) 0 8px}
+.tile{display:flex;flex-direction:column;padding:clamp(18px,2vw,26px) clamp(14px,1.5vw,22px);border-left:1px solid var(--line-2)}
+.tile:first-child{border-left:0}
+.tile .val{order:1;font-family:var(--display);font-weight:900;font-size:clamp(1.9rem,3.2vw,3rem);line-height:1;
+  letter-spacing:-.03em;color:var(--ink);font-variant-numeric:tabular-nums}
+.tile.hero .val{color:var(--arg);text-shadow:0 0 22px var(--glow)}
+.tile .lbl{order:2;margin-top:12px;font-family:var(--mono);font-weight:600;font-size:.66rem;letter-spacing:.08em;
+  text-transform:uppercase;color:var(--ink);line-height:1.3}
+.tile .sub{order:3;margin-top:7px;font-family:var(--sans);font-size:.78rem;color:var(--muted);line-height:1.4}
+
+/* ===================== EXHIBITS ===================== */
+section.exhibit{margin:clamp(44px,6vw,76px) 0}
+.exh-head{display:flex;align-items:center;gap:14px;border-top:1px solid var(--axis);padding-top:18px;flex-wrap:wrap}
+.exh-badge{font-family:var(--mono);font-weight:600;font-size:.66rem;letter-spacing:.16em;text-transform:uppercase;
+  color:#fff;background:var(--arg);padding:.5em .7em;border-radius:4px;white-space:nowrap}
+.exh-head h2{font-family:var(--serif);font-weight:900;font-size:clamp(1.9rem,3.6vw,3rem);letter-spacing:-.015em;line-height:1}
+.exh-lede{font-family:var(--sans);font-size:1.02rem;line-height:1.66;color:var(--ink-2);max-width:70ch;margin:16px 0 6px}
+.exh-lede strong{color:var(--ink);font-weight:800}
+.note{font-family:var(--mono);font-size:.72rem;color:var(--muted);max-width:82ch;margin-top:10px;line-height:1.5}
+
+/* ---- pull-stat (Exhibit A) ---- */
+.pens-lockup{display:grid;grid-template-columns:minmax(0,.82fr) minmax(0,1.7fr);gap:clamp(18px,2.4vw,40px);align-items:center;margin-top:22px}
+.pens-lockup .card{margin-top:0}
+.pullstat{border-left:3px solid var(--arg);padding-left:clamp(18px,2vw,30px)}
+.ps-tag{font-family:var(--mono);font-weight:600;font-size:.66rem;letter-spacing:.2em;text-transform:uppercase;color:var(--against)}
+.ps-sub{margin-top:8px;font-family:var(--serif);font-style:italic;font-size:clamp(1rem,1.4vw,1.2rem);color:var(--ink-2)}
+.ps-num{margin-top:10px;font-family:var(--display);font-weight:900;font-size:clamp(2.5rem,4.4vw,4.2rem);line-height:.95;
+  letter-spacing:-.02em;color:var(--ink);text-shadow:0 0 30px var(--glow)}
+.ps-num .in{font-family:var(--mono);font-weight:600;font-size:.26em;color:var(--muted);letter-spacing:.06em;vertical-align:.5em;margin:0 .1em}
+.ps-body{margin-top:14px;font-family:var(--sans);font-size:.88rem;line-height:1.6;color:var(--ink-2);max-width:38ch}
+
+/* ===================== CARDS / CHARTS / TABLES ===================== */
+.card{background:var(--surface);border:1px solid var(--ring);border-radius:12px;padding:20px 20px 14px;margin-top:20px;box-shadow:var(--shadow)}
+.card-head{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;flex-wrap:wrap}
+.card-title{font-family:var(--serif);font-weight:900;font-size:1.14rem;letter-spacing:-.01em}
+.card-sub{font-family:var(--mono);font-size:.72rem;color:var(--muted);margin-top:4px;letter-spacing:.02em}
+.legend{display:flex;gap:16px;font-family:var(--mono);font-size:.72rem;color:var(--ink-2);flex-wrap:wrap}
+.legend .key{display:inline-flex;align-items:center;gap:7px}
+.swatch{width:12px;height:12px;border-radius:3px;display:inline-block}
+.toggle{font-family:var(--mono);font-size:.7rem}
+.toggle button{background:none;border:1px solid var(--line-2);color:var(--ink-2);padding:4px 11px}
+.toggle button:first-child{border-radius:5px 0 0 5px}
+.toggle button:last-child{border-radius:0 5px 5px 0;border-left:none}
+.toggle button[aria-pressed="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.scrolltable{max-height:480px;overflow:auto;margin-top:14px;border:1px solid var(--line-2);border-radius:8px}
+.scrolltable table.dv{margin-top:0}
+.scrolltable thead th{position:sticky;top:0;background:var(--panel);cursor:pointer;user-select:none;white-space:nowrap;z-index:2}
+.scrolltable thead th:hover{color:var(--ink)}
+.scrolltable thead th .arr{color:var(--arg);font-size:10px}
+.filters{display:flex;gap:10px;flex-wrap:wrap;margin-top:12px;font-family:var(--mono);font-size:.72rem;align-items:center}
+.filters label{color:var(--muted)}
+.filters select,.filters input{background:var(--surface);color:var(--ink);border:1px solid var(--line-2);border-radius:6px;padding:5px 8px;font-size:.72rem;font-family:var(--mono)}
+.rescount{font-family:var(--mono);font-size:.7rem;color:var(--muted);margin-left:auto}
+.plot{margin-top:14px;overflow-x:auto}
+.plot svg{display:block}
+table.dv{width:100%;border-collapse:collapse;font-family:var(--sans);font-size:13px;margin-top:14px}
+table.dv th{cursor:pointer;text-align:left;font-family:var(--mono);font-weight:600;font-size:.64rem;letter-spacing:.07em;
+  text-transform:uppercase;color:var(--muted);border-bottom:1.5px solid var(--ink);padding:9px 11px}
+table.dv th .sortarr{color:var(--arg);font-size:10px}
+table.dv td{border-bottom:1px solid var(--grid);padding:9px 11px;font-variant-numeric:tabular-nums}
+table.dv td.hl{color:var(--arg);font-weight:700}
+table.dv tr.arg td{background:var(--arg-soft)}
+table.dv tbody tr:hover td{background:color-mix(in srgb,var(--arg) 5%,transparent)}
+
+/* ===================== CALLOUT / GRID / TIP ===================== */
+.callout{border-left:3px solid var(--arg);background:var(--surface);padding:16px 20px;margin-top:20px;font-family:var(--sans);
+  font-size:.95rem;line-height:1.62;color:var(--ink-2);border-radius:0 10px 10px 0;max-width:80ch;box-shadow:var(--shadow)}
+.callout.warn{border-left-color:var(--neg)}
+.callout b,.callout strong{color:var(--ink);font-weight:700}
+.callout em{font-style:italic}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+#tip{position:fixed;pointer-events:none;z-index:80;display:none;background:var(--ink);color:var(--paper);
+  font-family:var(--mono);font-size:.72rem;padding:8px 11px;border-radius:7px;max-width:280px;line-height:1.45}
+#tip b{font-weight:600}
+
+/* ===================== VERDICT BAND ===================== */
+.verdict-band{border-top:3px solid var(--arg);background:linear-gradient(180deg,var(--arg-soft),transparent 240px);
+  border-radius:0 0 16px 16px;margin-top:clamp(44px,6vw,76px)}
+.verdict-band .exh-head{border-top:0;padding-top:24px}
+.verdict-band .exh-head h2{font-size:clamp(2.1rem,4.6vw,3.7rem)}
+
+/* ===================== SOURCES / FOOTER ===================== */
+.srcs{font-family:var(--sans);font-size:.95rem;color:var(--ink-2)}
+.srcs a{color:var(--arg);border-bottom:1px solid color-mix(in srgb,var(--arg) 40%,transparent)}
+.srcs li{margin:6px 0}
+h3.subhead{font-family:var(--mono);font-size:.78rem;letter-spacing:.14em;text-transform:uppercase;margin:28px 0 6px;color:var(--ink)}
+footer{position:relative;z-index:1;border-top:1px solid var(--line);margin-top:60px;padding:28px 0 60px;font-family:var(--mono);font-size:.72rem;color:var(--muted)}
+footer a{color:var(--arg);border-bottom:1px solid color-mix(in srgb,var(--arg) 40%,transparent)}
+p + p{margin-top:12px}
+
+/* ===================== ACCORDION / ONE-LINERS ===================== */
+.exh-head{cursor:pointer;user-select:none;transition:color .15s}
+.exh-head:hover h2{color:var(--arg)}
+.exh-chevron{margin-left:auto;flex:0 0 auto;font-family:var(--mono);color:var(--muted);font-size:1.1rem;line-height:1;transition:transform .25s,color .15s}
+.exh-head:hover .exh-chevron{color:var(--arg)}
+.exhibit.collapsed .exh-chevron{transform:rotate(-90deg)}
+.exh-oneliner{font-family:var(--serif);font-weight:900;font-size:clamp(1.08rem,1.7vw,1.42rem);line-height:1.32;
+  color:var(--ink);margin:14px 0 0;max-width:62ch;cursor:pointer}
+.exh-body{overflow:hidden}
+.exhibit.collapsed .exh-body{max-height:0;visibility:hidden;opacity:0;margin:0;pointer-events:none}
+.exhibit:not(.collapsed) .exh-body{max-height:none;visibility:visible;opacity:1}
+.exhibit.collapsed{margin-bottom:0}
+/* expanded exhibits get a little more breathing room from the one-liner */
+.exhibit:not(.collapsed) .exh-oneliner{margin-bottom:2px}
+
+/* ===================== RESPONSIVE ===================== */
+@media (max-width:1080px){
+  .kpis{grid-template-columns:repeat(3,1fr)}
+  .tile:nth-child(3n+1){border-left:0}
+  .pens-lockup{grid-template-columns:1fr}
+  .pullstat{border-left:0;border-top:3px solid var(--arg);padding:22px 0 0}
+  .pens-lockup .card{margin-top:20px}
 }
-* { box-sizing: border-box; margin: 0; }
-body {
-  background: var(--paper); color: var(--ink);
-  font-family: var(--serif); line-height: 1.62; font-size: 17px;
+@media (max-width:840px){.grid2{grid-template-columns:1fr}}
+@media (max-width:560px){
+  .kpis{grid-template-columns:repeat(2,1fr)}
+  .tile:nth-child(3n+1){border-left:1px solid var(--line-2)}
+  .tile:nth-child(2n+1){border-left:0}
+  h1.mast{font-size:clamp(2.5rem,11vw,3.6rem)}
+  .tile .val{font-size:clamp(1.7rem,7vw,2.3rem)}
+  .exh-head h2{font-size:clamp(1.5rem,6vw,2rem)}
+  .exh-oneliner{font-size:1.05rem}
+  .ps-num{font-size:clamp(2.2rem,10vw,3rem)}
 }
-.wrap { max-width: 1060px; margin: 0 auto; padding: 0 24px; }
-
-/* ---------- masthead ---------- */
-header.masthead { padding: 64px 0 40px; border-bottom: 3px double var(--axis); position: relative; }
-.kicker { font-family: var(--sans); font-size: 12px; letter-spacing: .22em; text-transform: uppercase; color: var(--ink-2); }
-h1.mast {
-  font-size: clamp(44px, 7.5vw, 84px); line-height: .98; font-weight: 700;
-  font-style: italic; letter-spacing: -0.015em; margin: 18px 0 22px; max-width: 15ch;
+@media (max-width:560px){
+  .nav-in{gap:8px;padding:0 12px}
+  .nav-brand .code{display:none}
+  .nav-brand b{font-size:.8rem}
+  .site-nav .ghbtn span{display:none}
+  .site-nav .ghbtn{padding:.5em .6em}
 }
-h1.mast .halftone { color: var(--arg); }
-.standfirst { font-size: 21px; max-width: 62ch; color: var(--ink-2); }
-.standfirst strong { color: var(--ink); }
-.mastmeta { display: flex; flex-wrap: wrap; gap: 8px 28px; margin-top: 26px;
-  font-family: var(--sans); font-size: 12.5px; color: var(--muted); }
-.mastmeta b { color: var(--ink-2); font-weight: 600; }
-.topbar { position: absolute; top: 26px; right: 0; display: flex; gap: 8px; align-items: center; }
-#themeBtn { font-family: var(--sans); font-size: 12px;
-  background: none; border: 1px solid var(--axis); color: var(--ink-2); border-radius: 999px;
-  padding: 6px 14px; cursor: pointer; }
-#themeBtn:hover { border-color: var(--ink-2); }
-.ghbtn { display: inline-flex; align-items: center; gap: 7px; font-family: var(--sans); font-size: 12px;
-  color: var(--ink-2); background: none; border: 1px solid var(--axis); border-radius: 999px;
-  padding: 6px 13px; cursor: pointer; text-decoration: none; white-space: nowrap; }
-.ghbtn:hover { border-color: var(--ink-2); color: var(--ink); }
-.ghbtn svg { display: block; }
-
-/* ---------- KPI row ---------- */
-.kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(290px, 1fr)); gap: 14px; margin: 40px 0 8px; }
-.tile { background: var(--surface); border: 1px solid var(--ring); border-radius: 10px; padding: 18px 20px 16px; }
-.tile .lbl { font-family: var(--sans); font-size: 12.5px; color: var(--ink-2); }
-.tile .val { font-family: var(--sans); font-weight: 650; font-size: 40px; line-height: 1.15; margin: 2px 0; }
-.tile .sub { font-family: var(--sans); font-size: 12px; color: var(--muted); }
-.tile.hero .val { color: var(--arg); }
-
-/* ---------- exhibits ---------- */
-section.exhibit { margin: 64px 0; }
-.exh-head { display: flex; align-items: baseline; gap: 16px; border-top: 1px solid var(--axis); padding-top: 18px; }
-.exh-badge { font-family: var(--sans); font-weight: 700; font-size: 12px; letter-spacing: .18em;
-  text-transform: uppercase; color: var(--paper); background: var(--ink); padding: 4px 10px; border-radius: 3px; white-space: nowrap; }
-.exh-head h2 { font-size: 32px; font-style: italic; font-weight: 700; letter-spacing: -.01em; }
-.exh-lede { margin: 14px 0 6px; max-width: 68ch; color: var(--ink-2); }
-.exh-lede strong { color: var(--ink); }
-.note { font-family: var(--sans); font-size: 13px; color: var(--muted); max-width: 72ch; margin-top: 10px; }
-
-.card { background: var(--surface); border: 1px solid var(--ring); border-radius: 12px; padding: 22px 22px 16px; margin-top: 22px; }
-.card-head { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; flex-wrap: wrap; }
-.card-title { font-family: var(--sans); font-weight: 650; font-size: 15px; }
-.card-sub { font-family: var(--sans); font-size: 12.5px; color: var(--muted); margin-top: 2px; }
-.legend { display: flex; gap: 18px; font-family: var(--sans); font-size: 12.5px; color: var(--ink-2); flex-wrap: wrap; }
-.legend .key { display: inline-flex; align-items: center; gap: 7px; }
-.swatch { width: 12px; height: 12px; border-radius: 3px; display: inline-block; }
-.toggle { font-family: var(--sans); font-size: 12px; }
-.toggle button { background: none; border: 1px solid var(--axis); color: var(--ink-2); padding: 3px 10px; cursor: pointer; }
-.toggle button:first-child { border-radius: 5px 0 0 5px; }
-.toggle button:last-child { border-radius: 0 5px 5px 0; border-left: none; }
-.toggle button[aria-pressed="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
-.scrolltable { max-height: 480px; overflow: auto; margin-top: 14px; border: 1px solid var(--grid); border-radius: 8px; }
-.scrolltable table.dv { margin-top: 0; }
-.scrolltable thead th { position: sticky; top: 0; background: var(--surface); cursor: pointer; user-select: none; white-space: nowrap; z-index: 2; }
-.scrolltable thead th:hover { color: var(--ink); }
-.scrolltable thead th .arr { color: var(--arg); font-size: 10px; }
-table.dv th { cursor: pointer; }
-table.dv th .sortarr { color: var(--arg); font-size: 10px; }
-.filters { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 12px; font-family: var(--sans); font-size: 12.5px; align-items: center; }
-.filters label { color: var(--muted); }
-.filters select, .filters input { background: var(--surface); color: var(--ink); border: 1px solid var(--axis); border-radius: 6px; padding: 5px 8px; font-size: 12.5px; font-family: var(--sans); }
-.rescount { font-family: var(--sans); font-size: 12px; color: var(--muted); margin-left: auto; }
-.plot { margin-top: 14px; overflow-x: auto; }
-.plot svg { display: block; }
-
-table.dv { width: 100%; border-collapse: collapse; font-family: var(--sans); font-size: 13px; margin-top: 14px; }
-table.dv th { text-align: left; font-weight: 600; color: var(--ink-2); border-bottom: 1px solid var(--axis); padding: 7px 10px; }
-table.dv td { border-bottom: 1px solid var(--grid); padding: 7px 10px; font-variant-numeric: tabular-nums; }
-table.dv td.hl { color: var(--arg); font-weight: 650; }
-table.dv tr.arg td { background: color-mix(in srgb, var(--arg) 7%, transparent); }
-
-.callout { border-left: 3px solid var(--arg); background: var(--surface); padding: 16px 20px; margin-top: 20px;
-  font-size: 15.5px; color: var(--ink-2); border-radius: 0 10px 10px 0; max-width: 74ch; }
-.callout.warn { border-left-color: var(--neg); }
-.callout b, .callout strong { color: var(--ink); }
-.grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
-@media (max-width: 840px) { .grid2 { grid-template-columns: 1fr; } }
-
-/* tooltip */
-#tip { position: fixed; pointer-events: none; z-index: 50; display: none;
-  background: var(--ink); color: var(--paper); font-family: var(--sans); font-size: 12.5px;
-  padding: 8px 11px; border-radius: 7px; max-width: 280px; line-height: 1.45; }
-#tip b { font-weight: 650; }
-
-/* sources / footer */
-.srcs { font-family: var(--sans); font-size: 13.5px; color: var(--ink-2); }
-.srcs a { color: var(--arg); text-decoration: none; border-bottom: 1px solid color-mix(in srgb, var(--arg) 40%, transparent); }
-.srcs li { margin: 6px 0; }
-footer { border-top: 3px double var(--axis); margin-top: 70px; padding: 26px 0 60px;
-  font-family: var(--sans); font-size: 12.5px; color: var(--muted); }
-h3.subhead { font-family: var(--sans); font-size: 14px; letter-spacing: .14em; text-transform: uppercase; margin: 30px 0 6px; }
-p + p { margin-top: 12px; }
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 </style>
 </head>
 <body>
+<header class="site-nav">
+  <nav class="nav-in" aria-label="Primary">
+    <a class="nav-brand" href="#top" aria-label="The Albiceleste Anomaly — top"><b>The Albiceleste Anomaly</b><span class="code">AA&middot;26</span></a>
+    <div class="nav-jump" aria-label="Exhibit index">
+      <a href="#exhibit-record"><span class="k">&middot;</span>Record</a>
+      <a href="#exhibit-a"><span class="k">A</span>Penalties</a>
+      <a href="#exhibit-b"><span class="k">B</span>VAR</a>
+      <a href="#exhibit-c"><span class="k">C</span>Cards</a>
+      <a href="#exhibit-refs"><span class="k">D</span>Referees</a>
+      <a href="#exhibit-draw"><span class="k">E</span>Draw</a>
+      <a href="#exhibit-presidents"><span class="k">F</span>Presidents</a>
+      <a href="#exhibit-tape"><span class="k">G</span>Tape</a>
+      <a href="#exhibit-copa"><span class="k">H</span>Copa</a>
+      <a href="#exhibit-whistle"><span class="k">I</span>Whistle</a>
+      <a href="#exhibit-verdict" class="vd">Verdict</a>
+    </div>
+    <div class="nav-actions">
+      <a class="ghbtn" href="https://github.com/VeritasSimplexAI/albiceleste-anomaly" target="_blank" rel="noopener" aria-label="View source on GitHub"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82a7.65 7.65 0 0 1 2-.27c.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg><span>Source</span></a>
+      <button id="themeBtn" aria-label="Toggle color theme">&#9680;</button>
+    </div>
+  </nav>
+</header>
 <div class="wrap">
 
-<header class="masthead">
-  <div class="topbar">
-    <a class="ghbtn" href="https://github.com/VeritasSimplexAI/albiceleste-anomaly" target="_blank" rel="noopener" aria-label="View the open-source project on GitHub">
-      <svg viewBox="0 0 16 16" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82a7.65 7.65 0 0 1 2-.27c.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
-      <span>View source</span>
-    </a>
-    <button id="themeBtn" aria-label="Toggle color theme">◐ theme</button>
-  </div>
+<header class="masthead" id="top">
   <div class="kicker">A data dossier · FIFA World Cup officiating · 1930–2026</div>
-  <h1 class="mast">The <span class="halftone">Albiceleste</span> Anomaly</h1>
+  <h1 class="mast">The Albiceleste <span class="halftone">Anomaly</span></h1>
   <p class="standfirst">For ninety-two years — from the first World Cup in 1930 to the eve of Qatar 2022 —
   referees treated Argentina like anyone else. Every penalty in between says so; we checked them all. Then Qatar. Since then, the biggest calls in the game —
   <strong>penalties and VAR</strong> — have gone Argentina's way at <strong>five times the going rate</strong>,
@@ -171,24 +295,30 @@ p + p { margin-top: 12px; }
 
 <div class="kpis" id="kpis"></div>
 
-<section class="exhibit" id="exhibit-record">
-  <div class="exh-head"><span class="exh-badge">Prologue</span><h2>The record</h2></div>
+<section class="exhibit" id="exhibit-record"><div class="exh-head" role="button" tabindex="0" aria-expanded="true" aria-controls="exhibit-record-body"><span class="exh-badge">Prologue</span><h2>The record</h2><span class="exh-chevron" aria-hidden="true">▾</span></div><p class="exh-oneliner">Three World Cups under the microscope. Nothing before 2022. Everything since.</p><div class="exh-body" id="exhibit-record-body">
   <p class="exh-lede">Nineteen World Cups. Ninety-five matches. Three titles — and a fourth final on Sunday.
   Nobody here disputes Argentina are one of football's great nations. The question is narrower:
   <strong>did the treatment change after 2022?</strong> Everything below hangs off this timeline.</p>
   <div class="card" id="chart-record"></div>
   <div class="card" id="table-matches"></div>
-</section>
+</div></section>
 
-<section class="exhibit" id="exhibit-a">
-  <div class="exh-head"><span class="exh-badge">Exhibit A</span><h2>The penalty ledger</h2></div>
+<section class="exhibit collapsed" id="exhibit-a"><div class="exh-head" role="button" tabindex="0" aria-expanded="false" aria-controls="exhibit-a-body"><span class="exh-badge">Exhibit A</span><h2>The penalty ledger</h2><span class="exh-chevron" aria-hidden="true">▾</span></div><p class="exh-oneliner">8 penalties in 14 games since 2022 &mdash; five times what anyone else gets. A fair team does that about once in 2,200 tries.</p><div class="exh-body" id="exhibit-a-body">
   <p class="exh-lede">A penalty is the biggest call a referee makes. So count every one <strong>awarded</strong> —
   scored or missed doesn't matter; the whistle is the decision. From 1930 through 2018 — seventeen tournaments
   entered — Argentina got them at the normal rate. Bang average. Since 2022: <strong>8 penalties in 14 matches — five times the going
   rate.</strong> Top of the penalty count in both tournaments; nobody else managed more than 2. Given against
   them: two in 2022 (both in the final), none in 2026. The chance a fairly-treated team posts that run?
   <strong>About 1 in 2,200.</strong></p>
-  <div class="card" id="chart-pens"></div>
+  <div class="pens-lockup">
+    <aside class="pullstat">
+      <div class="ps-tag">Probability</div>
+      <div class="ps-sub">the chance it&#39;s just luck</div>
+      <div class="ps-num">1 <span class="in">in</span> 2,200</div>
+      <p class="ps-body">The odds a fairly-treated team wins penalties at Argentina&#39;s post-2022 rate by chance alone. Everywhere the officiating is easy to audit, the numbers stay ordinary.</p>
+    </aside>
+    <div class="card" id="chart-pens"></div>
+  </div>
   <div class="card" id="table-pen-eras"></div>
   <div class="card" id="table-pen-browser"></div>
   <div class="card" id="table-robustness"></div>
@@ -198,10 +328,9 @@ p + p { margin-top: 12px; }
   <div class="card" id="table-receipts"></div>
   <div class="card" id="table-impact"></div>
   <div class="card" id="table-cohort"></div>
-</section>
+</div></section>
 
-<section class="exhibit" id="exhibit-b">
-  <div class="exh-head"><span class="exh-badge">Exhibit B</span><h2>The VAR ledger</h2></div>
+<section class="exhibit collapsed" id="exhibit-b"><div class="exh-head" role="button" tabindex="0" aria-expanded="false" aria-controls="exhibit-b-body"><span class="exh-badge">Exhibit B</span><h2>The VAR ledger</h2><span class="exh-chevron" aria-hidden="true">▾</span></div><p class="exh-oneliner">VAR since 2018: eight overturns for Argentina, one against. In 2026 it was five&ndash;nil.</p><div class="exh-body" id="exhibit-b-body">
   <p class="exh-lede">Since the video referee arrived in 2018: <strong>eight overturns for Argentina, one
   against.</strong> In 2026 alone it's <strong>5–0</strong> — two opponent goals chalked off, two penalties given
   on review, one opponent sent off. The odds of a 5–0 split falling to one team by luck: <strong>about 1 in
@@ -216,10 +345,9 @@ p + p { margin-top: 12px; }
   Argentina's <b>9 recorded confirmed reviews in favour (2 against)</b> include four from the 2022 final alone —
   that's coverage, not treatment. Overturns are the one class recorded completely for every team, so overturns
   are the headline metric. The full confirmed-review record is below for transparency.</div>
-</section>
+</div></section>
 
-<section class="exhibit" id="exhibit-c">
-  <div class="exh-head"><span class="exh-badge">Exhibit C</span><h2>The 2022 card anomaly</h2></div>
+<section class="exhibit collapsed" id="exhibit-c"><div class="exh-head" role="button" tabindex="0" aria-expanded="false" aria-controls="exhibit-c-body"><span class="exh-badge">Exhibit C</span><h2>The 2022 card anomaly</h2><span class="exh-chevron" aria-hidden="true">▾</span></div><p class="exh-oneliner">In Qatar, Argentina&#39;s opponents were booked twice as often as anyone else&#39;s. A once-in-2,500 fluke &mdash; and it never happened before or since.</p><div class="exh-body" id="exhibit-c-body">
   <p class="exh-lede">One number jumps out of half a century of card data:
 opponents of Argentina in Qatar picked up <strong>3.7 yellows a match — double the tournament rate.</strong>
 We tested every team, every metric, every era since 1970. Hundreds of comparisons. This is the
@@ -236,10 +364,9 @@ It never happened before 2022. It didn't happen again in 2026.</p>
 and one referee — Mateu Lahoz, the Netherlands quarter-final — handed out a record stack to both sides.
 The cleaner read is the difference: <b>+9 cards in Argentina's favor across seven matches</b>, against
 dead-even over the previous thirty years.</div>
-</section>
+</div></section>
 
-<section class="exhibit" id="exhibit-refs">
-  <div class="exh-head"><span class="exh-badge">Exhibit D</span><h2>The referee carousel</h2></div>
+<section class="exhibit collapsed" id="exhibit-refs"><div class="exh-head" role="button" tabindex="0" aria-expanded="false" aria-controls="exhibit-refs-body"><span class="exh-badge">Exhibit D</span><h2>The referee carousel</h2><span class="exh-chevron" aria-hidden="true">▾</span></div><p class="exh-oneliner">One referee has taken Argentina four times, including the 2022 final. No ref&ndash;team pairing in World Cup history hits four.</p><div class="exh-body" id="exhibit-refs-body">
   <p class="exh-lede">Who gets given these games? Match crews have grown from three
 officials to eight — more judgment calls per match, more hands on the wheel. And one fact stands alone in 96
 years of appointments: <strong>Szymon Marciniak has refereed Argentina four times</strong> — the 2018 opener,
@@ -271,10 +398,9 @@ his own nation's game. But the European tilt is not a South American constant: s
 just as deep just as often. Part of that is elite referees working elite knockout rounds; the size of the gap
 over their own neighbors is the part the innocent explanation strains to cover. The pattern is fact. What it
 means, the data can't say.</div>
-</section>
+</div></section>
 
-<section class="exhibit" id="exhibit-draw">
-  <div class="exh-head"><span class="exh-badge">Exhibit E</span><h2>The draw</h2></div>
+<section class="exhibit collapsed" id="exhibit-draw"><div class="exh-head" role="button" tabindex="0" aria-expanded="false" aria-controls="exhibit-draw-body"><span class="exh-badge">Exhibit E</span><h2>The draw</h2><span class="exh-chevron" aria-hidden="true">▾</span></div><p class="exh-oneliner">Argentina&#39;s 2026 knockout road is the softest any contender has walked in this data &mdash; Cape Verde, Egypt, no top seed until the semi.</p><div class="exh-body" id="exhibit-draw-body">
   <p class="exh-lede">Favoritism can be baked in before kick-off — in who you're given to
 play. We scored every Argentina draw since 1930 three ways: opponents' ratings, their pots, their world
 rankings. The verdict cuts both ways. <strong>Group draws: soft for as long as records exist — no change at 2022.</strong>
@@ -292,10 +418,9 @@ brutal in hindsight (Netherlands, Croatia, France) was made hard by upsets, not 
 nasty draws came earlier: 1994 and 2018 both projected hardest-of-all. Footnotes: pot sums can't vary in a
 modern draw, so an "easy group" means drawing the weakest name in each pot; and third-place slotting means the
 2026 projection uses the realized skeleton (flagged in the methods note).</div>
-</section>
+</div></section>
 
-<section class="exhibit" id="exhibit-presidents">
-  <div class="exh-head"><span class="exh-badge">Exhibit F</span><h2>The presidents</h2></div>
+<section class="exhibit collapsed" id="exhibit-presidents"><div class="exh-head" role="button" tabindex="0" aria-expanded="false" aria-controls="exhibit-presidents-body"><span class="exh-badge">Exhibit F</span><h2>The presidents</h2><span class="exh-chevron" aria-hidden="true">▾</span></div><p class="exh-oneliner">Under Infantino: Argentina&#39;s best win rate ever, and penalties at five times the old figure.</p><div class="exh-body" id="exhibit-presidents-body">
   <p class="exh-lede">Three long reigns at FIFA. Under <strong>Havelange</strong>: two
 Argentina titles, penalty balance +0.06 a match. Under <strong>Blatter</strong>: one final, dead level. Under
 <strong>Infantino</strong>: Argentina's best win rate ever (78%), a title, a second final pending — and a
@@ -304,10 +429,9 @@ causation, and this squad is genuinely great. But this is also the era of the FB
 (below). The overlay earns its place.</p>
   <div class="card" id="chart-champions"></div>
   <div class="card" id="table-presidents"></div>
-</section>
+</div></section>
 
-<section class="exhibit" id="exhibit-tape">
-  <div class="exh-head"><span class="exh-badge">Exhibit G</span><h2>The tape</h2></div>
+<section class="exhibit collapsed" id="exhibit-tape"><div class="exh-head" role="button" tabindex="0" aria-expanded="false" aria-controls="exhibit-tape-body"><span class="exh-badge">Exhibit G</span><h2>The tape</h2><span class="exh-chevron" aria-hidden="true">▾</span></div><p class="exh-oneliner">26 disputed calls we could source: 17 went Argentina&#39;s way, 6 against, 3 a coin-flip.</p><div class="exh-body" id="exhibit-tape-body">
   <p class="exh-lede">Numbers argue; footage settles. Every disputed call in an Argentina World Cup
 match we could source — <strong>26 of them since 1930: 17 for Argentina, 6 against, 3 genuinely tossed up.</strong>
 Where an official clip exists, it's linked — FIFA's own channels, nothing pirated. Watch the Hand of God,
@@ -319,10 +443,9 @@ itself. 1966–2014 covers the famous cases. Before 1966 the record is thin; one
 Nine incidents have sources that genuinely disagree about the right call — those are marked disputed, not
 settled by us. <b>Community submissions go through the same bar</b>: every suggested moment is checked against
 footage and press before it joins the index, and verified entries are marked as community-sourced.</div>
-</section>
+</div></section>
 
-<section class="exhibit" id="exhibit-copa">
-  <div class="exh-head"><span class="exh-badge">Exhibit H</span><h2>The Copa control</h2></div>
+<section class="exhibit collapsed" id="exhibit-copa"><div class="exh-head" role="button" tabindex="0" aria-expanded="false" aria-controls="exhibit-copa-body"><span class="exh-badge">Exhibit H</span><h2>The Copa control</h2><span class="exh-chevron" aria-hidden="true">▾</span></div><p class="exh-oneliner">Same players, same era &mdash; at CONMEBOL&#39;s own Copa the penalty edge vanishes. It follows the tournament, not the team.</p><div class="exh-body" id="exhibit-copa-body">
   <p class="exh-lede">The cleanest test in the file. Same squad, same era, same Messi — two
 organizers. In CONMEBOL's Copa América, which Argentina keep winning, their penalty rate is <strong>bang normal
 five editions running</strong>: 1.1x, 0.0x, 0.7x, 1.2x, 1.1x. In FIFA's World Cup since 2022:
@@ -335,10 +458,9 @@ the data notes — penalty counts are sturdier); the 2021 fouls table survives o
 and CONMEBOL has its own rows — Chile formally complained about the refereeing in their 2024 match
 <em>against</em> Argentina. The claim here is narrow: the World Cup penalty anomaly does not travel to the Copa.
 Argentina's dominance does. That's the point — they don't need the anomaly to win.</div>
-</section>
+</div></section>
 
-<section class="exhibit" id="exhibit-whistle">
-  <div class="exh-head"><span class="exh-badge">Exhibit I</span><h2>The whistle study</h2></div>
+<section class="exhibit collapsed" id="exhibit-whistle"><div class="exh-head" role="button" tabindex="0" aria-expanded="false" aria-controls="exhibit-whistle-body"><span class="exh-badge">Exhibit I</span><h2>The whistle study</h2><span class="exh-chevron" aria-hidden="true">▾</span></div><p class="exh-oneliner">If refs swallowed the whistle for Argentina, their players would give away fewer fouls. They give away more.</p><div class="exh-body" id="exhibit-whistle-body">
   <p class="exh-lede">828 players. Six tournaments. Every tackle, every whistle. If
 referees swallow whistles for Argentina, two things must show: their players give away fewer fouls per tackle
 than everyone else, and the same men get softer treatment at World Cups than at the Copa.
@@ -362,10 +484,9 @@ for all six tournaments, and nothing player-level exists before 2018. A referee 
 off-ball holds is invisible here — only the tape reaches those. But inside everything measurable, this is the
 fourth straight all-clear on routine officiating. Whatever is happening to Argentina at World Cups, it isn't
 happening at the level of ordinary tackles and fouls.</div>
-</section>
+</div></section>
 
-<section class="exhibit" id="exhibit-verdict">
-  <div class="exh-head"><span class="exh-badge">Verdict</span><h2>So — are Argentina getting helped?</h2></div>
+<section class="exhibit verdict-band collapsed" id="exhibit-verdict"><div class="exh-head" role="button" tabindex="0" aria-expanded="false" aria-controls="exhibit-verdict-body"><span class="exh-badge">Verdict</span><h2>So — are Argentina getting helped?</h2><span class="exh-chevron" aria-hidden="true">▾</span></div><p class="exh-oneliner">The two calls a referee most controls &mdash; penalties and VAR &mdash; swung to Argentina like never before. Everything a camera can double-check stayed normal.</p><div class="exh-body" id="exhibit-verdict-body">
   <p class="exh-lede">Nine exhibits, three World Cups under the microscope. Here is where each one lands,
   and then the only conclusion the numbers support.</p>
   <div class="card" id="table-verdict"></div>
@@ -386,10 +507,9 @@ happening at the level of ordinary tackles and fouls.</div>
   so), who is responsible, or why. The FBI's investigation of their federation remains an unproven allegation.
   If refereeing were a betting market, Argentina's post-2022 numbers are the pattern that gets an account
   suspended pending review. That is the claim — no more, and no less. The final is tomorrow.</div>
-</section>
+</div></section>
 
-<section class="exhibit" id="exhibit-money">
-  <div class="exh-head"><span class="exh-badge">Context</span><h2>The money, alleged</h2></div>
+<section class="exhibit collapsed" id="exhibit-money"><div class="exh-head" role="button" tabindex="0" aria-expanded="false" aria-controls="exhibit-money-body"><span class="exh-badge">Context</span><h2>The money, alleged</h2><span class="exh-chevron" aria-hidden="true">▾</span></div><p class="exh-oneliner">Alongside it all, reported not proven: the FBI is investigating Argentina&#39;s FA over $300m moved through US banks. Nobody has been charged.</p><div class="exh-body" id="exhibit-money-body">
   <p class="exh-lede">Running alongside all of this — reported, not proven:
 <strong>the FBI is investigating Argentina's football association</strong> over more than $300&nbsp;million
 moved through US banks via a Florida agent appointed months before Qatar 2022 — including FIFA's €42M in prize
@@ -402,10 +522,9 @@ they stand in front of.</p>
     <li><a href="https://www.forbes.com/sites/conormurray/2026/07/15/fifas-princess-why-some-accuse-fifa-of-favoring-lionel-messi-in-world-cup/">Forbes — Why some accuse FIFA of favoring Argentina ahead of the World Cup final</a></li>
     <li><a href="https://www.insideworldsoccer.com/2026/07/fbi-probe-argentina-fa-fifa-corruption-romain-molina.html">Inside World Soccer — FBI probe into Argentina FA sparks fresh FIFA corruption allegations</a></li>
   </ul>
-</section>
+</div></section>
 
-<section class="exhibit" id="method">
-  <div class="exh-head"><span class="exh-badge">Method</span><h2>How to read this dossier</h2></div>
+<section class="exhibit collapsed" id="method"><div class="exh-head" role="button" tabindex="0" aria-expanded="false" aria-controls="method-body"><span class="exh-badge">Method</span><h2>How to read this dossier</h2><span class="exh-chevron" aria-hidden="true">▾</span></div><p class="exh-oneliner">We count the referee&#39;s decisions, never the players&#39; finishing. A penalty counts when it&#39;s given, not when it&#39;s scored.</p><div class="exh-body" id="method-body">
   <div class="exh-lede">
     <h3 class="subhead">What we count</h3>
     <p>Referee decisions. Never player execution. A penalty counts when it's given, not when it's scored —
@@ -431,12 +550,52 @@ they stand in front of.</p>
     that never got given appears in no spreadsheet — only the tape reaches those. And a statistical pattern,
     however loud, tells you <em>that</em> something is off — never, on its own, <em>who</em> or <em>why</em>.</p>
   </div>
-</section>
+</div></section>
 
 </div>
 <footer><div class="wrap" id="foot"></div></footer>
 <div id="tip" role="tooltip"></div>
 <script src="data.js?v=1784337503"></script>
 <script src="app.js?v=1784337503"></script>
+<script>
+(function(){
+  var links=[].slice.call(document.querySelectorAll('.nav-jump a'));
+  var map={};links.forEach(function(a){var id=a.getAttribute('href').slice(1);if(id)map[id]=a;});
+  var secs=Object.keys(map).map(function(id){return document.getElementById(id);}).filter(Boolean);
+  if('IntersectionObserver' in window && secs.length){
+    var io=new IntersectionObserver(function(es){es.forEach(function(e){
+      if(e.isIntersecting){Object.keys(map).forEach(function(k){map[k].classList.remove('on');});
+        if(map[e.target.id])map[e.target.id].classList.add('on');}});},
+      {rootMargin:'-45% 0px -50% 0px',threshold:0});
+    secs.forEach(function(t){io.observe(t);});
+  }
+})();
+</script>
+<script>
+(function(){
+  function setOpen(sec, open){
+    var head = sec.querySelector('.exh-head');
+    if(open){ sec.classList.remove('collapsed'); } else { sec.classList.add('collapsed'); }
+    if(head) head.setAttribute('aria-expanded', String(open));
+  }
+  document.querySelectorAll('.exhibit').forEach(function(sec){
+    var head = sec.querySelector('.exh-head');
+    var one = sec.querySelector('.exh-oneliner');
+    function toggle(){ setOpen(sec, sec.classList.contains('collapsed')); }
+    if(head){
+      head.addEventListener('click', toggle);
+      head.addEventListener('keydown', function(e){ if(e.key==='Enter'||e.key===' '){ e.preventDefault(); toggle(); }});
+    }
+    if(one){ one.addEventListener('click', toggle); }
+  });
+  /* jumping to an exhibit from the nav (or any hash link) opens it */
+  function openTarget(id){ var el=document.getElementById(id); if(el && el.classList.contains('exhibit')) setOpen(el, true); }
+  document.querySelectorAll('.nav-jump a, a[href^="#exhibit-"], a[href="#method"]').forEach(function(a){
+    a.addEventListener('click', function(){ var id=a.getAttribute('href').slice(1); openTarget(id);
+      var el=document.getElementById(id); if(el){ setTimeout(function(){ el.scrollIntoView({behavior:'smooth',block:'start'}); }, 10); } });
+  });
+  if(location.hash){ openTarget(location.hash.slice(1)); }
+})();
+</script>
 </body>
 </html>
