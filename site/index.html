@@ -214,13 +214,13 @@ footer a{color:var(--arg);border-bottom:1px solid color-mix(in srgb,var(--arg) 4
 p + p{margin-top:12px}
 
 /* ===================== ACCORDION / ONE-LINERS ===================== */
-.exh-head{cursor:pointer;user-select:none;transition:color .15s}
+.exh-head{cursor:pointer;user-select:none;touch-action:manipulation;transition:color .15s}
 .exh-head:hover h2{color:var(--arg)}
 .exh-chevron{margin-left:auto;flex:0 0 auto;font-family:var(--mono);color:var(--muted);font-size:1.1rem;line-height:1;transition:transform .25s,color .15s}
 .exh-head:hover .exh-chevron{color:var(--arg)}
 .exhibit.collapsed .exh-chevron{transform:rotate(-90deg)}
 .exh-oneliner{font-family:var(--serif);font-weight:900;font-size:clamp(1.08rem,1.7vw,1.42rem);line-height:1.32;
-  color:var(--ink);margin:14px 0 0;max-width:62ch;cursor:pointer}
+  color:var(--ink);margin:14px 0 0;max-width:62ch;cursor:pointer;touch-action:manipulation}
 .exh-body{overflow:hidden}
 .exhibit.collapsed .exh-body{max-height:0;visibility:hidden;opacity:0;margin:0;pointer-events:none}
 .exhibit:not(.collapsed) .exh-body{max-height:none;visibility:visible;opacity:1}
@@ -481,15 +481,37 @@ footage and press before it joins the index, and verified entries are marked as 
     if(open){ sec.classList.remove('collapsed'); } else { sec.classList.add('collapsed'); }
     if(head) head.setAttribute('aria-expanded', String(open));
   }
+  /* Bind a toggle that works for mouse, keyboard AND touch. A plain <div>
+     tap does not reliably fire 'click' on mobile, so handle touchend too
+     (with tap-vs-scroll detection) and swallow the follow-up ghost click. */
+  function bindToggle(el, sec){
+    if(!el) return;
+    var touched = false, moved = false, sx = 0, sy = 0;
+    el.addEventListener('touchstart', function(e){
+      moved = false;
+      if(e.touches && e.touches[0]){ sx = e.touches[0].clientX; sy = e.touches[0].clientY; }
+    }, {passive:true});
+    el.addEventListener('touchmove', function(e){
+      if(e.touches && e.touches[0] && (Math.abs(e.touches[0].clientX - sx) > 10 || Math.abs(e.touches[0].clientY - sy) > 10)) moved = true;
+    }, {passive:true});
+    el.addEventListener('touchend', function(){
+      if(moved) return;
+      touched = true;
+      setOpen(sec, sec.classList.contains('collapsed'));
+      setTimeout(function(){ touched = false; }, 500);
+    }, {passive:true});
+    el.addEventListener('click', function(){
+      if(touched) return;   /* ignore the synthetic click that follows a real tap */
+      setOpen(sec, sec.classList.contains('collapsed'));
+    });
+  }
   document.querySelectorAll('.exhibit').forEach(function(sec){
     var head = sec.querySelector('.exh-head');
-    var one = sec.querySelector('.exh-oneliner');
-    function toggle(){ setOpen(sec, sec.classList.contains('collapsed')); }
+    bindToggle(head, sec);
+    bindToggle(sec.querySelector('.exh-oneliner'), sec);
     if(head){
-      head.addEventListener('click', toggle);
-      head.addEventListener('keydown', function(e){ if(e.key==='Enter'||e.key===' '){ e.preventDefault(); toggle(); }});
+      head.addEventListener('keydown', function(e){ if(e.key==='Enter'||e.key===' '){ e.preventDefault(); setOpen(sec, sec.classList.contains('collapsed')); }});
     }
-    if(one){ one.addEventListener('click', toggle); }
   });
   /* jumping to an exhibit from the nav (or any hash link) opens it */
   function openTarget(id){ var el=document.getElementById(id); if(el && el.classList.contains('exhibit')) setOpen(el, true); }
