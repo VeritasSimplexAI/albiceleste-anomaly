@@ -185,7 +185,7 @@ function pensByTournament() {
   $("#mastmeta").innerHTML =
     `<span><a href="https://github.com/VeritasSimplexAI/albiceleste-anomaly" target="_blank" rel="noopener" style="color:var(--arg);text-decoration:none;border-bottom:1px solid color-mix(in srgb, var(--arg) 40%, transparent)"><b>Open source</b> — all data &amp; code on GitHub</a></span>` +
     `<span><b>${D.team_tournament.length.toLocaleString()}</b> team-tournament records, 1930–2022</span>` +
-    `<span><b>102</b> matches of 2026 compiled (final pending)</span>` +
+    `<span><b>102</b> matches of 2026 compiled</span>` +
     `<span><b>${nInc}</b> penalties individually source-verified</span>` +
     `<span><b>86</b> directional VAR overturns, 2018–2026</span>`;
 })();
@@ -197,7 +197,7 @@ function pensByTournament() {
     t("hero", "Penalty awards vs field, since 2022", "5.0×", "8 in 14 matches · ≈ 1 in 2,200 by chance") +
     t("", "Same team, 1930–2018", "1.0×", "92 years bang average — the control") +
     t("", "VAR overturns, since 2018", "8–1", "for Argentina · 5–0 in 2026 (≈ 1 in 100)") +
-    t("hero", "Same team, Copa América", "1.1×", "CONMEBOL's tournament — the anomaly follows the organizer") +
+    t("hero", "Same team, Copa América", "1.1×", "CONMEBOL's own cup — the edge follows the tournament, not the team") +
     t("", "2022 title run vs its rating", "−0.72", "the only champion since 1990 to win BELOW its Elo") +
     t("", "Marciniak × Argentina", "4", "the only 4-match referee pairing in 96 years — incl. the 2022 final");
 })();
