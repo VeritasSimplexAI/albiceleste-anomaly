@@ -1682,3 +1682,81 @@ function cardTableRows() {
 }
 render();
 })();
+
+/* ---------- nav scroll-spy + collapsible exhibits ----------
+   Lives here (external, served from 'self') so it satisfies the site's
+   Content-Security-Policy `script-src 'self'`, which blocks inline <script>. */
+(function () {
+  "use strict";
+  /* scroll-spy: highlight the nav link for the section in view */
+  var links = {};
+  document.querySelectorAll(".nav-jump a").forEach(function (a) {
+    var id = a.getAttribute("href").slice(1); if (id) links[id] = a;
+  });
+  var targets = Object.keys(links)
+    .map(function (id) { return document.getElementById(id); })
+    .filter(Boolean);
+  if ("IntersectionObserver" in window && targets.length) {
+    var io = new IntersectionObserver(function (es) {
+      es.forEach(function (e) {
+        if (e.isIntersecting) {
+          Object.keys(links).forEach(function (k) { links[k].classList.remove("on"); });
+          if (links[e.target.id]) links[e.target.id].classList.add("on");
+        }
+      });
+    }, { rootMargin: "-45% 0px -50% 0px", threshold: 0 });
+    targets.forEach(function (t) { io.observe(t); });
+  }
+
+  /* collapsible exhibits */
+  function setOpen(sec, open) {
+    var head = sec.querySelector(".exh-head");
+    if (open) { sec.classList.remove("collapsed"); } else { sec.classList.add("collapsed"); }
+    if (head) head.setAttribute("aria-expanded", String(open));
+  }
+  /* Works for mouse, keyboard AND touch. A <div> tap does not reliably fire
+     'click' on mobile, so handle touchend too (tap-vs-scroll detection) and
+     swallow the follow-up ghost click. */
+  function bindToggle(el, sec) {
+    if (!el) return;
+    var touched = false, moved = false, sx = 0, sy = 0;
+    el.addEventListener("touchstart", function (e) {
+      moved = false;
+      if (e.touches && e.touches[0]) { sx = e.touches[0].clientX; sy = e.touches[0].clientY; }
+    }, { passive: true });
+    el.addEventListener("touchmove", function (e) {
+      if (e.touches && e.touches[0] && (Math.abs(e.touches[0].clientX - sx) > 10 || Math.abs(e.touches[0].clientY - sy) > 10)) moved = true;
+    }, { passive: true });
+    el.addEventListener("touchend", function () {
+      if (moved) return;
+      touched = true;
+      setOpen(sec, sec.classList.contains("collapsed"));
+      setTimeout(function () { touched = false; }, 500);
+    }, { passive: true });
+    el.addEventListener("click", function () {
+      if (touched) return;
+      setOpen(sec, sec.classList.contains("collapsed"));
+    });
+  }
+  document.querySelectorAll(".exhibit").forEach(function (sec) {
+    var head = sec.querySelector(".exh-head");
+    bindToggle(head, sec);
+    bindToggle(sec.querySelector(".exh-oneliner"), sec);
+    if (head) {
+      head.addEventListener("keydown", function (e) {
+        if (e.key === "Enter" || e.key === " ") { e.preventDefault(); setOpen(sec, sec.classList.contains("collapsed")); }
+      });
+    }
+  });
+
+  /* jumping to an exhibit from the nav (or any hash link) opens it */
+  function openTarget(id) { var el = document.getElementById(id); if (el && el.classList.contains("exhibit")) setOpen(el, true); }
+  document.querySelectorAll('.nav-jump a, a[href^="#exhibit-"], a[href="#method"]').forEach(function (a) {
+    a.addEventListener("click", function () {
+      var id = a.getAttribute("href").slice(1); openTarget(id);
+      var el = document.getElementById(id);
+      if (el) { setTimeout(function () { el.scrollIntoView({ behavior: "smooth", block: "start" }); }, 10); }
+    });
+  });
+  if (location.hash) { openTarget(location.hash.slice(1)); }
+})();
